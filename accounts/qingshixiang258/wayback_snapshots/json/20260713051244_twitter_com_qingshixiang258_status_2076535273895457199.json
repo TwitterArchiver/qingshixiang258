@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2076534864137068626",
+    "created_at": "2026-07-13T05:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076535273895457199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1276439083120619520",
+          "start": 0,
+          "username": "123_imomiruku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076535273895457199",
+    "in_reply_to_user_id": "1276439083120619520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076534864137068626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123_imomiruku ohno，姐姐注意休息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2076534602638974976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFVOBoaYAAw0WN.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2076534864137068626",
+        "created_at": "2026-07-13T05:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076535273895457199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1276439083120619520",
+              "start": 0,
+              "username": "123_imomiruku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076535273895457199",
+        "in_reply_to_user_id": "1276439083120619520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076534864137068626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123_imomiruku ohno，姐姐注意休息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076534602638974976"
+          ]
+        },
+        "author_id": "1276439083120619520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076534864137068626",
+        "created_at": "2026-07-13T05:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076534864137068626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YecuJ4TXdI",
+              "end": 31,
+              "expanded_url": "https://x.com/123_imomiruku/status/2076534864137068626/photo/1",
+              "media_key": "3_2076534602638974976",
+              "start": 8,
+              "url": "https://t.co/YecuJ4TXdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076534864137068626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午餐\n忙到現在 https://t.co/YecuJ4TXdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1683,
+          "like_count": 44573,
+          "listed_count": 10,
+          "media_count": 1347,
+          "tweet_count": 21388
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T08:56:59.000Z",
+        "description": "台湾 🇹🇼  / 放射線学修士 / 本を読むことが大好き/ 日本語は少しできる/ ハムスター、ラッコ 大好き 🐹 🦦🦦 /",
+        "id": "1276439083120619520",
+        "location": "台湾🇹🇼",
+        "name": "チャミ",
+        "pinned_tweet_id": "2067290493369872396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014972885509558272/8FxXyKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 693,
+          "like_count": 127984,
+          "listed_count": 3,
+          "media_count": 2149,
+          "tweet_count": 60965
+        },
+        "url": "",
+        "username": "123_imomiruku",
+        "verified": false
+      }
+    ]
+  }
+}

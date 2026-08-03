@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2047399575670186280",
+    "created_at": "2026-04-24T02:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T03:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047496183309021651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778616836214439936",
+          "start": 0,
+          "username": "H20_chemistry_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047496183309021651",
+    "in_reply_to_user_id": "1778616836214439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047399575670186280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H20_chemistry_x 哎，祝你们顺利吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2047399575670186280",
+        "created_at": "2026-04-24T02:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047496183309021651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778616836214439936",
+              "start": 0,
+              "username": "H20_chemistry_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047496183309021651",
+        "in_reply_to_user_id": "1778616836214439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047399575670186280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H20_chemistry_x 哎，祝你们顺利吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778616836214439936",
+        "conversation_id": "2047399575670186280",
+        "created_at": "2026-04-23T19:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T20:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047399575670186280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/H20_chemistry_…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/H20_chemistry_x/status/2047398291714060414",
+              "start": 141,
+              "url": "https://t.co/zlz9Q8bEAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047399575670186280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 435,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047398291714060414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之后是最近发生的事情\n他的单招录取结果下来了，现在她想去北京看医生开小证了\n我爸则是很担心他上大学以后的精神状态，会不会被同学背后议论这样子\n之后我弟弟又开始了\n其实从我的角度来看来讲我是不太希望我弟弟去开证的目前，因为很简单，家里人已经没有办法去支持他在大学时期去做srs手术了 https://t.co/zlz9Q8bEAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青·太祖·石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 1634,
+          "like_count": 39495,
+          "listed_count": 9,
+          "media_count": 1195,
+          "tweet_count": 19524
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/日本語を勉強中/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010329620286193664/P18zuZhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1906,
+          "like_count": 42480,
+          "listed_count": 3,
+          "media_count": 1018,
+          "tweet_count": 13078
+        },
+        "username": "H20_chemistry_x",
+        "verified": false
+      }
+    ]
+  }
+}

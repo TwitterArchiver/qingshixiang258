@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1978509804562780378",
+    "created_at": "2025-10-16T05:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978698155421053342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604403718245711872",
+          "start": 0,
+          "username": "YoYoIsSuccubus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978698155421053342",
+    "in_reply_to_user_id": "1604403718245711872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978509804562780378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoYoIsSuccubus 加油更新（比划"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1978509804562780378",
+        "created_at": "2025-10-16T05:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978698155421053342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604403718245711872",
+              "start": 0,
+              "username": "YoYoIsSuccubus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978698155421053342",
+        "in_reply_to_user_id": "1604403718245711872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978509804562780378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoYoIsSuccubus 加油更新（比划"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604403718245711872",
+        "conversation_id": "1978509804562780378",
+        "created_at": "2025-10-15T17:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T18:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978509804562780378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978509804562780378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要有人看我的帖子我就会想尽办法更新的（确信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1369,
+          "like_count": 31917,
+          "listed_count": 7,
+          "media_count": 857,
+          "tweet_count": 14327
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T09:10:45.000Z",
+        "description": "加区留子，INFJ，微社恐｜异性恋，炫压抑，brat，想色色又不想色色｜情绪稳定，喜欢小猫｜和某个同样可怜的高三复读生冲刺最后一年",
+        "id": "1604403718245711872",
+        "name": "YoYo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825093663023681536/Zl_IKqkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 190,
+          "like_count": 3884,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 315
+        },
+        "username": "YoYoIsSuccubus",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2061339150511735261",
+    "created_at": "2026-06-01T06:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061339150511735261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qingshixiang25…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/qingshixiang258/status/2061339056831873415",
+          "start": 12,
+          "url": "https://t.co/7H7ZIXZeRk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061339150511735261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061339056831873415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真心就那么被扔一地捏 https://t.co/7H7ZIXZeRk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2061339150511735261",
+        "created_at": "2026-06-01T06:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061339150511735261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/2061339056831873415",
+              "start": 12,
+              "url": "https://t.co/7H7ZIXZeRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061339150511735261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061339056831873415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真心就那么被扔一地捏 https://t.co/7H7ZIXZeRk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2061339056831873415",
+        "created_at": "2026-06-01T06:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061339056831873415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061339056831873415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得前几个月，有一个家伙聊了几天上来死缠烂打就要加我qq，加上之后聊了没多久有一天突然说自己被强奸了，给我急死了，让他赶紧报警巴拉巴拉的，然后过了一会说骗我的，那是他男朋友。我有点生气没理他，他看我不理他把我单取了，绷不住了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1684,
+          "like_count": 42123,
+          "listed_count": 10,
+          "media_count": 1276,
+          "tweet_count": 20628
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

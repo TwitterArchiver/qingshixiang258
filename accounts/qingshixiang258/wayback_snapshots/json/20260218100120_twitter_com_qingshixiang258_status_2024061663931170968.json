@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2023953629565141395",
+    "created_at": "2026-02-18T10:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024061663931170968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786491269079810050",
+          "start": 0,
+          "username": "Chuan_zi28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024061663931170968",
+    "in_reply_to_user_id": "1786491269079810050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023953629565141395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuan_zi28 这种一般在国内不过日子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2023953629565141395",
+        "created_at": "2026-02-18T10:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024061663931170968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786491269079810050",
+              "start": 0,
+              "username": "Chuan_zi28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024061663931170968",
+        "in_reply_to_user_id": "1786491269079810050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023953629565141395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuan_zi28 这种一般在国内不过日子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786491269079810050",
+        "conversation_id": "2023953629565141395",
+        "created_at": "2026-02-18T02:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023953629565141395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/2023789939851423776",
+              "start": 17,
+              "url": "https://t.co/DtAebyEu0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023953629565141395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023789939851423776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种在国内日子过的可比粉蛆惨多了 https://t.co/DtAebyEu0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 1437,
+          "like_count": 36946,
+          "listed_count": 8,
+          "media_count": 1070,
+          "tweet_count": 17533
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T20:21:36.000Z",
+        "description": "北海道味噌ラーメン is good\n東京ラーメン is bad",
+        "id": "1786491269079810050",
+        "location": "上海都徐匯区大小木橋本町",
+        "name": "媛媛子 川",
+        "pinned_tweet_id": "1799845264502690236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797670145093177344/4qwNIEGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 6329,
+          "like_count": 119703,
+          "listed_count": 5,
+          "media_count": 1064,
+          "tweet_count": 84345
+        },
+        "username": "Chuan_zi28",
+        "verified": false
+      }
+    ]
+  }
+}

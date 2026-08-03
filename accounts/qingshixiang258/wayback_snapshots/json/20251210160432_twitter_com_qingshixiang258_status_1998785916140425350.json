@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1998749316916408494",
+    "created_at": "2025-12-10T16:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T17:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998785916140425350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883724954468057088",
+          "start": 0,
+          "username": "Itis_pft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998785916140425350",
+    "in_reply_to_user_id": "1883724954468057088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998782297789919654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Itis_pft 最喜欢转什么样的帖子？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1998749316916408494",
+        "created_at": "2025-12-10T16:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998785916140425350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883724954468057088",
+              "start": 0,
+              "username": "Itis_pft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998785916140425350",
+        "in_reply_to_user_id": "1883724954468057088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998782297789919654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Itis_pft 最喜欢转什么样的帖子？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883724954468057088",
+        "conversation_id": "1998749316916408494",
+        "created_at": "2025-12-10T15:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998782297789919654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998782297789919654",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998749316916408494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 评，评，评，评……论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998367186075922432/8djgDaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1483,
+          "like_count": 35136,
+          "listed_count": 9,
+          "media_count": 962,
+          "tweet_count": 15882
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T03:54:22.000Z",
+        "description": "可能是某人的另一个账户？无所谓吧？\n政治派别我从不站，帽子太高我戴不起\n不避讳任何话题，但并不讨论不感兴趣的东西【至于我说的话，真假自辩\n（简介中第2.3条绝对为真）】",
+        "id": "1883724954468057088",
+        "location": "无法被定义，甚至可能根本不存在的宫殿",
+        "name": "百变小丑帕霏特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998573357516861442/MjnaF3nC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 776,
+          "like_count": 10434,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 7733
+        },
+        "username": "Itis_pft",
+        "verified": false
+      }
+    ]
+  }
+}

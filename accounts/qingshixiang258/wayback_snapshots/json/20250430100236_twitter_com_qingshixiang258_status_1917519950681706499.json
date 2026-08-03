@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1917513446603776017",
+    "created_at": "2025-04-30T10:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T11:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917519950681706499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802674143030374400",
+          "start": 0,
+          "username": "Mikhail_712"
+        },
+        {
+          "end": 27,
+          "id": "1818731995310309376",
+          "start": 13,
+          "username": "MOLeren198964"
+        },
+        {
+          "end": 39,
+          "id": "1803639221556748289",
+          "start": 28,
+          "username": "Haruhi_LAP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917519950681706499",
+    "in_reply_to_user_id": "1802674143030374400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917513446603776017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikhail_712 @MOLeren198964 @Haruhi_LAP oh～介意给我一小米粒大小的江南水乡么🫶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917513446603776017].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917513446603776017",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917513446603776017"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1917513446603776017",
+        "created_at": "2025-04-30T10:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T11:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917519950681706499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802674143030374400",
+              "start": 0,
+              "username": "Mikhail_712"
+            },
+            {
+              "end": 27,
+              "id": "1818731995310309376",
+              "start": 13,
+              "username": "MOLeren198964"
+            },
+            {
+              "end": 39,
+              "id": "1803639221556748289",
+              "start": 28,
+              "username": "Haruhi_LAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917519950681706499",
+        "in_reply_to_user_id": "1802674143030374400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917513446603776017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikhail_712 @MOLeren198964 @Haruhi_LAP oh～介意给我一小米粒大小的江南水乡么🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "不吃青石巷（考研版）🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916284947746459648/Fmz_BBPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 866,
+          "like_count": 18077,
+          "listed_count": 5,
+          "media_count": 306,
+          "tweet_count": 8018
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T12:06:44.000Z",
+        "description": "米沙好，世界坏！\n@misa2333qwq|可以叫「米沙」的啦～\n中文|日本語|拒极端壬\n欢迎好友友——！qwq\n性奴@baojiangdilei @enosima_asahi可爱主人@qHanTinp|互fo联系我！\n可爱|详见置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "misa2333qwq"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "baojiangdilei"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "enosima_asahi"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "qHanTinp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikhail_7121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikhail_7121",
+                "start": 0,
+                "url": "https://t.co/VW9vsBPqMf"
+              }
+            ]
+          }
+        },
+        "id": "1802674143030374400",
+        "location": "米哈伊尔无限逃避责任很有限公司",
+        "name": "【半退推】Mikhailのパイプオルガン🎏🏳️",
+        "pinned_tweet_id": "1901260705141334286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912879585081139201/2Nly1bpT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 958,
+          "like_count": 7916,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 2574
+        },
+        "url": "https://t.co/VW9vsBPqMf",
+        "username": "Mikhail_712",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "不熟：@isaactan8964 小号：@Moleren114514 主人🥺：@5mRtist姐姐：@IAmTheSolipsism想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @my0790042212731",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "isaactan8964"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "Moleren114514"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "5mRtist"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "IAmTheSolipsism"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "ShadowlessmoonR"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "my0790042212731"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "ㄇㄌㄖ蘋果汁",
+        "pinned_tweet_id": "1907810174527852850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 1868,
+          "like_count": 120556,
+          "listed_count": 11,
+          "media_count": 941,
+          "tweet_count": 20320
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:02:57.000Z",
+        "description": "双相 / 阿斯伯格 / 已出柜含糖MTF / 家长无奈党 / ACGN爱好者-永远的Otaku / 马列毛主义者-暴力革命 / INTP 5w4 / 性别不重要,有爱就好了(已有恋人) / 希望可以被用“她”来提及(拜托了,这对我很重要) / 互fo/ 永远也最好的姐姐们: @A_Asystem\n@qHanTinp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 158,
+                "start": 149,
+                "username": "qHanTinp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haruhi_lap1/",
+                "end": 23,
+                "expanded_url": "http://ngl.link/haruhi_lap1/",
+                "start": 0,
+                "url": "https://t.co/OPnMobvPHG"
+              }
+            ]
+          }
+        },
+        "id": "1803639221556748289",
+        "location": "神々が恋した幻想郷",
+        "name": "Haruhi🏳️‍⚧️",
+        "pinned_tweet_id": "1898779605944918090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913010708566188032/NHpt_zrp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 245,
+          "like_count": 4689,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/OPnMobvPHG",
+        "username": "Haruhi_LAP",
+        "verified": false
+      }
+    ]
+  }
+}

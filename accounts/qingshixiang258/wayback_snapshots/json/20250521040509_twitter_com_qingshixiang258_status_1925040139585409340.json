@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1924868666585129389",
+    "created_at": "2025-05-21T04:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T05:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925040139585409340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597025711130230784",
+          "start": 0,
+          "username": "Xunuo_yeah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925040139585409340",
+    "in_reply_to_user_id": "1597025711130230784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925039003616837803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xunuo_yeah 是啊，主动给予是可以的，但是频繁的主动索取还理所应当就不对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1924868666585129389",
+        "created_at": "2025-05-21T04:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925040139585409340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597025711130230784",
+              "start": 0,
+              "username": "Xunuo_yeah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925040139585409340",
+        "in_reply_to_user_id": "1597025711130230784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925039003616837803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xunuo_yeah 是啊，主动给予是可以的，但是频繁的主动索取还理所应当就不对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597025711130230784",
+        "conversation_id": "1924868666585129389",
+        "created_at": "2025-05-21T04:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925039003616837803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925039003616837803",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924868666585129389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我给女朋友主动花钱，我喜欢给她买东西我觉得开心，但她同样也会给我买很多东西，爱是相互的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 976,
+          "like_count": 20901,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 9112
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T00:33:13.000Z",
+        "description": "東京やすみなさい    https://t.co/PFcjcEqHvQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/nuoyan233",
+                "end": 35,
+                "expanded_url": "https://t.me/nuoyan233",
+                "start": 12,
+                "url": "https://t.co/PFcjcEqHvQ"
+              }
+            ]
+          }
+        },
+        "id": "1597025711130230784",
+        "location": "距离你0.01m",
+        "name": "Xunuo_yeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922905088236093440/YWrilfS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 162,
+          "like_count": 2214,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 675
+        },
+        "username": "Xunuo_yeah",
+        "verified": false
+      }
+    ]
+  }
+}

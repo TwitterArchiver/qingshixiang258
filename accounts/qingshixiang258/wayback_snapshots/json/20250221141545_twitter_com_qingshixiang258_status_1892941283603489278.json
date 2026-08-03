@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1892938060398023001",
+    "created_at": "2025-02-21T14:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T15:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892941283603489278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762820280035250176",
+          "start": 0,
+          "username": "Ocelo8964"
+        },
+        {
+          "end": 26,
+          "id": "1770060314467565568",
+          "start": 11,
+          "username": "VERA_M1E3_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892941283603489278",
+    "in_reply_to_user_id": "1762820280035250176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892940853112709428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ocelo8964 @VERA_M1E3_8964 我也把豹猫盒了😈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1892940853112709428].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1892940853112709428",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1892940853112709428"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1892938060398023001",
+        "created_at": "2025-02-21T14:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T15:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892941283603489278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762820280035250176",
+              "start": 0,
+              "username": "Ocelo8964"
+            },
+            {
+              "end": 26,
+              "id": "1770060314467565568",
+              "start": 11,
+              "username": "VERA_M1E3_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892941283603489278",
+        "in_reply_to_user_id": "1762820280035250176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892940853112709428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ocelo8964 @VERA_M1E3_8964 我也把豹猫盒了😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 856,
+          "like_count": 9379,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 3773
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T12:41:36.000Z",
+        "description": "ENFP-T｜Bilingualism: Chinese🇹🇼&English🇺🇸 To china,may freedom reign! Authoritarian rulers aren’t able to control liberal citizen\n民主万岁！被极权与威权迫害的烈士万岁！",
+        "id": "1762820280035250176",
+        "location": "IP地址：梁家河",
+        "name": "豹猫🇺🇸🇹🇼☮️",
+        "pinned_tweet_id": "1889150595384434831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 371,
+          "like_count": 6932,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 3693
+        },
+        "username": "Ocelo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T12:10:49.000Z",
+        "description": "#FuckIslam #FuckHamas #FuckPalestine #AmIsraelChai #FuckNazi #FuckEU  #FuckUN  American Patriot. IN GOD WE TRUST. DIGNITY, SOVEREIGNTY, BLOOD. \nNever neutral!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "FuckIslam"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "tag": "FuckHamas"
+              },
+              {
+                "end": 36,
+                "start": 22,
+                "tag": "FuckPalestine"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "tag": "AmIsraelChai"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "tag": "FuckNazi"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "FuckEU"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "FuckUN"
+              }
+            ]
+          }
+        },
+        "id": "1770060314467565568",
+        "location": "尊严，主权与鲜血",
+        "name": "ICARUS 伊卡洛斯 🇺🇸🇮🇱",
+        "pinned_tweet_id": "1892819871836360960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886946251356430336/0LdGowCc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 389,
+          "like_count": 13348,
+          "listed_count": 7,
+          "media_count": 1249,
+          "tweet_count": 6715
+        },
+        "username": "VERA_M1E3_8964",
+        "verified": false
+      }
+    ]
+  }
+}

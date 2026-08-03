@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2066200816365789629",
+    "created_at": "2026-06-14T16:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066200816365789629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/17nuun/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/17nuun/status/2066101850483663196",
+          "start": 7,
+          "url": "https://t.co/ukj4w1oIKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066200816365789629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066101850483663196",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“非人集會” https://t.co/ukj4w1oIKR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2066200816365789629",
+        "created_at": "2026-06-14T16:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066200816365789629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/17nuun/status/2066101850483663196",
+              "start": 7,
+              "url": "https://t.co/ukj4w1oIKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066200816365789629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066101850483663196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“非人集會” https://t.co/ukj4w1oIKR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066101850483663196",
+        "created_at": "2026-06-14T10:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066101850483663196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066101850483663196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1458,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想要弄一次跨圈大团建\n好想好想好想\n\n把unk ill tyw 还有17和17的好朋友们等各种人全部凑在一块！！\n\n感觉有机会！！！\n\n17老家就能提供场地呢，六个住宿房间能住至少12位跨圈大人物把w🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 1690,
+          "like_count": 43357,
+          "listed_count": 10,
+          "media_count": 1311,
+          "tweet_count": 21040
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 52,
+          "like_count": 212,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 557
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

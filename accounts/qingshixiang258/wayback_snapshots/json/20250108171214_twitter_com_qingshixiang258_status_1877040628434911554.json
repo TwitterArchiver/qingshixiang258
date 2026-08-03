@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876530162952798208"
+      ],
+      "media_source_tweet_id": [
+        "1876530206540018087"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1877040628434911554",
+    "created_at": "2025-01-08T17:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T18:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877040628434911554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796830395973165056",
+          "start": 3,
+          "username": "CHA_PB0327"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u4No0z4y3f",
+          "end": 51,
+          "expanded_url": "https://x.com/CHA_PB0327/status/1876530206540018087/photo/1",
+          "media_key": "3_1876530162952798208",
+          "start": 28,
+          "url": "https://t.co/u4No0z4y3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877040628434911554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876530206540018087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CHA_PB0327: 東アジアは今日も平和！ https://t.co/u4No0z4y3f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1876530162952798208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgrGPa0bgAAAtQn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876530162952798208"
+          ],
+          "media_source_tweet_id": [
+            "1876530206540018087"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1877040628434911554",
+        "created_at": "2025-01-08T17:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T18:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877040628434911554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796830395973165056",
+              "start": 3,
+              "username": "CHA_PB0327"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4No0z4y3f",
+              "end": 51,
+              "expanded_url": "https://x.com/CHA_PB0327/status/1876530206540018087/photo/1",
+              "media_key": "3_1876530162952798208",
+              "start": 28,
+              "url": "https://t.co/u4No0z4y3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877040628434911554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876530206540018087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CHA_PB0327: 東アジアは今日も平和！ https://t.co/u4No0z4y3f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876530162952798208"
+          ]
+        },
+        "author_id": "1796830395973165056",
+        "conversation_id": "1876530206540018087",
+        "created_at": "2025-01-07T07:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T08:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876530206540018087"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "東アジア",
+              "probability": 0.5992,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4No0z4y3f",
+              "end": 35,
+              "expanded_url": "https://x.com/CHA_PB0327/status/1876530206540018087/photo/1",
+              "media_key": "3_1876530162952798208",
+              "start": 12,
+              "url": "https://t.co/u4No0z4y3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876530206540018087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 70310,
+          "like_count": 3038,
+          "quote_count": 14,
+          "reply_count": 48,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "東アジアは今日も平和！ https://t.co/u4No0z4y3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "其实是个m啦。双性恋。喜欢独处，但是如果可以，请找我聊天，聊什么都可以哦（虽然我不太会聊天💦💦）。可以做大家情绪的垃圾桶哦。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fkxqs.vw50.com",
+                "end": 23,
+                "expanded_url": "http://fkxqs.vw50.com",
+                "start": 0,
+                "url": "https://t.co/lskfE1n6J3"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "出云之地",
+        "name": "青石巷🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868718283937189888/rM7uKejQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 656,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/lskfE1n6J3",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T09:06:42.000Z",
+        "description": "ポーランドボールの面白いブラックジョークを紹介します！イラストも描きます　⚠️戦争賛美・政治的な意図はありません 無断転載・自作発言・フォロバ目的のフォローはNG",
+        "id": "1796830395973165056",
+        "name": "ちゃ🍵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872568937461989376/zOzVwT4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 99,
+          "like_count": 4004,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 877
+        },
+        "username": "CHA_PB0327",
+        "verified": false
+      }
+    ]
+  }
+}

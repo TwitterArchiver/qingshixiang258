@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1930583950512296416",
+    "created_at": "2025-06-05T16:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T17:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930659843469357103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586762784393437184",
+          "start": 0,
+          "username": "DraTohru_XLN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930659843469357103",
+    "in_reply_to_user_id": "1586762784393437184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930583950512296416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DraTohru_XLN 😮‍💨"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1930583950512296416].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1930583950512296416",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1930583950512296416"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1930583950512296416",
+        "created_at": "2025-06-05T16:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930659843469357103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586762784393437184",
+              "start": 0,
+              "username": "DraTohru_XLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930659843469357103",
+        "in_reply_to_user_id": "1586762784393437184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930583950512296416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DraTohru_XLN 😮‍💨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1930276431860510793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 1036,
+          "like_count": 23307,
+          "listed_count": 6,
+          "media_count": 582,
+          "tweet_count": 10173
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T16:51:55.000Z",
+        "description": "来自中国的20y.o.激光专业技术宅兼大笨蛋,爱好二次元|电子电路|化学|MIDI|音频|操作系统|数码产品|摄影。属性:🏳️‍⚧️🏳️‍🌈LGBTQ+兼容|トール可愛い|《青空のラプソディ》最高🎵|我愛大連🏝️|S-YXG2006LE音源好き🎹|双極性障害存疑|Fart Fetish特殊性癖注意💨⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dratoh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dratohru-xln.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3IfckWWTKL"
+              }
+            ]
+          }
+        },
+        "id": "1586762784393437184",
+        "location": "🎹🔉YAMAHA SXG Driver",
+        "name": "小龙娘トール⚡️🧪🔉🎹📱💻🏝️",
+        "pinned_tweet_id": "1758324214581645818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827717933965234176/8TASHQHp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 420,
+          "like_count": 36666,
+          "listed_count": 3,
+          "media_count": 869,
+          "tweet_count": 11324
+        },
+        "url": "https://t.co/3IfckWWTKL",
+        "username": "DraTohru_XLN",
+        "verified": false
+      }
+    ]
+  }
+}

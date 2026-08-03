@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1996988532368478356",
+    "created_at": "2025-12-06T15:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T16:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997329074755362999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864663133379276800",
+          "start": 0,
+          "username": "CCHormone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997329074755362999",
+    "in_reply_to_user_id": "1864663133379276800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997264377565831657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCHormone 晚上好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1996988532368478356",
+        "created_at": "2025-12-06T15:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997329074755362999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864663133379276800",
+              "start": 0,
+              "username": "CCHormone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997329074755362999",
+        "in_reply_to_user_id": "1864663133379276800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997264377565831657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCHormone 晚上好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864663133379276800",
+        "conversation_id": "1996988532368478356",
+        "created_at": "2025-12-06T11:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T12:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997264377565831657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997264377565831657",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996988532368478356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1487,
+          "like_count": 35079,
+          "listed_count": 8,
+          "media_count": 957,
+          "tweet_count": 15764
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T13:28:48.000Z",
+        "description": "繁华分子 The CCP has nothing to do with the Chinese people. Don't fall into the trap of grand narrative.😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/U8eFEa83jZ"
+              }
+            ]
+          }
+        },
+        "id": "1864663133379276800",
+        "name": "名年久",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993156180273967104/Jb5Trk4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 109,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/U8eFEa83jZ",
+        "username": "CCHormone",
+        "verified": false
+      }
+    ]
+  }
+}

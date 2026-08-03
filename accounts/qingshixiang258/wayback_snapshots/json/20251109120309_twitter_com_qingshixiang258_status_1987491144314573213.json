@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1987491144314573213",
+    "created_at": "2025-11-09T12:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T13:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987491144314573213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/boredfish_xy/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/boredfish_xy/status/1987276199060558009",
+          "start": 9,
+          "url": "https://t.co/hepkq0RblH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987491144314573213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987276199060558009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请支持闲🐟老师！ https://t.co/hepkq0RblH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1987276122120179712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Q5GqGW0AArJDw.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1987491144314573213",
+        "created_at": "2025-11-09T12:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987491144314573213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boredfish_xy/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/boredfish_xy/status/1987276199060558009",
+              "start": 9,
+              "url": "https://t.co/hepkq0RblH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987491144314573213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987276199060558009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请支持闲🐟老师！ https://t.co/hepkq0RblH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987276122120179712"
+          ]
+        },
+        "author_id": "1783136956420849664",
+        "conversation_id": "1987276199060558009",
+        "created_at": "2025-11-08T21:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T22:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987276199060558009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jT6EeYidiu",
+              "end": 27,
+              "expanded_url": "https://x.com/BoredFish_XY/status/1987276199060558009/photo/1",
+              "media_key": "3_1987276122120179712",
+              "start": 4,
+              "url": "https://t.co/jT6EeYidiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987276199060558009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杀死他 https://t.co/jT6EeYidiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1418,
+          "like_count": 33807,
+          "listed_count": 7,
+          "media_count": 927,
+          "tweet_count": 15000
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "14↓🇨🇳\n\n◽️DONT USE MY ART\n◽️CHN/ES",
+        "id": "1783136956420849664",
+        "location": "Spanish ",
+        "name": "。",
+        "pinned_tweet_id": "1969393791703425269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987484890179198976/rRAYve3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 513,
+          "like_count": 11078,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 1548
+        },
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

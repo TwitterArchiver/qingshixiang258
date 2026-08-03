@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2044244235378110482",
+    "created_at": "2026-04-15T02:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T03:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044244235378110482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/89zhinajc64/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/89zhinajc64/status/2044243074604548410",
+          "start": 16,
+          "url": "https://t.co/xihcfRGBAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044244235378110482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044243074604548410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“不是我喜欢的朋友，直接拉黑” https://t.co/xihcfRGBAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044243071987249152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6cPjxacAAWb6E.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2044244235378110482",
+        "created_at": "2026-04-15T02:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044244235378110482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/89zhinajc64/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/89zhinajc64/status/2044243074604548410",
+              "start": 16,
+              "url": "https://t.co/xihcfRGBAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044244235378110482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044243074604548410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“不是我喜欢的朋友，直接拉黑” https://t.co/xihcfRGBAv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044243071987249152"
+          ]
+        },
+        "author_id": "1994960842274869253",
+        "conversation_id": "2043385580726489535",
+        "created_at": "2026-04-15T02:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044243074604548410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyzdPgbwuT",
+              "end": 40,
+              "expanded_url": "https://x.com/89zhinajc64/status/2044243074604548410/photo/1",
+              "media_key": "3_2044243071987249152",
+              "start": 17,
+              "url": "https://t.co/VyzdPgbwuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044243074604548410",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044242518888591629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 https://t.co/VyzdPgbwuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036458243548160000/Ep8lH3X5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 1588,
+          "like_count": 39035,
+          "listed_count": 8,
+          "media_count": 1167,
+          "tweet_count": 19325
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T02:45:16.000Z",
+        "description": "伟大的洛琪希神啊，请赐予失去气力之人站起来的力量吧……",
+        "id": "1994960842274869253",
+        "location": "新世界",
+        "name": "洛琪希酱 ๑⃙⃘´༥`๑⃙⃘",
+        "pinned_tweet_id": "2026731158407622791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031339498743930880/Oxu9XhsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 227,
+          "like_count": 29468,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 1958
+        },
+        "username": "89zhinajc64",
+        "verified": false
+      }
+    ]
+  }
+}

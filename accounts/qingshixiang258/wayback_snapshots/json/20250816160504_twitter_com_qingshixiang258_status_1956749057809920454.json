@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1956716275193032767",
+    "created_at": "2025-08-16T16:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T17:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956749057809920454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847901231920140294",
+          "start": 0,
+          "username": "ArmyNorth53420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956749057809920454",
+    "in_reply_to_user_id": "1847901231920140294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956716275193032767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArmyNorth53420 你不是正在玩么？游戏就一定要是游戏么？推特不可以么？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1956716275193032767].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1956716275193032767",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1956716275193032767"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1956716275193032767",
+        "created_at": "2025-08-16T16:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956749057809920454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847901231920140294",
+              "start": 0,
+              "username": "ArmyNorth53420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956749057809920454",
+        "in_reply_to_user_id": "1847901231920140294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956716275193032767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArmyNorth53420 你不是正在玩么？游戏就一定要是游戏么？推特不可以么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954539580998422528/nUejuF6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1288,
+          "like_count": 27934,
+          "listed_count": 7,
+          "media_count": 722,
+          "tweet_count": 12390
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:22:53.000Z",
+        "description": "最高学历是胎教 政治启蒙是《母猪的产后护理》意识形态是欧码吉利曼波 赛马娘忠实的拥护者 二次元马警察 亚眠街道办事处主任 瓦伦丁哈喽王  库滕堡搬运工 特雷森监狱网评员 傻逼二次元 炒作狗 魔怔人 哥学家 滚学家  烂梗王 极民冷感 星怒@elonmusk 吐槽小号@peacemakerm1873",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "elonmusk"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "peacemakerm1873"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnmmusknmsl.com",
+                "end": 23,
+                "expanded_url": "http://www.cnmmusknmsl.com",
+                "start": 0,
+                "url": "https://t.co/vITiEfZpew"
+              }
+            ]
+          }
+        },
+        "id": "1847901231920140294",
+        "location": "傻了吧唧研究中心",
+        "name": "反手波你穷",
+        "pinned_tweet_id": "1868148551097909408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951326882886270976/6C3J0gK0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 572,
+          "like_count": 71711,
+          "listed_count": 5,
+          "media_count": 1459,
+          "tweet_count": 14360
+        },
+        "url": "https://t.co/vITiEfZpew",
+        "username": "ArmyNorth53420",
+        "verified": false
+      }
+    ]
+  }
+}

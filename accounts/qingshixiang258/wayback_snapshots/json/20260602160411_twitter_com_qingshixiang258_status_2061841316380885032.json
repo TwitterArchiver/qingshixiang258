@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2061836691430936631",
+    "created_at": "2026-06-02T16:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061841316380885032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060945493195116549",
+          "start": 0,
+          "username": "buzhimingdeyiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061841316380885032",
+    "in_reply_to_user_id": "2060945493195116549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061837279673606287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhimingdeyiai 唔？羡慕什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2061836691430936631",
+        "created_at": "2026-06-02T16:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061841316380885032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060945493195116549",
+              "start": 0,
+              "username": "buzhimingdeyiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061841316380885032",
+        "in_reply_to_user_id": "2060945493195116549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061837279673606287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhimingdeyiai 唔？羡慕什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060945493195116549",
+        "conversation_id": "2061836691430936631",
+        "created_at": "2026-06-02T15:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061837279673606287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061837279673606287",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061836691430936631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 1683,
+          "like_count": 42282,
+          "listed_count": 10,
+          "media_count": 1278,
+          "tweet_count": 20669
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "我还是我。❌见证。｜友🏳️‍⚧️🏳️‍🌈｜日常推号｜偶尔精神病发作（别理）。晶哥我错了，我给你跪下了，我会做个正常人的，别再搞我了😭",
+        "id": "2060945493195116549",
+        "name": "不知名の翌🍥🎊🎉🍟（推友巡回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 136,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 221
+        },
+        "username": "buzhimingdeyiai",
+        "verified": false
+      }
+    ]
+  }
+}

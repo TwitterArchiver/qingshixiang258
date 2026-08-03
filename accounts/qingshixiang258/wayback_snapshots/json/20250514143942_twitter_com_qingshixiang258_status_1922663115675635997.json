@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1889350334390456335",
+    "created_at": "2025-05-14T14:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T15:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922663115675635997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597116471733211136",
+          "start": 0,
+          "username": "hnbngzhg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922663115675635997",
+    "in_reply_to_user_id": "1597116471733211136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889350334390456335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnbngzhg1 估计人已经同时在不同国家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1889350334390456335",
+        "created_at": "2025-05-14T14:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922663115675635997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597116471733211136",
+              "start": 0,
+              "username": "hnbngzhg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922663115675635997",
+        "in_reply_to_user_id": "1597116471733211136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889350334390456335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnbngzhg1 估计人已经同时在不同国家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597116471733211136",
+        "conversation_id": "1889350334390456335",
+        "created_at": "2025-02-11T16:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T17:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889350334390456335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hnbngzhg1/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/hnbngzhg1/status/1865711975239487880",
+              "start": 15,
+              "url": "https://t.co/TcVXEoUaBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889350334390456335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8590,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865711975239487880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至今这b还在缅甸没回来….. https://t.co/TcVXEoUaBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939396401803264/JH7fO8b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 910,
+          "like_count": 19767,
+          "listed_count": 5,
+          "media_count": 353,
+          "tweet_count": 8667
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:33:50.000Z",
+        "description": "ㅋㅋㅋㅋㅋㅋ.\n커피를 좋아해요.",
+        "id": "1597116471733211136",
+        "location": "Los Angeles, CA",
+        "name": "한병지구",
+        "pinned_tweet_id": "1889350334390456335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684618374612217856/FL11qBR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 7500,
+          "like_count": 57721,
+          "listed_count": 9,
+          "media_count": 436,
+          "tweet_count": 13877
+        },
+        "username": "hnbngzhg1",
+        "verified": false
+      }
+    ]
+  }
+}

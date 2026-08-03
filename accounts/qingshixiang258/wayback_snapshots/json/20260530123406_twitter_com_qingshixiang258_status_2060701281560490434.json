@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2060658608527077535",
+    "created_at": "2026-05-30T12:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060701281560490434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Kirayoumiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060701281560490434",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060662755859071264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirayoumiya 来吃～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2060658608527077535",
+        "created_at": "2026-05-30T12:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060701281560490434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Kirayoumiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060701281560490434",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060662755859071264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirayoumiya 来吃～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "2060658608527077535",
+        "created_at": "2026-05-30T10:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060662755859071264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060662755859071264",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060658608527077535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我去这个我真想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 1689,
+          "like_count": 41905,
+          "listed_count": 10,
+          "media_count": 1271,
+          "tweet_count": 20569
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "遗憾总是贯穿人生始终",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirayoumiya176…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirayoumiya17607",
+                "start": 0,
+                "url": "https://t.co/ClBUr4OW0D"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "location": "精神世界",
+        "name": "Kirayoumiya",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986630336080650240/V8mqkC1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1182,
+          "like_count": 29283,
+          "listed_count": 2,
+          "media_count": 883,
+          "tweet_count": 19064
+        },
+        "url": "https://t.co/ClBUr4OW0D",
+        "username": "Kirayoumiya",
+        "verified": false
+      }
+    ]
+  }
+}

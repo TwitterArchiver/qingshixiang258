@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1932856181959373085",
+    "created_at": "2025-06-11T21:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T22:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932906507366248721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Q2anmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932906507366248721",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932856181959373085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q2anmo ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1932856181959373085",
+        "created_at": "2025-06-11T21:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T22:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932906507366248721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Q2anmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932906507366248721",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932856181959373085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q2anmo ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1932856181959373085",
+        "created_at": "2025-06-11T17:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T18:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932856181959373085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chy79872448730…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/chy798724487304/status/1932856021787292129",
+              "start": 4,
+              "url": "https://t.co/GJ0Wi0mzWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932856181959373085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932856021787292129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哼哼。 https://t.co/GJ0Wi0mzWu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "懒青鱼🍃🕊️",
+        "pinned_tweet_id": "1931748709324517749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 1107,
+          "like_count": 24209,
+          "listed_count": 6,
+          "media_count": 612,
+          "tweet_count": 10560
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "@Q3anmo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Q3anmo"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "name": "千芊",
+        "pinned_tweet_id": "1926899255525916850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925091564696829957/BR40J6UP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 246,
+          "like_count": 167560,
+          "listed_count": 31,
+          "media_count": 48,
+          "tweet_count": 38730
+        },
+        "username": "Q2anmo",
+        "verified": false
+      }
+    ]
+  }
+}

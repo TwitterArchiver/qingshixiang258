@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1904015682452480175",
+    "created_at": "2025-03-24T05:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T06:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904042550559707425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1761356959431925760",
+          "start": 0,
+          "username": "zhweaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904042550559707425",
+    "in_reply_to_user_id": "1761356959431925760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904015682452480175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhweaa 完蛋，搞不起喵💔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904015682452480175].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904015682452480175",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904015682452480175"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1904015682452480175",
+        "created_at": "2025-03-24T05:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T06:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904042550559707425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1761356959431925760",
+              "start": 0,
+              "username": "zhweaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904042550559707425",
+        "in_reply_to_user_id": "1761356959431925760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904015682452480175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhweaa 完蛋，搞不起喵💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷（mtx？）可以叫我青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️）｜很高兴认识你哦｜友人@_akitayura｜超喜欢的珍宝@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_akitayura"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV4VdD"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899136852403122176/8Y4AN1XR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 572,
+          "like_count": 12085,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 5077
+        },
+        "url": "https://t.co/YIQfZV4VdD",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:48:04.000Z",
+        "description": "我没有个性我很废物～写着玩玩的🙃🤚 请重定向到我的大号：@saonanaa 通过iMessage联系我：elictop@icloud.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "saonanaa"
+              }
+            ]
+          }
+        },
+        "id": "1761356959431925760",
+        "location": "千年商港",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896199506028265472/rNBLrGRk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 47,
+          "like_count": 595,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 573
+        },
+        "username": "zhweaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1889060169868579197",
+    "created_at": "2025-02-11T11:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T12:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889268965551243305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1666407332681768963",
+          "start": 0,
+          "username": "biluawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889268965551243305",
+    "in_reply_to_user_id": "1666407332681768963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889060169868579197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biluawa 应该没事的，或许只是自己在冷静"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1889060169868579197",
+        "created_at": "2025-02-11T11:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T12:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889268965551243305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1666407332681768963",
+              "start": 0,
+              "username": "biluawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889268965551243305",
+        "in_reply_to_user_id": "1666407332681768963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889060169868579197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biluawa 应该没事的，或许只是自己在冷静"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666407332681768963",
+        "conversation_id": "1889060169868579197",
+        "created_at": "2025-02-10T21:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T22:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889060169868579197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lily_Mirages/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Lily_Mirages/status/1888011197946994845",
+              "start": 17,
+              "url": "https://t.co/ahultDC3sV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889060169868579197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888011197946994845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天第3天了，推上一条新消息没有 https://t.co/ahultDC3sV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "青会一直陪着你",
+        "name": "青石巷🍊🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 988,
+          "like_count": 8048,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 3319
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T11:30:52.000Z",
+        "description": "大证mtf/减肥ing｜喜欢百合｜想变可爱｜🎮东方夜雀食堂/音游/MC🎮｜可互fo｜不骂人/不键政/不阴阳怪气等",
+        "id": "1666407332681768963",
+        "name": "彼露阡白🏳️‍⚧️",
+        "pinned_tweet_id": "1889062507190620418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845683312989458432/a0yU_Q3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 318,
+          "like_count": 3067,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 565
+        },
+        "username": "biluawa",
+        "verified": false
+      }
+    ]
+  }
+}

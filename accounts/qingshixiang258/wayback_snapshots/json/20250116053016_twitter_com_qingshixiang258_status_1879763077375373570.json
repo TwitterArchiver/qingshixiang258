@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1879635383027466498",
+    "created_at": "2025-01-16T05:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T06:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879763077375373570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1773934439414018048",
+          "start": 0,
+          "username": "liki24003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879763077375373570",
+    "in_reply_to_user_id": "1773934439414018048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879635383027466498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liki24003 这个是什么诶(´▽｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1879635383027466498",
+        "created_at": "2025-01-16T05:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T06:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879763077375373570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1773934439414018048",
+              "start": 0,
+              "username": "liki24003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879763077375373570",
+        "in_reply_to_user_id": "1773934439414018048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879635383027466498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liki24003 这个是什么诶(´▽｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879635375087607808"
+          ]
+        },
+        "author_id": "1773934439414018048",
+        "conversation_id": "1879635383027466498",
+        "created_at": "2025-01-15T21:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T22:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879635383027466498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOwdcY7Trv",
+              "end": 23,
+              "expanded_url": "https://x.com/liki24003/status/1879635383027466498/photo/1",
+              "media_key": "3_1879635375087607808",
+              "start": 0,
+              "url": "https://t.co/yOwdcY7Trv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879635383027466498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yOwdcY7Trv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "青是一个缺爱的家伙，不喜欢独处，如果可以，请找我聊天，聊什么都可以哦（甚至可以私聊建政(*¯︶¯*)（虽然我不太会聊天💦💦）。可以做大家情绪的垃圾桶哦。他叫青石湾@qing1814486981",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "qing1814486981"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fkxqs.vw50.com",
+                "end": 23,
+                "expanded_url": "http://fkxqs.vw50.com",
+                "start": 0,
+                "url": "https://t.co/lskfE1n6J3"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "出云之地",
+        "name": "青石🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879525318786256896/imoL0WpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 708,
+          "like_count": 2432,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1158
+        },
+        "url": "https://t.co/lskfE1n6J3",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T04:45:15.000Z",
+        "description": "超级口嗨怪，有男朋友诶，双性恋，现实很保守，网上很easy，身高有点点高（不喜欢自己的身高），只能被动艾草，xp复杂QAQ，没事要来骚扰海鸥鸥哦，有事也要来骚扰哦，不喜欢建政（求你了互fo🥺🥺",
+        "id": "1773934439414018048",
+        "name": "海鸥鸥欧欧🍊",
+        "pinned_tweet_id": "1863145757576200238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863038364779261952/IjUxzCXz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 577,
+          "like_count": 2511,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1133
+        },
+        "username": "liki24003",
+        "verified": false
+      }
+    ]
+  }
+}

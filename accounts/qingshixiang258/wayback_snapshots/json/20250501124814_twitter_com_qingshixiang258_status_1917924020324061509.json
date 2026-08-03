@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1917921559328772459",
+    "created_at": "2025-05-01T12:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T13:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917924020324061509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917924020324061509",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917923954356027619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 更可怕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1917921559328772459",
+        "created_at": "2025-05-01T12:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917924020324061509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917924020324061509",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917923954356027619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 更可怕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764856941151596549",
+        "conversation_id": "1917921559328772459",
+        "created_at": "2025-05-01T12:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917923954356027619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917923954356027619",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917921935021015309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 “太平间一位”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "Akita Green🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916284947746459648/Fmz_BBPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 870,
+          "like_count": 18265,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 8071
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "短发棕毛假小子🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控🐱|\n▫️姐@Sugita_Midoriko💗\n▫️叶@fallenleavesw😽\n▫️青@qingshixiang258😺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Sugita_Midoriko"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "qingshixiang258"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1915098818837930168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 646,
+          "like_count": 46437,
+          "listed_count": 7,
+          "media_count": 1080,
+          "tweet_count": 10646
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2065433124797079928",
+    "created_at": "2026-06-12T14:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065434616790650972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720779183809519616",
+          "start": 0,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065434616790650972",
+    "in_reply_to_user_id": "1720779183809519616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065433124797079928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyyyYoin 反正我是饞死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065433110859411457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnkeKAa8AEtgRf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2065433124797079928",
+        "created_at": "2026-06-12T14:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065434616790650972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065434616790650972",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065433124797079928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin 反正我是饞死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065433110859411457"
+          ]
+        },
+        "author_id": "1720779183809519616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065433124797079928",
+        "created_at": "2026-06-12T13:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065433124797079928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z23zgE9R2O",
+              "end": 28,
+              "expanded_url": "https://x.com/RyyyYoin/status/2065433124797079928/photo/1",
+              "media_key": "3_2065433110859411457",
+              "start": 5,
+              "url": "https://t.co/z23zgE9R2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065433124797079928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "馋死谁了 https://t.co/z23zgE9R2O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 1689,
+          "like_count": 43210,
+          "listed_count": 10,
+          "media_count": 1303,
+          "tweet_count": 20990
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041184362411241472/9MrPaJMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 278,
+          "like_count": 56342,
+          "listed_count": 7,
+          "media_count": 1618,
+          "tweet_count": 14341
+        },
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

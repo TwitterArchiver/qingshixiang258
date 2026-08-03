@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027019944899268608"
+      ],
+      "media_source_tweet_id": [
+        "2027019949798305838"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2027324255072104894",
+    "created_at": "2026-02-27T10:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027324255072104894"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 32,
+          "tag": "prsk_FA"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "宵崎奏"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926522987622129664",
+          "start": 3,
+          "username": "tenntya__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XsxhTWNqD4",
+          "end": 77,
+          "expanded_url": "https://x.com/tenntya__/status/2027019949798305838/photo/1",
+          "media_key": "3_2027019944899268608",
+          "start": 54,
+          "url": "https://t.co/XsxhTWNqD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027324255072104894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027019949798305838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tenntya__: こういう 🎼 ちゃんが欲しい✨\n\n#prsk_FA  #宵崎奏  #イラスト https://t.co/XsxhTWNqD4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2027019944899268608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFr5nhaUAAinDS.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027019944899268608"
+          ],
+          "media_source_tweet_id": [
+            "2027019949798305838"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027324255072104894",
+        "created_at": "2026-02-27T10:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027324255072104894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "宵崎奏"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926522987622129664",
+              "start": 3,
+              "username": "tenntya__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsxhTWNqD4",
+              "end": 77,
+              "expanded_url": "https://x.com/tenntya__/status/2027019949798305838/photo/1",
+              "media_key": "3_2027019944899268608",
+              "start": 54,
+              "url": "https://t.co/XsxhTWNqD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027324255072104894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027019949798305838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tenntya__: こういう 🎼 ちゃんが欲しい✨\n\n#prsk_FA  #宵崎奏  #イラスト https://t.co/XsxhTWNqD4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027019944899268608"
+          ]
+        },
+        "author_id": "1926522987622129664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027019949798305838",
+        "created_at": "2026-02-26T13:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027019949798305838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "宵崎奏"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsxhTWNqD4",
+              "end": 62,
+              "expanded_url": "https://x.com/tenntya__/status/2027019949798305838/photo/1",
+              "media_key": "3_2027019944899268608",
+              "start": 39,
+              "url": "https://t.co/XsxhTWNqD4"
+            },
+            {
+              "display_url": "x.com/tenntya__/stat…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/tenntya__/status/2026923671194141075",
+              "start": 63,
+              "url": "https://t.co/XRQItQL3YE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027019949798305838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 47668,
+          "like_count": 2874,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026923671194141075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こういう 🎼 ちゃんが欲しい✨\n\n#prsk_FA  #宵崎奏  #イラスト https://t.co/XsxhTWNqD4 https://t.co/XRQItQL3YE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1478,
+          "like_count": 37297,
+          "listed_count": 8,
+          "media_count": 1088,
+          "tweet_count": 17943
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T06:17:38.000Z",
+        "description": "𓂃🎀𓈒𓏸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/1ybc7v1p3k567p…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/1ybc7v1p3k567pb?t=bl6Ruy&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/qFHRUetfGM"
+              }
+            ]
+          }
+        },
+        "id": "1926522987622129664",
+        "location": "⚠︎︎無断転載  無断使用  商用利用 AI学習禁止です",
+        "name": "甜茶",
+        "pinned_tweet_id": "2022726643199144009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020356215847677954/M6OGojr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 14,
+          "like_count": 1252,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/qFHRUetfGM",
+        "username": "tenntya__",
+        "verified": false
+      }
+    ]
+  }
+}

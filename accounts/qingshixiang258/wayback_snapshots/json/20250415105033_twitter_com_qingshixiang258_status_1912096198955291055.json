@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1912083062034513950",
+    "created_at": "2025-04-15T10:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T11:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912096198955291055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 25,
+          "id": "1868701291830206464",
+          "start": 15,
+          "username": "A_Asystem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912096198955291055",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912088737594712140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @A_Asystem 我也是！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1912088737594712140].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1912088737594712140",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1912088737594712140"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1912083062034513950",
+        "created_at": "2025-04-15T10:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T11:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912096198955291055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 25,
+              "id": "1868701291830206464",
+              "start": 15,
+              "username": "A_Asystem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912096198955291055",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912088737594712140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @A_Asystem 我也是！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909653788056768512/HVX8zDIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 769,
+          "like_count": 16009,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 7346
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "ima ingenting more alles",
+        "id": "1688385343580680192",
+        "name": "末裏せい/まつり清(前 平和を守れ)",
+        "pinned_tweet_id": "1911862342935281917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908431767629160448/Aj8mr4zR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 2068,
+          "like_count": 104131,
+          "listed_count": 14,
+          "media_count": 1161,
+          "tweet_count": 54279
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1905421355195269408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 439,
+          "like_count": 7915,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 4128
+        },
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}

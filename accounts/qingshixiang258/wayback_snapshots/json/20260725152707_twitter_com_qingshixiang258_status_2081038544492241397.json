@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2081036438171537438",
+    "created_at": "2026-07-25T15:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081038544492241397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720779183809519616",
+          "start": 0,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081038544492241397",
+    "in_reply_to_user_id": "1720779183809519616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081036438171537438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyyyYoin 哇哦！好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1790,
+        "media_key": "3_2081036413731254272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFTl60asAAsTJQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2081036438171537438",
+        "created_at": "2026-07-25T15:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081038544492241397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081038544492241397",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081036438171537438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin 哇哦！好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081036413731254272"
+          ]
+        },
+        "author_id": "1720779183809519616",
+        "conversation_id": "2081036438171537438",
+        "created_at": "2026-07-25T15:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081036438171537438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/szMDSLey5t",
+              "end": 28,
+              "expanded_url": "https://x.com/RyyyYoin/status/2081036438171537438/photo/1",
+              "media_key": "3_2081036413731254272",
+              "start": 5,
+              "url": "https://t.co/szMDSLey5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081036438171537438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试穿一下 https://t.co/szMDSLey5t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1678,
+          "like_count": 44833,
+          "listed_count": 9,
+          "media_count": 1370,
+          "tweet_count": 21515
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078124059418877952/GW8LmR3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 283,
+          "like_count": 56383,
+          "listed_count": 6,
+          "media_count": 1636,
+          "tweet_count": 14421
+        },
+        "url": "",
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

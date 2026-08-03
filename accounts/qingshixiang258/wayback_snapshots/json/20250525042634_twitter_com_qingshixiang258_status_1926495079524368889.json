@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1926493038844534792",
+    "created_at": "2025-05-25T04:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T05:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926495079524368889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682084166798815232",
+          "start": 0,
+          "username": "wuminzhe45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926495079524368889",
+    "in_reply_to_user_id": "1682084166798815232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926494627915338055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuminzhe45 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1926493038844534792",
+        "created_at": "2025-05-25T04:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T05:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926495079524368889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682084166798815232",
+              "start": 0,
+              "username": "wuminzhe45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926495079524368889",
+        "in_reply_to_user_id": "1682084166798815232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926494627915338055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuminzhe45 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682084166798815232",
+        "conversation_id": "1926493038844534792",
+        "created_at": "2025-05-25T04:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T05:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926494627915338055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926494627915338055",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926493038844534792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 max电池大一点屏幕大一点，其他的也没差多少了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 992,
+          "like_count": 21891,
+          "listed_count": 5,
+          "media_count": 552,
+          "tweet_count": 9597
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T17:45:30.000Z",
+        "description": "不想看瑟瑟和碎碎念的请静音我谢谢 我会写一点h文？  瑟瑟文章@annokizuki 账号操控者一个男的一个女的，注意分辨 仔细了解我的人奖励加v，打钱会得到一个粘你小猫（请说明和谁聊天）\n小小安瑾和空夏（猜猜都是谁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "annokizuki"
+              }
+            ]
+          }
+        },
+        "id": "1682084166798815232",
+        "location": "🚪88 送你个教训",
+        "name": "annakamusha(暗色系)(讨论版)(喵派)",
+        "pinned_tweet_id": "1923831119109292360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891145214200598528/5A9KPMtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 1616,
+          "like_count": 1572,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 1616
+        },
+        "username": "wuminzhe45",
+        "verified": false
+      }
+    ]
+  }
+}

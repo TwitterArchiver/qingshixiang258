@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2036024264433037476",
+    "created_at": "2026-03-23T14:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036094181110906921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516381974327300099",
+          "start": 0,
+          "username": "jiejier2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036094181110906921",
+    "in_reply_to_user_id": "1516381974327300099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036091702939983990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejier2 怎么提亮呀？qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2036024264433037476",
+        "created_at": "2026-03-23T14:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036094181110906921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516381974327300099",
+              "start": 0,
+              "username": "jiejier2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036094181110906921",
+        "in_reply_to_user_id": "1516381974327300099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036091702939983990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejier2 怎么提亮呀？qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516381974327300099",
+        "conversation_id": "2036024264433037476",
+        "created_at": "2026-03-23T14:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036091702939983990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036091702939983990",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036024264433037476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 不赖，继续提亮就行了，漆面还算平整了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1610,
+          "like_count": 38971,
+          "listed_count": 8,
+          "media_count": 1153,
+          "tweet_count": 19182
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T11:43:52.000Z",
+        "description": "英国诺丁汉塑料（树脂）受害者，微缩模型爱好者，时而吐槽，时而鸡汤，低阶法师。",
+        "id": "1516381974327300099",
+        "name": "天行健",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007285726380208128/ZJ66dp0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 17,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 235
+        },
+        "username": "jiejier2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1895823957976289530",
+    "created_at": "2025-03-01T19:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T20:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895915638071398713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835764493231751168",
+          "start": 0,
+          "username": "mirekintoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895915638071398713",
+    "in_reply_to_user_id": "1835764493231751168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895914432217432186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirekintoc 哪里是大佬啊☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1895823957976289530",
+        "created_at": "2025-03-01T19:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T20:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895915638071398713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835764493231751168",
+              "start": 0,
+              "username": "mirekintoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895915638071398713",
+        "in_reply_to_user_id": "1835764493231751168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895914432217432186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirekintoc 哪里是大佬啊☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835764493231751168",
+        "conversation_id": "1895823957976289530",
+        "created_at": "2025-03-01T19:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T20:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895914432217432186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895914432217432186",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895914283848155352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 说来也是这样，只是膜拜大佬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 872,
+          "like_count": 9932,
+          "listed_count": 4,
+          "media_count": 144,
+          "tweet_count": 4162
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T19:36:00.000Z",
+        "description": "💻信息学竞赛生/OIer (初三/2009 年)｜若空君/若空酱/明统若空｜代词随意｜✨七级钩正在准备被文化课创飞｜无聊的个人开发者｜顺但未必直，友🏳️‍🌈🏳️‍⚧️｜老实人，拒绝鉴证｜谨防数据结构使人呆滞｜ENTP-A｜这里不知道放些什么好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vochant.github.io",
+                "end": 23,
+                "expanded_url": "http://vochant.github.io",
+                "start": 0,
+                "url": "https://t.co/Pyz9pfqtPB"
+              }
+            ]
+          }
+        },
+        "id": "1835764493231751168",
+        "location": "BYKIESHIN",
+        "name": "Mirekintoc",
+        "pinned_tweet_id": "1882822017550086605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 379,
+          "like_count": 1305,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/Pyz9pfqtPB",
+        "username": "mirekintoc",
+        "verified": false
+      }
+    ]
+  }
+}

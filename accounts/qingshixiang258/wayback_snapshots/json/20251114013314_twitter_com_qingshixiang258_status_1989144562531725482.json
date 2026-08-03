@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1989004173724250174",
+    "created_at": "2025-11-14T01:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T02:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989144562531725482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "970525948847144960",
+          "start": 0,
+          "username": "Logic_Accepted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989144562531725482",
+    "in_reply_to_user_id": "970525948847144960",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989004173724250174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Logic_Accepted hso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1989004162101833734",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pcv0racAYbUVk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1989004173724250174",
+        "created_at": "2025-11-14T01:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T02:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989144562531725482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "970525948847144960",
+              "start": 0,
+              "username": "Logic_Accepted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989144562531725482",
+        "in_reply_to_user_id": "970525948847144960",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989004173724250174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Logic_Accepted hso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989004162101833734"
+          ]
+        },
+        "author_id": "970525948847144960",
+        "conversation_id": "1989004173724250174",
+        "created_at": "2025-11-13T16:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T17:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989004173724250174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BRWZcLuiI",
+              "end": 35,
+              "expanded_url": "https://x.com/Logic_Accepted/status/1989004173724250174/photo/1",
+              "media_key": "3_1989004162101833734",
+              "start": 12,
+              "url": "https://t.co/4BRWZcLuiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989004173724250174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶锁起来可以当手机支架 https://t.co/4BRWZcLuiI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1419,
+          "like_count": 34149,
+          "listed_count": 8,
+          "media_count": 931,
+          "tweet_count": 15111
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-05T05:06:32.000Z",
+        "description": "欢迎交朋友，对你的推文感兴趣会互 fo 这里分享生活 不喜欢政治和吵架，并可能会屏蔽，不是你的错",
+        "id": "970525948847144960",
+        "location": "Sky Dynasty",
+        "name": "Ayu🧠",
+        "pinned_tweet_id": "1594480827249086465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234062601878818816/L-BJHTBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 173,
+          "like_count": 9620,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 1112
+        },
+        "username": "Logic_Accepted",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1986092594510852183",
+    "created_at": "2025-11-05T16:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T17:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986109470309773400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1920509405432541184",
+          "start": 0,
+          "username": "Hasumi_Amemiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986109470309773400",
+    "in_reply_to_user_id": "1920509405432541184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986092594510852183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hasumi_Amemiya 我现在就要看口牙！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1986092594510852183].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1986092594510852183",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1986092594510852183"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1986092594510852183",
+        "created_at": "2025-11-05T16:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986109470309773400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1920509405432541184",
+              "start": 0,
+              "username": "Hasumi_Amemiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986109470309773400",
+        "in_reply_to_user_id": "1920509405432541184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986092594510852183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hasumi_Amemiya 我现在就要看口牙！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1411,
+          "like_count": 33540,
+          "listed_count": 7,
+          "media_count": 919,
+          "tweet_count": 14911
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:01:46.000Z",
+        "description": "「从众的无神之论者，为了虚妄虔诚祈祷。」\n@Amemiya_Hasumi的第二人格。\n仅限亲友。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "Amemiya_Hasumi"
+              }
+            ]
+          }
+        },
+        "id": "1920509405432541184",
+        "name": "小莲",
+        "pinned_tweet_id": "1968600870267781177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974494913980219392/8Y5_gijt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 105,
+          "like_count": 6211,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 2204
+        },
+        "username": "Hasumi_Amemiya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043385525764255744"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2043385580726489535",
+    "created_at": "2026-04-12T17:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043385580726489535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X1LUdoIYTW",
+          "end": 44,
+          "expanded_url": "https://x.com/qingshixiang258/status/2043385580726489535/photo/1",
+          "media_key": "3_2043385525764255744",
+          "start": 21,
+          "url": "https://t.co/X1LUdoIYTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043385580726489535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他又要精神胜利了说不过就ban，乐死我了 https://t.co/X1LUdoIYTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043385525764255744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuQTzJacAAyVKI.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043385525764255744"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2043385580726489535",
+        "created_at": "2026-04-12T17:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043385580726489535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1LUdoIYTW",
+              "end": 44,
+              "expanded_url": "https://x.com/qingshixiang258/status/2043385580726489535/photo/1",
+              "media_key": "3_2043385525764255744",
+              "start": 21,
+              "url": "https://t.co/X1LUdoIYTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043385580726489535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他又要精神胜利了说不过就ban，乐死我了 https://t.co/X1LUdoIYTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036458243548160000/Ep8lH3X5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 1591,
+          "like_count": 38981,
+          "listed_count": 8,
+          "media_count": 1161,
+          "tweet_count": 19283
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

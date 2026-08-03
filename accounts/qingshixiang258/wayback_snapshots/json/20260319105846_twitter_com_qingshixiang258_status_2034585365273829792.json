@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2034582034144768089",
+    "created_at": "2026-03-19T10:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034585365273829792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032976991495004160",
+          "start": 0,
+          "username": "BuFang67297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034585365273829792",
+    "in_reply_to_user_id": "2032976991495004160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034582034144768089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuFang67297 那就骂～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2034582034144768089",
+        "created_at": "2026-03-19T10:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034585365273829792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032976991495004160",
+              "start": 0,
+              "username": "BuFang67297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034585365273829792",
+        "in_reply_to_user_id": "2032976991495004160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034582034144768089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuFang67297 那就骂～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032976991495004160",
+        "conversation_id": "2034582034144768089",
+        "created_at": "2026-03-19T10:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034582034144768089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034582034144768089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累，好想骂人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 1590,
+          "like_count": 38738,
+          "listed_count": 8,
+          "media_count": 1140,
+          "tweet_count": 19016
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T00:27:56.000Z",
+        "description": "我大号被封了，这是第三次转生",
+        "id": "2032976991495004160",
+        "name": "大音希希2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032978831347183616/sbqP9eAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 135,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 265
+        },
+        "username": "BuFang67297",
+        "verified": false
+      }
+    ]
+  }
+}

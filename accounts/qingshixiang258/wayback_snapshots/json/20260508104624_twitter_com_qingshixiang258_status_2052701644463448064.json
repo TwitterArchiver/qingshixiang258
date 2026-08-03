@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2052681898854650079",
+    "created_at": "2026-05-08T10:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052701644463448064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513400430700597248",
+          "start": 0,
+          "username": "xinran020911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052701644463448064",
+    "in_reply_to_user_id": "1513400430700597248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052681898854650079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinran020911 我也...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2052681898854650079",
+        "created_at": "2026-05-08T10:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052701644463448064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513400430700597248",
+              "start": 0,
+              "username": "xinran020911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052701644463448064",
+        "in_reply_to_user_id": "1513400430700597248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052681898854650079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinran020911 我也...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513400430700597248",
+        "conversation_id": "2052681898854650079",
+        "created_at": "2026-05-08T09:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052681898854650079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052681898854650079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉专业课学不太明白，老师好像在糊弄学生…….\n不知道在学什么，课也没上完，就开始出题自习好几节课了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1688,
+          "like_count": 40464,
+          "listed_count": 9,
+          "media_count": 1232,
+          "tweet_count": 19983
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:16:18.000Z",
+        "description": "这里作为我的空间！心冉的空间，没有什么朋友。",
+        "id": "1513400430700597248",
+        "location": "Pak Kret, Thailand",
+        "name": "シンラン（apple）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048463341023350784/dgHHB4bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 154,
+          "like_count": 388,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 305
+        },
+        "username": "xinran020911",
+        "verified": false
+      }
+    ]
+  }
+}

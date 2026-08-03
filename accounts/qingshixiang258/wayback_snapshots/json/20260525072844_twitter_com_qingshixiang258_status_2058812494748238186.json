@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2058812493112528896"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2058812494748238186",
+    "created_at": "2026-05-25T07:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058812494748238186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058812494748238186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃狗肉和养像折耳猫这种缺陷物种，哪一种更残酷？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-05-26T07:28:43.000Z",
+        "id": "2058812493112528896",
+        "options": [
+          {
+            "label": "吃肉",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "养病种",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2058812493112528896"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2058812494748238186",
+        "created_at": "2026-05-25T07:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058812494748238186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058812494748238186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃狗肉和养像折耳猫这种缺陷物种，哪一种更残酷？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1689,
+          "like_count": 41586,
+          "listed_count": 10,
+          "media_count": 1257,
+          "tweet_count": 20438
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

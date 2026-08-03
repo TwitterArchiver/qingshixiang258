@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2015785163456934166",
+    "created_at": "2026-01-26T17:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015841250835103776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513400430700597248",
+          "start": 0,
+          "username": "xinran020911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015841250835103776",
+    "in_reply_to_user_id": "1513400430700597248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015840881291702370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinran020911 冉总～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2015785163456934166",
+        "created_at": "2026-01-26T17:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015841250835103776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513400430700597248",
+              "start": 0,
+              "username": "xinran020911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015841250835103776",
+        "in_reply_to_user_id": "1513400430700597248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015840881291702370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinran020911 冉总～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513400430700597248",
+        "conversation_id": "2015785163456934166",
+        "created_at": "2026-01-26T17:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015840881291702370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015840881291702370",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015785163456934166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 感动🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 1407,
+          "like_count": 36437,
+          "listed_count": 8,
+          "media_count": 1041,
+          "tweet_count": 17105
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:16:18.000Z",
+        "description": "这里作为我的空间",
+        "id": "1513400430700597248",
+        "location": "Pak Kret, Thailand",
+        "name": "心冉（apple）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864340182201479168/zJ8eQ0c9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 84,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 63
+        },
+        "username": "xinran020911",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1949984187361976740",
+    "created_at": "2025-07-29T13:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950183760722272547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1809999171669409792",
+          "start": 0,
+          "username": "Shimamura_Tako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/reina__55555/s…",
+          "end": 39,
+          "expanded_url": "https://x.com/reina__55555/status/1949744995118051615",
+          "start": 16,
+          "url": "https://t.co/qRXpnHHPIP"
+        },
+        {
+          "display_url": "x.com/reina__55555/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/reina__55555/status/1949744995118051615",
+          "start": 40,
+          "url": "https://t.co/uBUiRHAxz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950183760722272547",
+    "in_reply_to_user_id": "1809999171669409792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949744995118051615",
+        "type": "quoted"
+      },
+      {
+        "id": "1950055326503350730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shimamura_Tako https://t.co/qRXpnHHPIP https://t.co/uBUiRHAxz9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1949744964994465793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7itykaAAEbZfn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1949984187361976740",
+        "created_at": "2025-07-29T13:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950183760722272547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1809999171669409792",
+              "start": 0,
+              "username": "Shimamura_Tako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/reina__55555/s…",
+              "end": 39,
+              "expanded_url": "https://x.com/reina__55555/status/1949744995118051615",
+              "start": 16,
+              "url": "https://t.co/qRXpnHHPIP"
+            },
+            {
+              "display_url": "x.com/reina__55555/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/reina__55555/status/1949744995118051615",
+              "start": 40,
+              "url": "https://t.co/uBUiRHAxz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950183760722272547",
+        "in_reply_to_user_id": "1809999171669409792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949744995118051615",
+            "type": "quoted"
+          },
+          {
+            "id": "1950055326503350730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shimamura_Tako https://t.co/qRXpnHHPIP https://t.co/uBUiRHAxz9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949744964994465793"
+          ]
+        },
+        "author_id": "1866791720199000069",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1949744995118051615",
+        "created_at": "2025-07-28T08:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T09:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949744995118051615"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "生塩ノア"
+            },
+            {
+              "end": 64,
+              "start": 52,
+              "tag": "bluearchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfyJMpwTXD",
+              "end": 88,
+              "expanded_url": "https://x.com/ReiNa__55555/status/1949744995118051615/photo/1",
+              "media_key": "3_1949744964994465793",
+              "start": 65,
+              "url": "https://t.co/OfyJMpwTXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949744995118051615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3510,
+          "impression_count": 257744,
+          "like_count": 18206,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 1401
+        },
+        "reply_settings": "everyone",
+        "text": "「ノア？先生？どこにいるのー？」\n「しー…。先生…。声を出してはだめですよ…？」\n「……」\n#生塩ノア #bluearchive https://t.co/OfyJMpwTXD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809999171669409792",
+        "conversation_id": "1949984187361976740",
+        "created_at": "2025-07-29T04:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950055326503350730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950055326503350730",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949984187361976740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1263,
+          "like_count": 27092,
+          "listed_count": 7,
+          "media_count": 687,
+          "tweet_count": 11881
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T17:13:35.000Z",
+        "description": "島村田子 / Language: 🇨🇳🇺🇸 / QQ: 1612948730\n不定期更新kig相关内容，欢迎扩列/互fo~\n好后勤👍@SkyCloud_Violin\n好朋友🤗@Quitewaterqwq\nCold Mouse 官网 https://t.co/2Vvzx12Oq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "SkyCloud_Violin"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "Quitewaterqwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "coldmouse.cn",
+                "end": 139,
+                "expanded_url": "http://coldmouse.cn",
+                "start": 116,
+                "url": "https://t.co/2Vvzx12Oq4"
+              }
+            ]
+          }
+        },
+        "id": "1809999171669409792",
+        "location": "中国 山东 威海 🏠环翠区/📷高区",
+        "name": "Shimamura Tako",
+        "pinned_tweet_id": "1949102793681154281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916301503046057984/NK30mcFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 109,
+          "like_count": 6431,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 443
+        },
+        "username": "Shimamura_Tako",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T10:26:55.000Z",
+        "description": "Ai/Stable Diffusion/PS\npatreon:https://t.co/8zNJboqpfn\npixiv:https://t.co/gJhiyO4IGU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/Jp86w",
+                "end": 54,
+                "expanded_url": "https://x.gd/Jp86w",
+                "start": 31,
+                "url": "https://t.co/8zNJboqpfn"
+              },
+              {
+                "display_url": "x.gd/QUNfZ",
+                "end": 84,
+                "expanded_url": "https://x.gd/QUNfZ",
+                "start": 61,
+                "url": "https://t.co/gJhiyO4IGU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/Jp86w",
+                "end": 23,
+                "expanded_url": "https://x.gd/Jp86w",
+                "start": 0,
+                "url": "https://t.co/8zNJboqpfn"
+              }
+            ]
+          }
+        },
+        "id": "1866791720199000069",
+        "name": "ReiNa",
+        "pinned_tweet_id": "1949744995118051615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868609443975553024/bW6doc1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40711,
+          "following_count": 255,
+          "like_count": 0,
+          "listed_count": 186,
+          "media_count": 837,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/8zNJboqpfn",
+        "username": "ReiNa__55555",
+        "verified": true
+      }
+    ]
+  }
+}

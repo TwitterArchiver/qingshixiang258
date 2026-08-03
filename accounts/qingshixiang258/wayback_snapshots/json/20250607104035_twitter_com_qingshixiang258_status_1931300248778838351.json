@@ -1,0 +1,538 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931022177316315137"
+      ],
+      "media_source_tweet_id": [
+        "1931022189978849730"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Painting",
+          "id": "847869659957182464",
+          "name": "Painting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Painting",
+          "id": "847869659957182464",
+          "name": "Painting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1931300248778838351",
+    "created_at": "2025-06-07T10:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T11:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931300248778838351"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Rainy Landscape",
+          "probability": 0.7401,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "704819245",
+          "start": 3,
+          "username": "kznsq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5YFb8el7YQ",
+          "end": 74,
+          "expanded_url": "https://x.com/kznsq/status/1931022189978849730/photo/1",
+          "media_key": "3_1931022177316315137",
+          "start": 51,
+          "url": "https://t.co/5YFb8el7YQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931300248778838351",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931022189978849730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kznsq: Rainy Landscape, My oil painting 12x16\" https://t.co/5YFb8el7YQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2418,
+        "media_key": "3_1931022177316315137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsxecHRXIAEEfik.jpg",
+        "width": 3223
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931022177316315137"
+          ],
+          "media_source_tweet_id": [
+            "1931022189978849730"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1931300248778838351",
+        "created_at": "2025-06-07T10:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931300248778838351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Rainy Landscape",
+              "probability": 0.7401,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "704819245",
+              "start": 3,
+              "username": "kznsq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YFb8el7YQ",
+              "end": 74,
+              "expanded_url": "https://x.com/kznsq/status/1931022189978849730/photo/1",
+              "media_key": "3_1931022177316315137",
+              "start": 51,
+              "url": "https://t.co/5YFb8el7YQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931300248778838351",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931022189978849730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kznsq: Rainy Landscape, My oil painting 12x16\" https://t.co/5YFb8el7YQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931022177316315137"
+          ]
+        },
+        "author_id": "704819245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1931022189978849730",
+        "created_at": "2025-06-06T16:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T17:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931022189978849730"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Rainy Landscape",
+              "probability": 0.6716,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YFb8el7YQ",
+              "end": 63,
+              "expanded_url": "https://x.com/kznsq/status/1931022189978849730/photo/1",
+              "media_key": "3_1931022177316315137",
+              "start": 40,
+              "url": "https://t.co/5YFb8el7YQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931022189978849730",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 3936,
+          "like_count": 445,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Rainy Landscape, My oil painting 12x16\" https://t.co/5YFb8el7YQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1930276431860510793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 1055,
+          "like_count": 23453,
+          "listed_count": 6,
+          "media_count": 584,
+          "tweet_count": 10214
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-19T10:37:30.000Z",
+        "description": "Oil painting artist 🇺🇦 🇬🇧\nSTORE: https://t.co/BCKhTDNOl8\nBuy Me a Coffee: https://t.co/vzLp7kvkSI\nInstagram: https://t.co/5c4CZr6NkS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ARTAndriiFrolov.com",
+                "end": 56,
+                "expanded_url": "https://www.ARTAndriiFrolov.com",
+                "start": 33,
+                "url": "https://t.co/BCKhTDNOl8"
+              },
+              {
+                "display_url": "buymeacoffee.com/kznsq",
+                "end": 97,
+                "expanded_url": "https://www.buymeacoffee.com/kznsq",
+                "start": 74,
+                "url": "https://t.co/vzLp7kvkSI"
+              },
+              {
+                "display_url": "instagram.com/kznsq",
+                "end": 132,
+                "expanded_url": "http://instagram.com/kznsq",
+                "start": 109,
+                "url": "https://t.co/5c4CZr6NkS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ARTAndriiFrolov.com",
+                "end": 23,
+                "expanded_url": "https://www.ARTAndriiFrolov.com",
+                "start": 0,
+                "url": "https://t.co/BCKhTDNOl8"
+              }
+            ]
+          }
+        },
+        "id": "704819245",
+        "location": "Киев",
+        "name": "Andrii Frolov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540249321395871745/a_14PpK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10971,
+          "following_count": 130,
+          "like_count": 38410,
+          "listed_count": 0,
+          "media_count": 2234,
+          "tweet_count": 3440
+        },
+        "url": "https://t.co/BCKhTDNOl8",
+        "username": "kznsq",
+        "verified": false
+      }
+    ]
+  }
+}

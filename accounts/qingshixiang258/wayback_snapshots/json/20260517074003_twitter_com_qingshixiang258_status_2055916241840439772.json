@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2055916241840439772",
+    "created_at": "2026-05-17T07:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055916241840439772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainengine2024…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rainengine2024/status/2055611126877135306",
+          "start": 11,
+          "url": "https://t.co/ZMlVX5rJyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055916241840439772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055611126877135306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我早就说跨圈烂完了😁 https://t.co/ZMlVX5rJyR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2055611121789550592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIb_bJabwAATu-K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2055916241840439772",
+        "created_at": "2026-05-17T07:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055916241840439772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainengine2024…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rainengine2024/status/2055611126877135306",
+              "start": 11,
+              "url": "https://t.co/ZMlVX5rJyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055916241840439772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055611126877135306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我早就说跨圈烂完了😁 https://t.co/ZMlVX5rJyR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055611121789550592"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2055611126877135306",
+        "created_at": "2026-05-16T11:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055611126877135306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUgwJHYCJr",
+              "end": 37,
+              "expanded_url": "https://x.com/RainEngine2024/status/2055611126877135306/photo/1",
+              "media_key": "3_2055611121789550592",
+              "start": 14,
+              "url": "https://t.co/TUgwJHYCJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055611126877135306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3957,
+          "like_count": 61,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你要不看看自己在说什么。。 https://t.co/TUgwJHYCJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 1690,
+          "like_count": 41048,
+          "listed_count": 9,
+          "media_count": 1245,
+          "tweet_count": 20204
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10148,
+          "following_count": 955,
+          "like_count": 88059,
+          "listed_count": 24,
+          "media_count": 1739,
+          "tweet_count": 12198
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

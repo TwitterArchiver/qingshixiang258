@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056044819311628452",
+    "created_at": "2026-05-17T17:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056060275732935157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943361769814261760",
+          "start": 0,
+          "username": "sadsadcatc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056060275732935157",
+    "in_reply_to_user_id": "1943361769814261760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056044819311628452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadsadcatc 卡牌游戏一般都是收卡，很少开盒的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2056044791490871297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiJ2C8bAAEvMe_.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2056044791490904064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiJ2C8bgAAR9wB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056044819311628452",
+        "created_at": "2026-05-17T17:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056060275732935157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943361769814261760",
+              "start": 0,
+              "username": "sadsadcatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056060275732935157",
+        "in_reply_to_user_id": "1943361769814261760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056044819311628452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadsadcatc 卡牌游戏一般都是收卡，很少开盒的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056044791490871297",
+            "3_2056044791490904064"
+          ]
+        },
+        "author_id": "1943361769814261760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056044819311628452",
+        "created_at": "2026-05-17T16:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056044819311628452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEtTQdRwBb",
+              "end": 66,
+              "expanded_url": "https://x.com/sadsadcatc/status/2056044819311628452/photo/1",
+              "media_key": "3_2056044791490871297",
+              "start": 43,
+              "url": "https://t.co/TEtTQdRwBb"
+            },
+            {
+              "display_url": "pic.x.com/TEtTQdRwBb",
+              "end": 66,
+              "expanded_url": "https://x.com/sadsadcatc/status/2056044819311628452/photo/1",
+              "media_key": "3_2056044791490904064",
+              "start": 43,
+              "url": "https://t.co/TEtTQdRwBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056044819311628452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "300变30的超级魔术喵😭，ur是硬币包里出的\n想入坑ptcg，有没有大手子带带我喵 https://t.co/TEtTQdRwBb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 1689,
+          "like_count": 41078,
+          "listed_count": 9,
+          "media_count": 1246,
+          "tweet_count": 20241
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "This story is not end yet,because only you are in the loop of infinity\n愿世界化作所有人同等幸福的地狱\n请和我交朋友|非人类｜电波系|低精力｜苟活｜坠入无光之海｜飘散凋零｜生杀予夺｜持证含糖｜猎杀对决｜长居武汉，04年｜请用你的剑刺穿我的心脏｜魔法使",
+        "id": "1943361769814261760",
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "1992185242896282091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054887710725484544/mXCHCwKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 1017,
+          "like_count": 16441,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 5450
+        },
+        "username": "sadsadcatc",
+        "verified": false
+      }
+    ]
+  }
+}

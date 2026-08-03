@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2067877998200803583",
+    "created_at": "2026-06-19T11:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067926127461748911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249196140936884224",
+          "start": 0,
+          "username": "sumeng_kelami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067926127461748911",
+    "in_reply_to_user_id": "1249196140936884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067883946231365645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumeng_kelami 那…对不起对不起对不起"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067883946231365645].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067883946231365645",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067883946231365645"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2067877998200803583",
+        "created_at": "2026-06-19T11:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067926127461748911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249196140936884224",
+              "start": 0,
+              "username": "sumeng_kelami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067926127461748911",
+        "in_reply_to_user_id": "1249196140936884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067883946231365645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumeng_kelami 那…对不起对不起对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1694,
+          "like_count": 43682,
+          "listed_count": 10,
+          "media_count": 1318,
+          "tweet_count": 21126
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-12T04:42:35.000Z",
+        "description": "总有人间一两风，填我十万八个梦",
+        "id": "1249196140936884224",
+        "location": "百灶",
+        "name": "熟睡中的小小兰",
+        "pinned_tweet_id": "1970071180213379520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061258957029793792/ZikjGmZe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 195,
+          "like_count": 5778,
+          "listed_count": 1,
+          "media_count": 727,
+          "tweet_count": 3660
+        },
+        "url": "",
+        "username": "sumeng_kelami",
+        "verified": false
+      }
+    ]
+  }
+}

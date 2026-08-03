@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1986301983326892366",
+    "created_at": "2025-11-06T06:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T07:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986324607100723668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1338048339930071040",
+          "start": 0,
+          "username": "konoGuanine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986324607100723668",
+    "in_reply_to_user_id": "1338048339930071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986320423144100055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konoGuanine 00年能出国留学其实已经很成功了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1986301983326892366",
+        "created_at": "2025-11-06T06:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986324607100723668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1338048339930071040",
+              "start": 0,
+              "username": "konoGuanine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986324607100723668",
+        "in_reply_to_user_id": "1338048339930071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986320423144100055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoGuanine 00年能出国留学其实已经很成功了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1338048339930071040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1986301983326892366",
+        "created_at": "2025-11-06T06:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T07:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986320423144100055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986320423144100055",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986301983326892366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 00年出去留学有几个不成功的\n回国招摇撞骗的都能成功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1413,
+          "like_count": 33611,
+          "listed_count": 7,
+          "media_count": 921,
+          "tweet_count": 14925
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-13T09:09:29.000Z",
+        "description": "Ich dien|\na failed pharmacist ｜EN,CN,Cantonese",
+        "id": "1338048339930071040",
+        "location": "Macao",
+        "name": "roseae",
+        "pinned_tweet_id": "1497453314107064322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766750498974302208/VdL3gW9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1402,
+          "like_count": 33523,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 4959
+        },
+        "username": "konoGuanine",
+        "verified": false
+      }
+    ]
+  }
+}

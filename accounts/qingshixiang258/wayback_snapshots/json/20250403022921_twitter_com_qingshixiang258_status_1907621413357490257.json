@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1907608777781813297",
+    "created_at": "2025-04-03T02:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907621413357490257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907621413357490257",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907608777781813297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 居然有我诶❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1907608775533723648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnkwEwwbAAAHtRU.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1907608777781813297",
+        "created_at": "2025-04-03T02:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907621413357490257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907621413357490257",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907608777781813297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 居然有我诶❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907608775533723648"
+          ]
+        },
+        "author_id": "1693935285577670656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1907608777781813297",
+        "created_at": "2025-04-03T01:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T02:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907608777781813297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1906251370073927680/R8ipQ7fc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1906251370073927680/R8ipQ7fc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Cj1WLuyzfq"
+            },
+            {
+              "display_url": "pic.x.com/DZ0XTAsAok",
+              "end": 64,
+              "expanded_url": "https://x.com/MinaseAyano/status/1907608777781813297/photo/1",
+              "media_key": "3_1907608775533723648",
+              "start": 41,
+              "url": "https://t.co/DZ0XTAsAok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907608777781813297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Cj1WLuyzfq https://t.co/DZ0XTAsAok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907091660737318912/kl6dJKVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 595,
+          "like_count": 13630,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5713
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF 🍥24.3.14\n丑逼 炸柜 不键政 OI废物 会骂人\n最爱的姐姐&老婆&狗狗@Kisaragi_Momoe\n杂鱼❤@_Tojita_Sekai\n妈咪@Aurora71310\n姐姐@mirekintoc\n可爱妹妹@xiaoeiQAQ\n里推（负能@Yumo_1314\n可以私信找我交换明信片哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 81,
+                "start": 67,
+                "username": "_Tojita_Sekai"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Aurora71310"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "xiaoeiQAQ"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano",
+                "start": 0,
+                "url": "https://t.co/vdyPufHjYv"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "猫窝",
+        "name": "綾乃𝐴𝑦𝑎𝑛𝑜🍋‍🟩",
+        "pinned_tweet_id": "1905603554846327114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 1449,
+          "like_count": 3994,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 4989
+        },
+        "url": "https://t.co/vdyPufHjYv",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

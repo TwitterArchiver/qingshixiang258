@@ -1,0 +1,755 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072079704589312000",
+        "3_2072079704631160832",
+        "3_2072079704656404480",
+        "3_2072079704652181504"
+      ],
+      "media_source_tweet_id": [
+        "2072079739414548510",
+        "2072079739414548510",
+        "2072079739414548510",
+        "2072079739414548510"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2076154318030610558",
+    "created_at": "2026-07-12T03:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076154318030610558"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "Firefly"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "Robin"
+        },
+        {
+          "end": 54,
+          "start": 39,
+          "tag": "HonkaiStarRail"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1924974225812815874",
+          "start": 3,
+          "username": "Stormiaai2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uQZkU5VdAV",
+          "end": 78,
+          "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+          "media_key": "3_2072079704589312000",
+          "start": 55,
+          "url": "https://t.co/uQZkU5VdAV"
+        },
+        {
+          "display_url": "pic.x.com/uQZkU5VdAV",
+          "end": 78,
+          "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+          "media_key": "3_2072079704631160832",
+          "start": 55,
+          "url": "https://t.co/uQZkU5VdAV"
+        },
+        {
+          "display_url": "pic.x.com/uQZkU5VdAV",
+          "end": 78,
+          "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+          "media_key": "3_2072079704656404480",
+          "start": 55,
+          "url": "https://t.co/uQZkU5VdAV"
+        },
+        {
+          "display_url": "pic.x.com/uQZkU5VdAV",
+          "end": 78,
+          "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+          "media_key": "3_2072079704652181504",
+          "start": 55,
+          "url": "https://t.co/uQZkU5VdAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076154318030610558",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072079739414548510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stormiaai2: Chudai\n#Firefly #Robin #HonkaiStarRail https://t.co/uQZkU5VdAV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072079704589312000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGBg1JXoAAZY_v.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2072079704631160832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGBg1TWMAAnGf_.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2432,
+        "media_key": "3_2072079704656404480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGBg1ZXYAAFhiR.jpg",
+        "width": 1664
+      },
+      {
+        "height": 1664,
+        "media_key": "3_2072079704652181504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGBg1YW8AAVhIQ.jpg",
+        "width": 2432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072079704589312000",
+            "3_2072079704631160832",
+            "3_2072079704656404480",
+            "3_2072079704652181504"
+          ],
+          "media_source_tweet_id": [
+            "2072079739414548510",
+            "2072079739414548510",
+            "2072079739414548510",
+            "2072079739414548510"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2076154318030610558",
+        "created_at": "2026-07-12T03:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076154318030610558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "Firefly"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "Robin"
+            },
+            {
+              "end": 54,
+              "start": 39,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1924974225812815874",
+              "start": 3,
+              "username": "Stormiaai2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQZkU5VdAV",
+              "end": 78,
+              "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+              "media_key": "3_2072079704589312000",
+              "start": 55,
+              "url": "https://t.co/uQZkU5VdAV"
+            },
+            {
+              "display_url": "pic.x.com/uQZkU5VdAV",
+              "end": 78,
+              "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+              "media_key": "3_2072079704631160832",
+              "start": 55,
+              "url": "https://t.co/uQZkU5VdAV"
+            },
+            {
+              "display_url": "pic.x.com/uQZkU5VdAV",
+              "end": 78,
+              "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+              "media_key": "3_2072079704656404480",
+              "start": 55,
+              "url": "https://t.co/uQZkU5VdAV"
+            },
+            {
+              "display_url": "pic.x.com/uQZkU5VdAV",
+              "end": 78,
+              "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+              "media_key": "3_2072079704652181504",
+              "start": 55,
+              "url": "https://t.co/uQZkU5VdAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076154318030610558",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072079739414548510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stormiaai2: Chudai\n#Firefly #Robin #HonkaiStarRail https://t.co/uQZkU5VdAV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072079704589312000",
+            "3_2072079704631160832",
+            "3_2072079704656404480",
+            "3_2072079704652181504"
+          ]
+        },
+        "author_id": "1924974225812815874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2072079739414548510",
+        "created_at": "2026-06-30T22:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072079739414548510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "Firefly"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "Robin"
+            },
+            {
+              "end": 38,
+              "start": 23,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQZkU5VdAV",
+              "end": 62,
+              "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+              "media_key": "3_2072079704589312000",
+              "start": 39,
+              "url": "https://t.co/uQZkU5VdAV"
+            },
+            {
+              "display_url": "pic.x.com/uQZkU5VdAV",
+              "end": 62,
+              "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+              "media_key": "3_2072079704631160832",
+              "start": 39,
+              "url": "https://t.co/uQZkU5VdAV"
+            },
+            {
+              "display_url": "pic.x.com/uQZkU5VdAV",
+              "end": 62,
+              "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+              "media_key": "3_2072079704656404480",
+              "start": 39,
+              "url": "https://t.co/uQZkU5VdAV"
+            },
+            {
+              "display_url": "pic.x.com/uQZkU5VdAV",
+              "end": 62,
+              "expanded_url": "https://x.com/Stormiaai2/status/2072079739414548510/photo/1",
+              "media_key": "3_2072079704652181504",
+              "start": 39,
+              "url": "https://t.co/uQZkU5VdAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072079739414548510",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 583,
+          "impression_count": 30196,
+          "like_count": 1603,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "Chudai\n#Firefly #Robin #HonkaiStarRail https://t.co/uQZkU5VdAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 1685,
+          "like_count": 44519,
+          "listed_count": 10,
+          "media_count": 1346,
+          "tweet_count": 21368
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:43:19.000Z",
+        "description": "P@tre0n: https://t.co/bUMQG68kqz \nP1xiv: https://t.co/LAhYk8CgDZ\nUnifans: https://t.co/Bfm3VGRisQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Stormiaai",
+                "end": 32,
+                "expanded_url": "http://patreon.com/Stormiaai",
+                "start": 9,
+                "url": "https://t.co/bUMQG68kqz"
+              },
+              {
+                "display_url": "pixiv.net/en/users/11639…",
+                "end": 64,
+                "expanded_url": "https://www.pixiv.net/en/users/116394695",
+                "start": 41,
+                "url": "https://t.co/LAhYk8CgDZ"
+              },
+              {
+                "display_url": "app.unifans.io/c/stormiaart",
+                "end": 97,
+                "expanded_url": "https://app.unifans.io/c/stormiaart",
+                "start": 74,
+                "url": "https://t.co/Bfm3VGRisQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Stormiaai",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Stormiaai",
+                "start": 0,
+                "url": "https://t.co/QnoZ8rrvK1"
+              }
+            ]
+          }
+        },
+        "id": "1924974225812815874",
+        "name": "StormiaNSFW",
+        "pinned_tweet_id": "2076074189442711703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979301160528805888/uO2yVgro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64552,
+          "following_count": 182,
+          "like_count": 7077,
+          "listed_count": 199,
+          "media_count": 875,
+          "tweet_count": 104196
+        },
+        "url": "https://t.co/QnoZ8rrvK1",
+        "username": "Stormiaai2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1994597260089557312",
+    "created_at": "2025-11-29T16:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T17:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994804346371149894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530699087133421568",
+          "start": 0,
+          "username": "SpicyspacEmk16"
+        },
+        {
+          "end": 24,
+          "id": "1894285195651813378",
+          "start": 16,
+          "username": "zhu6hua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994804346371149894",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994734631615361278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyspacEmk16 @zhu6hua 死了之后大概率成不了中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1994597260089557312",
+        "created_at": "2025-11-29T16:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994804346371149894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 24,
+              "id": "1894285195651813378",
+              "start": 16,
+              "username": "zhu6hua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994804346371149894",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994734631615361278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 @zhu6hua 死了之后大概率成不了中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1994597260089557312",
+        "created_at": "2025-11-29T11:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994734631615361278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "zhu6hua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994734631615361278",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994733214418833485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu6hua 如果真可以  我一定跳 可是这是中国 我怕死了还没逃出去 又变成中国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1447,
+          "like_count": 34858,
+          "listed_count": 8,
+          "media_count": 950,
+          "tweet_count": 15579
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 1337,
+          "like_count": 89591,
+          "listed_count": 3,
+          "media_count": 681,
+          "tweet_count": 8511
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔萌萌类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu（懒得用）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "相信咱妈的坂下六花",
+        "pinned_tweet_id": "1895423372273819659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980630508888309761/OaPkCsBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 1198,
+          "like_count": 12777,
+          "listed_count": 7,
+          "media_count": 121,
+          "tweet_count": 8680
+        },
+        "username": "zhu6hua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1978633382864294241",
+    "created_at": "2025-10-16T05:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978698744158691754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978698744158691754",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978690277326946384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi ;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1978633382864294241",
+        "created_at": "2025-10-16T05:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978698744158691754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978698744158691754",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978690277326946384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi ;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657288224451203073",
+        "conversation_id": "1978633382864294241",
+        "created_at": "2025-10-16T05:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978690277326946384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978690277326946384",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978633382864294241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 •ᴗ•"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1369,
+          "like_count": 31921,
+          "listed_count": 7,
+          "media_count": 857,
+          "tweet_count": 14329
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "耶耶的主人@_NekoMoonLight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "_NekoMoonLight"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973665601962037248/go6TumTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 627,
+          "like_count": 54108,
+          "listed_count": 6,
+          "media_count": 407,
+          "tweet_count": 14000
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

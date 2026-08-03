@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056665996849782848",
+    "created_at": "2026-05-19T09:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056669849066381682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489034449199190017",
+          "start": 0,
+          "username": "Pigeon_Yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056669849066381682",
+    "in_reply_to_user_id": "1489034449199190017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056669745693536284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigeon_Yi 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056665996849782848",
+        "created_at": "2026-05-19T09:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056669849066381682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056669849066381682",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056669745693536284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Yi 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489034449199190017",
+        "conversation_id": "2056665996849782848",
+        "created_at": "2026-05-19T09:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056669745693536284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056669745693536284",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056669529850458142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 😭我可以狠心的！\n当然事后aftercare可能会安慰完你之后你安慰我了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1686,
+          "like_count": 41266,
+          "listed_count": 9,
+          "media_count": 1249,
+          "tweet_count": 20289
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 657,
+          "like_count": 8326,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 2624
+        },
+        "username": "Pigeon_Yi",
+        "verified": true
+      }
+    ]
+  }
+}

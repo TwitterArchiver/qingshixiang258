@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1983024225809301504"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      }
+    ],
+    "conversation_id": "1983024342670942618",
+    "created_at": "2025-10-28T04:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T05:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983024342670942618"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 0,
+          "tag": "warhammer40000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zU1CVm8sXT",
+          "end": 39,
+          "expanded_url": "https://x.com/qingshixiang258/status/1983024342670942618/video/1",
+          "media_key": "13_1983024225809301504",
+          "start": 16,
+          "url": "https://t.co/zU1CVm8sXT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983024342670942618",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#warhammer40000 https://t.co/zU1CVm8sXT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11451,
+        "height": 642,
+        "media_key": "13_1983024225809301504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983024225809301504/img/QZhT3iLaCRkS_JhI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983024225809301504/vid/avc1/372x270/UlNvmvnE5I1XjRR0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983024225809301504/vid/avc1/496x360/NYOL_MTk4dlo0vWd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983024225809301504/vid/avc1/886x642/6gxc1XYKWgQ4bLfc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983024225809301504/pl/au2PjeJWgN94U4oy.m3u8"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983024225809301504"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "1983024342670942618",
+        "created_at": "2025-10-28T04:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983024342670942618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "warhammer40000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zU1CVm8sXT",
+              "end": 39,
+              "expanded_url": "https://x.com/qingshixiang258/status/1983024342670942618/video/1",
+              "media_key": "13_1983024225809301504",
+              "start": 16,
+              "url": "https://t.co/zU1CVm8sXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983024342670942618",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#warhammer40000 https://t.co/zU1CVm8sXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1391,
+          "like_count": 32704,
+          "listed_count": 7,
+          "media_count": 895,
+          "tweet_count": 14623
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

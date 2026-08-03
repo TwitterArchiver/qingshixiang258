@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925111866407416164",
+    "created_at": "2025-05-21T10:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T11:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925134981766205676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864921094005940224",
+          "start": 0,
+          "username": "hotcat9269_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925134981766205676",
+    "in_reply_to_user_id": "1864921094005940224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925133454926369074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hotcat9269_ 蹭～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1925111866407416164",
+        "created_at": "2025-05-21T10:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925134981766205676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864921094005940224",
+              "start": 0,
+              "username": "hotcat9269_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925134981766205676",
+        "in_reply_to_user_id": "1864921094005940224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925133454926369074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hotcat9269_ 蹭～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864921094005940224",
+        "conversation_id": "1925111866407416164",
+        "created_at": "2025-05-21T10:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925133454926369074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925133454926369074",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925111866407416164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 蹭蹭臉🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 981,
+          "like_count": 21060,
+          "listed_count": 5,
+          "media_count": 385,
+          "tweet_count": 9144
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T06:33:47.000Z",
+        "description": "2代目帳號 | 前世：@hotcat9269_2 | 種族：魔族 | 頭像是本人 |  地理愛好家 | 歡迎貼貼喵😽 | 寶寶：@gravityswiss @Mikhail_712 | 奈緒醬(小號)：@KomaneNao | 地理號：@geohotcat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "hotcat9269_2"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "gravityswiss"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Mikhail_712"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "KomaneNao"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "geohotcat"
+              }
+            ]
+          }
+        },
+        "id": "1864921094005940224",
+        "location": "距離你-3cm",
+        "name": "番原萌香💜🌸⛩️✨𝔹𝕒𝕟𝕓𝕒𝕣𝕒 𝕄𝕠𝕖𝕜𝕒✨",
+        "pinned_tweet_id": "1885263016398381473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885923533169328128/YHR7_E8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 1185,
+          "like_count": 42686,
+          "listed_count": 6,
+          "media_count": 453,
+          "tweet_count": 6828
+        },
+        "username": "hotcat9269_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1993522647460986882"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1993522794743972000",
+    "created_at": "2025-11-26T03:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993522794743972000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ESKJpsyyH6",
+          "end": 39,
+          "expanded_url": "https://x.com/qingshixiang258/status/1993522794743972000/video/1",
+          "media_key": "13_1993522647460986882",
+          "start": 16,
+          "url": "https://t.co/ESKJpsyyH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993522794743972000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆包还是有用的，老将军和欧拜伦 https://t.co/ESKJpsyyH6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10041,
+        "height": 720,
+        "media_key": "13_1993522647460986882",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993522647460986882/img/E2G9VfCKUCXBDFBV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993522647460986882/vid/avc1/320x320/NOu_h7g52dEZoFWl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993522647460986882/vid/avc1/540x540/b6WBfXGBWvCY1Rc4.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993522647460986882/vid/avc1/720x720/CT07apo9CTeFLxAg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993522647460986882/pl/agY3mchK-AU6BHCA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993522647460986882"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1993522794743972000",
+        "created_at": "2025-11-26T03:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993522794743972000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESKJpsyyH6",
+              "end": 39,
+              "expanded_url": "https://x.com/qingshixiang258/status/1993522794743972000/video/1",
+              "media_key": "13_1993522647460986882",
+              "start": 16,
+              "url": "https://t.co/ESKJpsyyH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993522794743972000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包还是有用的，老将军和欧拜伦 https://t.co/ESKJpsyyH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 1427,
+          "like_count": 34708,
+          "listed_count": 8,
+          "media_count": 942,
+          "tweet_count": 15448
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

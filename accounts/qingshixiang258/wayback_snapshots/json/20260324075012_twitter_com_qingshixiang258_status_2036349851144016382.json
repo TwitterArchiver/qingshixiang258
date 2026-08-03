@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2036094969845531002",
+    "created_at": "2026-03-24T07:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036349851144016382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036349851144016382",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036094969845531002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical 怎么那么酷"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036094969845531002].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2036094969845531002",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2036094969845531002"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2036094969845531002",
+        "created_at": "2026-03-24T07:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036349851144016382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036349851144016382",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036094969845531002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical 怎么那么酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 1612,
+          "like_count": 39014,
+          "listed_count": 8,
+          "media_count": 1156,
+          "tweet_count": 19211
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "男|台中人|時政基本評論|生活推為主|建制習派|威權份子|暫退役男|藍綠白和無腦粉紅勿擾\n我最喜歡的人♥️ @awaandqwq\n好哥們@AyanamiRikako 廚子@GlunekiKCA  小綠@lamte15072 老保之友 @caswerlebel05好朋友@Tinkles_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "awaandqwq"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "AyanamiRikako"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "lamte15072"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "caswerlebel05"
+              },
+              {
+                "end": 143,
+                "start": 134,
+                "username": "Tinkles_"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1959219877324947468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035952620830085120/pfQWx-x6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20602,
+          "following_count": 2944,
+          "like_count": 318161,
+          "listed_count": 33,
+          "media_count": 6043,
+          "tweet_count": 61181
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

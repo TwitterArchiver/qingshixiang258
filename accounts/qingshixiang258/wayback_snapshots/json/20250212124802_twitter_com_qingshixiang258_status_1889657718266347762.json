@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1889653854184017940",
+    "created_at": "2025-02-12T12:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T13:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889657718266347762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1761356959431925760",
+          "start": 0,
+          "username": "zhweaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889657718266347762",
+    "in_reply_to_user_id": "1761356959431925760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889657561017634920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhweaa wc，zhiwei老师你大号怎么4️⃣了😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1889653854184017940",
+        "created_at": "2025-02-12T12:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889657718266347762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1761356959431925760",
+              "start": 0,
+              "username": "zhweaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889657718266347762",
+        "in_reply_to_user_id": "1761356959431925760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889657561017634920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhweaa wc，zhiwei老师你大号怎么4️⃣了😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761356959431925760",
+        "conversation_id": "1889653854184017940",
+        "created_at": "2025-02-12T12:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889657561017634920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889657561017634920",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889655600868421967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍊🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 826,
+          "like_count": 8363,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 3402
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:48:04.000Z",
+        "description": "写着玩玩的🙃🤚 请重定向到我的大号：@saonanaa 通过iMessage联系我：elictop@icloud.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "saonanaa"
+              }
+            ]
+          }
+        },
+        "id": "1761356959431925760",
+        "location": "千年商港",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843962920012795904/iSqECHYN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 27,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 270
+        },
+        "username": "zhweaa",
+        "verified": false
+      }
+    ]
+  }
+}

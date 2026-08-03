@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2071423075137294842",
+    "created_at": "2026-06-29T02:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071424063172690360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1739811571449434112",
+          "start": 0,
+          "username": "101101y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071424063172690360",
+    "in_reply_to_user_id": "1739811571449434112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071423075137294842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@101101y 老大，我们直接吧退休的人全毙了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071423069193920512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8sTnraYAA3EwZ.jpg",
+        "width": 918
+      },
+      {
+        "height": 1959,
+        "media_key": "3_2071423069210677248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8sTnvaEAAVzml.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2071423075137294842",
+        "created_at": "2026-06-29T02:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071424063172690360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1739811571449434112",
+              "start": 0,
+              "username": "101101y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071424063172690360",
+        "in_reply_to_user_id": "1739811571449434112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071423075137294842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@101101y 老大，我们直接吧退休的人全毙了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071423069193920512",
+            "3_2071423069210677248"
+          ]
+        },
+        "author_id": "1739811571449434112",
+        "conversation_id": "2071423075137294842",
+        "created_at": "2026-06-29T02:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071423075137294842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4NT4MsQg2",
+              "end": 27,
+              "expanded_url": "https://x.com/101101y/status/2071423075137294842/photo/1",
+              "media_key": "3_2071423069193920512",
+              "start": 4,
+              "url": "https://t.co/X4NT4MsQg2"
+            },
+            {
+              "display_url": "pic.x.com/X4NT4MsQg2",
+              "end": 27,
+              "expanded_url": "https://x.com/101101y/status/2071423075137294842/photo/1",
+              "media_key": "3_2071423069210677248",
+              "start": 4,
+              "url": "https://t.co/X4NT4MsQg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071423075137294842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（思考 https://t.co/X4NT4MsQg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071265514597519361/MXKHALWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 1690,
+          "like_count": 44191,
+          "listed_count": 10,
+          "media_count": 1325,
+          "tweet_count": 21242
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T00:53:15.000Z",
+        "description": "ENTP-A/欢迎找我哦， 这边是无聊路过的奶龙、\n会比较高频发推，直接私信就好，最后我不月抛、我不键政，我不混字母圈，不搞4i，我是直的，我没有宗教信仰，我不互看，旁边是ngl可以随便问 … 小号@meow1101111011（只过眼熟互关别乱发申请了🙏）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 99,
+                "username": "meow1101111011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%87%9D%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%87%9D%E5%87%9D",
+                "start": 0,
+                "url": "https://t.co/vDa6VJQYiF"
+              }
+            ]
+          }
+        },
+        "id": "1739811571449434112",
+        "location": "奶龙大学耄耋学部大一在读🚪114514",
+        "name": "猪猪侠｜姐姐同城超人强免费",
+        "pinned_tweet_id": "2064685405786767501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029928777707663360/WV9xbIAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 1205,
+          "like_count": 32390,
+          "listed_count": 7,
+          "media_count": 1571,
+          "tweet_count": 9550
+        },
+        "url": "https://t.co/vDa6VJQYiF",
+        "username": "101101y",
+        "verified": false
+      }
+    ]
+  }
+}

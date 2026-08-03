@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2049302487920730430",
+    "created_at": "2026-04-29T02:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049316287567077842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870923176420458496",
+          "start": 0,
+          "username": "VoteForASI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049316287567077842",
+    "in_reply_to_user_id": "1870923176420458496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049302487920730430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoteForASI 恭喜🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2049302487920730430",
+        "created_at": "2026-04-29T02:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049316287567077842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870923176420458496",
+              "start": 0,
+              "username": "VoteForASI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049316287567077842",
+        "in_reply_to_user_id": "1870923176420458496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049302487920730430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoteForASI 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870923176420458496",
+        "conversation_id": "2049302487920730430",
+        "created_at": "2026-04-29T01:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049302487920730430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VoteForASI/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/VoteForASI/status/2019227363205402880",
+              "start": 2,
+              "url": "https://t.co/YnXiUMkKms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049302487920730430",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019227363205402880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/YnXiUMkKms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 1656,
+          "like_count": 39881,
+          "listed_count": 9,
+          "media_count": 1208,
+          "tweet_count": 19641
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T20:04:05.000Z",
+        "description": "隆帅吃药了(某人他妹)",
+        "id": "1870923176420458496",
+        "name": "氰予米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049306267886469121/YEJiUlte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 129,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 34
+        },
+        "username": "VoteForASI",
+        "verified": false
+      }
+    ]
+  }
+}

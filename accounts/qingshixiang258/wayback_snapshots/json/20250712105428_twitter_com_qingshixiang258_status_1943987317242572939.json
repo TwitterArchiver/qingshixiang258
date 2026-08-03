@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1943812856991952968",
+    "created_at": "2025-07-12T10:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T11:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943987317242572939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "23197277",
+          "start": 0,
+          "username": "BloodyRedBaron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943987317242572939",
+    "in_reply_to_user_id": "23197277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943812856991952968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BloodyRedBaron 酷！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1943812830865563648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnPeI2WoAApGkI.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1943812856991952968",
+        "created_at": "2025-07-12T10:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T11:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943987317242572939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "23197277",
+              "start": 0,
+              "username": "BloodyRedBaron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943987317242572939",
+        "in_reply_to_user_id": "23197277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943812856991952968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BloodyRedBaron 酷！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943812830865563648"
+          ]
+        },
+        "author_id": "23197277",
+        "conversation_id": "1943812856991952968",
+        "created_at": "2025-07-11T23:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T00:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943812856991952968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2XrSjD06a",
+              "end": 23,
+              "expanded_url": "https://x.com/BloodyRedBaron/status/1943812856991952968/photo/1",
+              "media_key": "3_1943812830865563648",
+              "start": 0,
+              "url": "https://t.co/a2XrSjD06a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943812856991952968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 502,
+          "impression_count": 110374,
+          "like_count": 7470,
+          "quote_count": 67,
+          "reply_count": 294,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a2XrSjD06a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1200,
+          "like_count": 25650,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 11229
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-07T14:37:40.000Z",
+        "description": "Creator of Nexus and Badger, writer for Marvel and DC, novelist. https://t.co/LoLRyARpmc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mikebaron",
+                "end": 88,
+                "expanded_url": "https://linktr.ee/mikebaron",
+                "start": 65,
+                "url": "https://t.co/LoLRyARpmc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bloodyredbaron.com",
+                "end": 23,
+                "expanded_url": "http://www.bloodyredbaron.com",
+                "start": 0,
+                "url": "https://t.co/WQHzSFXA6v"
+              }
+            ]
+          }
+        },
+        "id": "23197277",
+        "location": "Fort Collins, CO",
+        "name": "Mike Baron",
+        "pinned_tweet_id": "1906371885337649198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913751180775456768/TzCxrmGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14328,
+          "following_count": 3713,
+          "like_count": 36144,
+          "listed_count": 125,
+          "media_count": 14952,
+          "tweet_count": 41853
+        },
+        "url": "https://t.co/WQHzSFXA6v",
+        "username": "BloodyRedBaron",
+        "verified": true
+      }
+    ]
+  }
+}

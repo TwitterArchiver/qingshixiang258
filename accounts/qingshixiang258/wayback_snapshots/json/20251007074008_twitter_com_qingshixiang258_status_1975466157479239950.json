@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1975364621008814443",
+    "created_at": "2025-10-07T07:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T08:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975466157479239950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874680837322706945",
+          "start": 0,
+          "username": "NineteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975466157479239950",
+    "in_reply_to_user_id": "1874680837322706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975364621008814443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NineteenYizuka 哎，18岁跟小孩似的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1975364621008814443].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1975364621008814443",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1975364621008814443"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1975364621008814443",
+        "created_at": "2025-10-07T07:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T08:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975466157479239950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874680837322706945",
+              "start": 0,
+              "username": "NineteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975466157479239950",
+        "in_reply_to_user_id": "1874680837322706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975364621008814443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NineteenYizuka 哎，18岁跟小孩似的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 1348,
+          "like_count": 31546,
+          "listed_count": 7,
+          "media_count": 841,
+          "tweet_count": 14142
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T04:55:43.000Z",
+        "description": "これは@JyushitiYizukaの脱出ポッド｜查成分后放行，只fo熟悉的人｜会存放一些主帐号不想发的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "JyushitiYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1874680837322706945",
+        "location": "距离你17m",
+        "name": "JYUKYU拾玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911010527930703872/Urwbufmp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 117,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 117
+        },
+        "username": "NineteenYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

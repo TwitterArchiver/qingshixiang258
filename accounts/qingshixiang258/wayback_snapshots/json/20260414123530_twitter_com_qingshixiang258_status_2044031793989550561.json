@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2044014207981760771",
+    "created_at": "2026-04-14T12:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044031793989550561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1724601197158678528",
+          "start": 0,
+          "username": "WandeFox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044031793989550561",
+    "in_reply_to_user_id": "1724601197158678528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044014207981760771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WandeFox 怎么还有黑桃呀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2044014207981760771].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2044014207981760771",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2044014207981760771"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2044014207981760771",
+        "created_at": "2026-04-14T12:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044031793989550561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724601197158678528",
+              "start": 0,
+              "username": "WandeFox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044031793989550561",
+        "in_reply_to_user_id": "1724601197158678528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044014207981760771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WandeFox 怎么还有黑桃呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036458243548160000/Ep8lH3X5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 1588,
+          "like_count": 39025,
+          "listed_count": 8,
+          "media_count": 1165,
+          "tweet_count": 19305
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T01:32:56.000Z",
+        "description": "羽砚@YuYan_Boom的避难所 这边不进行任何互动，这里只是个莫得感情的发图机器 如果你在我不熟悉的情况下锁推了，我大概率会双取下😂不然被不知道的人看着我会心里毛毛的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "YuYan_Boom"
+              }
+            ]
+          }
+        },
+        "id": "1724601197158678528",
+        "name": "这是谁家狐狸🦊（YuYan 重生中",
+        "pinned_tweet_id": "1921570822268817743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912090206565531648/-weGwefc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 91,
+          "like_count": 729,
+          "listed_count": 4,
+          "media_count": 85,
+          "tweet_count": 640
+        },
+        "username": "WandeFox",
+        "verified": false
+      }
+    ]
+  }
+}

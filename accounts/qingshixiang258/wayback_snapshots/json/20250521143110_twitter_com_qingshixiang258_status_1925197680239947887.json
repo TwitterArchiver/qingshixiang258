@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925122360832913876",
+    "created_at": "2025-05-21T14:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T15:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925197680239947887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742533733495050240",
+          "start": 0,
+          "username": "thecute_8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925197680239947887",
+    "in_reply_to_user_id": "1742533733495050240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925197331559055749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thecute_8 oh，不香了（悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1925122360832913876",
+        "created_at": "2025-05-21T14:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T15:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925197680239947887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742533733495050240",
+              "start": 0,
+              "username": "thecute_8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925197680239947887",
+        "in_reply_to_user_id": "1742533733495050240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925197331559055749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thecute_8 oh，不香了（悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742533733495050240",
+        "conversation_id": "1925122360832913876",
+        "created_at": "2025-05-21T14:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T15:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925197331559055749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925197331559055749",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925122360832913876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 现在变成1154了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 985,
+          "like_count": 21119,
+          "listed_count": 5,
+          "media_count": 388,
+          "tweet_count": 9163
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T13:10:07.000Z",
+        "description": "The Cute Official Account!Welcome!I am an undergraduate.Besides, I love watching animations and reading comics.Welcome anime enthusiasts to follow me.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/thecute_8",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/thecute_8",
+                "start": 0,
+                "url": "https://t.co/qbPs7nva2N"
+              }
+            ]
+          }
+        },
+        "id": "1742533733495050240",
+        "location": "Chinese Mainland （中国大陆）",
+        "name": "The Cute 可爱生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744211025220796416/KkkOrv8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 297,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/qbPs7nva2N",
+        "username": "thecute_8",
+        "verified": false
+      }
+    ]
+  }
+}

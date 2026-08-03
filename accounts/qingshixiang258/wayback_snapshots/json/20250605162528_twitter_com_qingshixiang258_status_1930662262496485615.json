@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1930659194837119262",
+    "created_at": "2025-06-05T16:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T17:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930662262496485615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677735473056460800",
+          "start": 0,
+          "username": "kana13141314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930662262496485615",
+    "in_reply_to_user_id": "1677735473056460800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930660026601091578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kana13141314 算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1930659194837119262",
+        "created_at": "2025-06-05T16:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930662262496485615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677735473056460800",
+              "start": 0,
+              "username": "kana13141314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930662262496485615",
+        "in_reply_to_user_id": "1677735473056460800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930660026601091578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kana13141314 算了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677735473056460800",
+        "conversation_id": "1930659194837119262",
+        "created_at": "2025-06-05T16:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930660026601091578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930660026601091578",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930659194837119262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 看看攻击性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1930276431860510793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 1036,
+          "like_count": 23307,
+          "listed_count": 6,
+          "media_count": 582,
+          "tweet_count": 10173
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:45:03.000Z",
+        "description": "一块灵魂碎片 栖息于中国某处 如同一只幽灵 仿佛无处不在 却又无影无踪。https://t.co/VVbGi8rfwa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/silvie53943",
+                "end": 59,
+                "expanded_url": "https://ngl.link/silvie53943",
+                "start": 36,
+                "url": "https://t.co/VVbGi8rfwa"
+              }
+            ]
+          }
+        },
+        "id": "1677735473056460800",
+        "location": "灵魂之海的深处",
+        "name": "加奈",
+        "pinned_tweet_id": "1878706941197009154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926530033671106560/H9-7aFj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 77,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 906
+        },
+        "username": "kana13141314",
+        "verified": false
+      }
+    ]
+  }
+}

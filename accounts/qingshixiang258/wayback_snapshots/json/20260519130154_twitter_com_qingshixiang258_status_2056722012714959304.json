@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056721544894980185",
+    "created_at": "2026-05-19T13:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056722012714959304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1276439083120619520",
+          "start": 0,
+          "username": "123_imomiruku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056722012714959304",
+    "in_reply_to_user_id": "1276439083120619520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056721544894980185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123_imomiruku 摸摸老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056721544894980185",
+        "created_at": "2026-05-19T13:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056722012714959304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1276439083120619520",
+              "start": 0,
+              "username": "123_imomiruku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056722012714959304",
+        "in_reply_to_user_id": "1276439083120619520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056721544894980185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123_imomiruku 摸摸老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276439083120619520",
+        "conversation_id": "2056721544894980185",
+        "created_at": "2026-05-19T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056721544894980185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056721544894980185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想被綁綁，好想被打打\n好想哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1686,
+          "like_count": 41290,
+          "listed_count": 9,
+          "media_count": 1249,
+          "tweet_count": 20296
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T08:56:59.000Z",
+        "description": "台湾 🇹🇼  / 放射線学修士 / 本を読むことが大好き/ 日本語は少しできる/ ハムスター、ラッコ 大好き 🐹 🦦🦦 /",
+        "id": "1276439083120619520",
+        "location": "台湾🇹🇼",
+        "name": "チャミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014972885509558272/8FxXyKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 682,
+          "like_count": 122577,
+          "listed_count": 3,
+          "media_count": 1875,
+          "tweet_count": 57867
+        },
+        "username": "123_imomiruku",
+        "verified": false
+      }
+    ]
+  }
+}

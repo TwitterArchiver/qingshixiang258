@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1964025624705847715",
+    "created_at": "2025-12-13T11:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999796558704120243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936427408393179136",
+          "start": 0,
+          "username": "baojiangdilei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999796558704120243",
+    "in_reply_to_user_id": "1936427408393179136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964025624705847715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baojiangdilei 真不赖吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1964025624705847715].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1964025624705847715",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1964025624705847715"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1964025624705847715",
+        "created_at": "2025-12-13T11:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999796558704120243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936427408393179136",
+              "start": 0,
+              "username": "baojiangdilei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999796558704120243",
+        "in_reply_to_user_id": "1936427408393179136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964025624705847715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baojiangdilei 真不赖吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998367186075922432/8djgDaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1472,
+          "like_count": 35202,
+          "listed_count": 9,
+          "media_count": 963,
+          "tweet_count": 15937
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T14:14:18.000Z",
+        "description": "某个人的小号\n目前主要过熟人",
+        "id": "1936427408393179136",
+        "name": "会爆浆的地雷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936429274963070976/0oeYMOSq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 1,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "baojiangdilei",
+        "verified": false
+      }
+    ]
+  }
+}

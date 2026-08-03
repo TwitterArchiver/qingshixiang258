@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2074169873580863828",
+    "created_at": "2026-07-07T14:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074502993245032691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991445291825000451",
+          "start": 0,
+          "username": "FreeEastAsia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074502993245032691",
+    "in_reply_to_user_id": "1991445291825000451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074472837864390786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeEastAsia 给你发老粉灯牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2074169873580863828",
+        "created_at": "2026-07-07T14:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074502993245032691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991445291825000451",
+              "start": 0,
+              "username": "FreeEastAsia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074502993245032691",
+        "in_reply_to_user_id": "1991445291825000451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074472837864390786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeEastAsia 给你发老粉灯牌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445291825000451",
+        "conversation_id": "2074169873580863828",
+        "created_at": "2026-07-07T12:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074472837864390786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074472837864390786",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074169873580863828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 青石巷官方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️.official",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 1687,
+          "like_count": 44360,
+          "listed_count": 10,
+          "media_count": 1337,
+          "tweet_count": 21315
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:55:43.000Z",
+        "description": "苍山负雪，明烛天南。",
+        "id": "1991445291825000451",
+        "name": "💐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057392060433616896/Y_YSde4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 216,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 784
+        },
+        "url": "",
+        "username": "FreeEastAsia",
+        "verified": false
+      }
+    ]
+  }
+}

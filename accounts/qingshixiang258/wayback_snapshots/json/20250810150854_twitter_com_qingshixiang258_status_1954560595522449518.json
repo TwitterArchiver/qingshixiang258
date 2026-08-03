@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1954559029751218250",
+    "created_at": "2025-08-10T15:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T16:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954560595522449518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868701291830206464",
+          "start": 0,
+          "username": "A_Asystem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954560595522449518",
+    "in_reply_to_user_id": "1868701291830206464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954560438043131954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_Asystem 9.5学打游戏王就给10"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1954559029751218250",
+        "created_at": "2025-08-10T15:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954560595522449518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868701291830206464",
+              "start": 0,
+              "username": "A_Asystem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954560595522449518",
+        "in_reply_to_user_id": "1868701291830206464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954560438043131954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Asystem 9.5学打游戏王就给10"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868701291830206464",
+        "conversation_id": "1954559029751218250",
+        "created_at": "2025-08-10T15:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954560438043131954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954560438043131954",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954559029751218250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 小熊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954539580998422528/nUejuF6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1261,
+          "like_count": 27383,
+          "listed_count": 7,
+          "media_count": 707,
+          "tweet_count": 12128
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T16:54:52.000Z",
+        "description": "这里还是一只喜欢打牌的含糖🍥小熊🧸@Ereaurora的新账号/\n主要发推记录日常或当做树洞/\n偶尔读社会科学/\n炉石 影之诗 ptcg(国际服环境) lor 万智牌(xmage和untap上玩edh) \n以及一些小众卡牌游戏均有涉猎\n(不会三国杀和游戏王qwq)/\n卡牌游戏及steam加好友或互fo请私信哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Ereaurora"
+              }
+            ]
+          }
+        },
+        "id": "1868701291830206464",
+        "location": "1m",
+        "name": "Aurora&Andromeda🧸🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1905421355195269408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868702280343801856/VCqgJsef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 503,
+          "like_count": 9486,
+          "listed_count": 6,
+          "media_count": 96,
+          "tweet_count": 4962
+        },
+        "username": "A_Asystem",
+        "verified": false
+      }
+    ]
+  }
+}

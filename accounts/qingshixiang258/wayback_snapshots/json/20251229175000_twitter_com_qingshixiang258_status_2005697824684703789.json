@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2005693268093526106",
+    "created_at": "2025-12-29T17:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005697824684703789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692666360487145472",
+          "start": 0,
+          "username": "RLiarDance"
+        },
+        {
+          "end": 22,
+          "id": "1282832893304242178",
+          "start": 12,
+          "username": "baihui_Ke"
+        },
+        {
+          "end": 30,
+          "id": "1901165386709823490",
+          "start": 23,
+          "username": "wuruto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005697824684703789",
+    "in_reply_to_user_id": "1692666360487145472",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005696927015579833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RLiarDance @baihui_Ke @wuruto 😭"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [wuruto].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "wuruto",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "wuruto"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005696927015579833].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005696927015579833",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005696927015579833"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2005693268093526106",
+        "created_at": "2025-12-29T17:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005697824684703789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692666360487145472",
+              "start": 0,
+              "username": "RLiarDance"
+            },
+            {
+              "end": 22,
+              "id": "1282832893304242178",
+              "start": 12,
+              "username": "baihui_Ke"
+            },
+            {
+              "end": 30,
+              "id": "1901165386709823490",
+              "start": 23,
+              "username": "wuruto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005697824684703789",
+        "in_reply_to_user_id": "1692666360487145472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005696927015579833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RLiarDance @baihui_Ke @wuruto 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2005092093090546046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005305326652854273/P0IXE9nk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 1489,
+          "like_count": 35404,
+          "listed_count": 9,
+          "media_count": 976,
+          "tweet_count": 16211
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T22:34:51.000Z",
+        "description": "榴莲粉丝团爱莲说/榴你一生莲你一世",
+        "id": "1692666360487145472",
+        "name": "爱莲说",
+        "pinned_tweet_id": "1911769604294160671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974143500729135107/THjyNgAn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 38,
+          "like_count": 6452,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 3738
+        },
+        "username": "RLiarDance",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "人生有梦，各自精彩。",
+        "id": "1282832893304242178",
+        "location": "距离你1.2km",
+        "name": "白灰",
+        "pinned_tweet_id": "1890054887813296135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986815718911016960/e1ivTk0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 328,
+          "like_count": 31937,
+          "listed_count": 1,
+          "media_count": 1320,
+          "tweet_count": 13476
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      }
+    ]
+  }
+}

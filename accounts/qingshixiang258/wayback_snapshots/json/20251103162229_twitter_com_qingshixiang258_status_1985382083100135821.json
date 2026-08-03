@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1985319642072813744",
+    "created_at": "2025-11-03T16:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T17:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985382083100135821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1636026848001011712",
+          "start": 0,
+          "username": "89wanghuning64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985382083100135821",
+    "in_reply_to_user_id": "1700935161301655552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985382032722321491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89wanghuning64 好sb啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1985319642072813744",
+        "created_at": "2025-11-03T16:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985382083100135821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1636026848001011712",
+              "start": 0,
+              "username": "89wanghuning64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985382083100135821",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985382032722321491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89wanghuning64 好sb啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1985319642072813744",
+        "created_at": "2025-11-03T16:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985382032722321491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1636026848001011712",
+              "start": 0,
+              "username": "89wanghuning64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985382032722321491",
+        "in_reply_to_user_id": "1636026848001011712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985381054929338691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89wanghuning64 黄清如有男朋友啊…那张硕怎么还心心念念的🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 1403,
+          "like_count": 33360,
+          "listed_count": 7,
+          "media_count": 914,
+          "tweet_count": 14852
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T15:29:55.000Z",
+        "description": "我是你们的王司令",
+        "id": "1636026848001011712",
+        "location": "中南海紫光阁",
+        "name": "三军司令王沪宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931090999776096256/XHhlp1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 442,
+          "like_count": 2494,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 777
+        },
+        "username": "89wanghuning64",
+        "verified": false
+      }
+    ]
+  }
+}

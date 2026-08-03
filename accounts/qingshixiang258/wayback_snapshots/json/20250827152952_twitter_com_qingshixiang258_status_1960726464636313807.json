@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960726455576616966"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1960723716775547271",
+    "created_at": "2025-08-27T15:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960726464636313807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1UbJNnKILN",
+          "end": 41,
+          "expanded_url": "https://x.com/qingshixiang258/status/1960726464636313807/photo/1",
+          "media_key": "3_1960726455576616966",
+          "start": 18,
+          "url": "https://t.co/1UbJNnKILN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960726464636313807",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960723716775547271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 安 https://t.co/1UbJNnKILN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_1960726455576616966",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXmUq5a4AYwudv.jpg",
+        "width": 296
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960723704360640512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXj0h0aoAAIg0f.jpg",
+        "width": 1794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960726455576616966"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1960723716775547271",
+        "created_at": "2025-08-27T15:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960726464636313807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UbJNnKILN",
+              "end": 41,
+              "expanded_url": "https://x.com/qingshixiang258/status/1960726464636313807/photo/1",
+              "media_key": "3_1960726455576616966",
+              "start": 18,
+              "url": "https://t.co/1UbJNnKILN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960726464636313807",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960723716775547271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 安 https://t.co/1UbJNnKILN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960723704360640512"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "1960723716775547271",
+        "created_at": "2025-08-27T15:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960723716775547271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYQB21sEwG",
+              "end": 43,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/1960723716775547271/photo/1",
+              "media_key": "3_1960723704360640512",
+              "start": 20,
+              "url": "https://t.co/EYQB21sEwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960723716775547271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安安\n春寒赐浴华清池，温泉水滑洗凝脂 https://t.co/EYQB21sEwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960162028452245504/D4ibNZrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 1395,
+          "like_count": 28697,
+          "listed_count": 8,
+          "media_count": 758,
+          "tweet_count": 13006
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手)｜「止まない雨はなく、明けない夜はない。」｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911369014296612864/trNoKSbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 921,
+          "like_count": 24557,
+          "listed_count": 7,
+          "media_count": 875,
+          "tweet_count": 11992
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

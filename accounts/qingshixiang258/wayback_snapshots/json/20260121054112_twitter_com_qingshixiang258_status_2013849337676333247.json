@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2013685781659890099",
+    "created_at": "2026-01-21T05:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T06:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013849337676333247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450302749803909130",
+          "start": 0,
+          "username": "NanjingHero1937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013849337676333247",
+    "in_reply_to_user_id": "1450302749803909130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013701743717105908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanjingHero1937 早安哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2013685781659890099",
+        "created_at": "2026-01-21T05:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013849337676333247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450302749803909130",
+              "start": 0,
+              "username": "NanjingHero1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013849337676333247",
+        "in_reply_to_user_id": "1450302749803909130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013701743717105908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanjingHero1937 早安哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450302749803909130",
+        "conversation_id": "2013685781659890099",
+        "created_at": "2026-01-20T19:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T20:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013701743717105908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013701743717105908",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013685781659890099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 1400,
+          "like_count": 36314,
+          "listed_count": 8,
+          "media_count": 1024,
+          "tweet_count": 16965
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T03:28:30.000Z",
+        "description": "こんにちは☺️",
+        "id": "1450302749803909130",
+        "location": "南京",
+        "name": "井盖飞贼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013702502043074560/dL__EM3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 565,
+          "like_count": 44033,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1030
+        },
+        "username": "NanjingHero1937",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2055138448378671336",
+    "created_at": "2026-05-15T04:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055144822449799581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513400430700597248",
+          "start": 0,
+          "username": "xinran020911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055144822449799581",
+    "in_reply_to_user_id": "1513400430700597248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055138448378671336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinran020911 我们考试集中到月底了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2055138441814528000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVRhjSa0AAd718.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2055138448378671336",
+        "created_at": "2026-05-15T04:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055144822449799581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513400430700597248",
+              "start": 0,
+              "username": "xinran020911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055144822449799581",
+        "in_reply_to_user_id": "1513400430700597248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055138448378671336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinran020911 我们考试集中到月底了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055138441814528000"
+          ]
+        },
+        "author_id": "1513400430700597248",
+        "conversation_id": "2055138448378671336",
+        "created_at": "2026-05-15T04:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055138448378671336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtLK52AO8n",
+              "end": 27,
+              "expanded_url": "https://x.com/xinran020911/status/2055138448378671336/photo/1",
+              "media_key": "3_2055138441814528000",
+              "start": 4,
+              "url": "https://t.co/wtLK52AO8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055138448378671336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又考试 https://t.co/wtLK52AO8n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 1689,
+          "like_count": 40910,
+          "listed_count": 9,
+          "media_count": 1239,
+          "tweet_count": 20132
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:16:18.000Z",
+        "description": "这里作为我的空间！心冉的空间，没有什么朋友。",
+        "id": "1513400430700597248",
+        "location": "Pak Kret, Thailand",
+        "name": "シンラン（apple）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048463341023350784/dgHHB4bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 164,
+          "like_count": 432,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 349
+        },
+        "username": "xinran020911",
+        "verified": false
+      }
+    ]
+  }
+}

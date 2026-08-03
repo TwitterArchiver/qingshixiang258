@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020045044762525696"
+      ],
+      "media_source_tweet_id": [
+        "2020045066736378198"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1004028337289814016",
+          "name": "THE IDOLM@STER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1004028337289814016",
+          "name": "THE IDOLM@STER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2020451162260902192",
+    "created_at": "2026-02-08T10:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020451162260902192"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "篠澤広",
+          "probability": 0.5587,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2536459644",
+          "start": 3,
+          "username": "G_Eskeles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l8FDYpWo2s",
+          "end": 67,
+          "expanded_url": "https://x.com/G_Eskeles/status/2020045066736378198/photo/1",
+          "media_key": "3_2020045044762525696",
+          "start": 44,
+          "url": "https://t.co/l8FDYpWo2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020451162260902192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020045066736378198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G_Eskeles: 篠澤広（学園アイドルマスター） \nNijijouney7 https://t.co/l8FDYpWo2s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2464,
+        "media_key": "3_2020045044762525696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAikQ_tbwAAPXqh.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020045044762525696"
+          ],
+          "media_source_tweet_id": [
+            "2020045066736378198"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2020451162260902192",
+        "created_at": "2026-02-08T10:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020451162260902192"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "篠澤広",
+              "probability": 0.5587,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2536459644",
+              "start": 3,
+              "username": "G_Eskeles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8FDYpWo2s",
+              "end": 67,
+              "expanded_url": "https://x.com/G_Eskeles/status/2020045066736378198/photo/1",
+              "media_key": "3_2020045044762525696",
+              "start": 44,
+              "url": "https://t.co/l8FDYpWo2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020451162260902192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020045066736378198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G_Eskeles: 篠澤広（学園アイドルマスター） \nNijijouney7 https://t.co/l8FDYpWo2s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020045044762525696"
+          ]
+        },
+        "author_id": "2536459644",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2020045066736378198",
+        "created_at": "2026-02-07T08:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T09:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020045066736378198"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "篠澤広",
+              "probability": 0.575,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8FDYpWo2s",
+              "end": 52,
+              "expanded_url": "https://x.com/G_Eskeles/status/2020045066736378198/photo/1",
+              "media_key": "3_2020045044762525696",
+              "start": 29,
+              "url": "https://t.co/l8FDYpWo2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020045066736378198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 422,
+          "impression_count": 28988,
+          "like_count": 3275,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "篠澤広（学園アイドルマスター） \nNijijouney7 https://t.co/l8FDYpWo2s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 1418,
+          "like_count": 36704,
+          "listed_count": 8,
+          "media_count": 1058,
+          "tweet_count": 17291
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-31T03:08:29.000Z",
+        "description": "AIで絵を生成しています I generate pictures using AI.\n無断転載禁止 All rights reserved.",
+        "id": "2536459644",
+        "name": "Kaski_Anna@",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822934500055330816/cqOzRRHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35048,
+          "following_count": 694,
+          "like_count": 117132,
+          "listed_count": 369,
+          "media_count": 4201,
+          "tweet_count": 6856
+        },
+        "username": "G_Eskeles",
+        "verified": true
+      }
+    ]
+  }
+}

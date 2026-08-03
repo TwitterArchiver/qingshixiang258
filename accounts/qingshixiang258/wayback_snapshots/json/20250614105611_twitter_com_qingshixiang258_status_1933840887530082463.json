@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1933827043323429183",
+    "created_at": "2025-06-14T10:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T11:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933840887530082463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "923497023021740032",
+          "start": 0,
+          "username": "HorusLegions"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933840887530082463",
+    "in_reply_to_user_id": "923497023021740032",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933827043323429183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HorusLegions Blood Angels？Qin Xa？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1933827040563609603",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZVcpHWwAMZUyy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1933827043323429183",
+        "created_at": "2025-06-14T10:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T11:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933840887530082463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "923497023021740032",
+              "start": 0,
+              "username": "HorusLegions"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933840887530082463",
+        "in_reply_to_user_id": "923497023021740032",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933827043323429183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HorusLegions Blood Angels？Qin Xa？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933827040563609603"
+          ]
+        },
+        "author_id": "923497023021740032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "1933827043323429183",
+        "created_at": "2025-06-14T10:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T11:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933827043323429183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Warriors of",
+              "probability": 0.4823,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "Ninth",
+              "probability": 0.496,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Qin Xa",
+              "probability": 0.7637,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Qin Xa",
+              "probability": 0.7974,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "White Scars",
+              "probability": 0.782,
+              "start": 103,
+              "type": "Other"
+            },
+            {
+              "end": 188,
+              "normalized_text": "Blood Angels",
+              "probability": 0.6129,
+              "start": 177,
+              "type": "Other"
+            },
+            {
+              "end": 234,
+              "normalized_text": "HorusHeresy",
+              "probability": 0.5515,
+              "start": 224,
+              "type": "Other"
+            },
+            {
+              "end": 243,
+              "normalized_text": "Legions",
+              "probability": 0.4649,
+              "start": 237,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 235,
+              "start": 223,
+              "tag": "HorusHeresy"
+            },
+            {
+              "end": 244,
+              "start": 236,
+              "tag": "Legions"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ft4eWGgDqk",
+              "end": 268,
+              "expanded_url": "https://x.com/HorusLegions/status/1933827043323429183/photo/1",
+              "media_key": "3_1933827040563609603",
+              "start": 245,
+              "url": "https://t.co/Ft4eWGgDqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933827043323429183",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 102,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "\"Warriors of the Ninth! To me!\"\n– Qin Xa\n\nRecruit Qin Xa and continue his legacy at the command of the White Scars in today's in-game shop!\n\nDon't miss this chance to lead your Blood Angels deck with an epic new Warlord. \n\n#HorusHeresy #Legions https://t.co/Ft4eWGgDqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1931748709324517749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1114,
+          "like_count": 24295,
+          "listed_count": 6,
+          "media_count": 621,
+          "tweet_count": 10634
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-26T10:30:22.000Z",
+        "description": "iOS: https://t.co/WYDhmh1Ytl…\nSteam: https://t.co/Jm0B4Swp3V\nAndroid: https://t.co/r7Tub0IIzw…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "itunes.apple.com/app/id13983842",
+                "end": 28,
+                "expanded_url": "http://itunes.apple.com/app/id13983842",
+                "start": 5,
+                "url": "https://t.co/WYDhmh1Ytl"
+              },
+              {
+                "display_url": "store.steampowered.com/app/1031140",
+                "end": 60,
+                "expanded_url": "http://store.steampowered.com/app/1031140",
+                "start": 37,
+                "url": "https://t.co/Jm0B4Swp3V"
+              },
+              {
+                "display_url": "play.google.com/store/apps/det",
+                "end": 93,
+                "expanded_url": "http://play.google.com/store/apps/det",
+                "start": 70,
+                "url": "https://t.co/r7Tub0IIzw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "horusheresylegions.com",
+                "end": 23,
+                "expanded_url": "http://www.horusheresylegions.com",
+                "start": 0,
+                "url": "https://t.co/6u8uVYeHAh"
+              }
+            ]
+          }
+        },
+        "id": "923497023021740032",
+        "location": "London, England",
+        "name": "Warhammer The Horus Heresy: Legions",
+        "pinned_tweet_id": "1923017008104255854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629922443514060801/GRcWz7jX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3093,
+          "following_count": 162,
+          "like_count": 389,
+          "listed_count": 12,
+          "media_count": 3080,
+          "tweet_count": 3718
+        },
+        "url": "https://t.co/6u8uVYeHAh",
+        "username": "HorusLegions",
+        "verified": false
+      }
+    ]
+  }
+}

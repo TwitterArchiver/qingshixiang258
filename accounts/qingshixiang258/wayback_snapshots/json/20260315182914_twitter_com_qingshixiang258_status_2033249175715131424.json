@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2033248152757879107",
+    "created_at": "2026-03-15T18:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T19:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033249175715131424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033249175715131424",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033248152757879107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 啊？这是b站啊？！我还以为是p站呢😟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033248149750591488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDeMa2oasAAZwBU.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2033248152757879107",
+        "created_at": "2026-03-15T18:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033249175715131424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033249175715131424",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033248152757879107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 啊？这是b站啊？！我还以为是p站呢😟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033248149750591488"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033248152757879107",
+        "created_at": "2026-03-15T18:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033248152757879107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UomXSqPOSF",
+              "end": 38,
+              "expanded_url": "https://x.com/_AkitaYura/status/2033248152757879107/photo/1",
+              "media_key": "3_2033248149750591488",
+              "start": 15,
+              "url": "https://t.co/UomXSqPOSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033248152757879107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿b呀，给女孩子们穿点衣服吧 https://t.co/UomXSqPOSF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 1540,
+          "like_count": 38340,
+          "listed_count": 8,
+          "media_count": 1129,
+          "tweet_count": 18752
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|颜控💅|#银桂 #銀桂 #ginzura\n▫️BFF🐑@ShikuiL23822",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "银桂"
+              },
+              {
+                "end": 23,
+                "start": 20,
+                "tag": "銀桂"
+              },
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "ginzura"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1990621040578613679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015807718745849856/eDAk5T34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 624,
+          "like_count": 71765,
+          "listed_count": 9,
+          "media_count": 2252,
+          "tweet_count": 18832
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

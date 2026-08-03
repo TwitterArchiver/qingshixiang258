@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049470083421044736"
+      ],
+      "media_source_tweet_id": [
+        "2049470091222511991"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2049832948174926144",
+    "created_at": "2026-04-30T12:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049832948174926144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2005686977488994304",
+          "start": 3,
+          "username": "maid_concept"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8X6j1fY6e8",
+          "end": 47,
+          "expanded_url": "https://x.com/maid_concept/status/2049470091222511991/photo/1",
+          "media_key": "3_2049470083421044736",
+          "start": 24,
+          "url": "https://t.co/8X6j1fY6e8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049832948174926144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 292
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049470091222511991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maid_concept: 逃がさない https://t.co/8X6j1fY6e8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4092,
+        "media_key": "3_2049470083421044736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEuLqwaAAA_Rgz.jpg",
+        "width": 2768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049470083421044736"
+          ],
+          "media_source_tweet_id": [
+            "2049470091222511991"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2049832948174926144",
+        "created_at": "2026-04-30T12:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049832948174926144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2005686977488994304",
+              "start": 3,
+              "username": "maid_concept"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8X6j1fY6e8",
+              "end": 47,
+              "expanded_url": "https://x.com/maid_concept/status/2049470091222511991/photo/1",
+              "media_key": "3_2049470083421044736",
+              "start": 24,
+              "url": "https://t.co/8X6j1fY6e8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049832948174926144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049470091222511991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maid_concept: 逃がさない https://t.co/8X6j1fY6e8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049470083421044736"
+          ]
+        },
+        "author_id": "2005686977488994304",
+        "conversation_id": "2049470091222511991",
+        "created_at": "2026-04-29T12:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049470091222511991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8X6j1fY6e8",
+              "end": 29,
+              "expanded_url": "https://x.com/maid_concept/status/2049470091222511991/photo/1",
+              "media_key": "3_2049470083421044736",
+              "start": 6,
+              "url": "https://t.co/8X6j1fY6e8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049470091222511991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 631,
+          "impression_count": 42124,
+          "like_count": 4949,
+          "quote_count": 8,
+          "reply_count": 30,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "逃がさない https://t.co/8X6j1fY6e8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 1662,
+          "like_count": 39999,
+          "listed_count": 9,
+          "media_count": 1214,
+          "tweet_count": 19678
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-29T17:07:04.000Z",
+        "description": "Sub⋮Main(@smak_art)\nFANBOX⋮ https://t.co/GcllVuZ7b1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "smak_art"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/Trbc0",
+                "end": 51,
+                "expanded_url": "https://x.gd/Trbc0",
+                "start": 28,
+                "url": "https://t.co/GcllVuZ7b1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/meidomika",
+                "end": 23,
+                "expanded_url": "https://lit.link/meidomika",
+                "start": 0,
+                "url": "https://t.co/lvtMxtLhKe"
+              }
+            ]
+          }
+        },
+        "id": "2005686977488994304",
+        "name": "🐈‍⬛",
+        "pinned_tweet_id": "2011626303947227477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005687901468958720/0UMyDdvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 2,
+          "like_count": 33,
+          "listed_count": 13,
+          "media_count": 68,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/lvtMxtLhKe",
+        "username": "maid_concept",
+        "verified": false
+      }
+    ]
+  }
+}

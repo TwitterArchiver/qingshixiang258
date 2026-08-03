@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1936011982219714606",
+    "created_at": "2025-06-20T12:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T13:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936032165822914996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saoweve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936032165822914996",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936011982219714606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saoweve 晚上可以陪你（挠头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1936011982219714606",
+        "created_at": "2025-06-20T12:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936032165822914996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saoweve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936032165822914996",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936011982219714606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saoweve 晚上可以陪你（挠头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1936011982219714606",
+        "created_at": "2025-06-20T10:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936011982219714606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saoweve/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/saoweve/status/1936009358909096284",
+              "start": 8,
+              "url": "https://t.co/5rDBF0QUtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936011982219714606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936009358909096284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎md没人陪我 https://t.co/5rDBF0QUtP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 1137,
+          "like_count": 24606,
+          "listed_count": 6,
+          "media_count": 629,
+          "tweet_count": 10730
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "出错了，但是我们做对了",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1934236575246045618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935628152086134784/6nkZKzqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3296,
+          "following_count": 365,
+          "like_count": 23445,
+          "listed_count": 12,
+          "media_count": 1474,
+          "tweet_count": 12912
+        },
+        "username": "saoweve",
+        "verified": false
+      }
+    ]
+  }
+}

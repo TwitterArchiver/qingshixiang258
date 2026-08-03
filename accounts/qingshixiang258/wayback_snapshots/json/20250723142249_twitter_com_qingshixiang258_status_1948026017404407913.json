@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1947998438366523396",
+    "created_at": "2025-07-23T14:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T15:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948026017404407913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "kawaii_akiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948026017404407913",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948025885413757035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii_akiiko 我牢保说错话了捏"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1948025885413757035].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1948025885413757035",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1948025885413757035"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1947998438366523396",
+        "created_at": "2025-07-23T14:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948026017404407913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "kawaii_akiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948026017404407913",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948025885413757035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_akiiko 我牢保说错话了捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|既然被叫老保那就🚫🏳️‍⚧️｜喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_akitayura"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1947998438366523396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1237,
+          "like_count": 26506,
+          "listed_count": 6,
+          "media_count": 676,
+          "tweet_count": 11664
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "秋以降/弃/冷风吹 🥺@qiuylove 😋@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "qiuylove"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "saonanaa"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "秋以降akiiko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913860496383684608/6rdN60Rd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 1047,
+          "like_count": 148880,
+          "listed_count": 4,
+          "media_count": 1152,
+          "tweet_count": 6833
+        },
+        "username": "kawaii_akiiko",
+        "verified": false
+      }
+    ]
+  }
+}

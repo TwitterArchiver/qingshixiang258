@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2079963747171590263",
+    "created_at": "2026-07-22T17:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079984865609683111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010745867985367040",
+          "start": 0,
+          "username": "flyoldmantou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079984865609683111",
+    "in_reply_to_user_id": "2010745867985367040",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079963747171590263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flyoldmantou o(╥﹏╥)o"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079963747171590263].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079963747171590263",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079963747171590263"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2079963747171590263",
+        "created_at": "2026-07-22T17:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079984865609683111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010745867985367040",
+              "start": 0,
+              "username": "flyoldmantou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079984865609683111",
+        "in_reply_to_user_id": "2010745867985367040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079963747171590263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyoldmantou o(╥﹏╥)o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 1682,
+          "like_count": 44760,
+          "listed_count": 9,
+          "media_count": 1362,
+          "tweet_count": 21479
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T16:09:17.000Z",
+        "description": "老面馒头直销",
+        "id": "2010745867985367040",
+        "name": "飞天老面馒头",
+        "pinned_tweet_id": "2054189919351013561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011121821329080322/CRXhhk0l_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 39,
+          "like_count": 2188,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 2033
+        },
+        "url": "",
+        "username": "flyoldmantou",
+        "verified": false
+      }
+    ]
+  }
+}

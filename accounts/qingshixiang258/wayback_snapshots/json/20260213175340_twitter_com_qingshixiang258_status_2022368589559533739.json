@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2022356499688046712",
+    "created_at": "2026-02-13T17:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T18:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022368589559533739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010745867985367040",
+          "start": 0,
+          "username": "flyoldmantou"
+        },
+        {
+          "end": 29,
+          "id": "1718887354826637312",
+          "start": 14,
+          "username": "MeowSakur76073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022368589559533739",
+    "in_reply_to_user_id": "2010745867985367040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022367889605714293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flyoldmantou @MeowSakur76073 晚安安（冒头"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2022367889605714293].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2022367889605714293",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2022367889605714293"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2022356499688046712",
+        "created_at": "2026-02-13T17:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T18:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022368589559533739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010745867985367040",
+              "start": 0,
+              "username": "flyoldmantou"
+            },
+            {
+              "end": 29,
+              "id": "1718887354826637312",
+              "start": 14,
+              "username": "MeowSakur76073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022368589559533739",
+        "in_reply_to_user_id": "2010745867985367040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022367889605714293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyoldmantou @MeowSakur76073 晚安安（冒头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 1425,
+          "like_count": 36903,
+          "listed_count": 8,
+          "media_count": 1063,
+          "tweet_count": 17385
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T16:09:17.000Z",
+        "description": "老面馒头直销",
+        "id": "2010745867985367040",
+        "name": "飞天老面馒头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011121821329080322/CRXhhk0l_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 32,
+          "like_count": 640,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 495
+        },
+        "username": "flyoldmantou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "Do not go gentle into that good night。                                                  \na walking dead｜self heater｜bisexual | 🦊 | @cangshengsunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 131,
+                "username": "cangshengsunset"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowsakur76073…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowsakur7607356428",
+                "start": 0,
+                "url": "https://t.co/MDv9HA9aPa"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "Heaven",
+        "name": "Meow Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013129102786437120/dxrmWKgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 3646,
+          "like_count": 47044,
+          "listed_count": 5,
+          "media_count": 853,
+          "tweet_count": 13716
+        },
+        "url": "https://t.co/MDv9HA9aPa",
+        "username": "MeowSakur76073",
+        "verified": false
+      }
+    ]
+  }
+}

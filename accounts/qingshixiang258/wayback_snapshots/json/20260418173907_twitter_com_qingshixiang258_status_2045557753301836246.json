@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2045554494042513451",
+    "created_at": "2026-04-18T17:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045557753301836246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766129619474993152",
+          "start": 0,
+          "username": "AcetateFrag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045557753301836246",
+    "in_reply_to_user_id": "1766129619474993152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045557654362403138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcetateFrag 焦虑难眠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2045554494042513451",
+        "created_at": "2026-04-18T17:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045557753301836246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766129619474993152",
+              "start": 0,
+              "username": "AcetateFrag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045557753301836246",
+        "in_reply_to_user_id": "1766129619474993152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045557654362403138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcetateFrag 焦虑难眠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766129619474993152",
+        "conversation_id": "2045554494042513451",
+        "created_at": "2026-04-18T17:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045557654362403138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045557654362403138",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045554494042513451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 碎觉时间到啦，泥怎么还不去碎觉鸭(´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 1592,
+          "like_count": 39095,
+          "listed_count": 8,
+          "media_count": 1171,
+          "tweet_count": 19352
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T15:52:00.000Z",
+        "description": "你好～ 请叫我小a就好｜是爱哭鬼｜是大傻纸｜迷迷糊糊｜昏昏饿饿｜偶尔会自由发挥一下（笨蛋施工ing...）",
+        "id": "1766129619474993152",
+        "name": "Acetate🍰",
+        "pinned_tweet_id": "1881722587975479448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919249348539633664/Mt1vI-Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 189,
+          "like_count": 1775,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1080
+        },
+        "username": "AcetateFrag",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2053680608149385705",
+    "created_at": "2026-05-11T07:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053737626637906330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874109310659350528",
+          "start": 0,
+          "username": "ranranbing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053737626637906330",
+    "in_reply_to_user_id": "1874109310659350528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053680608149385705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranranbing 多少？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_2053680605934833664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAjoVba0AA2f7w.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2053680608149385705",
+        "created_at": "2026-05-11T07:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053737626637906330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874109310659350528",
+              "start": 0,
+              "username": "ranranbing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053737626637906330",
+        "in_reply_to_user_id": "1874109310659350528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053680608149385705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranranbing 多少？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053680605934833664"
+          ]
+        },
+        "author_id": "1874109310659350528",
+        "conversation_id": "2053680608149385705",
+        "created_at": "2026-05-11T03:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053680608149385705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3m1uxVqNer",
+              "end": 33,
+              "expanded_url": "https://x.com/ranranbing/status/2053680608149385705/photo/1",
+              "media_key": "3_2053680605934833664",
+              "start": 10,
+              "url": "https://t.co/3m1uxVqNer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053680608149385705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回过神来，已是豪饮 https://t.co/3m1uxVqNer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 1690,
+          "like_count": 40649,
+          "listed_count": 9,
+          "media_count": 1235,
+          "tweet_count": 20040
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T15:05:02.000Z",
+        "description": "子弹永远不会变成和平鸽，但和平鸽永远不会怕子弹；崇尚人道和民生，不参与任何意识形态讨论，消失了可能是在好好生活",
+        "id": "1874109310659350528",
+        "location": "三号宿舍里屋",
+        "name": "然",
+        "pinned_tweet_id": "1993907443714412850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004453997688901633/rBssly77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 789,
+          "like_count": 27008,
+          "listed_count": 3,
+          "media_count": 1736,
+          "tweet_count": 7271
+        },
+        "username": "ranranbing",
+        "verified": false
+      }
+    ]
+  }
+}

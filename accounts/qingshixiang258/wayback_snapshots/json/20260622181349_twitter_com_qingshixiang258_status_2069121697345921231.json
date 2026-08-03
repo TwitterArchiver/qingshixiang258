@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2069119491494268947",
+    "created_at": "2026-06-22T18:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T19:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069121697345921231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1423208974657236994",
+          "start": 0,
+          "username": "cishengbuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069121697345921231",
+    "in_reply_to_user_id": "1423208974657236994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069121602638516227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cishengbuxi 為啥呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2069119491494268947",
+        "created_at": "2026-06-22T18:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069121697345921231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1423208974657236994",
+              "start": 0,
+              "username": "cishengbuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069121697345921231",
+        "in_reply_to_user_id": "1423208974657236994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069121602638516227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cishengbuxi 為啥呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423208974657236994",
+        "conversation_id": "2069119491494268947",
+        "created_at": "2026-06-22T18:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069121602638516227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069121602638516227",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069120502187376998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我的牙膏消耗速度奇快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1691,
+          "like_count": 43861,
+          "listed_count": 10,
+          "media_count": 1322,
+          "tweet_count": 21166
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:07:54.000Z",
+        "description": "我就不写简介\n\n新提问箱 https://t.co/d72sYL6kWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cishengbuxi2",
+                "end": 36,
+                "expanded_url": "http://ngl.link/cishengbuxi2",
+                "start": 13,
+                "url": "https://t.co/d72sYL6kWu"
+              }
+            ]
+          }
+        },
+        "id": "1423208974657236994",
+        "location": "∞km",
+        "name": "及生",
+        "pinned_tweet_id": "1870660466034524335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423222145467879426/byvKnvYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 911,
+          "like_count": 13456,
+          "listed_count": 5,
+          "media_count": 291,
+          "tweet_count": 11330
+        },
+        "url": "",
+        "username": "cishengbuxi",
+        "verified": false
+      }
+    ]
+  }
+}

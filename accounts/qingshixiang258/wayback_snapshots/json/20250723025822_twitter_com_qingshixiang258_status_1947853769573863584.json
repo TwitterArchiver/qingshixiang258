@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1947835361042042927",
+    "created_at": "2025-07-23T02:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T03:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947853769573863584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893325795759886336",
+          "start": 0,
+          "username": "Auto_forte_sans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947853769573863584",
+    "in_reply_to_user_id": "1893325795759886336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947835361042042927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Auto_forte_sans 我喜欢你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1947835361042042927].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947835361042042927",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1947835361042042927"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1947835361042042927",
+        "created_at": "2025-07-23T02:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T03:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947853769573863584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893325795759886336",
+              "start": 0,
+              "username": "Auto_forte_sans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947853769573863584",
+        "in_reply_to_user_id": "1893325795759886336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947835361042042927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Auto_forte_sans 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "_akitayura"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 1236,
+          "like_count": 26336,
+          "listed_count": 6,
+          "media_count": 672,
+          "tweet_count": 11577
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T15:44:23.000Z",
+        "description": "关注绘绘酱谢谢喵 @CXASOfficial",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "CXASOfficial"
+              }
+            ]
+          }
+        },
+        "id": "1893325795759886336",
+        "location": "🇨🇳（立场很明显了吧？）",
+        "name": "⚡",
+        "pinned_tweet_id": "1932794645068787863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946523974772428800/OylPisU-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 97,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 485
+        },
+        "username": "Auto_forte_sans",
+        "verified": false
+      }
+    ]
+  }
+}

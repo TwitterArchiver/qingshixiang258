@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027450468688138404",
+    "created_at": "2026-02-27T18:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027454343801409696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1508319011200651267",
+          "start": 0,
+          "username": "lamte15072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027454343801409696",
+    "in_reply_to_user_id": "1508319011200651267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027450468688138404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lamte15072 哪个游戏的dlc？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2027450468688138404",
+        "created_at": "2026-02-27T18:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027454343801409696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1508319011200651267",
+              "start": 0,
+              "username": "lamte15072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027454343801409696",
+        "in_reply_to_user_id": "1508319011200651267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027450468688138404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lamte15072 哪个游戏的dlc？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508319011200651267",
+        "conversation_id": "2027450468688138404",
+        "created_at": "2026-02-27T18:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027450468688138404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OwlcatGames/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/OwlcatGames/status/2027420965383131393",
+              "start": 12,
+              "url": "https://t.co/HrHLHKqsEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027450468688138404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027420965383131393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别再做一个午夜群岛出来 https://t.co/HrHLHKqsEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 1478,
+          "like_count": 37308,
+          "listed_count": 8,
+          "media_count": 1089,
+          "tweet_count": 17948
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T05:44:22.000Z",
+        "description": "绿/女/学生/soyorinlove @Ave_Nagasaki \n         梦酱 @Melody221B_\n江咪 @GlunekiKCA\n https://t.co/YnqA90ASUO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Ave_Nagasaki"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Melody221B_"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "GlunekiKCA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lamte15072",
+                "end": 98,
+                "expanded_url": "https://ngl.link/lamte15072",
+                "start": 75,
+                "url": "https://t.co/YnqA90ASUO"
+              }
+            ]
+          }
+        },
+        "id": "1508319011200651267",
+        "location": "花咲川高中",
+        "name": "苏绿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026698249546117122/ezhBrQG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 2049,
+          "like_count": 30357,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 2794
+        },
+        "username": "lamte15072",
+        "verified": false
+      }
+    ]
+  }
+}

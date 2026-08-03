@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027321416891376022",
+    "created_at": "2026-02-27T09:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T10:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027321416891376022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/houseforeigngo…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/houseforeigngop/status/2027122349430976687",
+          "start": 8,
+          "url": "https://t.co/N9I5ffdcGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027321416891376022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027122349430976687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这也太掉价了… https://t.co/N9I5ffdcGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2379,
+        "media_key": "3_2027122318695170049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHJAjoXgAEkJNE.jpg",
+        "width": 1596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2027321416891376022",
+        "created_at": "2026-02-27T09:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027321416891376022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/houseforeigngo…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/houseforeigngop/status/2027122349430976687",
+              "start": 8,
+              "url": "https://t.co/N9I5ffdcGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027321416891376022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027122349430976687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也太掉价了… https://t.co/N9I5ffdcGW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027122318695170049"
+          ]
+        },
+        "author_id": "75367781",
+        "conversation_id": "2027122349430976687",
+        "created_at": "2026-02-26T20:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027122349430976687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VifFEgdaar",
+              "end": 23,
+              "expanded_url": "https://x.com/HouseForeignGOP/status/2027122349430976687/photo/1",
+              "media_key": "3_2027122318695170049",
+              "start": 0,
+              "url": "https://t.co/VifFEgdaar"
+            },
+            {
+              "display_url": "x.com/OlympicsCN/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/OlympicsCN/status/2026630920997056886",
+              "start": 24,
+              "url": "https://t.co/cPyHEv7Jex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027122349430976687",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 586,
+          "impression_count": 2793106,
+          "like_count": 5386,
+          "quote_count": 225,
+          "reply_count": 440,
+          "retweet_count": 344
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026630920997056886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VifFEgdaar https://t.co/cPyHEv7Jex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1478,
+          "like_count": 37297,
+          "listed_count": 8,
+          "media_count": 1088,
+          "tweet_count": 17940
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-18T19:48:08.000Z",
+        "description": "Official account for the House Committee on Foreign Affairs | Chairman @RepBrianMast",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "RepBrianMast"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foreignaffairs.house.gov",
+                "end": 23,
+                "expanded_url": "http://foreignaffairs.house.gov/",
+                "start": 0,
+                "url": "https://t.co/Gitn2JDKth"
+              }
+            ]
+          }
+        },
+        "id": "75367781",
+        "location": "Washington, DC",
+        "name": "House Foreign Affairs Committee Majority",
+        "pinned_tweet_id": "2026784220190769630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884312916729483264/FQx0EOXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114986,
+          "following_count": 1112,
+          "like_count": 1176,
+          "listed_count": 1643,
+          "media_count": 3761,
+          "tweet_count": 22419
+        },
+        "url": "https://t.co/Gitn2JDKth",
+        "username": "HouseForeignGOP",
+        "verified": true
+      }
+    ]
+  }
+}

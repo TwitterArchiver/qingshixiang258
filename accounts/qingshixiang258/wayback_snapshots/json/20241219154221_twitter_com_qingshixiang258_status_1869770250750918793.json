@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1869769416000647489",
+    "created_at": "2024-12-19T15:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T16:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869770250750918793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1713492000568467456",
+          "start": 0,
+          "username": "shi_li3602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869770250750918793",
+    "in_reply_to_user_id": "1713492000568467456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869769416000647489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shi_li3602 有时候一场痛哭是必要的❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1869769416000647489].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1869769416000647489",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1869769416000647489"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1869769416000647489",
+        "created_at": "2024-12-19T15:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T16:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869770250750918793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1713492000568467456",
+              "start": 0,
+              "username": "shi_li3602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869770250750918793",
+        "in_reply_to_user_id": "1713492000568467456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869769416000647489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shi_li3602 有时候一场痛哭是必要的❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "其实是个m啦。双性恋。喜欢独处，但是如果可以，请找我聊天，聊什么都可以哦（虽然我不太会聊天💦💦）。可以做大家情绪的垃圾桶哦。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fkxqs.vw50.com",
+                "end": 23,
+                "expanded_url": "http://fkxqs.vw50.com",
+                "start": 0,
+                "url": "https://t.co/lskfE1n6J3"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "出云之地",
+        "name": "青石巷🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868718283937189888/rM7uKejQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 586,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/lskfE1n6J3",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T09:48:38.000Z",
+        "description": "ごめんね,ずっとぼっちにさせて/https://t.co/3PTiBQ7DBA信箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shili3377",
+                "end": 39,
+                "expanded_url": "https://ngl.link/shili3377",
+                "start": 16,
+                "url": "https://t.co/3PTiBQ7DBA"
+              }
+            ]
+          }
+        },
+        "id": "1713492000568467456",
+        "name": "秋秋秋诗漓",
+        "pinned_tweet_id": "1868968763930120699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869010407253590016/8ZvBOyuR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17239,
+          "following_count": 355,
+          "like_count": 42029,
+          "listed_count": 30,
+          "media_count": 207,
+          "tweet_count": 12186
+        },
+        "username": "shi_li3602",
+        "verified": false
+      }
+    ]
+  }
+}

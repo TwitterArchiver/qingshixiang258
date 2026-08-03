@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2055460717328036139",
+    "created_at": "2026-05-16T01:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055466061747871990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513400430700597248",
+          "start": 0,
+          "username": "xinran020911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055466061747871990",
+    "in_reply_to_user_id": "1513400430700597248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055460717328036139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinran020911 感觉老师也有点死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2055460705785327616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZ2nyIbsAAsDr5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2055460717328036139",
+        "created_at": "2026-05-16T01:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055466061747871990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513400430700597248",
+              "start": 0,
+              "username": "xinran020911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055466061747871990",
+        "in_reply_to_user_id": "1513400430700597248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055460717328036139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinran020911 感觉老师也有点死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055460705785327616"
+          ]
+        },
+        "author_id": "1513400430700597248",
+        "conversation_id": "2055460717328036139",
+        "created_at": "2026-05-16T01:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055460717328036139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSmMfakVKt",
+              "end": 49,
+              "expanded_url": "https://x.com/xinran020911/status/2055460717328036139/photo/1",
+              "media_key": "3_2055460705785327616",
+              "start": 26,
+              "url": "https://t.co/PSmMfakVKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055460717328036139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经连着上了11天课了，发明中式调休的能不能死一死 https://t.co/PSmMfakVKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1689,
+          "like_count": 40981,
+          "listed_count": 9,
+          "media_count": 1242,
+          "tweet_count": 20171
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:16:18.000Z",
+        "description": "这里作为我的空间！心冉的空间，没有什么朋友。",
+        "id": "1513400430700597248",
+        "location": "Pak Kret, Thailand",
+        "name": "シンラン（apple）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048463341023350784/dgHHB4bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 164,
+          "like_count": 436,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 354
+        },
+        "username": "xinran020911",
+        "verified": false
+      }
+    ]
+  }
+}

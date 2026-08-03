@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1958537154847752685",
+    "created_at": "2025-08-23T13:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T14:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959241430775284022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889343515244576768",
+          "start": 0,
+          "username": "BMPD12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959241430775284022",
+    "in_reply_to_user_id": "1889343515244576768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959219729694077093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BMPD12138 守旧派！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1958537154847752685",
+        "created_at": "2025-08-23T13:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T14:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959241430775284022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889343515244576768",
+              "start": 0,
+              "username": "BMPD12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959241430775284022",
+        "in_reply_to_user_id": "1889343515244576768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959219729694077093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BMPD12138 守旧派！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889343515244576768",
+        "conversation_id": "1958537154847752685",
+        "created_at": "2025-08-23T11:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959219729694077093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959219729694077093",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958537154847752685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 好👌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1373,
+          "like_count": 28321,
+          "listed_count": 7,
+          "media_count": 744,
+          "tweet_count": 12861
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T15:59:42.000Z",
+        "description": "浙江台州，06，喜欢2000年前的流行歌曲，以及DJ音乐，明日方舟",
+        "id": "1889343515244576768",
+        "location": "浙江 台州",
+        "name": "何生_一路苌弘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919272745843691520/Kc77e0kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 406,
+          "like_count": 1418,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 414
+        },
+        "username": "BMPD12138",
+        "verified": false
+      }
+    ]
+  }
+}

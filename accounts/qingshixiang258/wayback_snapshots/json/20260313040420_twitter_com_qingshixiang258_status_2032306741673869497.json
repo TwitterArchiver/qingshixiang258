@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2031976368263872624",
+    "created_at": "2026-03-13T04:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032306741673869497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1326174948222627861",
+          "start": 0,
+          "username": "album_ad_medic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032306741673869497",
+    "in_reply_to_user_id": "1326174948222627861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031976368263872624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@album_ad_medic 我有一个空闲的账号，许久不登陆了，您如果需要可以提供"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2031976368263872624",
+        "created_at": "2026-03-13T04:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032306741673869497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1326174948222627861",
+              "start": 0,
+              "username": "album_ad_medic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032306741673869497",
+        "in_reply_to_user_id": "1326174948222627861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031976368263872624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@album_ad_medic 我有一个空闲的账号，许久不登陆了，您如果需要可以提供"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1326174948222627861",
+        "conversation_id": "2031976368263872624",
+        "created_at": "2026-03-12T06:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T07:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031976368263872624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031976368263872624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14152,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我试了一下，但没有中国身份证号的话好像没办法注册官服😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032270616171331585/vFC_PP28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 1520,
+          "like_count": 38048,
+          "listed_count": 8,
+          "media_count": 1117,
+          "tweet_count": 18470
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-10T14:49:09.000Z",
+        "description": "フォリニックと鷹角作品をこよなく愛しています。エクスアストリスRTAを走っています。Icon→@Murdersoumei63 note→https://t.co/cmXO08MhDK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Murdersoumei63"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "note.com/albumeme/",
+                "end": 91,
+                "expanded_url": "https://note.com/albumeme/",
+                "start": 68,
+                "url": "https://t.co/cmXO08MhDK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCFwSq…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCFwSqAGrh97GWAM9Qm3UAVg",
+                "start": 0,
+                "url": "https://t.co/72CTkhfKAH"
+              }
+            ]
+          }
+        },
+        "id": "1326174948222627861",
+        "location": "日風港貿易地域",
+        "name": "album",
+        "pinned_tweet_id": "2030610493027860545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570984712705044484/lyV0DKQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6674,
+          "following_count": 2815,
+          "like_count": 83388,
+          "listed_count": 62,
+          "media_count": 6200,
+          "tweet_count": 54965
+        },
+        "url": "https://t.co/72CTkhfKAH",
+        "username": "album_ad_medic",
+        "verified": false
+      }
+    ]
+  }
+}

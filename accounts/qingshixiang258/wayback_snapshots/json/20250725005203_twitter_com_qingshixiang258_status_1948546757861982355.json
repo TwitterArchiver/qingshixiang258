@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1948179459774763429",
+    "created_at": "2025-07-25T00:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T01:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948546757861982355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1798313073184518144",
+          "start": 0,
+          "username": "dkdy1993"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948546757861982355",
+    "in_reply_to_user_id": "1798313073184518144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948179459774763429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dkdy1993 🪼想说的大抵是孩子生来就因为指派性别被束上条条框框，这个确实封，像是男生必须勇敢，女生必须贤良，去特么的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1948179459774763429].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1948179459774763429",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1948179459774763429"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1948179459774763429",
+        "created_at": "2025-07-25T00:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T01:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948546757861982355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1798313073184518144",
+              "start": 0,
+              "username": "dkdy1993"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948546757861982355",
+        "in_reply_to_user_id": "1798313073184518144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948179459774763429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dkdy1993 🪼想说的大抵是孩子生来就因为指派性别被束上条条框框，这个确实封，像是男生必须勇敢，女生必须贤良，去特么的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|既然被叫老保那就🚫🏳️‍⚧️｜喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_akitayura"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1947998438366523396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1250,
+          "like_count": 26759,
+          "listed_count": 7,
+          "media_count": 680,
+          "tweet_count": 11737
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T11:17:19.000Z",
+        "description": "❤️大愛……#ウマ娘/#ガンダム/#ZARD/#MyGo/日本のポップ/ロック/#TF/\n                                          某個人的小號",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "ウマ娘"
+              },
+              {
+                "end": 16,
+                "start": 11,
+                "tag": "ガンダム"
+              },
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "ZARD"
+              },
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "MyGo"
+              },
+              {
+                "end": 43,
+                "start": 40,
+                "tag": "TF"
+              }
+            ]
+          }
+        },
+        "id": "1798313073184518144",
+        "name": "❄️東海の帝王 | 裏垢🐴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844360310574153730/I-k3K5wJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 201,
+          "like_count": 3296,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 290
+        },
+        "username": "dkdy1993",
+        "verified": false
+      }
+    ]
+  }
+}

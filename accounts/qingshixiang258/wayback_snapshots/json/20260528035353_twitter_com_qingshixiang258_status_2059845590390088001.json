@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2059843330230608295",
+    "created_at": "2026-05-28T03:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T04:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059845590390088001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031599737078689793",
+          "start": 0,
+          "username": "aihekeleqaq666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059845590390088001",
+    "in_reply_to_user_id": "2031599737078689793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059843330230608295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aihekeleqaq666 你才知道啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2059843330230608295",
+        "created_at": "2026-05-28T03:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059845590390088001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031599737078689793",
+              "start": 0,
+              "username": "aihekeleqaq666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059845590390088001",
+        "in_reply_to_user_id": "2031599737078689793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059843330230608295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aihekeleqaq666 你才知道啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031599737078689793",
+        "conversation_id": "2059843330230608295",
+        "created_at": "2026-05-28T03:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059843330230608295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059843330230608295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉中国很少有男的会天天主动跑大街上搭讪不认识的陌生女性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 1686,
+          "like_count": 41755,
+          "listed_count": 10,
+          "media_count": 1267,
+          "tweet_count": 20519
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T05:15:04.000Z",
+        "description": "百分百互fo，别问在不在，看到就会回复。魔怔抽象人勿扰，看到就拉黑。",
+        "id": "2031599737078689793",
+        "location": "朝鲜🇰🇵",
+        "name": "爱喝可乐🥤（百分百互fo）",
+        "pinned_tweet_id": "2059518903097991234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059518390017163266/CnhJ3wS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 109,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 115
+        },
+        "username": "aihekeleqaq666",
+        "verified": false
+      }
+    ]
+  }
+}

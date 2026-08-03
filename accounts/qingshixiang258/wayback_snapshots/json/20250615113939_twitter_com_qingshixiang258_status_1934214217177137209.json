@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934214199401730048"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      }
+    ],
+    "conversation_id": "1934214217177137209",
+    "created_at": "2025-06-15T11:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T12:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934214217177137209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/niQixLne34",
+          "end": 26,
+          "expanded_url": "https://x.com/qingshixiang258/status/1934214217177137209/photo/1",
+          "media_key": "3_1934214199401730048",
+          "start": 3,
+          "url": "https://t.co/niQixLne34"
+        },
+        {
+          "display_url": "x.com/qingshixiang25…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/qingshixiang258/status/1865463070363201992",
+          "start": 27,
+          "url": "https://t.co/D3GYicLU0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934214217177137209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865463070363201992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "复建 https://t.co/niQixLne34 https://t.co/D3GYicLU0Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_1934214199401730048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gte1kQLbUAAXtAE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1865463060338823168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeN0xQ0b0AAu_yW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934214199401730048"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "1934214217177137209",
+        "created_at": "2025-06-15T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934214217177137209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/niQixLne34",
+              "end": 26,
+              "expanded_url": "https://x.com/qingshixiang258/status/1934214217177137209/photo/1",
+              "media_key": "3_1934214199401730048",
+              "start": 3,
+              "url": "https://t.co/niQixLne34"
+            },
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/1865463070363201992",
+              "start": 27,
+              "url": "https://t.co/D3GYicLU0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934214217177137209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865463070363201992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "复建 https://t.co/niQixLne34 https://t.co/D3GYicLU0Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865463060338823168"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "1865463070363201992",
+        "created_at": "2024-12-07T18:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T19:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865463070363201992"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 104,
+              "tag": "战锤40k"
+            },
+            {
+              "end": 126,
+              "start": 111,
+              "tag": "warhammer40000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXujbxVgHH",
+              "end": 150,
+              "expanded_url": "https://x.com/hy1814486981/status/1865463070363201992/photo/1",
+              "media_key": "3_1865463060338823168",
+              "start": 127,
+              "url": "https://t.co/rXujbxVgHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865463070363201992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 673,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自涂第二个单位。   \ndk打击小队\n颜色用多了确实感觉会好看一点\n缺点就是笔痕还是很重\n还是要多练习\n动力剑本来想沟边来着，勾坏了\n恶魔头想用紫洗漆做出来效果\n但是和预想的不太一样\n总体来说：也就勉强能看\n#战锤40k #warhammer40000 https://t.co/rXujbxVgHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1931748709324517749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 1120,
+          "like_count": 24354,
+          "listed_count": 6,
+          "media_count": 622,
+          "tweet_count": 10654
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

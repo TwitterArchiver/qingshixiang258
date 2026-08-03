@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1985697026856927584",
+    "created_at": "2025-11-04T13:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T14:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985697026856927584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1720779183809519616",
+          "start": 3,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985697026856927584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985674644121403515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RyyyYoin: 调你妈的休"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1985697026856927584",
+        "created_at": "2025-11-04T13:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T14:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985697026856927584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1720779183809519616",
+              "start": 3,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985697026856927584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985674644121403515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RyyyYoin: 调你妈的休"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720779183809519616",
+        "conversation_id": "1985674644121403515",
+        "created_at": "2025-11-04T11:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985674644121403515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985674644121403515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "调你妈的休"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1404,
+          "like_count": 33419,
+          "listed_count": 7,
+          "media_count": 916,
+          "tweet_count": 14876
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "pinned_tweet_id": "1923960404994097413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974071839992524801/CecJCjIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 268,
+          "like_count": 59580,
+          "listed_count": 9,
+          "media_count": 1575,
+          "tweet_count": 13509
+        },
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

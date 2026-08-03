@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1885408063462793259",
+    "created_at": "2025-02-01T06:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T07:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885577882430562757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "985073553123852289",
+          "start": 0,
+          "username": "geeseartist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885577882430562757",
+    "in_reply_to_user_id": "985073553123852289",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885577376542974239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geeseartist QAQ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885577376542974239].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885577376542974239",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885577376542974239"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1885408063462793259",
+        "created_at": "2025-02-01T06:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T07:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885577882430562757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "985073553123852289",
+              "start": 0,
+              "username": "geeseartist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885577882430562757",
+        "in_reply_to_user_id": "985073553123852289",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885577376542974239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geeseartist QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视｜喜欢被叫姐姐和妈妈（嘘～）|目前常驻苏北，两假广州刷新|有点恶趣味，喜欢逗看黄男玩|唔～暂时就这些叭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "青会一直陪着你",
+        "name": "青石🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884961875630399490/TQfiuJPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 935,
+          "like_count": 6174,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2829
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-14T08:33:31.000Z",
+        "description": "CN 顺男 LGBTQ友好 red pill-incel WOW/日麻\n传统视觉艺术爱好者 多语言者 健全B 表面E人 INTJ \n不谈论政治的Polisci+JD graduate 热衷数学、信息论与信号论 \n备用号 @geeseengineer\nbluesky：@gooseartist.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "geeseengineer"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "gooseartist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gooseartist.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://gooseartist.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/qaZd30c3kk"
+              }
+            ]
+          }
+        },
+        "id": "985073553123852289",
+        "location": "https://t.me/+5f2fiJf9nGE0ZjNl",
+        "name": "鹅鹅艺术家",
+        "pinned_tweet_id": "1877944029293277605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874719852990251008/je-TpkuH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 256,
+          "like_count": 2028,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/qaZd30c3kk",
+        "username": "geeseartist",
+        "verified": false
+      }
+    ]
+  }
+}

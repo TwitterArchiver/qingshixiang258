@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046517553313300480"
+      ],
+      "media_source_tweet_id": [
+        "2046519967915380999"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046765275106922774",
+    "created_at": "2026-04-22T01:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046765275106922774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705892738462556162",
+          "start": 3,
+          "username": "CursedVideos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2y8UyBVPxj",
+          "end": 41,
+          "expanded_url": "https://x.com/CursedVideos/status/2046519967915380999/video/1",
+          "media_key": "7_2046517553313300480",
+          "start": 18,
+          "url": "https://t.co/2y8UyBVPxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046765275106922774",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1654
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046519967915380999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CursedVideos: https://t.co/2y8UyBVPxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11286,
+        "height": 1280,
+        "media_key": "7_2046517553313300480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046517553313300480/pu/img/JWlrr9Q6ht14-Cod.jpg",
+        "public_metrics": {
+          "view_count": 775277
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046517553313300480/pu/vid/avc1/320x568/eoT5O_dES7Zt9wMk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046517553313300480/pu/vid/avc1/480x852/mcIe8JjzjFP5UWa9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046517553313300480/pu/vid/avc1/720x1280/CqhL6Wkq6L9W7KdB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046517553313300480/pu/pl/dIQj5F90qWxPtnpC.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046517553313300480"
+          ],
+          "media_source_tweet_id": [
+            "2046519967915380999"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046765275106922774",
+        "created_at": "2026-04-22T01:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046765275106922774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705892738462556162",
+              "start": 3,
+              "username": "CursedVideos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2y8UyBVPxj",
+              "end": 41,
+              "expanded_url": "https://x.com/CursedVideos/status/2046519967915380999/video/1",
+              "media_key": "7_2046517553313300480",
+              "start": 18,
+              "url": "https://t.co/2y8UyBVPxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046765275106922774",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1654
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046519967915380999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CursedVideos: https://t.co/2y8UyBVPxj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046517553313300480"
+          ]
+        },
+        "author_id": "705892738462556162",
+        "conversation_id": "2046519967915380999",
+        "created_at": "2026-04-21T09:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046519967915380999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2y8UyBVPxj",
+              "end": 23,
+              "expanded_url": "https://x.com/CursedVideos/status/2046519967915380999/video/1",
+              "media_key": "7_2046517553313300480",
+              "start": 0,
+              "url": "https://t.co/2y8UyBVPxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046519967915380999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3381,
+          "impression_count": 2118861,
+          "like_count": 29150,
+          "quote_count": 37,
+          "reply_count": 63,
+          "retweet_count": 1654
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2y8UyBVPxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 1597,
+          "like_count": 39287,
+          "listed_count": 9,
+          "media_count": 1178,
+          "tweet_count": 19438
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T23:08:38.000Z",
+        "description": "WEBSITE OUT NOW",
+        "id": "705892738462556162",
+        "location": "not a gimmick account 🤓",
+        "name": "Cursed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1148381153348526085/j0pqJyy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573590,
+          "following_count": 6,
+          "like_count": 5,
+          "listed_count": 824,
+          "media_count": 3872,
+          "tweet_count": 4922
+        },
+        "username": "CursedVideos",
+        "verified": true
+      }
+    ]
+  }
+}

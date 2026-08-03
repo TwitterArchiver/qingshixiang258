@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1949984187361976740",
+    "created_at": "2025-07-29T13:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950183875247853797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1519998812458131456",
+          "start": 0,
+          "username": "yuren40248756"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/paintminiature…",
+          "end": 38,
+          "expanded_url": "https://x.com/paintminiature/status/1949480433881694520",
+          "start": 15,
+          "url": "https://t.co/gIMPF4fw3I"
+        },
+        {
+          "display_url": "x.com/paintminiature…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/paintminiature/status/1949480433881694520",
+          "start": 39,
+          "url": "https://t.co/tj5xsIaFE5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950183875247853797",
+    "in_reply_to_user_id": "1519998812458131456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949480433881694520",
+        "type": "quoted"
+      },
+      {
+        "id": "1950169827860971792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuren40248756 https://t.co/gIMPF4fw3I https://t.co/tj5xsIaFE5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_1949480413769904128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3yG4dWMAAp9DG.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1949984187361976740",
+        "created_at": "2025-07-29T13:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950183875247853797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1519998812458131456",
+              "start": 0,
+              "username": "yuren40248756"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/paintminiature…",
+              "end": 38,
+              "expanded_url": "https://x.com/paintminiature/status/1949480433881694520",
+              "start": 15,
+              "url": "https://t.co/gIMPF4fw3I"
+            },
+            {
+              "display_url": "x.com/paintminiature…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/paintminiature/status/1949480433881694520",
+              "start": 39,
+              "url": "https://t.co/tj5xsIaFE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950183875247853797",
+        "in_reply_to_user_id": "1519998812458131456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949480433881694520",
+            "type": "quoted"
+          },
+          {
+            "id": "1950169827860971792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuren40248756 https://t.co/gIMPF4fw3I https://t.co/tj5xsIaFE5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949480413769904128"
+          ]
+        },
+        "author_id": "1437890451315494914",
+        "conversation_id": "1949480433881694520",
+        "created_at": "2025-07-27T14:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949480433881694520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Techmarine Kitbash",
+              "probability": 0.6947,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Demonic_Tutor_22",
+              "probability": 0.6607,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "minipainting"
+            },
+            {
+              "end": 77,
+              "start": 63,
+              "tag": "gamesworkshop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZXqX6Fl7r",
+              "end": 101,
+              "expanded_url": "https://x.com/PaintMiniature/status/1949480433881694520/photo/1",
+              "media_key": "3_1949480413769904128",
+              "start": 78,
+              "url": "https://t.co/9ZXqX6Fl7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949480433881694520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4947,
+          "like_count": 396,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "WIP Techmarine Kitbash [by Demonic_Tutor_22]\n  \n #minipainting #gamesworkshop https://t.co/9ZXqX6Fl7r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519998812458131456",
+        "conversation_id": "1949984187361976740",
+        "created_at": "2025-07-29T12:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T13:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950169827860971792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950169827860971792",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949984187361976740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1263,
+          "like_count": 27092,
+          "listed_count": 7,
+          "media_count": 687,
+          "tweet_count": 11883
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T11:15:39.000Z",
+        "description": "",
+        "id": "1519998812458131456",
+        "name": "fatu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913493415628853248/o73YP5oN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 247,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "yuren40248756",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T21:26:32.000Z",
+        "description": "Miniature painting rocks !\nAlt acc:@MiniaturePaints\n\nhttps://t.co/A9nB95BVx5\n\nDisclaimer: We do not own the content shown here.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "MiniaturePaints"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dealsw.com/minipaint",
+                "end": 76,
+                "expanded_url": "http://dealsw.com/minipaint",
+                "start": 53,
+                "url": "https://t.co/A9nB95BVx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dealsw.com/minipaint",
+                "end": 23,
+                "expanded_url": "http://dealsw.com/minipaint",
+                "start": 0,
+                "url": "https://t.co/A9nB95BVx5"
+              }
+            ]
+          }
+        },
+        "id": "1437890451315494914",
+        "name": "Miniature painting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473735657017200653/sTLzvwsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5186,
+          "following_count": 953,
+          "like_count": 0,
+          "listed_count": 40,
+          "media_count": 12944,
+          "tweet_count": 12961
+        },
+        "url": "https://t.co/A9nB95BVx5",
+        "username": "PaintMiniature",
+        "verified": false
+      }
+    ]
+  }
+}

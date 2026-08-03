@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1984959154990330217",
+    "created_at": "2025-11-03T12:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T13:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985322978100584542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1708874582554513408",
+          "start": 0,
+          "username": "hehuoyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985322978100584542",
+    "in_reply_to_user_id": "1708874582554513408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985016555730813291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hehuoyuan 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1984959154990330217",
+        "created_at": "2025-11-03T12:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985322978100584542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1708874582554513408",
+              "start": 0,
+              "username": "hehuoyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985322978100584542",
+        "in_reply_to_user_id": "1708874582554513408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985016555730813291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hehuoyuan 哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708874582554513408",
+        "conversation_id": "1984959154990330217",
+        "created_at": "2025-11-02T16:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985016555730813291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985016555730813291",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984959154990330217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 正常，家长以前都是这样，虽然现在慢慢有很多开明一点的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1402,
+          "like_count": 33327,
+          "listed_count": 7,
+          "media_count": 914,
+          "tweet_count": 14831
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:01:10.000Z",
+        "description": "喜欢梗图bot和关注画师老师，还有一些碎碎念(我比较喜欢看每个人的生活)\n\nネタ画像のボットが好きで、イラストレーターの先生をフォローしています。",
+        "id": "1708874582554513408",
+        "location": "地球",
+        "name": "鶴火源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960013605606473728/JODk2s76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 219,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 966
+        },
+        "username": "hehuoyuan",
+        "verified": false
+      }
+    ]
+  }
+}

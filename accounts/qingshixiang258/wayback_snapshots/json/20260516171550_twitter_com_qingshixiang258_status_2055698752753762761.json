@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2055682157243478240",
+    "created_at": "2026-05-16T17:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055698752753762761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HuamanX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055698752753762761",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055682157243478240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuamanX09 笑死我了，你嘴里的戒赌和放屁没什么区别了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2055682157243478240",
+        "created_at": "2026-05-16T17:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055698752753762761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055698752753762761",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055682157243478240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuamanX09 笑死我了，你嘴里的戒赌和放屁没什么区别了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505488337416192",
+        "conversation_id": "2055682157243478240",
+        "created_at": "2026-05-16T16:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055682157243478240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055682157243478240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆了，戒赌了，重新开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 1691,
+          "like_count": 41022,
+          "listed_count": 9,
+          "media_count": 1245,
+          "tweet_count": 20197
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "某人说的对，吃下去的钱是要吐回来的",
+        "id": "2021505488337416192",
+        "location": "日本",
+        "name": "ETH暴涨2500",
+        "pinned_tweet_id": "2052729150583271897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052424896366419975/sjZQ6AJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 731,
+          "like_count": 4183,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 662
+        },
+        "username": "HuamanX09",
+        "verified": true
+      }
+    ]
+  }
+}

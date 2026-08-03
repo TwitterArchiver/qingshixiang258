@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2028373230734721513",
+    "created_at": "2026-03-02T17:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028518573547848141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966445060872093696",
+          "start": 0,
+          "username": "woshiamio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028518573547848141",
+    "in_reply_to_user_id": "1966445060872093696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028373230734721513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiamio 人死债不消，他卖药真吃死人他可不会发一句死者为大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2028373230734721513",
+        "created_at": "2026-03-02T17:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028518573547848141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966445060872093696",
+              "start": 0,
+              "username": "woshiamio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028518573547848141",
+        "in_reply_to_user_id": "1966445060872093696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028373230734721513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiamio 人死债不消，他卖药真吃死人他可不会发一句死者为大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966445060872093696",
+        "conversation_id": "2028373230734721513",
+        "created_at": "2026-03-02T07:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028373230734721513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PnKoZCN/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/PnKoZCN/status/2028312704600162322",
+              "start": 47,
+              "url": "https://t.co/90ICxXhsW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028373230734721513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028312704600162322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这次不骂唐少了\n以前骂她卖药确实是看不顺眼\n如今他去世我希望大家也不要再恶语相向了\n死者为大 https://t.co/90ICxXhsW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1482,
+          "like_count": 37423,
+          "listed_count": 8,
+          "media_count": 1099,
+          "tweet_count": 18106
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T10:13:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/40ZHppBx24"
+              }
+            ]
+          }
+        },
+        "id": "1966445060872093696",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "pinned_tweet_id": "2005156467763229043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012232123739254784/zGVmSTgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 700,
+          "like_count": 23444,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/40ZHppBx24",
+        "username": "woshiamio",
+        "verified": false
+      }
+    ]
+  }
+}

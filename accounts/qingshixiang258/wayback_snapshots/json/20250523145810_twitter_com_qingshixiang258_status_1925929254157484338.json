@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925929234335150080"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925563763157344598",
+    "created_at": "2025-05-23T14:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T15:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925929254157484338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490996839025606657",
+          "start": 0,
+          "username": "echichiye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRXXntCnGg",
+          "end": 34,
+          "expanded_url": "https://x.com/qingshixiang258/status/1925929254157484338/photo/1",
+          "media_key": "3_1925929234335150080",
+          "start": 11,
+          "url": "https://t.co/cRXXntCnGg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925929254157484338",
+    "in_reply_to_user_id": "1490996839025606657",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925789184649748519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@echichiye https://t.co/cRXXntCnGg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925929254157484338].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925929254157484338",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925929254157484338"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925929234335150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpGb0MWMAAIgnl.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490996839025606657",
+        "conversation_id": "1925563763157344598",
+        "created_at": "2025-05-23T05:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T06:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925789184649748519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925789184649748519",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925563763157344598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 77777777777777777777777777777777777777777777777777777777"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 986,
+          "like_count": 21356,
+          "listed_count": 5,
+          "media_count": 484,
+          "tweet_count": 9362
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T10:32:25.000Z",
+        "description": "えちちの垢  日本語下手\n中国男性だよ\n不是画师啦只是喜欢转涩图",
+        "id": "1490996839025606657",
+        "location": "广东",
+        "name": "叶🍓www（突然夸夸bot）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585105840427905025/CcvbUoI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1396,
+          "like_count": 101715,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 20955
+        },
+        "username": "echichiye",
+        "verified": false
+      }
+    ]
+  }
+}

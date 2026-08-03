@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2061126365689286895",
+    "created_at": "2026-05-31T16:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061127107884077097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1276439083120619520",
+          "start": 0,
+          "username": "123_imomiruku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061127107884077097",
+    "in_reply_to_user_id": "1276439083120619520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061126365689286895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123_imomiruku 老师也会画画嘛，好厉害！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2061126365689286895",
+        "created_at": "2026-05-31T16:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061127107884077097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1276439083120619520",
+              "start": 0,
+              "username": "123_imomiruku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061127107884077097",
+        "in_reply_to_user_id": "1276439083120619520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061126365689286895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123_imomiruku 老师也会画画嘛，好厉害！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276439083120619520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "854949050151452672",
+              "name": "Splatoon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Painting",
+              "id": "847869659957182464",
+              "name": "Painting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2061126365689286895",
+        "created_at": "2026-05-31T16:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061126365689286895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061126365689286895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下個月的購物清單（暫定）：\n\nSplatoon 3\n動森擴充包\n管狀水彩（24色）\n固體水彩盤 - 珠光、扇形（24色）\n餅乾形狀的水彩盤\n粉蠟筆（36色）\n水溶性色鉛筆（24色）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1688,
+          "like_count": 42054,
+          "listed_count": 10,
+          "media_count": 1273,
+          "tweet_count": 20609
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T08:56:59.000Z",
+        "description": "台湾 🇹🇼  / 放射線学修士 / 本を読むことが大好き/ 日本語は少しできる/ ハムスター、ラッコ 大好き 🐹 🦦🦦 /",
+        "id": "1276439083120619520",
+        "location": "台湾🇹🇼",
+        "name": "チャミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014972885509558272/8FxXyKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 687,
+          "like_count": 123698,
+          "listed_count": 3,
+          "media_count": 1935,
+          "tweet_count": 58477
+        },
+        "username": "123_imomiruku",
+        "verified": false
+      }
+    ]
+  }
+}

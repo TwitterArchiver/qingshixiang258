@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2052419814715703369",
+    "created_at": "2026-05-08T02:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052575902945669494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052575902945669494",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052522621921849396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H 是肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2052419814715703369",
+        "created_at": "2026-05-08T02:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052575902945669494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052575902945669494",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052522621921849396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H 是肉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "2052419814715703369",
+        "created_at": "2026-05-07T22:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T23:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052522621921849396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052522621921849396",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052419814715703369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 西红柿是水果还是蔬菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1688,
+          "like_count": 40439,
+          "listed_count": 9,
+          "media_count": 1231,
+          "tweet_count": 19977
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n艾克已找到完美的时间线！\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/echo4th",
+                "end": 23,
+                "expanded_url": "https://ngl.link/echo4th",
+                "start": 0,
+                "url": "https://t.co/YdmeUcr3R5"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025547932930617344/gTS0HHwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 4141,
+          "like_count": 123484,
+          "listed_count": 4,
+          "media_count": 1357,
+          "tweet_count": 42441
+        },
+        "url": "https://t.co/YdmeUcr3R5",
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1976001536451858564",
+    "created_at": "2025-10-09T06:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T07:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976177240036843871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504387273919401987",
+          "start": 0,
+          "username": "KamiyaSara8972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976177240036843871",
+    "in_reply_to_user_id": "1504387273919401987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976001536451858564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiyaSara8972 唐逼，感觉像是那种现实里没有人爱，网上发泄情绪的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1976001536451858564",
+        "created_at": "2025-10-09T06:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T07:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976177240036843871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504387273919401987",
+              "start": 0,
+              "username": "KamiyaSara8972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976177240036843871",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976001536451858564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiyaSara8972 唐逼，感觉像是那种现实里没有人爱，网上发泄情绪的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504387273919401987",
+        "conversation_id": "1976001536451858564",
+        "created_at": "2025-10-08T19:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T20:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976001536451858564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ElberethXVIII/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ElberethXVIII/status/1970563403879219372",
+              "start": 9,
+              "url": "https://t.co/ah6Q3mAmOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976001536451858564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970563403879219372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真恶心，赶紧似吧 https://t.co/ah6Q3mAmOT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1358,
+          "like_count": 31648,
+          "listed_count": 7,
+          "media_count": 848,
+          "tweet_count": 14204
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "Looking for a female fox",
+        "id": "1504387273919401987",
+        "name": "岐原狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975504476657360901/7dcg4XjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 352,
+          "like_count": 24553,
+          "listed_count": 4,
+          "media_count": 835,
+          "tweet_count": 29931
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

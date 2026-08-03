@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1995178375242305672",
+    "created_at": "2025-11-30T17:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T18:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995178375242305672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qingshixiang25…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/qingshixiang258/status/1993338490990579820",
+          "start": 10,
+          "url": "https://t.co/pd5D6MMz6P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995178375242305672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 80,
+      "like_count": 6,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993338490990579820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写写我的姥姥姥爷吧 https://t.co/pd5D6MMz6P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1995178375242305672",
+        "created_at": "2025-11-30T17:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995178375242305672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/1993338490990579820",
+              "start": 10,
+              "url": "https://t.co/pd5D6MMz6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995178375242305672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993338490990579820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写写我的姥姥姥爷吧 https://t.co/pd5D6MMz6P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1993338490990579820",
+        "created_at": "2025-11-25T15:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993338490990579820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993338490990579820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 754,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想写点什么，让我想想吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 1449,
+          "like_count": 34935,
+          "listed_count": 8,
+          "media_count": 952,
+          "tweet_count": 15622
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

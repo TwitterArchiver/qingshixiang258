@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2067174730218770826",
+    "created_at": "2026-06-17T15:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067269276499951937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865050179617067008",
+          "start": 0,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067269276499951937",
+    "in_reply_to_user_id": "1865050179617067008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067253503719088562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaStellaria 谢谢凛～爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2067174730218770826",
+        "created_at": "2026-06-17T15:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067269276499951937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865050179617067008",
+              "start": 0,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067269276499951937",
+        "in_reply_to_user_id": "1865050179617067008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067253503719088562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaStellaria 谢谢凛～爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865050179617067008",
+        "conversation_id": "2067174730218770826",
+        "created_at": "2026-06-17T14:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067253503719088562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067253503719088562",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067174730218770826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 青生日快乐哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1691,
+          "like_count": 43625,
+          "listed_count": 10,
+          "media_count": 1318,
+          "tweet_count": 21111
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "比风更轻盈，比路更坚定，比面朝人海的诀别更有感情",
+        "id": "1865050179617067008",
+        "location": "玉浮山",
+        "name": "凛御",
+        "pinned_tweet_id": "1892910789776068924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008491850056007680/KyJknQuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 1099,
+          "like_count": 64318,
+          "listed_count": 12,
+          "media_count": 698,
+          "tweet_count": 13787
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

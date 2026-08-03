@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      }
+    ],
+    "conversation_id": "2049315762075304439",
+    "created_at": "2026-04-29T02:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049315762075304439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/catwhite_911/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/catwhite_911/status/2049117526379143426",
+          "start": 8,
+          "url": "https://t.co/ObfbNmg6sH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049315762075304439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049117526379143426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可怜一铁崽崽 https://t.co/ObfbNmg6sH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11300,
+        "height": 844,
+        "media_key": "7_2049117478803111937",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049117478803111937/pu/img/4k9igbPOlhVvzopc.jpg",
+        "public_metrics": {
+          "view_count": 5633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049117478803111937/pu/vid/avc1/320x468/VkliGgOrOcbuWamE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049117478803111937/pu/vid/avc1/480x702/AWQ05YFfPVaLipaM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049117478803111937/pu/vid/avc1/576x844/adQ3NxmYluabQAV6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049117478803111937/pu/pl/ZSlr7EVY5ZJg2u3i.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "2049315762075304439",
+        "created_at": "2026-04-29T02:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049315762075304439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/catwhite_911/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/catwhite_911/status/2049117526379143426",
+              "start": 8,
+              "url": "https://t.co/ObfbNmg6sH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049315762075304439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049117526379143426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可怜一铁崽崽 https://t.co/ObfbNmg6sH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049117478803111937"
+          ]
+        },
+        "author_id": "1592070551815696384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "2049117526379143426",
+        "created_at": "2026-04-28T13:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049117526379143426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "WarhammerCommunity"
+            },
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "Warhammer40K"
+            },
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "WarhammerArt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3CpNkxVD6",
+              "end": 73,
+              "expanded_url": "https://x.com/CatWhite_911/status/2049117526379143426/video/1",
+              "media_key": "7_2049117478803111937",
+              "start": 50,
+              "url": "https://t.co/Y3CpNkxVD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049117526379143426",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 15496,
+          "like_count": 1321,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "#WarhammerCommunity #Warhammer40K #WarhammerArt🥲🥲 https://t.co/Y3CpNkxVD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 1656,
+          "like_count": 39878,
+          "listed_count": 9,
+          "media_count": 1208,
+          "tweet_count": 19640
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T08:23:01.000Z",
+        "description": "-绝不可能的异世界zekkai的企划主\n-画画玩的人\n-发呆",
+        "id": "1592070551815696384",
+        "name": "ZW猫白🔞",
+        "pinned_tweet_id": "2046534844549911020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592070911129112577/oIVY3_Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 691,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 799
+        },
+        "username": "CatWhite_911",
+        "verified": false
+      }
+    ]
+  }
+}

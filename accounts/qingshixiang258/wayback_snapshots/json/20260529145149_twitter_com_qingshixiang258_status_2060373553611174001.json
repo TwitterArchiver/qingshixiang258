@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2060347277462626626",
+    "created_at": "2026-05-29T14:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060373553611174001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1585942498253238273",
+          "start": 0,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060373553611174001",
+    "in_reply_to_user_id": "1585942498253238273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060347277462626626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceEslight 啊🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2060347277462626626",
+        "created_at": "2026-05-29T14:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060373553611174001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585942498253238273",
+              "start": 0,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060373553611174001",
+        "in_reply_to_user_id": "1585942498253238273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060347277462626626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceEslight 啊🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "2060347277462626626",
+        "created_at": "2026-05-29T13:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060347277462626626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060347277462626626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在墙内刷到一个神秘跨性别女性的瓜条。赖别人家住，还在高温天气一周不洗澡。衣物放人洗衣机能导致那家人洗衣机一股味超过三天才能使用。\n后面又换一个人家，把人零食和方便食品全干光，洗衣机洗袜子还不晾丢客厅别人倒贴钱给他，才请他出去。\n之后还发了招租，自称洁癖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1688,
+          "like_count": 41877,
+          "listed_count": 10,
+          "media_count": 1270,
+          "tweet_count": 20551
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "爱丽丝，我爱着你。几乎，甚至一直。我太累了，躁动不安。",
+        "id": "1585942498253238273",
+        "location": "想象界",
+        "name": "疯子酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058069539917807616/Jv3rVgtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 90,
+          "like_count": 39536,
+          "listed_count": 4,
+          "media_count": 631,
+          "tweet_count": 14509
+        },
+        "username": "AliceEslight",
+        "verified": true
+      }
+    ]
+  }
+}

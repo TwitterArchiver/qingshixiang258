@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2051965202351173818",
+    "created_at": "2026-05-06T11:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051993242548547715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1636013439935184898",
+          "start": 0,
+          "username": "Joytoy_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051993242548547715",
+    "in_reply_to_user_id": "1636013439935184898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051965202351173818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joytoy_official 这不一样的么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2051876775496716288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHm7DlZbEAAmG0P.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2051965202351173818",
+        "created_at": "2026-05-06T11:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051993242548547715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1636013439935184898",
+              "start": 0,
+              "username": "Joytoy_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051993242548547715",
+        "in_reply_to_user_id": "1636013439935184898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051965202351173818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joytoy_official 这不一样的么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051876775496716288"
+          ]
+        },
+        "author_id": "1636013439935184898",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "2051965202351173818",
+        "created_at": "2026-05-06T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051965202351173818"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 135,
+              "tag": "warhammer40k"
+            },
+            {
+              "end": 168,
+              "start": 149,
+              "tag": "warhammercommunity"
+            },
+            {
+              "end": 179,
+              "start": 169,
+              "tag": "warhammer"
+            },
+            {
+              "end": 187,
+              "start": 180,
+              "tag": "joytoy"
+            },
+            {
+              "end": 203,
+              "start": 188,
+              "tag": "toyphotography"
+            },
+            {
+              "end": 208,
+              "start": 204,
+              "tag": "toy"
+            },
+            {
+              "end": 218,
+              "start": 209,
+              "tag": "toyphoto"
+            },
+            {
+              "end": 232,
+              "start": 219,
+              "tag": "actionfigure"
+            },
+            {
+              "end": 247,
+              "start": 233,
+              "tag": "actionfigures"
+            },
+            {
+              "end": 267,
+              "start": 248,
+              "tag": "joytoyactionfigure"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Welcome to the official website of JOYTOY. Discover the latest WARHAMMER action figures.",
+              "display_url": "joytoy.com",
+              "end": 134,
+              "expanded_url": "http://joytoy.com",
+              "images": [
+                {
+                  "height": 36,
+                  "url": "https://pbs.twimg.com/news_img/2051965261297995776/-IyfwGRW?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 36,
+                  "url": "https://pbs.twimg.com/news_img/2051965261297995776/-IyfwGRW?format=png&name=150x150",
+                  "width": 36
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "JOYTOY OFFICIAL",
+              "unwound_url": "http://joytoy.com",
+              "url": "https://t.co/rsaU3Nhh9N"
+            },
+            {
+              "display_url": "pic.x.com/epKwpZp33w",
+              "end": 291,
+              "expanded_url": "https://x.com/Joytoy_official/status/2051965202351173818/photo/1",
+              "media_key": "3_2051876775496716288",
+              "start": 268,
+              "url": "https://t.co/epKwpZp33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051965202351173818",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 445,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Intercessor\nwith Bolt Rifle, Bolt Pistol and Chainsword\nNew Arrival | 12% Off for 3 Days Only\nFind me at here: https://t.co/rsaU3Nhh9N\n#warhammer40k #warhammercommunity #warhammer #joytoy #toyphotography #toy #toyphoto #actionfigure #actionfigures #joytoyactionfigure https://t.co/epKwpZp33w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 1677,
+          "like_count": 40610,
+          "listed_count": 9,
+          "media_count": 1230,
+          "tweet_count": 19903
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T14:36:35.000Z",
+        "description": "JOYTOY Official Twitter Account",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joytoy.com",
+                "end": 23,
+                "expanded_url": "http://www.joytoy.com",
+                "start": 0,
+                "url": "https://t.co/xNVUSOi21p"
+              }
+            ]
+          }
+        },
+        "id": "1636013439935184898",
+        "name": "JOYTOY Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636013663231578114/Tx-kIBy0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9785,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 25,
+          "media_count": 2443,
+          "tweet_count": 2486
+        },
+        "url": "https://t.co/xNVUSOi21p",
+        "username": "Joytoy_official",
+        "verified": false
+      }
+    ]
+  }
+}

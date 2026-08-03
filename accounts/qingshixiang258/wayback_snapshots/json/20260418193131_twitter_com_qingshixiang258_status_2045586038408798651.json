@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2045566474732097847",
+    "created_at": "2026-04-18T19:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T20:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045586038408798651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045586038408798651",
+    "in_reply_to_user_id": "961552358906802176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045566474732097847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 不是你的错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2045566474732097847",
+        "created_at": "2026-04-18T19:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T20:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045586038408798651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045586038408798651",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045566474732097847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 不是你的错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961552358906802176",
+        "conversation_id": "2045566474732097847",
+        "created_at": "2026-04-18T18:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045566474732097847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/dearemon/status/2045417962715349295",
+              "start": 40,
+              "url": "https://t.co/LHodPc6fgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045566474732097847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045417962715349295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dtc自始至终都非常确信是自己杀了思函\ndtc对自己的这一判决经得起历史的检验 https://t.co/LHodPc6fgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 1592,
+          "like_count": 39112,
+          "listed_count": 8,
+          "media_count": 1171,
+          "tweet_count": 19368
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "大头菜有最爱的人，但她已经不在了...\n----PDN----\n产品生命周期状态：最后采购期限；\nLTS：不晚于2027S1；\n停产原因：产品设计缺陷、无客户需求",
+        "id": "961552358906802176",
+        "name": "dfdtc",
+        "pinned_tweet_id": "1936363253627809941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887309919705325568/vm8zJROc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743,
+          "following_count": 1891,
+          "like_count": 65950,
+          "listed_count": 11,
+          "media_count": 3032,
+          "tweet_count": 20386
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1982293339883131028",
+    "created_at": "2026-01-05T16:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T17:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008208120804516177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1612804086088503302",
+          "start": 0,
+          "username": "Hanyuu_Sakurako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008208120804516177",
+    "in_reply_to_user_id": "1612804086088503302",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982293339883131028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanyuu_Sakurako 🥢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1982293339883131028].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982293339883131028",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1982293339883131028"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1982293339883131028",
+        "created_at": "2026-01-05T16:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008208120804516177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1612804086088503302",
+              "start": 0,
+              "username": "Hanyuu_Sakurako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008208120804516177",
+        "in_reply_to_user_id": "1612804086088503302",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982293339883131028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanyuu_Sakurako 🥢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1364,
+          "like_count": 35659,
+          "listed_count": 9,
+          "media_count": 986,
+          "tweet_count": 16424
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T13:30:42.000Z",
+        "description": "Eiちゃん……この名前を口にするだけで胸が高鳴るよ～この可愛らしい名前は思わずかじりたくなるよ～まるで熟してジューシーなオレンジのように甘くて誘惑的だ @1IVI6_Ps",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "1IVI6_Ps"
+              }
+            ]
+          }
+        },
+        "id": "1612804086088503302",
+        "name": "羽生 桜子、Eiちゃんが好き",
+        "pinned_tweet_id": "1980617008258457832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984237909214670849/ZdAOS5LW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 292,
+          "like_count": 4779,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1518
+        },
+        "username": "Hanyuu_Sakurako",
+        "verified": false
+      }
+    ]
+  }
+}

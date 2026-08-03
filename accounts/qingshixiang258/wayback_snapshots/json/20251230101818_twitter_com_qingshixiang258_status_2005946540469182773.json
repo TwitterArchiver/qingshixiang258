@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005946525789417472"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2005946540469182773",
+    "created_at": "2025-12-30T10:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T11:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005946540469182773"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 0,
+          "normalized_text": "香",
+          "probability": 0.6237,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kq8kOqwpuC",
+          "end": 25,
+          "expanded_url": "https://x.com/qingshixiang258/status/2005946540469182773/photo/1",
+          "media_key": "3_2005946525789417472",
+          "start": 2,
+          "url": "https://t.co/kq8kOqwpuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005946540469182773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香 https://t.co/kq8kOqwpuC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2005946525789417472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9aNvLwbcAAp7CO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005946525789417472"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2005946540469182773",
+        "created_at": "2025-12-30T10:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005946540469182773"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 0,
+              "normalized_text": "香",
+              "probability": 0.6237,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kq8kOqwpuC",
+              "end": 25,
+              "expanded_url": "https://x.com/qingshixiang258/status/2005946540469182773/photo/1",
+              "media_key": "3_2005946525789417472",
+              "start": 2,
+              "url": "https://t.co/kq8kOqwpuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005946540469182773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香 https://t.co/kq8kOqwpuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2005092093090546046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005305326652854273/P0IXE9nk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1489,
+          "like_count": 35408,
+          "listed_count": 9,
+          "media_count": 978,
+          "tweet_count": 16219
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

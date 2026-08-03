@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1895821320983887941",
+    "created_at": "2025-03-01T13:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895824048229400585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1853401698628448256",
+          "start": 0,
+          "username": "CharmSnowflake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895824048229400585",
+    "in_reply_to_user_id": "1853401698628448256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895823133950849266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharmSnowflake ❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1895823133950849266].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1895823133950849266",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1895823133950849266"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1895821320983887941",
+        "created_at": "2025-03-01T13:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895824048229400585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1853401698628448256",
+              "start": 0,
+              "username": "CharmSnowflake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895824048229400585",
+        "in_reply_to_user_id": "1853401698628448256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895823133950849266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharmSnowflake ❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 918,
+          "like_count": 9897,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 4127
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T11:39:39.000Z",
+        "description": "前世: @SchneeSchmitt\n再強的外表, 也藏不住真實的自己...\n這裡是雪花的日常貼文區, 隱藏了深為不知人的事\n僅限熟悉推友(通常被此帳追蹤)可以申請訪問\n推崇平等自由, 粉紅勿擾, 斷續含糖無od暫無自殘但不穩定, 自閉症, 抑鬱,🩵MtX🩷, 泛性戀, INFP-T, 🍥27/12/2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "SchneeSchmitt"
+              }
+            ]
+          }
+        },
+        "id": "1853401698628448256",
+        "location": "Madrid, España | 馬德里, 西班牙",
+        "name": "雪花 (日常區) 💕🏳️‍⚧️🍥🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894982913281896448/Oi6ks8xB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 247,
+          "like_count": 2538,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 229
+        },
+        "username": "CharmSnowflake",
+        "verified": false
+      }
+    ]
+  }
+}

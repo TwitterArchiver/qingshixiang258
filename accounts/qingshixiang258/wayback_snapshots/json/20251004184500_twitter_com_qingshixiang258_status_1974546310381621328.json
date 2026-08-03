@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1974544941146939744",
+    "created_at": "2025-10-04T18:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T19:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974546310381621328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1901165386709823490",
+          "start": 0,
+          "username": "wuruto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974546310381621328",
+    "in_reply_to_user_id": "1901165386709823490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974544941146939744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuruto 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1974544941146939744",
+        "created_at": "2025-10-04T18:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974546310381621328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974546310381621328",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974544941146939744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901165386709823490",
+        "conversation_id": "1974544941146939744",
+        "created_at": "2025-10-04T18:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974544941146939744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974544941146939744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗完脸照镜子差点以为自己天下第一好看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介                                                   私密空间@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 1329,
+          "like_count": 31099,
+          "listed_count": 7,
+          "media_count": 834,
+          "tweet_count": 14008
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "pinned_tweet_id": "1972693617044025793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974240758531264512/I_0CNGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 323,
+          "like_count": 25056,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 10346
+        },
+        "username": "wuruto",
+        "verified": false
+      }
+    ]
+  }
+}

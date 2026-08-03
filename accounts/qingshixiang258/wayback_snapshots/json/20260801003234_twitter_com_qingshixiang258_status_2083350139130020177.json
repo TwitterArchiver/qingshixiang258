@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2083230444477440013",
+    "created_at": "2026-08-01T00:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083350139130020177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816148552764252169",
+          "start": 0,
+          "username": "chedis1qu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083350139130020177",
+    "in_reply_to_user_id": "1816148552764252169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083347004043010184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chedis1qu 可以的可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2083230444477440013",
+        "created_at": "2026-08-01T00:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083350139130020177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "chedis1qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083350139130020177",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083347004043010184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chedis1qu 可以的可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816148552764252169",
+        "conversation_id": "2083230444477440013",
+        "created_at": "2026-08-01T00:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083347004043010184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083347004043010184",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083230444477440013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 可以被你网调吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1677,
+          "like_count": 44956,
+          "listed_count": 9,
+          "media_count": 1379,
+          "tweet_count": 21609
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "我来的时候江水很平静",
+        "id": "1816148552764252169",
+        "name": "神不会流血，但你会",
+        "pinned_tweet_id": "2059677830490038306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081831586388201472/wqT10RJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 832,
+          "like_count": 29091,
+          "listed_count": 3,
+          "media_count": 607,
+          "tweet_count": 13273
+        },
+        "url": "",
+        "username": "chedis1qu",
+        "verified": false
+      }
+    ]
+  }
+}

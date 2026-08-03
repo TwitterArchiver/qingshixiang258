@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1911116037896180184",
+    "created_at": "2025-04-15T08:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T09:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912064278061851096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 24,
+          "id": "1795157811518898179",
+          "start": 15,
+          "username": "Huahe_wu"
+        },
+        {
+          "end": 36,
+          "id": "1646550974553522183",
+          "start": 25,
+          "username": "yeziyu7777"
+        },
+        {
+          "end": 48,
+          "id": "1504799211799265282",
+          "start": 37,
+          "username": "LiuSuK7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912064278061851096",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912064118645039251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @Huahe_wu @yeziyu7777 @LiuSuK7777 需要喵❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1912064118645039251].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1912064118645039251",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1912064118645039251"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1911116037896180184",
+        "created_at": "2025-04-15T08:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T09:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912064278061851096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 24,
+              "id": "1795157811518898179",
+              "start": 15,
+              "username": "Huahe_wu"
+            },
+            {
+              "end": 36,
+              "id": "1646550974553522183",
+              "start": 25,
+              "username": "yeziyu7777"
+            },
+            {
+              "end": 48,
+              "id": "1504799211799265282",
+              "start": 37,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912064278061851096",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912064118645039251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @Huahe_wu @yeziyu7777 @LiuSuK7777 需要喵❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909653788056768512/HVX8zDIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 769,
+          "like_count": 15990,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 7340
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "ima ingenting more alles",
+        "id": "1688385343580680192",
+        "name": "末裏せい/まつり清(前 平和を守れ)",
+        "pinned_tweet_id": "1911862342935281917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908431767629160448/Aj8mr4zR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 2066,
+          "like_count": 103990,
+          "listed_count": 14,
+          "media_count": 1161,
+          "tweet_count": 54222
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T18:19:31.000Z",
+        "description": "叫我 化合物 就好 qwq // \n喜欢 东方Project ❤️ // \n玩过 少前 方舟 坎公 BA // \n爱好 着付 画画 聊天 👘 // \n性格 社恐内向 是笨蛋 ISFP-T // \n想和 可爱有趣的大家交朋友 // \n关注 @Huahe_wu 谢谢喵 //",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "Huahe_wu"
+              }
+            ]
+          }
+        },
+        "id": "1795157811518898179",
+        "location": "博丽神社",
+        "name": "某不可溶化合物",
+        "pinned_tweet_id": "1905219725409591451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905603602196070401/kK_pM26A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 141,
+          "like_count": 29778,
+          "listed_count": 3,
+          "media_count": 2419,
+          "tweet_count": 3815
+        },
+        "username": "Huahe_wu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "这里是小叶or叶子｜ADHD｜拒绝见证｜社恐 喜欢贴贴？）｜睡觉爱好者｜笨蛋日常 搞砸是常态｜互fo随意～｜流苏会顶号｜唯一所爱之人@LiuSuK7777🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "LiuSuK7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeziyu7771",
+                "end": 23,
+                "expanded_url": "http://ngl.link/yeziyu7771",
+                "start": 0,
+                "url": "https://t.co/omZuBL0LWf"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "name": "永远の叶_",
+        "pinned_tweet_id": "1895089052631867899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900535737810096128/aoUgCYAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 641,
+          "like_count": 55913,
+          "listed_count": 10,
+          "media_count": 347,
+          "tweet_count": 5929
+        },
+        "url": "https://t.co/omZuBL0LWf",
+        "username": "yeziyu7777",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "nothing",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900534770737754112/C9t4KsZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 2079,
+          "like_count": 30344,
+          "listed_count": 12,
+          "media_count": 898,
+          "tweet_count": 22083
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

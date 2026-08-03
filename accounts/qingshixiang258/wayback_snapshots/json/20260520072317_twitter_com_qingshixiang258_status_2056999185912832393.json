@@ -1,0 +1,580 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056350817784053760",
+        "3_2056350819650576385",
+        "3_2056350822221688832",
+        "3_2056350832623493122"
+      ],
+      "media_source_tweet_id": [
+        "2056350835215667252",
+        "2056350835215667252",
+        "2056350835215667252",
+        "2056350835215667252"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2056999185912832393",
+    "created_at": "2026-05-20T07:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056999185912832393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385783959972315139",
+          "start": 3,
+          "username": "Shime__Kake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VWe8hvzQUJ",
+          "end": 53,
+          "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+          "media_key": "3_2056350817784053760",
+          "start": 30,
+          "url": "https://t.co/VWe8hvzQUJ"
+        },
+        {
+          "display_url": "pic.x.com/VWe8hvzQUJ",
+          "end": 53,
+          "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+          "media_key": "3_2056350819650576385",
+          "start": 30,
+          "url": "https://t.co/VWe8hvzQUJ"
+        },
+        {
+          "display_url": "pic.x.com/VWe8hvzQUJ",
+          "end": 53,
+          "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+          "media_key": "3_2056350822221688832",
+          "start": 30,
+          "url": "https://t.co/VWe8hvzQUJ"
+        },
+        {
+          "display_url": "pic.x.com/VWe8hvzQUJ",
+          "end": 53,
+          "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+          "media_key": "3_2056350832623493122",
+          "start": 30,
+          "url": "https://t.co/VWe8hvzQUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056999185912832393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 891
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056350835215667252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shime__Kake: 直近の夏の秘封イラスト達 https://t.co/VWe8hvzQUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2056350817784053760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImgLHuaQAAmEYo.jpg",
+        "width": 1024
+      },
+      {
+        "height": 638,
+        "media_key": "3_2056350819650576385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImgLOrbIAEeM0I.jpg",
+        "width": 1024
+      },
+      {
+        "height": 741,
+        "media_key": "3_2056350822221688832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImgLYQbMAAN6LF.jpg",
+        "width": 1189
+      },
+      {
+        "height": 1274,
+        "media_key": "3_2056350832623493122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImgL_AaIAI4_hh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056350817784053760",
+            "3_2056350819650576385",
+            "3_2056350822221688832",
+            "3_2056350832623493122"
+          ],
+          "media_source_tweet_id": [
+            "2056350835215667252",
+            "2056350835215667252",
+            "2056350835215667252",
+            "2056350835215667252"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2056999185912832393",
+        "created_at": "2026-05-20T07:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056999185912832393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385783959972315139",
+              "start": 3,
+              "username": "Shime__Kake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWe8hvzQUJ",
+              "end": 53,
+              "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+              "media_key": "3_2056350817784053760",
+              "start": 30,
+              "url": "https://t.co/VWe8hvzQUJ"
+            },
+            {
+              "display_url": "pic.x.com/VWe8hvzQUJ",
+              "end": 53,
+              "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+              "media_key": "3_2056350819650576385",
+              "start": 30,
+              "url": "https://t.co/VWe8hvzQUJ"
+            },
+            {
+              "display_url": "pic.x.com/VWe8hvzQUJ",
+              "end": 53,
+              "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+              "media_key": "3_2056350822221688832",
+              "start": 30,
+              "url": "https://t.co/VWe8hvzQUJ"
+            },
+            {
+              "display_url": "pic.x.com/VWe8hvzQUJ",
+              "end": 53,
+              "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+              "media_key": "3_2056350832623493122",
+              "start": 30,
+              "url": "https://t.co/VWe8hvzQUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056999185912832393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 891
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056350835215667252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shime__Kake: 直近の夏の秘封イラスト達 https://t.co/VWe8hvzQUJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056350817784053760",
+            "3_2056350819650576385",
+            "3_2056350822221688832",
+            "3_2056350832623493122"
+          ]
+        },
+        "author_id": "1385783959972315139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2056350835215667252",
+        "created_at": "2026-05-18T12:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056350835215667252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWe8hvzQUJ",
+              "end": 36,
+              "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+              "media_key": "3_2056350817784053760",
+              "start": 13,
+              "url": "https://t.co/VWe8hvzQUJ"
+            },
+            {
+              "display_url": "pic.x.com/VWe8hvzQUJ",
+              "end": 36,
+              "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+              "media_key": "3_2056350819650576385",
+              "start": 13,
+              "url": "https://t.co/VWe8hvzQUJ"
+            },
+            {
+              "display_url": "pic.x.com/VWe8hvzQUJ",
+              "end": 36,
+              "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+              "media_key": "3_2056350822221688832",
+              "start": 13,
+              "url": "https://t.co/VWe8hvzQUJ"
+            },
+            {
+              "display_url": "pic.x.com/VWe8hvzQUJ",
+              "end": 36,
+              "expanded_url": "https://x.com/Shime__Kake/status/2056350835215667252/photo/1",
+              "media_key": "3_2056350832623493122",
+              "start": 13,
+              "url": "https://t.co/VWe8hvzQUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056350835215667252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1361,
+          "impression_count": 149128,
+          "like_count": 7352,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 891
+        },
+        "reply_settings": "everyone",
+        "text": "直近の夏の秘封イラスト達 https://t.co/VWe8hvzQUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是\n你知道的我最喜欢 @hhngki7292924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "hhngki7292924"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1685,
+          "like_count": 41351,
+          "listed_count": 9,
+          "media_count": 1250,
+          "tweet_count": 20318
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T02:33:44.000Z",
+        "description": "絵。光と湿度と匂い。◇skeb▶https://t.co/R1iOCDoCuR ◇ご依頼は✉shime.kake03@gmail.com ◇Xfolioから▶https://t.co/QUkTvd7IOB◇SKIMA▶https://t.co/OZf1grFs8L ※AI学習❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Shime__Kake",
+                "end": 39,
+                "expanded_url": "https://skeb.jp/@Shime__Kake",
+                "start": 16,
+                "url": "https://t.co/R1iOCDoCuR"
+              },
+              {
+                "display_url": "xfolio.jp/portfolio/Shim…",
+                "end": 102,
+                "expanded_url": "https://xfolio.jp/portfolio/Shime__Kake",
+                "start": 79,
+                "url": "https://t.co/QUkTvd7IOB"
+              },
+              {
+                "display_url": "onl.bz/9uLmh68",
+                "end": 132,
+                "expanded_url": "https://onl.bz/9uLmh68",
+                "start": 109,
+                "url": "https://t.co/OZf1grFs8L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1867674",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1867674",
+                "start": 0,
+                "url": "https://t.co/kbx27vEu0J"
+              }
+            ]
+          }
+        },
+        "id": "1385783959972315139",
+        "location": "禁足地",
+        "name": "しめかけ(七五三懸)",
+        "pinned_tweet_id": "1940061513785778190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652268485727375361/dnB5xTOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8066,
+          "following_count": 674,
+          "like_count": 3315,
+          "listed_count": 70,
+          "media_count": 160,
+          "tweet_count": 4204
+        },
+        "url": "https://t.co/kbx27vEu0J",
+        "username": "Shime__Kake",
+        "verified": false
+      }
+    ]
+  }
+}

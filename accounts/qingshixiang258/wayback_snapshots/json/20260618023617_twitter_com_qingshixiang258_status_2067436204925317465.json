@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2067271990545940863",
+    "created_at": "2026-06-18T02:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067436204925317465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067436204925317465",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067271990545940863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H ʕ•ᴥ•ʔ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 120,
+        "media_key": "16_2067271967695384576",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLBs5tibMAA8kKD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLBs5tibMAA8kKD.mp4"
+          }
+        ],
+        "width": 120
+      },
+      {
+        "height": 960,
+        "media_key": "3_2067271972757893121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBs6AZa8AEBzGw.jpg",
+        "width": 729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2067271990545940863",
+        "created_at": "2026-06-18T02:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067436204925317465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067436204925317465",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067271990545940863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H ʕ•ᴥ•ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067271967695384576",
+            "3_2067271972757893121"
+          ]
+        },
+        "author_id": "1609619970811482112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067271990545940863",
+        "created_at": "2026-06-17T15:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067271990545940863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWy5fZ2PVx",
+              "end": 23,
+              "expanded_url": "https://x.com/3ch4O1H/status/2067271990545940863/photo/1",
+              "media_key": "16_2067271967695384576",
+              "start": 0,
+              "url": "https://t.co/UWy5fZ2PVx"
+            },
+            {
+              "display_url": "pic.x.com/UWy5fZ2PVx",
+              "end": 23,
+              "expanded_url": "https://x.com/3ch4O1H/status/2067271990545940863/photo/1",
+              "media_key": "3_2067271972757893121",
+              "start": 0,
+              "url": "https://t.co/UWy5fZ2PVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067271990545940863",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 73,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UWy5fZ2PVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1691,
+          "like_count": 43653,
+          "listed_count": 10,
+          "media_count": 1318,
+          "tweet_count": 21121
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n艾克已找到完美的时间线！\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/echo4th",
+                "end": 23,
+                "expanded_url": "https://ngl.link/echo4th",
+                "start": 0,
+                "url": "https://t.co/YdmeUcr3R5"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025547932930617344/gTS0HHwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 4278,
+          "like_count": 131578,
+          "listed_count": 2,
+          "media_count": 1405,
+          "tweet_count": 43494
+        },
+        "url": "https://t.co/YdmeUcr3R5",
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

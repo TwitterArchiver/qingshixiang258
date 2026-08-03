@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027760337270018055"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027758316156555645",
+    "created_at": "2026-02-28T14:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027760396598448174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010745867985367040",
+          "start": 0,
+          "username": "flyoldmantou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q6Mam2QtzZ",
+          "end": 41,
+          "expanded_url": "https://x.com/qingshixiang258/status/2027760396598448174/photo/1",
+          "media_key": "3_2027760337270018055",
+          "start": 18,
+          "url": "https://t.co/q6Mam2QtzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027760396598448174",
+    "in_reply_to_user_id": "2010745867985367040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027758316156555645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flyoldmantou 舒服～ https://t.co/q6Mam2QtzZ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2027758316156555645].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2027758316156555645",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2027758316156555645"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027760337270018055",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQNSICbEAcCuy4.jpg",
+        "width": 763
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027760337270018055"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2027758316156555645",
+        "created_at": "2026-02-28T14:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027760396598448174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010745867985367040",
+              "start": 0,
+              "username": "flyoldmantou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6Mam2QtzZ",
+              "end": 41,
+              "expanded_url": "https://x.com/qingshixiang258/status/2027760396598448174/photo/1",
+              "media_key": "3_2027760337270018055",
+              "start": 18,
+              "url": "https://t.co/q6Mam2QtzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027760396598448174",
+        "in_reply_to_user_id": "2010745867985367040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027758316156555645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyoldmantou 舒服～ https://t.co/q6Mam2QtzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 1479,
+          "like_count": 37344,
+          "listed_count": 8,
+          "media_count": 1094,
+          "tweet_count": 17988
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T16:09:17.000Z",
+        "description": "老面馒头直销",
+        "id": "2010745867985367040",
+        "name": "飞天老面馒头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011121821329080322/CRXhhk0l_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 32,
+          "like_count": 888,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 711
+        },
+        "username": "flyoldmantou",
+        "verified": false
+      }
+    ]
+  }
+}

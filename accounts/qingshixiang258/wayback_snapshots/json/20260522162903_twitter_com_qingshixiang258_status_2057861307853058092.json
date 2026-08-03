@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2057842333446787104",
+    "created_at": "2026-05-22T16:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057861307853058092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "901299158669180931",
+          "start": 0,
+          "username": "ShoBeiYong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057861307853058092",
+    "in_reply_to_user_id": "901299158669180931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057859457443676599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShoBeiYong 哎，挺可怜的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2057842333446787104",
+        "created_at": "2026-05-22T16:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057861307853058092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "901299158669180931",
+              "start": 0,
+              "username": "ShoBeiYong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057861307853058092",
+        "in_reply_to_user_id": "901299158669180931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057859457443676599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShoBeiYong 哎，挺可怜的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901299158669180931",
+        "conversation_id": "2057842333446787104",
+        "created_at": "2026-05-22T16:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057859457443676599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057859457443676599",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057842333446787104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 男娘嘉豪说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1687,
+          "like_count": 41435,
+          "listed_count": 10,
+          "media_count": 1253,
+          "tweet_count": 20368
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "大道廢，有仁義；智慧出，有大偽。",
+        "id": "901299158669180931",
+        "location": "央土 有中華地 閩海",
+        "name": "魈✟ ❂☭ 電波系奇男子",
+        "pinned_tweet_id": "2043583109229068494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 362,
+          "like_count": 20192,
+          "listed_count": 15,
+          "media_count": 1184,
+          "tweet_count": 11881
+        },
+        "username": "ShoBeiYong",
+        "verified": false
+      }
+    ]
+  }
+}

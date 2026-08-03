@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025848139434102784",
+        "3_2025848139421548544"
+      ],
+      "media_source_tweet_id": [
+        "2025848154583953827",
+        "2025848154583953827"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2026303636717138032",
+    "created_at": "2026-02-24T14:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026303636717138032"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 39,
+          "tag": "cosplay"
+        },
+        {
+          "end": 56,
+          "start": 48,
+          "tag": "男娘coser"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845668678387515392",
+          "start": 3,
+          "username": "dilei114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aHnmveWzUq",
+          "end": 80,
+          "expanded_url": "https://x.com/dilei114/status/2025848154583953827/photo/1",
+          "media_key": "3_2025848139434102784",
+          "start": 57,
+          "url": "https://t.co/aHnmveWzUq"
+        },
+        {
+          "display_url": "pic.x.com/aHnmveWzUq",
+          "end": 80,
+          "expanded_url": "https://x.com/dilei114/status/2025848154583953827/photo/1",
+          "media_key": "3_2025848139421548544",
+          "start": 57,
+          "url": "https://t.co/aHnmveWzUq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026303636717138032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025848154583953827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dilei114: 指挥官~可爱的柴郡猫猫永远会陪在你身边的喵~❤️\n#cosplay #男娘coser https://t.co/aHnmveWzUq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025848139434102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1CJj_bEAA_btP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025848139421548544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1CJj8bgAAo5pV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025848139434102784",
+            "3_2025848139421548544"
+          ],
+          "media_source_tweet_id": [
+            "2025848154583953827",
+            "2025848154583953827"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2026303636717138032",
+        "created_at": "2026-02-24T14:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026303636717138032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "cosplay"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "男娘coser"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845668678387515392",
+              "start": 3,
+              "username": "dilei114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHnmveWzUq",
+              "end": 80,
+              "expanded_url": "https://x.com/dilei114/status/2025848154583953827/photo/1",
+              "media_key": "3_2025848139434102784",
+              "start": 57,
+              "url": "https://t.co/aHnmveWzUq"
+            },
+            {
+              "display_url": "pic.x.com/aHnmveWzUq",
+              "end": 80,
+              "expanded_url": "https://x.com/dilei114/status/2025848154583953827/photo/1",
+              "media_key": "3_2025848139421548544",
+              "start": 57,
+              "url": "https://t.co/aHnmveWzUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026303636717138032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025848154583953827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dilei114: 指挥官~可爱的柴郡猫猫永远会陪在你身边的喵~❤️\n#cosplay #男娘coser https://t.co/aHnmveWzUq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025848139434102784",
+            "3_2025848139421548544"
+          ]
+        },
+        "author_id": "1845668678387515392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2025848154583953827",
+        "created_at": "2026-02-23T08:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025848154583953827"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "cosplay"
+            },
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "男娘coser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHnmveWzUq",
+              "end": 66,
+              "expanded_url": "https://x.com/dilei114/status/2025848154583953827/photo/1",
+              "media_key": "3_2025848139434102784",
+              "start": 43,
+              "url": "https://t.co/aHnmveWzUq"
+            },
+            {
+              "display_url": "pic.x.com/aHnmveWzUq",
+              "end": 66,
+              "expanded_url": "https://x.com/dilei114/status/2025848154583953827/photo/1",
+              "media_key": "3_2025848139421548544",
+              "start": 43,
+              "url": "https://t.co/aHnmveWzUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025848154583953827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2934,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "指挥官~可爱的柴郡猫猫永远会陪在你身边的喵~❤️\n#cosplay #男娘coser https://t.co/aHnmveWzUq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1468,
+          "like_count": 37208,
+          "listed_count": 8,
+          "media_count": 1083,
+          "tweet_count": 17816
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:31:27.000Z",
+        "description": "会很友善的对待大家的哟 ✧(≖ ◡ ≖✿)｜偶尔是小男娘 ?丨喜欢cos丨不对线｜无明确意识形态｜拒绝一切极端人｜会尽最大努力避免与任何人发生冲突｜做个萌萌人｜绝对不会主动骂人或人身攻击｜不会因立场不同而屏蔽或辱骂他人｜会屏蔽乱骂人的账号｜可能会出现误屏蔽的情况｜善待每一位能好好说话的推友❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/Gv9IRu64Ni"
+              }
+            ]
+          }
+        },
+        "id": "1845668678387515392",
+        "location": "D.P.R.KOREN",
+        "name": "爆浆地雷😘",
+        "pinned_tweet_id": "1913817499562639368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 677,
+          "like_count": 173485,
+          "listed_count": 5,
+          "media_count": 1037,
+          "tweet_count": 11083
+        },
+        "url": "https://t.co/Gv9IRu64Ni",
+        "username": "dilei114",
+        "verified": true
+      }
+    ]
+  }
+}

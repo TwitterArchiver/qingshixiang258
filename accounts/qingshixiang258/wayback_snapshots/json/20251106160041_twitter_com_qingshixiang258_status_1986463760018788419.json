@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1984547379492884824",
+    "created_at": "2025-11-06T16:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T17:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986463760018788419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827399693523152901",
+          "start": 0,
+          "username": "kiming568416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986463760018788419",
+    "in_reply_to_user_id": "1827399693523152901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986460437953843220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiming568416 你给我买（挠头～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1984547379492884824",
+        "created_at": "2025-11-06T16:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986463760018788419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827399693523152901",
+              "start": 0,
+              "username": "kiming568416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986463760018788419",
+        "in_reply_to_user_id": "1827399693523152901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986460437953843220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiming568416 你给我买（挠头～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827399693523152901",
+        "conversation_id": "1984547379492884824",
+        "created_at": "2025-11-06T15:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986460437953843220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986460437953843220",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984547379492884824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 想吃直说😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1414,
+          "like_count": 33669,
+          "listed_count": 7,
+          "media_count": 922,
+          "tweet_count": 14947
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T17:37:01.000Z",
+        "description": "1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "404unkonw.com",
+                "end": 23,
+                "expanded_url": "http://404unkonw.com",
+                "start": 0,
+                "url": "https://t.co/WibHQN1WB3"
+              }
+            ]
+          }
+        },
+        "id": "1827399693523152901",
+        "name": "reming",
+        "pinned_tweet_id": "1852638740096938055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967946770492878848/YG-xxODV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 1869,
+          "like_count": 8211,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/WibHQN1WB3",
+        "username": "kiming568416",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2010320559700320546",
+    "created_at": "2026-01-11T13:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010346898780291500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774702294052884481",
+          "start": 0,
+          "username": "Adam_F_White"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010346898780291500",
+    "in_reply_to_user_id": "1774702294052884481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010345413694644562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adam_F_White 钢笔真的很好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2010320559700320546",
+        "created_at": "2026-01-11T13:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010346898780291500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774702294052884481",
+              "start": 0,
+              "username": "Adam_F_White"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010346898780291500",
+        "in_reply_to_user_id": "1774702294052884481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010345413694644562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adam_F_White 钢笔真的很好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774702294052884481",
+        "conversation_id": "2010320559700320546",
+        "created_at": "2026-01-11T13:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010345413694644562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010345413694644562",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010320559700320546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我的小學老師用紅色鋼筆改作業，導致我愛上了鋼筆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1380,
+          "like_count": 35863,
+          "listed_count": 9,
+          "media_count": 1000,
+          "tweet_count": 16660
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T07:36:33.000Z",
+        "description": "P(|X-E(X)|≥ε)≤ε⁻²Var(X)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1818627197?spm…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1818627197?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/QseiPp7CMT"
+              }
+            ]
+          }
+        },
+        "id": "1774702294052884481",
+        "location": "平壤特別市   金日成綜合大學",
+        "name": "𝑨𝒅𝒂𝒎 𝑭 𝑾𝒉𝒊𝒕𝒆",
+        "pinned_tweet_id": "2004587195722874980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005979002125860864/63pkkamh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 661,
+          "like_count": 40615,
+          "listed_count": 6,
+          "media_count": 2510,
+          "tweet_count": 10863
+        },
+        "url": "https://t.co/QseiPp7CMT",
+        "username": "Adam_F_White",
+        "verified": false
+      }
+    ]
+  }
+}

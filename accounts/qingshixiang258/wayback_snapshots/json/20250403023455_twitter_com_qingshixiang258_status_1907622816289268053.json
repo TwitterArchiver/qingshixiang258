@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1907393377064390782",
+    "created_at": "2025-04-03T02:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907622816289268053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFLMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907622816289268053",
+    "in_reply_to_user_id": "1723532985679704064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907591545622245436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFLMTF 这几把公司"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1907393377064390782",
+        "created_at": "2025-04-03T02:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907622816289268053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907622816289268053",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907591545622245436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF 这几把公司"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723532985679704064",
+        "conversation_id": "1907393377064390782",
+        "created_at": "2025-04-03T00:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T01:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907591545622245436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907591545622245436",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907393377064390782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 那还会懂得压榨了，这鸡巴公司😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907091660737318912/kl6dJKVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 595,
+          "like_count": 13635,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5716
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007.10.11/165-49kg/是mtf🏳️‍⚧️/持证含糖?🧐/双相情感障碍🥺/现实纯i人🤓/欢迎QQ扩列(私信)喵~/正常同类会互fo☺️/最爱的老公(老婆) @coldandtea941",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "coldandtea941"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfserver.top",
+                "end": 23,
+                "expanded_url": "http://www.hfserver.top",
+                "start": 0,
+                "url": "https://t.co/6mGFLlWO2q"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "china",
+        "name": "HFRin🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906154664061784064/SJLzvXuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 313,
+          "like_count": 640,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/6mGFLlWO2q",
+        "username": "HFLMTF",
+        "verified": false
+      }
+    ]
+  }
+}

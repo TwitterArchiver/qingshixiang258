@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2060658608527077535",
+    "created_at": "2026-05-30T12:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060701296018264294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1990562840797904896",
+          "start": 0,
+          "username": "yan071155"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060701296018264294",
+    "in_reply_to_user_id": "1990562840797904896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060661678434611494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan071155 啊～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2060658608527077535",
+        "created_at": "2026-05-30T12:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060701296018264294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1990562840797904896",
+              "start": 0,
+              "username": "yan071155"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060701296018264294",
+        "in_reply_to_user_id": "1990562840797904896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060661678434611494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan071155 啊～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990562840797904896",
+        "conversation_id": "2060658608527077535",
+        "created_at": "2026-05-30T09:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060661678434611494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060661678434611494",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060658608527077535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我也要吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 1689,
+          "like_count": 41905,
+          "listed_count": 10,
+          "media_count": 1271,
+          "tweet_count": 20569
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T23:29:23.000Z",
+        "description": "“糟得很”还是“好得很”?",
+        "id": "1990562840797904896",
+        "location": "上海",
+        "name": "逻辑猫",
+        "pinned_tweet_id": "2032248624206528859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029594569038503936/YH5c18Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 32,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 794,
+          "tweet_count": 2886
+        },
+        "username": "yan071155",
+        "verified": false
+      }
+    ]
+  }
+}

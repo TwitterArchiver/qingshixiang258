@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2072929132544245817",
+    "created_at": "2026-07-03T14:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073051512377655320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073051512377655320",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072929132544245817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H 好学姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072929125380329473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSGDoLbEAEU5Lx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2072929132544245817",
+        "created_at": "2026-07-03T14:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073051512377655320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073051512377655320",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072929132544245817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H 好学姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072929125380329473"
+          ]
+        },
+        "author_id": "1609619970811482112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072929132544245817",
+        "created_at": "2026-07-03T06:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072929132544245817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uAgq2lKM9A",
+              "end": 43,
+              "expanded_url": "https://x.com/3ch4O1H/status/2072929132544245817/photo/1",
+              "media_key": "3_2072929125380329473",
+              "start": 20,
+              "url": "https://t.co/uAgq2lKM9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072929132544245817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天学姐借了我的校园卡\n今天请我奶茶喝 https://t.co/uAgq2lKM9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071265514597519361/MXKHALWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 1688,
+          "like_count": 44275,
+          "listed_count": 10,
+          "media_count": 1329,
+          "tweet_count": 21273
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n艾克已找到完美的时间线！\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/echo4th",
+                "end": 23,
+                "expanded_url": "https://ngl.link/echo4th",
+                "start": 0,
+                "url": "https://t.co/YdmeUcr3R5"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025547932930617344/gTS0HHwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 4316,
+          "like_count": 135545,
+          "listed_count": 2,
+          "media_count": 1431,
+          "tweet_count": 44002
+        },
+        "url": "https://t.co/YdmeUcr3R5",
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

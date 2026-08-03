@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024759902020030464"
+      ],
+      "media_source_tweet_id": [
+        "2024759907854270923"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2024838195054297585",
+    "created_at": "2026-02-20T13:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024838195054297585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873676644608819200",
+          "start": 3,
+          "username": "_otst"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bS4ZJMacFD",
+          "end": 43,
+          "expanded_url": "https://x.com/_otst/status/2024759907854270923/photo/1",
+          "media_key": "3_2024759902020030464",
+          "start": 20,
+          "url": "https://t.co/bS4ZJMacFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024838195054297585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 352
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024759907854270923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_otst: 欲張り　みずえな https://t.co/bS4ZJMacFD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_2024759902020030464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlkZztb0AAr2hL.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024759902020030464"
+          ],
+          "media_source_tweet_id": [
+            "2024759907854270923"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2024838195054297585",
+        "created_at": "2026-02-20T13:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024838195054297585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873676644608819200",
+              "start": 3,
+              "username": "_otst"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bS4ZJMacFD",
+              "end": 43,
+              "expanded_url": "https://x.com/_otst/status/2024759907854270923/photo/1",
+              "media_key": "3_2024759902020030464",
+              "start": 20,
+              "url": "https://t.co/bS4ZJMacFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024838195054297585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 352
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024759907854270923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_otst: 欲張り　みずえな https://t.co/bS4ZJMacFD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024759902020030464"
+          ]
+        },
+        "author_id": "1873676644608819200",
+        "conversation_id": "2024759907854270923",
+        "created_at": "2026-02-20T08:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024759907854270923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bS4ZJMacFD",
+              "end": 32,
+              "expanded_url": "https://x.com/_otst/status/2024759907854270923/photo/1",
+              "media_key": "3_2024759902020030464",
+              "start": 9,
+              "url": "https://t.co/bS4ZJMacFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024759907854270923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 472,
+          "impression_count": 27488,
+          "like_count": 4227,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 352
+        },
+        "reply_settings": "everyone",
+        "text": "欲張り　みずえな https://t.co/bS4ZJMacFD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024809943195594752/R_cbJGbD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 1446,
+          "like_count": 36996,
+          "listed_count": 8,
+          "media_count": 1072,
+          "tweet_count": 17604
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T10:25:10.000Z",
+        "description": "🎨🎀🎨多め┊ 低浮上遅筆┊プロセカ",
+        "id": "1873676644608819200",
+        "name": "おとさた",
+        "pinned_tweet_id": "1970411048978329893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021921905192865792/1KQo_NE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4036,
+          "following_count": 22,
+          "like_count": 664,
+          "listed_count": 10,
+          "media_count": 30,
+          "tweet_count": 42
+        },
+        "username": "_otst",
+        "verified": false
+      }
+    ]
+  }
+}

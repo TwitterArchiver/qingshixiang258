@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1958162514811953355",
+    "created_at": "2025-08-20T13:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T14:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958163218553356398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282832893304242178",
+          "start": 0,
+          "username": "baihui_Ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958163218553356398",
+    "in_reply_to_user_id": "1282832893304242178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958163129839522170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baihui_Ke 好事情"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958163129839522170].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958163129839522170",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958163129839522170"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1958162514811953355",
+        "created_at": "2025-08-20T13:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T14:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958163218553356398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282832893304242178",
+              "start": 0,
+              "username": "baihui_Ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958163218553356398",
+        "in_reply_to_user_id": "1282832893304242178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958163129839522170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baihui_Ke 好事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 1299,
+          "like_count": 28126,
+          "listed_count": 7,
+          "media_count": 733,
+          "tweet_count": 12506
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "你喜欢我",
+        "id": "1282832893304242178",
+        "name": "ek灰白",
+        "pinned_tweet_id": "1890054887813296135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957812324745793536/55A6IKsw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 342,
+          "like_count": 25226,
+          "listed_count": 0,
+          "media_count": 884,
+          "tweet_count": 9996
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      }
+    ]
+  }
+}

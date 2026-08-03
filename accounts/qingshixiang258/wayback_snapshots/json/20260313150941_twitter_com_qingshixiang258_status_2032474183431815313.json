@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2032309704647737438",
+    "created_at": "2026-03-13T15:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032474183431815313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1177628416603877376",
+          "start": 0,
+          "username": "N1ckelth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032474183431815313",
+    "in_reply_to_user_id": "1177628416603877376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032473779230888286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N1ckelth 哎…希望现在才是幻觉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2032309704647737438",
+        "created_at": "2026-03-13T15:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032474183431815313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1177628416603877376",
+              "start": 0,
+              "username": "N1ckelth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032474183431815313",
+        "in_reply_to_user_id": "1177628416603877376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032473779230888286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N1ckelth 哎…希望现在才是幻觉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1177628416603877376",
+        "conversation_id": "2032309704647737438",
+        "created_at": "2026-03-13T15:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032473779230888286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032473779230888286",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032309704647737438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 开放和包容或许只是一份短暂的幻觉🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032270616171331585/vFC_PP28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1527,
+          "like_count": 38108,
+          "listed_count": 8,
+          "media_count": 1121,
+          "tweet_count": 18560
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-27T16:58:15.000Z",
+        "description": "-",
+        "id": "1177628416603877376",
+        "name": "Nope",
+        "pinned_tweet_id": "1392873736223608833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019941765873299459/Hzmlkiwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 582,
+          "like_count": 5410,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1880
+        },
+        "username": "N1ckelth",
+        "verified": false
+      }
+    ]
+  }
+}

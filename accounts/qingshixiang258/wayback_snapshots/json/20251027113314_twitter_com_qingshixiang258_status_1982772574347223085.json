@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1982769719548788767",
+    "created_at": "2025-10-27T11:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T12:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982772574347223085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1901165386709823490",
+          "start": 0,
+          "username": "wuruto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982772574347223085",
+    "in_reply_to_user_id": "1901165386709823490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982769719548788767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuruto 不！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1982769719548788767",
+        "created_at": "2025-10-27T11:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982772574347223085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982772574347223085",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982769719548788767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto 不！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901165386709823490",
+        "conversation_id": "1982769719548788767",
+        "created_at": "2025-10-27T11:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982769719548788767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982769719548788767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来这个月已经快把下个月生活费花完了结果天降横财了，下海计划取消❌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "榴莲🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981035874054742016/gi1dhimK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1385,
+          "like_count": 32612,
+          "listed_count": 7,
+          "media_count": 892,
+          "tweet_count": 14591
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974240758531264512/I_0CNGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 320,
+          "like_count": 26906,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 11331
+        },
+        "username": "wuruto",
+        "verified": false
+      }
+    ]
+  }
+}

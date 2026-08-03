@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2063286185255166166",
+    "created_at": "2026-06-07T08:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063537884838473742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1340237328305049602",
+          "start": 0,
+          "username": "Ml06af6lUG2ySlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063537884838473742",
+    "in_reply_to_user_id": "1340237328305049602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063533046725517439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ml06af6lUG2ySlR 翻那么久要不给你点小奖励呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 443,
+        "media_key": "3_2063532978215772161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMkT4Ta4AERYwI.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2063286185255166166",
+        "created_at": "2026-06-07T08:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063537884838473742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1340237328305049602",
+              "start": 0,
+              "username": "Ml06af6lUG2ySlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063537884838473742",
+        "in_reply_to_user_id": "1340237328305049602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063533046725517439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ml06af6lUG2ySlR 翻那么久要不给你点小奖励呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063532978215772161"
+          ]
+        },
+        "author_id": "1340237328305049602",
+        "conversation_id": "2063286185255166166",
+        "created_at": "2026-06-07T08:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063533046725517439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBLJaAfx6U",
+              "end": 50,
+              "expanded_url": "https://x.com/Ml06af6lUG2ySlR/status/2063533046725517439/photo/1",
+              "media_key": "3_2063532978215772161",
+              "start": 27,
+              "url": "https://t.co/WBLJaAfx6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063533046725517439",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063286185255166166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 ?两头都骂?🤣🤣🤣 https://t.co/WBLJaAfx6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 1686,
+          "like_count": 42659,
+          "listed_count": 10,
+          "media_count": 1288,
+          "tweet_count": 20835
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T10:07:44.000Z",
+        "description": "",
+        "id": "1340237328305049602",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051348028871860224/70btRunv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 85,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "username": "Ml06af6lUG2ySlR",
+        "verified": false
+      }
+    ]
+  }
+}

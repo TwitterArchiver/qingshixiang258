@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2074495044296528188",
+    "created_at": "2026-07-07T15:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074513274780151921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570466382365728771",
+          "start": 0,
+          "username": "m8o9j6i4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074513274780151921",
+    "in_reply_to_user_id": "1570466382365728771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074495044296528188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m8o9j6i4 我要变色孽恶魔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074495044296528188].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074495044296528188",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074495044296528188"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2074495044296528188",
+        "created_at": "2026-07-07T15:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074513274780151921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570466382365728771",
+              "start": 0,
+              "username": "m8o9j6i4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074513274780151921",
+        "in_reply_to_user_id": "1570466382365728771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074495044296528188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m8o9j6i4 我要变色孽恶魔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️.official",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 1687,
+          "like_count": 44361,
+          "listed_count": 10,
+          "media_count": 1337,
+          "tweet_count": 21319
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T17:35:48.000Z",
+        "description": "我大号@mo6ji4 被封了😭\n最好最善良最可爱的好厚米：@BigFreshShrimp @SuperShrimp9000  @miku_suki393939\nemmmmmmmmm🚪14000000\n开放私信所以fo之前请私信说明，私密账号所以不认识的人不过\n有事联系不上找我的宝宝传话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "mo6ji4"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "BigFreshShrimp"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "SuperShrimp9000"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1570466382365728771",
+        "location": "厄普西隆南极总部",
+        "name": "青蛙姬",
+        "pinned_tweet_id": "1903068922070565313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 344,
+          "like_count": 41637,
+          "listed_count": 1,
+          "media_count": 1518,
+          "tweet_count": 13496
+        },
+        "url": "",
+        "username": "m8o9j6i4",
+        "verified": false
+      }
+    ]
+  }
+}

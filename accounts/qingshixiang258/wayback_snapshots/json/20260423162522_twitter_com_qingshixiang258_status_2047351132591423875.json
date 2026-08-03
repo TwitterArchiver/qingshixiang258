@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2046940998161559997",
+    "created_at": "2026-04-23T16:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047351132591423875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1182300608050520065",
+          "start": 0,
+          "username": "KasuganoAyaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047351132591423875",
+    "in_reply_to_user_id": "1182300608050520065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047348085484065062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KasuganoAyaka 没钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2046940998161559997",
+        "created_at": "2026-04-23T16:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047351132591423875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1182300608050520065",
+              "start": 0,
+              "username": "KasuganoAyaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047351132591423875",
+        "in_reply_to_user_id": "1182300608050520065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047348085484065062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KasuganoAyaka 没钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1182300608050520065",
+        "conversation_id": "2046940998161559997",
+        "created_at": "2026-04-23T16:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047348085484065062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047348085484065062",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046941059180339220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 那就买啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 1631,
+          "like_count": 39440,
+          "listed_count": 9,
+          "media_count": 1192,
+          "tweet_count": 19512
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T14:23:35.000Z",
+        "description": "我们终会相知相遇，在哪悠远的苍穹！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayakacloud.cn",
+                "end": 23,
+                "expanded_url": "http://ayakacloud.cn",
+                "start": 0,
+                "url": "https://t.co/iMAWxYhQXK"
+              }
+            ]
+          }
+        },
+        "id": "1182300608050520065",
+        "location": "Kowloon City District",
+        "name": "KasuganoAyaka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1182300687293542400/vuvvJpD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 88,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/iMAWxYhQXK",
+        "username": "KasuganoAyaka",
+        "verified": false
+      }
+    ]
+  }
+}

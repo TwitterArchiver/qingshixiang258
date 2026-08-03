@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957406076393185280"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925559282696909084",
+    "created_at": "2025-08-18T11:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T12:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957406088082714915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UERdmgPIS8",
+          "end": 23,
+          "expanded_url": "https://x.com/qingshixiang258/status/1957406088082714915/photo/1",
+          "media_key": "3_1957406076393185280",
+          "start": 0,
+          "url": "https://t.co/UERdmgPIS8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957406088082714915",
+    "in_reply_to_user_id": "1700935161301655552",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957403939000963532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/UERdmgPIS8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1957406076393185280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoadKibYAA_p8N.jpg",
+        "width": 1024
+      },
+      {
+        "height": 400,
+        "media_key": "3_1957403926766170112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoYgCjaMAAch17.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957406076393185280"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1925559282696909084",
+        "created_at": "2025-08-18T11:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957406088082714915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UERdmgPIS8",
+              "end": 23,
+              "expanded_url": "https://x.com/qingshixiang258/status/1957406088082714915/photo/1",
+              "media_key": "3_1957406076393185280",
+              "start": 0,
+              "url": "https://t.co/UERdmgPIS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957406088082714915",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957403939000963532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/UERdmgPIS8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957403926766170112"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1925559282696909084",
+        "created_at": "2025-08-18T11:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957403939000963532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JK3e5ypC8",
+              "end": 23,
+              "expanded_url": "https://x.com/qingshixiang258/status/1957403939000963532/photo/1",
+              "media_key": "3_1957403926766170112",
+              "start": 0,
+              "url": "https://t.co/5JK3e5ypC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957403939000963532",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925559282696909084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/5JK3e5ypC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 1293,
+          "like_count": 28025,
+          "listed_count": 7,
+          "media_count": 727,
+          "tweet_count": 12440
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

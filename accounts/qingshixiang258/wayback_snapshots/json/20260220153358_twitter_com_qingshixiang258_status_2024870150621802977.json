@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2024870150621802977",
+    "created_at": "2026-02-20T15:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024870150621802977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wh40kbestof/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/wh40kbestof/status/2024848011075912150",
+          "start": 12,
+          "url": "https://t.co/du7OuQBAfH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024870150621802977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024848011075912150",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wcwcwc！那么帅！ https://t.co/du7OuQBAfH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2017992968523694081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFZ6cAXQAEScif.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2024870150621802977",
+        "created_at": "2026-02-20T15:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024870150621802977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wh40kbestof/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wh40kbestof/status/2024848011075912150",
+              "start": 12,
+              "url": "https://t.co/du7OuQBAfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024870150621802977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024848011075912150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wcwcwc！那么帅！ https://t.co/du7OuQBAfH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017992968523694081"
+          ]
+        },
+        "author_id": "1050076279133880323",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2024848011075912150",
+        "created_at": "2026-02-20T14:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024848011075912150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Battle sister",
+              "probability": 0.7732,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "thearmorfan\nMechanicum",
+              "probability": 0.4943,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "lezapdegro",
+              "probability": 0.4661,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6T7pUiVgH",
+              "end": 106,
+              "expanded_url": "https://x.com/WH40kbestof/status/2024848011075912150/photo/1",
+              "media_key": "3_2017992968523694081",
+              "start": 83,
+              "url": "https://t.co/C6T7pUiVgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024848011075912150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2297,
+          "like_count": 320,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "Battle sister by thearmorfan\nMechanicum by lezapdegro &amp; adeptus_cosplay_instag https://t.co/C6T7pUiVgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024845169053638656/NxxlK5fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 1452,
+          "like_count": 37016,
+          "listed_count": 8,
+          "media_count": 1073,
+          "tweet_count": 17623
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-10T17:31:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WH40kbestof",
+                "end": 23,
+                "expanded_url": "https://t.me/WH40kbestof",
+                "start": 0,
+                "url": "https://t.co/R8yiCYdWxc"
+              }
+            ]
+          }
+        },
+        "id": "1050076279133880323",
+        "name": "Warhammer  40K",
+        "pinned_tweet_id": "1856377225966219335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1050077995992539137/YmsLtRXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108685,
+          "following_count": 189,
+          "like_count": 1768,
+          "listed_count": 208,
+          "media_count": 8027,
+          "tweet_count": 11818
+        },
+        "url": "https://t.co/R8yiCYdWxc",
+        "username": "WH40kbestof",
+        "verified": false
+      }
+    ]
+  }
+}

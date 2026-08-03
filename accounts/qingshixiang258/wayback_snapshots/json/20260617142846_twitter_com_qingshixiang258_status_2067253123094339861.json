@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2066870919910535201",
+    "created_at": "2026-06-17T14:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067253123094339861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "xiaozhuhua_tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067253123094339861",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067096197215744140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhuhua_tv 💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2066870919910535201",
+        "created_at": "2026-06-17T14:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067253123094339861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "xiaozhuhua_tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067253123094339861",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067096197215744140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhuhua_tv 💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894285195651813378",
+        "conversation_id": "2066870919910535201",
+        "created_at": "2026-06-17T04:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067096197215744140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067096197215744140",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066870919910535201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 生日快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1691,
+          "like_count": 43620,
+          "listed_count": 10,
+          "media_count": 1318,
+          "tweet_count": 21110
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "喜欢《吹响吧！上低音号》的都是好孩子",
+        "id": "1894285195651813378",
+        "name": "小猪话TV",
+        "pinned_tweet_id": "2066908155901309411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065440742122872832/h7as0dJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 1206,
+          "like_count": 13277,
+          "listed_count": 6,
+          "media_count": 117,
+          "tweet_count": 9337
+        },
+        "username": "xiaozhuhua_tv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2046736645492474078",
+    "created_at": "2026-04-21T23:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T00:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046736645492474078"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "青石巷会跟大家说"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/qingshixiang25…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/qingshixiang258/status/2046556309697548655",
+          "start": 30,
+          "url": "https://t.co/puXKbx2qqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046736645492474078",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046556309697548655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧，直接睡到现在了，qwq\n#青石巷会跟大家说 “早安” https://t.co/puXKbx2qqs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2046736645492474078",
+        "created_at": "2026-04-21T23:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T00:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046736645492474078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "青石巷会跟大家说"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/2046556309697548655",
+              "start": 30,
+              "url": "https://t.co/puXKbx2qqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046736645492474078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046556309697548655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧，直接睡到现在了，qwq\n#青石巷会跟大家说 “早安” https://t.co/puXKbx2qqs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2046556309697548655",
+        "created_at": "2026-04-21T11:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046556309697548655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046556309697548655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "计划是睡一会在看书，晚安～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 1597,
+          "like_count": 39278,
+          "listed_count": 9,
+          "media_count": 1178,
+          "tweet_count": 19436
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1962386181854753009",
+    "created_at": "2025-09-01T11:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T12:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962476411224223871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850642297547079681",
+          "start": 0,
+          "username": "JudyTsang520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962476411224223871",
+    "in_reply_to_user_id": "1850642297547079681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962386181854753009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JudyTsang520 天高云淡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_1962386113995157504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962386113995157504/img/Rukva9rVIEZBjQnb.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962386113995157504/vid/avc1/320x568/RekG_TRTLG3ZmgFt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962386113995157504/vid/avc1/480x852/iABbswdgAZhXT3Xa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962386113995157504/vid/avc1/720x1280/dBY4_bea5EeNBHBO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962386113995157504/pl/l6Cgfsn6cQRyJsad.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1962386181854753009",
+        "created_at": "2025-09-01T11:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962476411224223871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850642297547079681",
+              "start": 0,
+              "username": "JudyTsang520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962476411224223871",
+        "in_reply_to_user_id": "1850642297547079681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962386181854753009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JudyTsang520 天高云淡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962386113995157504"
+          ]
+        },
+        "author_id": "1850642297547079681",
+        "conversation_id": "1962386181854753009",
+        "created_at": "2025-09-01T05:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962386181854753009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czM5H9rwdX",
+              "end": 36,
+              "expanded_url": "https://x.com/JudyTsang520/status/1962386181854753009/video/1",
+              "media_key": "13_1962386113995157504",
+              "start": 13,
+              "url": "https://t.co/czM5H9rwdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962386181854753009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好 凉风习习 金秋九月 https://t.co/czM5H9rwdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962157986505453568/SrEovYX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 1393,
+          "like_count": 29181,
+          "listed_count": 8,
+          "media_count": 772,
+          "tweet_count": 13158
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T20:55:00.000Z",
+        "description": "Please keep calm",
+        "id": "1850642297547079681",
+        "location": "United Kingdom",
+        "name": "I am Judy",
+        "pinned_tweet_id": "1943760099958268072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958983888836923392/PHOih5rS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 632,
+          "like_count": 20179,
+          "listed_count": 5,
+          "media_count": 1491,
+          "tweet_count": 9745
+        },
+        "username": "JudyTsang520",
+        "verified": false
+      }
+    ]
+  }
+}

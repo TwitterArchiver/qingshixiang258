@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988267121986727936"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1988267129653891215",
+    "created_at": "2025-11-11T15:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T16:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988267129653891215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yKtUKv1lwq",
+          "end": 28,
+          "expanded_url": "https://x.com/qingshixiang258/status/1988267129653891215/photo/1",
+          "media_key": "3_1988267121986727936",
+          "start": 5,
+          "url": "https://t.co/yKtUKv1lwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988267129653891215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃点吧～ https://t.co/yKtUKv1lwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988267121986727936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5e-acSbcAAceNP.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988267121986727936"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1988267129653891215",
+        "created_at": "2025-11-11T15:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T16:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988267129653891215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKtUKv1lwq",
+              "end": 28,
+              "expanded_url": "https://x.com/qingshixiang258/status/1988267129653891215/photo/1",
+              "media_key": "3_1988267121986727936",
+              "start": 5,
+              "url": "https://t.co/yKtUKv1lwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988267129653891215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃点吧～ https://t.co/yKtUKv1lwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1416,
+          "like_count": 33934,
+          "listed_count": 7,
+          "media_count": 928,
+          "tweet_count": 15038
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

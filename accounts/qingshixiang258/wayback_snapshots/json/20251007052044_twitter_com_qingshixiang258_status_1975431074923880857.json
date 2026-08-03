@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1975426199615934788",
+    "created_at": "2025-10-07T05:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T06:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975431074923880857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1901165386709823490",
+          "start": 0,
+          "username": "wuruto"
+        },
+        {
+          "end": 20,
+          "id": "1130077248579465217",
+          "start": 8,
+          "username": "AntonioZore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975431074923880857",
+    "in_reply_to_user_id": "1901165386709823490",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975426479472451659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuruto @AntonioZore 🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1975426199615934788",
+        "created_at": "2025-10-07T05:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T06:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975431074923880857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            },
+            {
+              "end": 20,
+              "id": "1130077248579465217",
+              "start": 8,
+              "username": "AntonioZore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975431074923880857",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975426479472451659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto @AntonioZore 🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901165386709823490",
+        "conversation_id": "1975426199615934788",
+        "created_at": "2025-10-07T05:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T06:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975426479472451659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130077248579465217",
+              "start": 0,
+              "username": "AntonioZore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975426479472451659",
+        "in_reply_to_user_id": "1130077248579465217",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975426199615934788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntonioZore 。。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1348,
+          "like_count": 31541,
+          "listed_count": 7,
+          "media_count": 840,
+          "tweet_count": 14138
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "pinned_tweet_id": "1972693617044025793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974240758531264512/I_0CNGJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 321,
+          "like_count": 25303,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 10486
+        },
+        "username": "wuruto",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-19T11:46:26.000Z",
+        "description": "伪装成讨好型人格也是我补偿性自恋的一种手段",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakusei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakusei",
+                "start": 0,
+                "url": "https://t.co/Jdg9bvkzr7"
+              }
+            ]
+          }
+        },
+        "id": "1130077248579465217",
+        "location": "Kyoto-fu, Japan",
+        "name": "惑星",
+        "pinned_tweet_id": "1949740222310424760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948046546475552768/125FioE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 134,
+          "like_count": 20881,
+          "listed_count": 1,
+          "media_count": 1030,
+          "tweet_count": 15247
+        },
+        "url": "https://t.co/Jdg9bvkzr7",
+        "username": "AntonioZore",
+        "verified": false
+      }
+    ]
+  }
+}

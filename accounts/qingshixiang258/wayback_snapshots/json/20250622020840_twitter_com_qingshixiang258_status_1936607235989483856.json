@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936308605025681408"
+      ],
+      "media_source_tweet_id": [
+        "1936308619433345030"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      }
+    ],
+    "conversation_id": "1936607235989483856",
+    "created_at": "2025-06-22T02:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T03:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936607235989483856"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 56,
+          "tag": "warhammer40k"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "810840033762676736",
+          "start": 3,
+          "username": "_GoldRiver"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FMoWVw8cvG",
+          "end": 93,
+          "expanded_url": "https://x.com/_GoldRiver/status/1936308619433345030/photo/1",
+          "media_key": "3_1936308605025681408",
+          "start": 70,
+          "url": "https://t.co/FMoWVw8cvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936607235989483856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936308619433345030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_GoldRiver: 虽然之前的就是厚码了，但为了配合甲方还是删除并重新发布✓\n是正版授权周边的图噢\n#warhammer40k https://t.co/FMoWVw8cvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_1936308605025681408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8matIWgAAPud1.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936308605025681408"
+          ],
+          "media_source_tweet_id": [
+            "1936308619433345030"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "1936607235989483856",
+        "created_at": "2025-06-22T02:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T03:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936607235989483856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 56,
+              "tag": "warhammer40k"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "810840033762676736",
+              "start": 3,
+              "username": "_GoldRiver"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMoWVw8cvG",
+              "end": 93,
+              "expanded_url": "https://x.com/_GoldRiver/status/1936308619433345030/photo/1",
+              "media_key": "3_1936308605025681408",
+              "start": 70,
+              "url": "https://t.co/FMoWVw8cvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936607235989483856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936308619433345030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_GoldRiver: 虽然之前的就是厚码了，但为了配合甲方还是删除并重新发布✓\n是正版授权周边的图噢\n#warhammer40k https://t.co/FMoWVw8cvG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936308605025681408"
+          ]
+        },
+        "author_id": "810840033762676736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "1936308619433345030",
+        "created_at": "2025-06-21T06:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936308619433345030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 40,
+              "tag": "warhammer40k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMoWVw8cvG",
+              "end": 77,
+              "expanded_url": "https://x.com/_GoldRiver/status/1936308619433345030/photo/1",
+              "media_key": "3_1936308605025681408",
+              "start": 54,
+              "url": "https://t.co/FMoWVw8cvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936308619433345030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 4895,
+          "like_count": 476,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "虽然之前的就是厚码了，但为了配合甲方还是删除并重新发布✓\n是正版授权周边的图噢\n#warhammer40k https://t.co/FMoWVw8cvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1139,
+          "like_count": 24699,
+          "listed_count": 5,
+          "media_count": 631,
+          "tweet_count": 10761
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T13:31:43.000Z",
+        "description": "「🇨🇳中国」「🎨画师」 🇵🇸不知道说什么了，那就祝大家吃好喝好吧。——🚫: 网络不友好言论、AI。合作请带报价发邮件至：anasneptune@foxmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/flarbron/profi…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/flarbron/profilecard/?igsh=b3kwc2Y5YzMxdTY3",
+                "start": 0,
+                "url": "https://t.co/iplYe7UzoM"
+              }
+            ]
+          }
+        },
+        "id": "810840033762676736",
+        "location": "中国",
+        "name": "月上山青",
+        "pinned_tweet_id": "1846918478982533581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928712811343220736/1ofqTzC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 253,
+          "like_count": 1872,
+          "listed_count": 8,
+          "media_count": 218,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/iplYe7UzoM",
+        "username": "_GoldRiver",
+        "verified": false
+      }
+    ]
+  }
+}

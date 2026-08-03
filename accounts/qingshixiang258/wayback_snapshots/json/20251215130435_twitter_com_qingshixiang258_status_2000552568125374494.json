@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000506545457729537"
+      ],
+      "media_source_tweet_id": [
+        "2000506727754805277"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000552568125374494",
+    "created_at": "2025-12-15T13:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000552568125374494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3244430030",
+          "start": 3,
+          "username": "ILoveMy_Emperor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1oLGo2EdMP",
+          "end": 51,
+          "expanded_url": "https://x.com/ILoveMy_Emperor/status/2000506727754805277/video/1",
+          "media_key": "13_2000506545457729537",
+          "start": 28,
+          "url": "https://t.co/1oLGo2EdMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000552568125374494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000506727754805277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ILoveMy_Emperor: 年轻人好样的 https://t.co/1oLGo2EdMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31223,
+        "height": 1280,
+        "media_key": "13_2000506545457729537",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000506545457729537/img/tnnWPUydVCpZKibm.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000506545457729537/vid/avc1/320x568/SsHsUZwU7w1TzEhk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000506545457729537/vid/avc1/480x852/5TmEY7SEMxgCRX3E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000506545457729537/vid/avc1/720x1280/E8UmKxhKZdDySp9p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000506545457729537/pl/XLKYraESgQjmVrB6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000506545457729537"
+          ],
+          "media_source_tweet_id": [
+            "2000506727754805277"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000552568125374494",
+        "created_at": "2025-12-15T13:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000552568125374494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3244430030",
+              "start": 3,
+              "username": "ILoveMy_Emperor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oLGo2EdMP",
+              "end": 51,
+              "expanded_url": "https://x.com/ILoveMy_Emperor/status/2000506727754805277/video/1",
+              "media_key": "13_2000506545457729537",
+              "start": 28,
+              "url": "https://t.co/1oLGo2EdMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000552568125374494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000506727754805277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ILoveMy_Emperor: 年轻人好样的 https://t.co/1oLGo2EdMP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000506545457729537"
+          ]
+        },
+        "author_id": "3244430030",
+        "conversation_id": "2000506727754805277",
+        "created_at": "2025-12-15T10:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000506727754805277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oLGo2EdMP",
+              "end": 30,
+              "expanded_url": "https://x.com/ILoveMy_Emperor/status/2000506727754805277/video/1",
+              "media_key": "13_2000506545457729537",
+              "start": 7,
+              "url": "https://t.co/1oLGo2EdMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000506727754805277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年轻人好样的 https://t.co/1oLGo2EdMP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998367186075922432/8djgDaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1477,
+          "like_count": 35312,
+          "listed_count": 9,
+          "media_count": 965,
+          "tweet_count": 15982
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-13T17:39:09.000Z",
+        "description": "包蜜，加速学发烧友，后清共产党员，湖南省第十三届全国权贵代表大会代表，演员，后清国家级非遗项目花鼓戏国家级代表性传承人。 Mali populi malus princeps a Deo datur in poenam.",
+        "id": "3244430030",
+        "location": "湖南省常德市桃源县",
+        "name": "每日颂圣",
+        "pinned_tweet_id": "1995465995578712527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876532611264417792/uAKUVqqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 413,
+          "like_count": 285,
+          "listed_count": 6,
+          "media_count": 605,
+          "tweet_count": 2376
+        },
+        "username": "ILoveMy_Emperor",
+        "verified": false
+      }
+    ]
+  }
+}

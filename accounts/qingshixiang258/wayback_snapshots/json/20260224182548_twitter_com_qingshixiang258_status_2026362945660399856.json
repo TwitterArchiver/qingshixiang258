@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2026248031159607400",
+    "created_at": "2026-02-24T18:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T19:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026362945660399856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 18,
+          "id": "1889958578657902592",
+          "start": 9,
+          "username": "__CGGC__"
+        },
+        {
+          "end": 24,
+          "id": "1909390269533011968",
+          "start": 19,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026362945660399856",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026361339095167233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @__CGGC__ @gork 这个搞怪ai死了不会回复了💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2026248031159607400",
+        "created_at": "2026-02-24T18:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026362945660399856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 18,
+              "id": "1889958578657902592",
+              "start": 9,
+              "username": "__CGGC__"
+            },
+            {
+              "end": 24,
+              "id": "1909390269533011968",
+              "start": 19,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026362945660399856",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026361339095167233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @__CGGC__ @gork 这个搞怪ai死了不会回复了💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "2026248031159607400",
+        "created_at": "2026-02-24T18:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026361339095167233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889958578657902592",
+              "start": 0,
+              "username": "__CGGC__"
+            },
+            {
+              "end": 26,
+              "id": "1700935161301655552",
+              "start": 10,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 32,
+              "id": "1909390269533011968",
+              "start": 27,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026361339095167233",
+        "in_reply_to_user_id": "1889958578657902592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026352928609718491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__CGGC__ @qingshixiang258 @gork 我没拼错啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1470,
+          "like_count": 37215,
+          "listed_count": 8,
+          "media_count": 1085,
+          "tweet_count": 17853
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n艾克已找到完美的时间线！\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/echo4th",
+                "end": 23,
+                "expanded_url": "https://ngl.link/echo4th",
+                "start": 0,
+                "url": "https://t.co/YdmeUcr3R5"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025547932930617344/gTS0HHwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 4155,
+          "like_count": 115763,
+          "listed_count": 4,
+          "media_count": 1292,
+          "tweet_count": 41051
+        },
+        "url": "https://t.co/YdmeUcr3R5",
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T08:44:30.000Z",
+        "description": "",
+        "id": "1889958578657902592",
+        "name": "🥔🥔🥔🥔🥔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944066117703548928/7O80b2J5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 146,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 149
+        },
+        "username": "__CGGC__",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958862398225620994/75KLZTK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341636,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 333,
+          "media_count": 41209,
+          "tweet_count": 1956064
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

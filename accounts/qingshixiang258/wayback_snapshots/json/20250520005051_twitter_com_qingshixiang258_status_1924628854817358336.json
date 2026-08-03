@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1924614739558326509",
+    "created_at": "2025-05-20T00:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T01:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924628854817358336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893169357485940736",
+          "start": 0,
+          "username": "j16njdAInQ75622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924628854817358336",
+    "in_reply_to_user_id": "1893169357485940736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924627722263028062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j16njdAInQ75622 那很棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1924614739558326509",
+        "created_at": "2025-05-20T00:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T01:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924628854817358336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893169357485940736",
+              "start": 0,
+              "username": "j16njdAInQ75622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924628854817358336",
+        "in_reply_to_user_id": "1893169357485940736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924627722263028062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j16njdAInQ75622 那很棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893169357485940736",
+        "conversation_id": "1924614739558326509",
+        "created_at": "2025-05-20T00:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T01:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924627722263028062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924627722263028062",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924614739558326509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 说是我19号夜班 然后现在刚下班到家正好今天休息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 964,
+          "like_count": 20534,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 8990
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:22:17.000Z",
+        "description": "",
+        "id": "1893169357485940736",
+        "name": "阳光彩虹小白马🌈🐴",
+        "pinned_tweet_id": "1919095122001612848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915039348954955776/k1E-6-Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 44,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "j16njdAInQ75622",
+        "verified": false
+      }
+    ]
+  }
+}

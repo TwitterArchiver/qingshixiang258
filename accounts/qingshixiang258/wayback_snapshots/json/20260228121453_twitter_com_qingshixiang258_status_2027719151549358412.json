@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027717013729382401"
+      ],
+      "media_source_tweet_id": [
+        "2027717032305930658"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027719151549358412",
+    "created_at": "2026-02-28T12:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027719151549358412"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "さくらちゃん",
+          "probability": 0.8084,
+          "start": 45,
+          "type": "Person"
+        },
+        {
+          "end": 66,
+          "normalized_text": "麗さん",
+          "probability": 0.5734,
+          "start": 64,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849790041343856640",
+          "start": 3,
+          "username": "TEN_GOKU_Ga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UiIH4IRlr9",
+          "end": 111,
+          "expanded_url": "https://x.com/TEN_GOKU_Ga/status/2027717032305930658/photo/1",
+          "media_key": "3_2027717013729382401",
+          "start": 88,
+          "url": "https://t.co/UiIH4IRlr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027719151549358412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027717032305930658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @TEN_GOKU_Ga: シャドルーの謎テクノロジーでふたなり化させられてしまったさくらちゃん。\nそれを聞き駆けつけた春麗さん、心配でついちんちんをさすってしまう…。 https://t.co/UiIH4IRlr9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027719151549358412].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027719151549358412",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027719151549358412"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1530,
+        "media_key": "3_2027717013729382401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPl4XRbEAEcdFN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027717013729382401"
+          ]
+        },
+        "author_id": "1849790041343856640",
+        "conversation_id": "2027717032305930658",
+        "created_at": "2026-02-28T12:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:30:00.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027707855852474423",
+          "2027715355322552574",
+          "2027715781329621152",
+          "2027717032305930658"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "さくらちゃん",
+              "probability": 0.7539,
+              "start": 28,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "麗さん",
+              "probability": 0.5381,
+              "start": 47,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiIH4IRlr9",
+              "end": 94,
+              "expanded_url": "https://x.com/TEN_GOKU_Ga/status/2027717032305930658/photo/1",
+              "media_key": "3_2027717013729382401",
+              "start": 71,
+              "url": "https://t.co/UiIH4IRlr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027717032305930658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 390,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "シャドルーの謎テクノロジーでふたなり化させられてしまったさくらちゃん。\nそれを聞き駆けつけた春麗さん、心配でついちんちんをさすってしまう…。 https://t.co/UiIH4IRlr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 1479,
+          "like_count": 37335,
+          "listed_count": 8,
+          "media_count": 1091,
+          "tweet_count": 17975
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-25T12:28:18.000Z",
+        "description": "Fanbox https://t.co/zJLKKDeefN　\nPixiv https://t.co/X9Ffe1joVX　\nTime-Laps https://t.co/ZnuN7vZRON\nLinks https://t.co/lYIWWD2XTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ten-goku.fanbox.cc",
+                "end": 30,
+                "expanded_url": "https://ten-goku.fanbox.cc/",
+                "start": 7,
+                "url": "https://t.co/zJLKKDeefN"
+              },
+              {
+                "display_url": "pixiv.net/users/100864908",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/100864908",
+                "start": 38,
+                "url": "https://t.co/X9Ffe1joVX"
+              },
+              {
+                "display_url": "x.com/TEN_GOKU_Sculp…",
+                "end": 96,
+                "expanded_url": "https://x.com/TEN_GOKU_Sculpt/media",
+                "start": 73,
+                "url": "https://t.co/ZnuN7vZRON"
+              },
+              {
+                "display_url": "lit.link/TENGOKU",
+                "end": 126,
+                "expanded_url": "https://lit.link/TENGOKU",
+                "start": 103,
+                "url": "https://t.co/lYIWWD2XTk"
+              }
+            ]
+          }
+        },
+        "id": "1849790041343856640",
+        "name": "天 獄 画",
+        "pinned_tweet_id": "2027717032305930658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967247414395535360/uMoAIndw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32247,
+          "following_count": 3477,
+          "like_count": 1337,
+          "listed_count": 204,
+          "media_count": 22,
+          "tweet_count": 3000
+        },
+        "username": "TEN_GOKU_Ga",
+        "verified": true
+      }
+    ]
+  }
+}

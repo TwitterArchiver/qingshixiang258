@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026337781463797760"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2026337795640537505",
+    "created_at": "2026-02-24T16:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026337795640537505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/baNKPYSnZF",
+          "end": 28,
+          "expanded_url": "https://x.com/qingshixiang258/status/2026337795640537505/photo/1",
+          "media_key": "3_2026337781463797760",
+          "start": 5,
+          "url": "https://t.co/baNKPYSnZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026337795640537505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真服了 https://t.co/baNKPYSnZF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2026337781463797760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7_eesaUAAf2rW.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026337781463797760"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2026337795640537505",
+        "created_at": "2026-02-24T16:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026337795640537505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baNKPYSnZF",
+              "end": 28,
+              "expanded_url": "https://x.com/qingshixiang258/status/2026337795640537505/photo/1",
+              "media_key": "3_2026337781463797760",
+              "start": 5,
+              "url": "https://t.co/baNKPYSnZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026337795640537505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真服了 https://t.co/baNKPYSnZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1470,
+          "like_count": 37210,
+          "listed_count": 8,
+          "media_count": 1084,
+          "tweet_count": 17832
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

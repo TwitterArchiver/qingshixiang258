@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2063286185255166166",
+    "created_at": "2026-06-07T12:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063599755507499336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1789203427358060544",
+          "start": 0,
+          "username": "ffzz115315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063599755507499336",
+    "in_reply_to_user_id": "1789203427358060544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063596312189399341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffzz115315 已經打過來了😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2063286185255166166",
+        "created_at": "2026-06-07T12:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063599755507499336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789203427358060544",
+              "start": 0,
+              "username": "ffzz115315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063599755507499336",
+        "in_reply_to_user_id": "1789203427358060544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063596312189399341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffzz115315 已經打過來了😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789203427358060544",
+        "conversation_id": "2063286185255166166",
+        "created_at": "2026-06-07T12:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063596312189399341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063596312189399341",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063286185255166166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 打过来了我扛着你跑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1686,
+          "like_count": 42680,
+          "listed_count": 10,
+          "media_count": 1289,
+          "tweet_count": 20849
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T07:58:45.000Z",
+        "description": "150/176kg（大胃袋）",
+        "id": "1789203427358060544",
+        "location": "Hong Kong",
+        "name": "ffzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000428773037019142/edejN6Fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 144,
+          "like_count": 1596,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 193
+        },
+        "username": "ffzz115315",
+        "verified": false
+      }
+    ]
+  }
+}

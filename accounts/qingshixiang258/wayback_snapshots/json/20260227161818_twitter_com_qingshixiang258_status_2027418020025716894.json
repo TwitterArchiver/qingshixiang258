@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027417884151218651",
+    "created_at": "2026-02-27T16:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027418020025716894"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027418020025716894",
+    "in_reply_to_user_id": "1700935161301655552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027417884151218651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我刚睡醒就给我来这🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2027417868430880768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLVz0MaMAAU9R3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2027417884151218651",
+        "created_at": "2026-02-27T16:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027418020025716894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027418020025716894",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027417884151218651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我刚睡醒就给我来这🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027417868430880768"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027417884151218651",
+        "created_at": "2026-02-27T16:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027417884151218651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyx83U9kxH",
+              "end": 25,
+              "expanded_url": "https://x.com/qingshixiang258/status/2027417884151218651/photo/1",
+              "media_key": "3_2027417868430880768",
+              "start": 2,
+              "url": "https://t.co/gyx83U9kxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027417884151218651",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🚬 https://t.co/gyx83U9kxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1478,
+          "like_count": 37303,
+          "listed_count": 8,
+          "media_count": 1089,
+          "tweet_count": 17946
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

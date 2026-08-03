@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1949095986313212040",
+    "created_at": "2025-07-26T15:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949124038603010098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720779183809519616",
+          "start": 0,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949124038603010098",
+    "in_reply_to_user_id": "1720779183809519616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949117010622701928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyyyYoin 感恩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1949095986313212040",
+        "created_at": "2025-07-26T15:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949124038603010098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949124038603010098",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949117010622701928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin 感恩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720779183809519616",
+        "conversation_id": "1949095986313212040",
+        "created_at": "2025-07-26T14:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T15:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949117010622701928"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "原谅",
+              "probability": 0.694,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949117010622701928",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949113302640165317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 原谅。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 1261,
+          "like_count": 26889,
+          "listed_count": 7,
+          "media_count": 681,
+          "tweet_count": 11785
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "神樂坂🌸余韻",
+        "pinned_tweet_id": "1923960404994097413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941341292505563136/TNM7cWvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 238,
+          "like_count": 54753,
+          "listed_count": 8,
+          "media_count": 1377,
+          "tweet_count": 11326
+        },
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

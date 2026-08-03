@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017629835020193792"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017629854603354145",
+    "created_at": "2026-01-31T16:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T17:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017629854603354145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 3,
+          "id": "1319639527",
+          "start": 0,
+          "username": "37"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pvre30qsqw",
+          "end": 27,
+          "expanded_url": "https://x.com/qingshixiang258/status/2017629854603354145/photo/1",
+          "media_key": "3_2017629835020193792",
+          "start": 4,
+          "url": "https://t.co/Pvre30qsqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017629854603354145",
+    "in_reply_to_user_id": "1319639527",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@37 https://t.co/Pvre30qsqw"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [37].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "37",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "37"
+    },
+    {
+      "detail": "User has been suspended: [1319639527].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1319639527",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1319639527"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 732,
+        "media_key": "3_2017629835020193792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAPpSSb0AAXIg0.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017629835020193792"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017629854603354145",
+        "created_at": "2026-01-31T16:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017629854603354145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 3,
+              "id": "1319639527",
+              "start": 0,
+              "username": "37"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pvre30qsqw",
+              "end": 27,
+              "expanded_url": "https://x.com/qingshixiang258/status/2017629854603354145/photo/1",
+              "media_key": "3_2017629835020193792",
+              "start": 4,
+              "url": "https://t.co/Pvre30qsqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017629854603354145",
+        "in_reply_to_user_id": "1319639527",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@37 https://t.co/Pvre30qsqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 1406,
+          "like_count": 36551,
+          "listed_count": 8,
+          "media_count": 1047,
+          "tweet_count": 17184
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

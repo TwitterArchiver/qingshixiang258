@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032410779555930113"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2032410845486166186",
+    "created_at": "2026-03-13T10:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032410845486166186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JDx6r7nuiV",
+          "end": 23,
+          "expanded_url": "https://x.com/qingshixiang258/status/2032410845486166186/video/1",
+          "media_key": "13_2032410779555930113",
+          "start": 0,
+          "url": "https://t.co/JDx6r7nuiV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032410845486166186",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JDx6r7nuiV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4000,
+        "height": 1280,
+        "media_key": "13_2032410779555930113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032410779555930113/img/E62hCPicmdlyHrHn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032410779555930113/vid/avc1/320x694/3Kn83XATlVmsbOjB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032410779555930113/vid/avc1/480x1040/zSNbtLy8G_8mrMhj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032410779555930113/vid/avc1/590x1280/oXbd88nYkS1-h0tJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032410779555930113/pl/zQEyYQgn7ONQ-Fav.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032410779555930113"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2032410845486166186",
+        "created_at": "2026-03-13T10:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032410845486166186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDx6r7nuiV",
+              "end": 23,
+              "expanded_url": "https://x.com/qingshixiang258/status/2032410845486166186/video/1",
+              "media_key": "13_2032410779555930113",
+              "start": 0,
+              "url": "https://t.co/JDx6r7nuiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032410845486166186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JDx6r7nuiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032270616171331585/vFC_PP28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 1524,
+          "like_count": 38095,
+          "listed_count": 8,
+          "media_count": 1120,
+          "tweet_count": 18539
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

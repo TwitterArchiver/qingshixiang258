@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2000026943484542990",
+    "created_at": "2025-12-15T05:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T06:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000432086520643982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "901299158669180931",
+          "start": 0,
+          "username": "ShoBeiYong"
+        },
+        {
+          "end": 19,
+          "id": "854396340121460736",
+          "start": 12,
+          "username": "f10523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000432086520643982",
+    "in_reply_to_user_id": "901299158669180931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000391946377027984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShoBeiYong @f10523 没那么聪明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2000391944862601216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LR4BUWkAA_Tr8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2000026943484542990",
+        "created_at": "2025-12-15T05:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T06:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000432086520643982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "901299158669180931",
+              "start": 0,
+              "username": "ShoBeiYong"
+            },
+            {
+              "end": 19,
+              "id": "854396340121460736",
+              "start": 12,
+              "username": "f10523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000432086520643982",
+        "in_reply_to_user_id": "901299158669180931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000391946377027984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShoBeiYong @f10523 没那么聪明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000391944862601216"
+          ]
+        },
+        "author_id": "901299158669180931",
+        "conversation_id": "2000026943484542990",
+        "created_at": "2025-12-15T02:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000391946377027984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "854396340121460736",
+              "start": 0,
+              "username": "f10523"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWWCikSokF",
+              "end": 52,
+              "expanded_url": "https://x.com/ShoBeiYong/status/2000391946377027984/photo/1",
+              "media_key": "3_2000391944862601216",
+              "start": 29,
+              "url": "https://t.co/EWWCikSokF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000391946377027984",
+        "in_reply_to_user_id": "854396340121460736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000026943484542990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@f10523 比如这个：\nbro以为自己是例外，实际上 https://t.co/EWWCikSokF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998367186075922432/8djgDaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1476,
+          "like_count": 35307,
+          "listed_count": 9,
+          "media_count": 965,
+          "tweet_count": 15979
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "舊世凌遲，新國在火",
+        "id": "901299158669180931",
+        "location": "神圣兽国 游尾郡 窝窝乡",
+        "name": "魈✟ ❂☭ 暂离中左所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 327,
+          "like_count": 13260,
+          "listed_count": 13,
+          "media_count": 842,
+          "tweet_count": 8015
+        },
+        "username": "ShoBeiYong",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T18:08:56.000Z",
+        "description": "生き方の基準は正しいか正しくないかではなく美しいか否かである。",
+        "id": "854396340121460736",
+        "location": "古都",
+        "name": "三味線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454907213836095488/1Hn6NfIr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3061,
+          "following_count": 95,
+          "like_count": 5,
+          "listed_count": 75,
+          "media_count": 4225,
+          "tweet_count": 65761
+        },
+        "username": "f10523",
+        "verified": false
+      }
+    ]
+  }
+}

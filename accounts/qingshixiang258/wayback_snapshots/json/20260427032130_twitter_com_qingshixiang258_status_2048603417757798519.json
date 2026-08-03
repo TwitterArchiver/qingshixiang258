@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048603407150407680"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2048603417757798519",
+    "created_at": "2026-04-27T03:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048603417757798519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TEI7Coepmx",
+          "end": 29,
+          "expanded_url": "https://x.com/qingshixiang258/status/2048603417757798519/photo/1",
+          "media_key": "3_2048603407150407680",
+          "start": 6,
+          "url": "https://t.co/TEI7Coepmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048603417757798519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是要干嘛… https://t.co/TEI7Coepmx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_2048603407150407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4Z8eDa4AAWE30.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048603407150407680"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2048603417757798519",
+        "created_at": "2026-04-27T03:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048603417757798519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEI7Coepmx",
+              "end": 29,
+              "expanded_url": "https://x.com/qingshixiang258/status/2048603417757798519/photo/1",
+              "media_key": "3_2048603407150407680",
+              "start": 6,
+              "url": "https://t.co/TEI7Coepmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048603417757798519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是要干嘛… https://t.co/TEI7Coepmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 1650,
+          "like_count": 39764,
+          "listed_count": 9,
+          "media_count": 1205,
+          "tweet_count": 19605
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

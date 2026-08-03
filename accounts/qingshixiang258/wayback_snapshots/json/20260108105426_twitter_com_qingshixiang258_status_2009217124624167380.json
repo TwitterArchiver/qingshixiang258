@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890054881341476864"
+      ],
+      "media_source_tweet_id": [
+        "1890054887813296135"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2009217124624167380",
+    "created_at": "2026-01-08T10:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T11:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009217124624167380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1282832893304242178",
+          "start": 3,
+          "username": "baihui_Ke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WSzvlSePPU",
+          "end": 42,
+          "expanded_url": "https://x.com/baihui_Ke/status/1890054887813296135/photo/1",
+          "media_key": "3_1890054881341476864",
+          "start": 19,
+          "url": "https://t.co/WSzvlSePPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009217124624167380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890054887813296135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baihui_Ke: 可爱喵 https://t.co/WSzvlSePPU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009217124624167380].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009217124624167380",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009217124624167380"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_1890054881341476864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjrS5pBaEAANeQB.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890054881341476864"
+          ]
+        },
+        "author_id": "1282832893304242178",
+        "conversation_id": "1890054887813296135",
+        "created_at": "2025-02-13T15:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T16:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890054887813296135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSzvlSePPU",
+              "end": 27,
+              "expanded_url": "https://x.com/baihui_Ke/status/1890054887813296135/photo/1",
+              "media_key": "3_1890054881341476864",
+              "start": 4,
+              "url": "https://t.co/WSzvlSePPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890054887813296135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 27300,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "可爱喵 https://t.co/WSzvlSePPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1370,
+          "like_count": 35724,
+          "listed_count": 9,
+          "media_count": 993,
+          "tweet_count": 16502
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "~~",
+        "id": "1282832893304242178",
+        "location": "距离你1.2km",
+        "name": "白灰ke",
+        "pinned_tweet_id": "1890054887813296135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986815718911016960/e1ivTk0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 329,
+          "like_count": 32061,
+          "listed_count": 1,
+          "media_count": 1329,
+          "tweet_count": 13554
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      }
+    ]
+  }
+}

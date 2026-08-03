@@ -1,0 +1,624 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051494473880711173"
+      ],
+      "media_source_tweet_id": [
+        "2051494549009191109"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2051727740878098894",
+    "created_at": "2026-05-05T18:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051727740878098894"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 39,
+          "tag": "HonkaiStarRail"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028846893485457408",
+          "start": 3,
+          "username": "hsrmemes_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/exLKFPprKh",
+          "end": 78,
+          "expanded_url": "https://x.com/hsrmemes_/status/2051494549009191109/video/1",
+          "media_key": "13_2051494473880711173",
+          "start": 55,
+          "url": "https://t.co/exLKFPprKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051727740878098894",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 394
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051494549009191109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsrmemes_: HSR girls low cortisol\n\n#HonkaiStarRail https://t.co/exLKFPprKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10901,
+        "height": 720,
+        "media_key": "13_2051494473880711173",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051494473880711173/img/_TS3KD05_Vw6u6dE.jpg",
+        "public_metrics": {
+          "view_count": 49510
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051494473880711173/vid/avc1/360x270/HtWnJo_dDwrj3eHd.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051494473880711173/vid/avc1/480x360/5ItaCM29Wjsm2HIq.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051494473880711173/vid/avc1/960x720/Hy-gIthbHS5_j1i8.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051494473880711173/pl/Z9wk7rDsD2jQScJ_.m3u8?tag=27&v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051494473880711173"
+          ],
+          "media_source_tweet_id": [
+            "2051494549009191109"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2051727740878098894",
+        "created_at": "2026-05-05T18:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051727740878098894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 39,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028846893485457408",
+              "start": 3,
+              "username": "hsrmemes_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/exLKFPprKh",
+              "end": 78,
+              "expanded_url": "https://x.com/hsrmemes_/status/2051494549009191109/video/1",
+              "media_key": "13_2051494473880711173",
+              "start": 55,
+              "url": "https://t.co/exLKFPprKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051727740878098894",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 394
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051494549009191109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsrmemes_: HSR girls low cortisol\n\n#HonkaiStarRail https://t.co/exLKFPprKh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051494473880711173"
+          ]
+        },
+        "author_id": "2028846893485457408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2051494549009191109",
+        "created_at": "2026-05-05T02:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051494549009191109"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 24,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/exLKFPprKh",
+              "end": 63,
+              "expanded_url": "https://x.com/hsrmemes_/status/2051494549009191109/video/1",
+              "media_key": "13_2051494473880711173",
+              "start": 40,
+              "url": "https://t.co/exLKFPprKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051494549009191109",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1090,
+          "impression_count": 105197,
+          "like_count": 5563,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 394
+        },
+        "reply_settings": "everyone",
+        "text": "HSR girls low cortisol\n\n#HonkaiStarRail https://t.co/exLKFPprKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 1676,
+          "like_count": 40518,
+          "listed_count": 9,
+          "media_count": 1227,
+          "tweet_count": 19875
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:57:24.000Z",
+        "description": "@genshinmem_es\n@wuwamemes_\n@zenlessmem_es\n@ntememes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "genshinmem_es"
+              },
+              {
+                "end": 26,
+                "start": 15,
+                "username": "wuwamemes_"
+              },
+              {
+                "end": 41,
+                "start": 27,
+                "username": "zenlessmem_es"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "ntememes"
+              }
+            ]
+          }
+        },
+        "id": "2028846893485457408",
+        "name": "Hsr Memes",
+        "pinned_tweet_id": "2051294557694726551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029207157774643200/DkjOkJuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10417,
+          "following_count": 628,
+          "like_count": 22,
+          "listed_count": 19,
+          "media_count": 375,
+          "tweet_count": 415
+        },
+        "username": "hsrmemes_",
+        "verified": true
+      }
+    ]
+  }
+}

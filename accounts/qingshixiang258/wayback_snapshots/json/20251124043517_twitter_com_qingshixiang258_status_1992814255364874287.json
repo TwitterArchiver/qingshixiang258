@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1992814140721856787",
+    "created_at": "2025-11-24T04:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992814255364874287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720779183809519616",
+          "start": 0,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992814255364874287",
+    "in_reply_to_user_id": "1720779183809519616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992814140721856787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyyyYoin 还有跨年羡慕😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_1992814125727256578",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G6fl45NakAI9han.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G6fl45NakAI9han.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1992814140721856787",
+        "created_at": "2025-11-24T04:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992814255364874287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992814255364874287",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992814140721856787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin 还有跨年羡慕😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1992814125727256578"
+          ]
+        },
+        "author_id": "1720779183809519616",
+        "conversation_id": "1992814140721856787",
+        "created_at": "2025-11-24T04:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992814140721856787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3UnRmdgkX2",
+              "end": 50,
+              "expanded_url": "https://x.com/RyyyYoin/status/1992814140721856787/photo/1",
+              "media_key": "16_1992814125727256578",
+              "start": 27,
+              "url": "https://t.co/3UnRmdgkX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992814140721856787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "元旦是和朋友们在成都跨年还是去其他城市跨年呢，好纠结 https://t.co/3UnRmdgkX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 1419,
+          "like_count": 34613,
+          "listed_count": 8,
+          "media_count": 937,
+          "tweet_count": 15391
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "pinned_tweet_id": "1923960404994097413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974071839992524801/CecJCjIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 275,
+          "like_count": 60203,
+          "listed_count": 9,
+          "media_count": 1610,
+          "tweet_count": 13892
+        },
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

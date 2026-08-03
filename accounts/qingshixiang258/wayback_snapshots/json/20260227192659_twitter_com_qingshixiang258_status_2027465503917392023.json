@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027390340718804992"
+      ],
+      "media_source_tweet_id": [
+        "2027390347555602432"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1128369738332102656",
+          "name": "A3!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1128369738332102656",
+          "name": "A3!"
+        }
+      }
+    ],
+    "conversation_id": "2027465503917392023",
+    "created_at": "2026-02-27T19:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027465503917392023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1171975656927686657",
+          "start": 3,
+          "username": "KiwataAoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wm5PQvmOwp",
+          "end": 49,
+          "expanded_url": "https://x.com/KiwataAoi/status/2027390347555602432/photo/1",
+          "media_key": "3_2027390340718804992",
+          "start": 26,
+          "url": "https://t.co/wm5PQvmOwp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027465503917392023",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027390347555602432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiwataAoi: ブルフェス絵名🖍️✨ https://t.co/wm5PQvmOwp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2027390340718804992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK8xfeaQAAo9BN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027390340718804992"
+          ],
+          "media_source_tweet_id": [
+            "2027390347555602432"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1128369738332102656",
+              "name": "A3!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1128369738332102656",
+              "name": "A3!"
+            }
+          }
+        ],
+        "conversation_id": "2027465503917392023",
+        "created_at": "2026-02-27T19:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027465503917392023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1171975656927686657",
+              "start": 3,
+              "username": "KiwataAoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wm5PQvmOwp",
+              "end": 49,
+              "expanded_url": "https://x.com/KiwataAoi/status/2027390347555602432/photo/1",
+              "media_key": "3_2027390340718804992",
+              "start": 26,
+              "url": "https://t.co/wm5PQvmOwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027465503917392023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027390347555602432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiwataAoi: ブルフェス絵名🖍️✨ https://t.co/wm5PQvmOwp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027390340718804992"
+          ]
+        },
+        "author_id": "1171975656927686657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1128369738332102656",
+              "name": "A3!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1128369738332102656",
+              "name": "A3!"
+            }
+          }
+        ],
+        "conversation_id": "2027390347555602432",
+        "created_at": "2026-02-27T14:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027390347555602432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wm5PQvmOwp",
+              "end": 34,
+              "expanded_url": "https://x.com/KiwataAoi/status/2027390347555602432/photo/1",
+              "media_key": "3_2027390340718804992",
+              "start": 11,
+              "url": "https://t.co/wm5PQvmOwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027390347555602432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 10329,
+          "like_count": 1102,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "ブルフェス絵名🖍️✨ https://t.co/wm5PQvmOwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 1478,
+          "like_count": 37317,
+          "listed_count": 8,
+          "media_count": 1090,
+          "tweet_count": 17958
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-12T02:36:01.000Z",
+        "description": "好きな絵を見たり描いたり 2024.12〜",
+        "id": "1171975656927686657",
+        "name": "木綿葵",
+        "pinned_tweet_id": "1967887409141715441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873390836056297472/ExyZa4t3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3927,
+          "following_count": 68,
+          "like_count": 11294,
+          "listed_count": 20,
+          "media_count": 357,
+          "tweet_count": 1604
+        },
+        "username": "KiwataAoi",
+        "verified": false
+      }
+    ]
+  }
+}

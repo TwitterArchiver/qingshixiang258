@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982837785489776640"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1982837796919549984",
+    "created_at": "2025-10-27T15:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T16:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982837796919549984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SDa3aoIunj",
+          "end": 32,
+          "expanded_url": "https://x.com/qingshixiang258/status/1982837796919549984/photo/1",
+          "media_key": "3_1982837785489776640",
+          "start": 9,
+          "url": "https://t.co/SDa3aoIunj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982837796919549984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新头像真的很好看 https://t.co/SDa3aoIunj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1637,
+        "media_key": "3_1982837785489776640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4R0ddtXIAAwFtS.jpg",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982837785489776640"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1982837796919549984",
+        "created_at": "2025-10-27T15:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982837796919549984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDa3aoIunj",
+              "end": 32,
+              "expanded_url": "https://x.com/qingshixiang258/status/1982837796919549984/photo/1",
+              "media_key": "3_1982837785489776640",
+              "start": 9,
+              "url": "https://t.co/SDa3aoIunj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982837796919549984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新头像真的很好看 https://t.co/SDa3aoIunj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1388,
+          "like_count": 32657,
+          "listed_count": 7,
+          "media_count": 894,
+          "tweet_count": 14612
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1974112410412978399",
+    "created_at": "2025-10-03T14:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T15:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974112410412978399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1813191847264854019",
+          "start": 3,
+          "username": "hhngki7292924"
+        },
+        {
+          "end": 30,
+          "id": "1870052270836199424",
+          "start": 19,
+          "username": "FusiKayoko"
+        },
+        {
+          "end": 36,
+          "id": "1720665183188922368",
+          "start": 31,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974112410412978399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974112305115017387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hhngki7292924: @FusiKayoko @grok 我是小萝莉🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1974112410412978399",
+        "created_at": "2025-10-03T14:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974112410412978399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1813191847264854019",
+              "start": 3,
+              "username": "hhngki7292924"
+            },
+            {
+              "end": 30,
+              "id": "1870052270836199424",
+              "start": 19,
+              "username": "FusiKayoko"
+            },
+            {
+              "end": 36,
+              "id": "1720665183188922368",
+              "start": 31,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974112410412978399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974112305115017387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hhngki7292924: @FusiKayoko @grok 我是小萝莉🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813191847264854019",
+        "conversation_id": "1974101633052389489",
+        "created_at": "2025-10-03T14:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974112305115017387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "FusiKayoko"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974112305115017387",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974112059660050551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FusiKayoko @grok 我是小萝莉🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 1329,
+          "like_count": 30938,
+          "listed_count": 7,
+          "media_count": 831,
+          "tweet_count": 13964
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:40:39.000Z",
+        "description": "先活着吧，剩下的我再想办法。。。（戒od中。。。）（头像玩抽象的）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhngki7262624",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhngki7262624",
+                "start": 0,
+                "url": "https://t.co/eTZfSf7jUs"
+              }
+            ]
+          }
+        },
+        "id": "1813191847264854019",
+        "location": "圣洛夫基金会",
+        "name": "37（😇）",
+        "pinned_tweet_id": "1929572649232998508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960006568197672961/LAGLusSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1087,
+          "like_count": 2396,
+          "listed_count": 6,
+          "media_count": 365,
+          "tweet_count": 4763
+        },
+        "url": "https://t.co/eTZfSf7jUs",
+        "username": "hhngki7292924",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "🍥很闲很闲的，随时都可以找我私信聊天，深柜，呜呜超极笨！脾气很好的，不用害怕我喔❤️应该是mtf🍥｜最可爱的凌同学~@Lingjiaxin233｜最喜欢的妹妹@ElP15_｜错音的耳机@bju53541003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Lingjiaxin233"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "ElP15_"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "bju53541003"
+              }
+            ]
+          }
+        },
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗🍥",
+        "pinned_tweet_id": "1962087620466659357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968657455505883138/srTQ4uWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 261,
+          "like_count": 8828,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 3730
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6379612,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5032,
+          "media_count": 2680616,
+          "tweet_count": 53676103
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

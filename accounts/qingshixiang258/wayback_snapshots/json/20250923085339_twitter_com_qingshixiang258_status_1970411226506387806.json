@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970380112479821824"
+      ],
+      "media_source_tweet_id": [
+        "1970380168662524374"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1970411226506387806",
+    "created_at": "2025-09-23T08:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T09:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970411226506387806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847835560175685635",
+          "start": 3,
+          "username": "OPPOFANS114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PpSb2PoHuO",
+          "end": 43,
+          "expanded_url": "https://x.com/OPPOFANS114514/status/1970380168662524374/photo/1",
+          "media_key": "3_1970380112479821824",
+          "start": 20,
+          "url": "https://t.co/PpSb2PoHuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970411226506387806",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970380168662524374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OPPOFANS114514: https://t.co/PpSb2PoHuO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1970380112479821824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1gyRdTaoAAQBrS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970380112479821824"
+          ],
+          "media_source_tweet_id": [
+            "1970380168662524374"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1970411226506387806",
+        "created_at": "2025-09-23T08:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T09:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970411226506387806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847835560175685635",
+              "start": 3,
+              "username": "OPPOFANS114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpSb2PoHuO",
+              "end": 43,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/1970380168662524374/photo/1",
+              "media_key": "3_1970380112479821824",
+              "start": 20,
+              "url": "https://t.co/PpSb2PoHuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970411226506387806",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970380168662524374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OPPOFANS114514: https://t.co/PpSb2PoHuO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970380112479821824"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "conversation_id": "1970380168662524374",
+        "created_at": "2025-09-23T06:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T07:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970380168662524374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpSb2PoHuO",
+              "end": 23,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/1970380168662524374/photo/1",
+              "media_key": "3_1970380112479821824",
+              "start": 0,
+              "url": "https://t.co/PpSb2PoHuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970380168662524374",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PpSb2PoHuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968343101979897856/T41BJaco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 1404,
+          "like_count": 30289,
+          "listed_count": 7,
+          "media_count": 813,
+          "tweet_count": 13668
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "粉OPPO的推特账号,发些日常,不会安慰人(｡í _ ì｡)丨偶尔会emo,请忽略,我也有情绪(；ω；)丨如果哪天突然消失了,就是VPN炸了(つд⊂)丨会互fo哦੭ ᐕ)੭*⁾⁾丨可以叫我粉OPPO,FANSOPPO,OPPO酱,粉猫猫,小粉,饭饭丨成分就是天天开心(*๓´╰╯`๓)♡丨INFP丨颜文字万岁(／ω＼)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "FANSOPPO",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949868551441195008/00dhN88I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1396,
+          "like_count": 10079,
+          "listed_count": 8,
+          "media_count": 319,
+          "tweet_count": 11125
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

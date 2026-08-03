@@ -1,0 +1,699 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205248311805931520",
+          "name": "Cardcaptor Sakura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846810837301932032",
+          "name": "Shoes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205248311805931520",
+          "name": "Cardcaptor Sakura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      }
+    ],
+    "conversation_id": "2009312481165070479",
+    "created_at": "2026-01-08T17:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T18:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009312481165070479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mayla_classic/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/mayla_classic/status/2008803288570069444",
+          "start": 4,
+          "url": "https://t.co/pTxZW492SY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009312481165070479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008803288570069444",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好漂亮 https://t.co/pTxZW492SY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2008346022419066880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98UERRbcAASkAv.jpg",
+        "width": 1200
+      },
+      {
+        "height": 844,
+        "media_key": "3_2008346044829233152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98UFkwbcAAsSQX.jpg",
+        "width": 1500
+      },
+      {
+        "height": 720,
+        "media_key": "3_2008346071886688257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98UHJjbcAEz02j.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205248311805931520",
+              "name": "Cardcaptor Sakura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205248311805931520",
+              "name": "Cardcaptor Sakura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          }
+        ],
+        "conversation_id": "2009312481165070479",
+        "created_at": "2026-01-08T17:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009312481165070479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mayla_classic/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mayla_classic/status/2008803288570069444",
+              "start": 4,
+              "url": "https://t.co/pTxZW492SY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009312481165070479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008803288570069444",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好漂亮 https://t.co/pTxZW492SY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008346022419066880",
+            "3_2008346044829233152",
+            "3_2008346071886688257"
+          ]
+        },
+        "author_id": "350588237",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205248311805931520",
+              "name": "Cardcaptor Sakura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205248311805931520",
+              "name": "Cardcaptor Sakura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          }
+        ],
+        "conversation_id": "2008803288570069444",
+        "created_at": "2026-01-07T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008803288570069444"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "カードキャプターさくら",
+              "probability": 0.3921,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 118,
+              "tag": "ccsakura"
+            },
+            {
+              "end": 134,
+              "start": 128,
+              "tag": "MAYLA"
+            },
+            {
+              "end": 144,
+              "start": 135,
+              "tag": "体温が2度あがる"
+            }
+          ],
+          "urls": [
+            {
+              "description": "あの頃のときめき　あの時見た夢　優しい時間永遠に色あせることのない少女の物語は今も私の心の中に…空に向かう木々のようにあなたの事を　まっすぐ見つめてる“信じること”　それだけで　越えられないものなんてないよね「絶対、大丈夫だよ」",
+              "display_url": "mayla.jp/SHOP/sha2518.h…",
+              "end": 116,
+              "expanded_url": "https://mayla.jp/SHOP/sha2518.html",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2008803341036658688/Fnd31R7M?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2008803341036658688/Fnd31R7M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 93,
+              "status": 200,
+              "title": "カードキャプターさくら アイコニック シューズオブジェ ドレス スニーカー- MAYLA",
+              "unwound_url": "https://mayla.jp/SHOP/sha2518.html",
+              "url": "https://t.co/GhDG6Qd3le"
+            },
+            {
+              "display_url": "pic.x.com/oVtM4g4vrM",
+              "end": 168,
+              "expanded_url": "https://x.com/mayla_classic/status/2008803288570069444/photo/1",
+              "media_key": "3_2008346022419066880",
+              "start": 145,
+              "url": "https://t.co/oVtM4g4vrM"
+            },
+            {
+              "display_url": "pic.x.com/oVtM4g4vrM",
+              "end": 168,
+              "expanded_url": "https://x.com/mayla_classic/status/2008803288570069444/photo/1",
+              "media_key": "3_2008346044829233152",
+              "start": 145,
+              "url": "https://t.co/oVtM4g4vrM"
+            },
+            {
+              "display_url": "pic.x.com/oVtM4g4vrM",
+              "end": 168,
+              "expanded_url": "https://x.com/mayla_classic/status/2008803288570069444/photo/1",
+              "media_key": "3_2008346071886688257",
+              "start": 145,
+              "url": "https://t.co/oVtM4g4vrM"
+            },
+            {
+              "display_url": "x.com/mayla_classic/…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/mayla_classic/status/1926141106992857409",
+              "start": 169,
+              "url": "https://t.co/TH2gVegyll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008803288570069444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 992,
+          "impression_count": 380342,
+          "like_count": 5829,
+          "quote_count": 274,
+          "reply_count": 8,
+          "retweet_count": 1170
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926141106992857409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💌˚₊‧୨୧‧₊˚🎀˚₊‧୨୧‧₊˚💌\n\n『カードキャプターさくら』\nアイコニック ドレススニーカー\n\nエターナル・ガーリー\n💌˚₊‧୨୧‧₊˚🎀˚₊‧୨୧‧₊˚💌\n\n大好評販売中👇🌸\nhttps://t.co/GhDG6Qd3le\n\n#ccsakura #MAYLA #体温が2度あがる https://t.co/oVtM4g4vrM https://t.co/TH2gVegyll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1372,
+          "like_count": 35762,
+          "listed_count": 9,
+          "media_count": 994,
+          "tweet_count": 16559
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-08T00:57:21.000Z",
+        "description": "「体温が2℃あがる 」MAYLA公式アカウント🎀 シューズ・アクセサリー・衣類品など 唯一無二のデザイン性と、ハイクオリティー仕様で製品を提供します👠｜2025.5.30東京実店舗Open✨｜求人・その他SNS・お問い合わせはコチラ→https://t.co/ECWlodFbSS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dollsrecruit",
+                "end": 140,
+                "expanded_url": "https://lit.link/dollsrecruit",
+                "start": 117,
+                "url": "https://t.co/ECWlodFbSS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mayla.jp",
+                "end": 23,
+                "expanded_url": "https://mayla.jp/",
+                "start": 0,
+                "url": "https://t.co/3E7HjfzxSe"
+              }
+            ]
+          }
+        },
+        "id": "350588237",
+        "location": "🇯🇵大阪市福島区",
+        "name": "MAYLA",
+        "pinned_tweet_id": "2007984949882999151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727166350647599104/MzNRRavB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447295,
+          "following_count": 84,
+          "like_count": 45027,
+          "listed_count": 2274,
+          "media_count": 38310,
+          "tweet_count": 56023
+        },
+        "url": "https://t.co/3E7HjfzxSe",
+        "username": "mayla_classic",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2070521842541244581",
+    "created_at": "2026-06-26T14:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070522073043362184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720779183809519616",
+          "start": 0,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070522073043362184",
+    "in_reply_to_user_id": "1720779183809519616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070521842541244581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyyyYoin 不該沉默時沉默～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24670,
+        "height": 1280,
+        "media_key": "13_2070521745296293888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070521745296293888/img/5Ja92-BM7BKl8ARx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070521745296293888/vid/avc1/320x568/r9DlK0x8w3m9gifK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070521745296293888/vid/avc1/480x852/_clFdHumdgczufJ_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070521745296293888/vid/avc1/720x1280/tOCnBUWJTJ3qTKQW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070521745296293888/pl/maYeVQafpxnsnnXm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2070521842541244581",
+        "created_at": "2026-06-26T14:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070522073043362184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720779183809519616",
+              "start": 0,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070522073043362184",
+        "in_reply_to_user_id": "1720779183809519616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070521842541244581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyyyYoin 不該沉默時沉默～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070521745296293888"
+          ]
+        },
+        "author_id": "1720779183809519616",
+        "conversation_id": "2070521842541244581",
+        "created_at": "2026-06-26T14:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070521842541244581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTvRg5ZtW1",
+              "end": 29,
+              "expanded_url": "https://x.com/RyyyYoin/status/2070521842541244581/video/1",
+              "media_key": "13_2070521745296293888",
+              "start": 6,
+              "url": "https://t.co/bTvRg5ZtW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070521842541244581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全都怪我～ https://t.co/bTvRg5ZtW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1692,
+          "like_count": 44100,
+          "listed_count": 10,
+          "media_count": 1323,
+          "tweet_count": 21218
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041184362411241472/9MrPaJMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 281,
+          "like_count": 56347,
+          "listed_count": 7,
+          "media_count": 1621,
+          "tweet_count": 14356
+        },
+        "url": "",
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

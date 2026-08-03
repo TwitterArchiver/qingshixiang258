@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1975253025166942499",
+    "created_at": "2025-10-06T17:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T18:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975256512261202396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812559263371591680",
+          "start": 0,
+          "username": "huamingyouqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975256512261202396",
+    "in_reply_to_user_id": "1812559263371591680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975253025166942499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huamingyouqi 贪吃鬼😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 251,
+        "media_key": "3_1975253022113464320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2mCKISXAAANOuD.jpg",
+        "width": 437
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1975253025166942499",
+        "created_at": "2025-10-06T17:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975256512261202396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812559263371591680",
+              "start": 0,
+              "username": "huamingyouqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975256512261202396",
+        "in_reply_to_user_id": "1812559263371591680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975253025166942499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huamingyouqi 贪吃鬼😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975253022113464320"
+          ]
+        },
+        "author_id": "1812559263371591680",
+        "conversation_id": "1975253025166942499",
+        "created_at": "2025-10-06T17:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975253025166942499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpq2iCyS9X",
+              "end": 44,
+              "expanded_url": "https://x.com/huamingyouqi/status/1975253025166942499/photo/1",
+              "media_key": "3_1975253022113464320",
+              "start": 21,
+              "url": "https://t.co/hpq2iCyS9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975253025166942499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都去开房了🥺\n我也要开始看母鸡卡了😋 https://t.co/hpq2iCyS9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1344,
+          "like_count": 31504,
+          "listed_count": 7,
+          "media_count": 840,
+          "tweet_count": 14118
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T18:46:40.000Z",
+        "description": "疯疯癫癫的神明 疯疯癫癫的世界 疯疯癫癫的我",
+        "id": "1812559263371591680",
+        "location": "世界尽头",
+        "name": "花名有琦",
+        "pinned_tweet_id": "1965778552596705323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895039845816242176/dsjw8pzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 506,
+          "like_count": 12781,
+          "listed_count": 4,
+          "media_count": 855,
+          "tweet_count": 5748
+        },
+        "username": "huamingyouqi",
+        "verified": false
+      }
+    ]
+  }
+}

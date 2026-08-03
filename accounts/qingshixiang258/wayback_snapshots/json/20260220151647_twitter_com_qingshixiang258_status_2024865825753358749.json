@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2024863988685902183",
+    "created_at": "2026-02-20T15:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024865825753358749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "1423208974657236994",
+          "start": 6,
+          "username": "cishengbuxi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/grok/status/20…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/grok/status/2024541751747174884",
+          "start": 21,
+          "url": "https://t.co/3d9v7JAbfc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024865825753358749",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024541751747174884",
+        "type": "quoted"
+      },
+      {
+        "id": "2024864889651552303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @cishengbuxi ？ https://t.co/3d9v7JAbfc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2024863988685902183",
+        "created_at": "2026-02-20T15:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024865825753358749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "1423208974657236994",
+              "start": 6,
+              "username": "cishengbuxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/grok/status/2024541751747174884",
+              "start": 21,
+              "url": "https://t.co/3d9v7JAbfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024865825753358749",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024541751747174884",
+            "type": "quoted"
+          },
+          {
+            "id": "2024864889651552303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @cishengbuxi ？ https://t.co/3d9v7JAbfc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2024541353141817641",
+        "created_at": "2026-02-19T17:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024541751747174884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024541751747174884",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024541353141817641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 字：杂 \n词：随性 \n句：账号内容多样，涵盖情感表达、生活趣事、社会评论及推广，展现作者多面个性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2024863988685902183",
+        "created_at": "2026-02-20T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024864889651552303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 29,
+              "id": "1423208974657236994",
+              "start": 17,
+              "username": "cishengbuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024864889651552303",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024864595727532170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 @cishengbuxi 字：涩 \n词：互动 \n句：账号推文多为性癖分享、偏好讨论与随意回复。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024845169053638656/NxxlK5fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 1446,
+          "like_count": 37011,
+          "listed_count": 8,
+          "media_count": 1073,
+          "tweet_count": 17614
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8002740,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6132,
+          "media_count": 8360987,
+          "tweet_count": 105946823
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-05T09:07:54.000Z",
+        "description": "我就不写简介\n\n新提问箱 https://t.co/d72sYL6kWu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cishengbuxi2",
+                "end": 36,
+                "expanded_url": "http://ngl.link/cishengbuxi2",
+                "start": 13,
+                "url": "https://t.co/d72sYL6kWu"
+              }
+            ]
+          }
+        },
+        "id": "1423208974657236994",
+        "location": "∞km",
+        "name": "及生",
+        "pinned_tweet_id": "1870660466034524335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423222145467879426/byvKnvYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 867,
+          "like_count": 12376,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 9551
+        },
+        "username": "cishengbuxi",
+        "verified": false
+      }
+    ]
+  }
+}

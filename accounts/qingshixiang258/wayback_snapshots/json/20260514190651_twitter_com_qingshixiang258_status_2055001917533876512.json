@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2054986861257654518",
+    "created_at": "2026-05-14T19:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T20:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055001917533876512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1031743711737040897",
+          "start": 0,
+          "username": "LittleQiKitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055001917533876512",
+    "in_reply_to_user_id": "1031743711737040897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054986861257654518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleQiKitty 用镊子夹的短胡子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3520,
+        "media_key": "3_2054986847911370752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITHpn_bYAAMKnG.jpg",
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2054986861257654518",
+        "created_at": "2026-05-14T19:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055001917533876512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1031743711737040897",
+              "start": 0,
+              "username": "LittleQiKitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055001917533876512",
+        "in_reply_to_user_id": "1031743711737040897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054986861257654518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleQiKitty 用镊子夹的短胡子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054986847911370752"
+          ]
+        },
+        "author_id": "1031743711737040897",
+        "conversation_id": "2054986861257654518",
+        "created_at": "2026-05-14T18:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054986861257654518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6IB2lKKonW",
+              "end": 28,
+              "expanded_url": "https://x.com/LittleQiKitty/status/2054986861257654518/photo/1",
+              "media_key": "3_2054986847911370752",
+              "start": 5,
+              "url": "https://t.co/6IB2lKKonW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054986861257654518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无奖竞猜 https://t.co/6IB2lKKonW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1689,
+          "like_count": 40905,
+          "listed_count": 9,
+          "media_count": 1239,
+          "tweet_count": 20130
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "再见 愿意你我安好",
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "祈酱",
+        "pinned_tweet_id": "2012839043222929547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034439001558712320/n_RTi-oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 589,
+          "like_count": 490,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 245
+        },
+        "username": "LittleQiKitty",
+        "verified": true
+      }
+    ]
+  }
+}

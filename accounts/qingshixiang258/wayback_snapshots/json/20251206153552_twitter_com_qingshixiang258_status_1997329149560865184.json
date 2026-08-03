@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1996988532368478356",
+    "created_at": "2025-12-06T15:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T16:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997329149560865184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1708874582554513408",
+          "start": 0,
+          "username": "hehuoyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997329149560865184",
+    "in_reply_to_user_id": "1708874582554513408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997205846263214494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hehuoyuan 章鱼小丸子～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1996988532368478356",
+        "created_at": "2025-12-06T15:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997329149560865184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1708874582554513408",
+              "start": 0,
+              "username": "hehuoyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997329149560865184",
+        "in_reply_to_user_id": "1708874582554513408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997205846263214494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hehuoyuan 章鱼小丸子～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708874582554513408",
+        "conversation_id": "1996988532368478356",
+        "created_at": "2025-12-06T07:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997205846263214494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997205846263214494",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996988532368478356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 你好你好，务必给我推荐几个好吃的菜，我现在在外面点菜都不知道吃什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1487,
+          "like_count": 35079,
+          "listed_count": 8,
+          "media_count": 957,
+          "tweet_count": 15765
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:01:10.000Z",
+        "description": "喜欢梗图bot和关注画师老师，还有一些碎碎念(我比较喜欢看每个人的生活)\n\nネタ画像のボットが好きで、イラストレーターの先生をフォローしています。",
+        "id": "1708874582554513408",
+        "location": "地球",
+        "name": "鶴火源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960013605606473728/JODk2s76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 233,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1098
+        },
+        "username": "hehuoyuan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948539111687815174"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1948269241784029450",
+    "created_at": "2025-07-25T00:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T01:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948539124652409255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600883667584577536",
+          "start": 0,
+          "username": "shiromakumiai"
+        },
+        {
+          "end": 23,
+          "id": "1083438237006188551",
+          "start": 15,
+          "username": "hezuruy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CaRVMolCGO",
+          "end": 68,
+          "expanded_url": "https://x.com/qingshixiang258/status/1948539124652409255/photo/1",
+          "media_key": "3_1948539111687815174",
+          "start": 45,
+          "url": "https://t.co/CaRVMolCGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948539124652409255",
+    "in_reply_to_user_id": "1600883667584577536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948511020844286150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiromakumiai @hezuruy わからない、糞便はコーラより衛生ですか？ https://t.co/CaRVMolCGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1859,
+        "media_key": "3_1948539111687815174",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqZ_48bgAYSAOS.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948539111687815174"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1948269241784029450",
+        "created_at": "2025-07-25T00:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T01:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948539124652409255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600883667584577536",
+              "start": 0,
+              "username": "shiromakumiai"
+            },
+            {
+              "end": 23,
+              "id": "1083438237006188551",
+              "start": 15,
+              "username": "hezuruy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaRVMolCGO",
+              "end": 68,
+              "expanded_url": "https://x.com/qingshixiang258/status/1948539124652409255/photo/1",
+              "media_key": "3_1948539111687815174",
+              "start": 45,
+              "url": "https://t.co/CaRVMolCGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948539124652409255",
+        "in_reply_to_user_id": "1600883667584577536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948511020844286150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiromakumiai @hezuruy わからない、糞便はコーラより衛生ですか？ https://t.co/CaRVMolCGO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600883667584577536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1948269241784029450",
+        "created_at": "2025-07-24T22:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T23:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948511020844286150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1083438237006188551",
+              "start": 0,
+              "username": "hezuruy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948511020844286150",
+        "in_reply_to_user_id": "1083438237006188551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948269241784029450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hezuruy 迷惑ユーチューバー時代\n野糞して糞を鹿に喰わせてたてまじですかい？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|既然被叫老保那就🚫🏳️‍⚧️｜喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_akitayura"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1947998438366523396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 1250,
+          "like_count": 26742,
+          "listed_count": 7,
+          "media_count": 680,
+          "tweet_count": 11729
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T16:03:36.000Z",
+        "description": "藤子不二雄未収録が好物",
+        "id": "1600883667584577536",
+        "name": "白幕＊組合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600883955695513600/aYXBPiME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 141,
+          "like_count": 5208,
+          "listed_count": 2,
+          "media_count": 2323,
+          "tweet_count": 5895
+        },
+        "username": "shiromakumiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-10T18:59:39.000Z",
+        "description": "山口県出身の元迷惑系YouTuberです。今は更生して日本を明るくする活動をしています。フォロー拡散よろしくお願いします。",
+        "id": "1083438237006188551",
+        "location": "奈良市議会議員",
+        "name": "へずまりゅう",
+        "pinned_tweet_id": "1947847983086838207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940024177177591808/89lGLIP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463276,
+          "following_count": 110,
+          "like_count": 8170,
+          "listed_count": 747,
+          "media_count": 2581,
+          "tweet_count": 20037
+        },
+        "username": "hezuruy",
+        "verified": true
+      }
+    ]
+  }
+}

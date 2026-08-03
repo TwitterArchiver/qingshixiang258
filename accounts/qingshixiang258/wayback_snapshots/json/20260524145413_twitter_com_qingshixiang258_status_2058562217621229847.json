@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2058561069212381303",
+    "created_at": "2026-05-24T14:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058562217621229847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489034449199190017",
+          "start": 0,
+          "username": "Pigeon_Yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058562217621229847",
+    "in_reply_to_user_id": "1489034449199190017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058561069212381303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigeon_Yi 最不得不品尝的不是德基的.....么～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2058561061905989632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF6YQtbgAAIUZm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2058561069212381303",
+        "created_at": "2026-05-24T14:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058562217621229847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058562217621229847",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058561069212381303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Yi 最不得不品尝的不是德基的.....么～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058561061905989632"
+          ]
+        },
+        "author_id": "1489034449199190017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058561069212381303",
+        "created_at": "2026-05-24T14:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058561069212381303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXbpXpdAfy",
+              "end": 47,
+              "expanded_url": "https://x.com/Pigeon_Yi/status/2058561069212381303/photo/1",
+              "media_key": "3_2058561061905989632",
+              "start": 24,
+              "url": "https://t.co/XXbpXpdAfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058561069212381303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我愿称之为南京新街口不能不品尝的一环\n好吃爱吃 https://t.co/XXbpXpdAfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1689,
+          "like_count": 41529,
+          "listed_count": 10,
+          "media_count": 1257,
+          "tweet_count": 20416
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 764,
+          "like_count": 8608,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 2792
+        },
+        "username": "Pigeon_Yi",
+        "verified": true
+      }
+    ]
+  }
+}

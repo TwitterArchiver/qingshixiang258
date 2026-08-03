@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925571246202528140",
+    "created_at": "2025-05-22T16:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925586332623204475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        },
+        {
+          "end": 24,
+          "id": "1901165386709823490",
+          "start": 17,
+          "username": "wuruto"
+        },
+        {
+          "end": 34,
+          "id": "1720779183809519616",
+          "start": 25,
+          "username": "RyyyYoin"
+        },
+        {
+          "end": 47,
+          "id": "1891721793452548096",
+          "start": 35,
+          "username": "Yulialing01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925586332623204475",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925586199189786846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical @wuruto @RyyyYoin @Yulialing01 牢金偷了我的心！明明是盗窃罪！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1925586199189786846].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1925586199189786846",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1925586199189786846"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1925571246202528140",
+        "created_at": "2025-05-22T16:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925586332623204475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            },
+            {
+              "end": 24,
+              "id": "1901165386709823490",
+              "start": 17,
+              "username": "wuruto"
+            },
+            {
+              "end": 34,
+              "id": "1720779183809519616",
+              "start": 25,
+              "username": "RyyyYoin"
+            },
+            {
+              "end": 47,
+              "id": "1891721793452548096",
+              "start": 35,
+              "username": "Yulialing01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925586332623204475",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925586199189786846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical @wuruto @RyyyYoin @Yulialing01 牢金偷了我的心！明明是盗窃罪！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 985,
+          "like_count": 21291,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 9272
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "台中の男性|讀研中|極少鍵政|往返兩岸壬|建制習廚|擁共尊習|綠白與低素質勿擾\n\n推薦關注：好哥們@Amemiya_Hasumi 廚子@GlunekiKCA 小黍@_Shu_official 小綠@lamte15072 老保之友 @xu244986 好友 @Tinkles_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Amemiya_Hasumi"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "_Shu_official"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "lamte15072"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "xu244986"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Tinkles_12"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1897333077929824397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925522598760521728/QXXECkEk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20270,
+          "following_count": 2864,
+          "like_count": 286378,
+          "listed_count": 37,
+          "media_count": 5533,
+          "tweet_count": 55499
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "贝斯与日常与碎碎念（其实并没有贝斯内容",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910395468691226624/jWfQLWQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 294,
+          "like_count": 10342,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 4581
+        },
+        "username": "wuruto",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "pinned_tweet_id": "1923960404994097413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920319685645438976/0H7iabmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 228,
+          "like_count": 49555,
+          "listed_count": 7,
+          "media_count": 1173,
+          "tweet_count": 9397
+        },
+        "username": "RyyyYoin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:30:09.000Z",
+        "description": "睡个好觉",
+        "id": "1891721793452548096",
+        "name": "Yulia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891724772691554304/sRb76K2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5231,
+          "following_count": 131,
+          "like_count": 28845,
+          "listed_count": 13,
+          "media_count": 281,
+          "tweet_count": 8995
+        },
+        "username": "Yulialing01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2023789939851423776",
+    "created_at": "2026-02-18T10:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024062706848764225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1553609956066091008",
+          "start": 0,
+          "username": "KitteyLLAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024062706848764225",
+    "in_reply_to_user_id": "1553609956066091008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024062389218689367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitteyLLAI 还真是，你说的对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2023789939851423776",
+        "created_at": "2026-02-18T10:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024062706848764225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1553609956066091008",
+              "start": 0,
+              "username": "KitteyLLAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024062706848764225",
+        "in_reply_to_user_id": "1553609956066091008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024062389218689367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitteyLLAI 还真是，你说的对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553609956066091008",
+        "conversation_id": "2023789939851423776",
+        "created_at": "2026-02-18T10:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024062389218689367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024062389218689367",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023789939851423776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 从实际效果来说，这些就是“大外宣”\n高级黑等于低级红，低级黑等于高级红这个道理并不是只对CCP适用。\n这些人对ccp绝对是大帮忙，顶级支持，ccp巴不得海外最好都是这种人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 1439,
+          "like_count": 36948,
+          "listed_count": 8,
+          "media_count": 1070,
+          "tweet_count": 17535
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T05:14:24.000Z",
+        "description": "AI picture and Stable diffusion lora maker\nMy Civitai Website:https://t.co/YRQG85aZDV…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "civitai.com/user/KitteyLL/",
+                "end": 85,
+                "expanded_url": "http://civitai.com/user/KitteyLL/",
+                "start": 62,
+                "url": "https://t.co/YRQG85aZDV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/81671…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/81671713",
+                "start": 0,
+                "url": "https://t.co/ynRawqlGcP"
+              }
+            ]
+          }
+        },
+        "id": "1553609956066091008",
+        "location": "Canada",
+        "name": "KitteyLL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695009247082483712/36Plb9eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 108,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/ynRawqlGcP",
+        "username": "KitteyLLAI",
+        "verified": false
+      }
+    ]
+  }
+}

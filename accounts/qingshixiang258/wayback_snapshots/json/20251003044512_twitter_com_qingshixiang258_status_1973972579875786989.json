@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1973697034864734570",
+    "created_at": "2025-10-03T04:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T05:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973972579875786989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1576791571831422976",
+          "start": 0,
+          "username": "linjiyewei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973972579875786989",
+    "in_reply_to_user_id": "1576791571831422976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973697034864734570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linjiyewei 6还有变身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1973697034864734570",
+        "created_at": "2025-10-03T04:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T05:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973972579875786989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1576791571831422976",
+              "start": 0,
+              "username": "linjiyewei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973972579875786989",
+        "in_reply_to_user_id": "1576791571831422976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973697034864734570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linjiyewei 6还有变身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576791571831422976",
+        "conversation_id": "1973697034864734570",
+        "created_at": "2025-10-02T10:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973697034864734570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973697034864734570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7773,
+          "like_count": 42,
+          "quote_count": 10,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "從現在開始，我將正式成為在陸/港的中華民國派！🇹🇼\n一個中國當為中華民國，中國的正統在南京！🇹🇼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1321,
+          "like_count": 30878,
+          "listed_count": 7,
+          "media_count": 831,
+          "tweet_count": 13936
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T04:29:55.000Z",
+        "description": "來自中華人民共和國🇨🇳香港特別行政區🇭🇰，在陸/港中華民國派🇹🇼，今年十五，熱愛War Thunder、Genshin Impact、CS2、Enlisted、Reverse：1999。小號@Vertin1949",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "Vertin1949"
+              }
+            ]
+          }
+        },
+        "id": "1576791571831422976",
+        "location": "中華人民共和國🇨🇳香港特別行政區🇭🇰",
+        "name": "林績業為🇹🇼🇨🇳",
+        "pinned_tweet_id": "1973056344522453412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735063617471684608/tKwHLjCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 689,
+          "like_count": 20529,
+          "listed_count": 27,
+          "media_count": 2934,
+          "tweet_count": 10425
+        },
+        "username": "linjiyewei",
+        "verified": false
+      }
+    ]
+  }
+}

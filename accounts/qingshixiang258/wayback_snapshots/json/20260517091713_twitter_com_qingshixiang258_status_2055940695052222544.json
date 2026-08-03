@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2055919774341992798",
+    "created_at": "2026-05-17T09:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055940695052222544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018718156764971008",
+          "start": 0,
+          "username": "tangxxni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055940695052222544",
+    "in_reply_to_user_id": "2018718156764971008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055927428598595716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangxxni 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2055919774341992798",
+        "created_at": "2026-05-17T09:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055940695052222544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018718156764971008",
+              "start": 0,
+              "username": "tangxxni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055940695052222544",
+        "in_reply_to_user_id": "2018718156764971008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055927428598595716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangxxni 哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018718156764971008",
+        "conversation_id": "2055919774341992798",
+        "created_at": "2026-05-17T08:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055927428598595716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055927428598595716",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055919774341992798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 借我200"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 1689,
+          "like_count": 41056,
+          "listed_count": 9,
+          "media_count": 1246,
+          "tweet_count": 20210
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T16:08:38.000Z",
+        "description": "游戏发生在一个被称作“地球”的现实世界，在这里，被玩家选中的人将被授予“主角光环”，导引生存之力。玩家将扮演一位名为“xxx”的神秘角色，在自由的旅行中邂逅性格各异、能力独特的脏比们，和他们一起击败强敌，找回失散的亲朋好友——同时，逐步发掘“人生”的真相。",
+        "id": "2018718156764971008",
+        "name": "谢不柔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019022663000461312/W4alSI0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 41,
+          "like_count": 468,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 355
+        },
+        "username": "tangxxni",
+        "verified": false
+      }
+    ]
+  }
+}

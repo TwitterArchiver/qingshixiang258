@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2025565341112578262",
+    "created_at": "2026-02-22T15:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025586450067268058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953528457339834368",
+          "start": 0,
+          "username": "redraft2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025586450067268058",
+    "in_reply_to_user_id": "1953528457339834368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025581842670436455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redraft2000 这太棒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2025565341112578262",
+        "created_at": "2026-02-22T15:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025586450067268058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025586450067268058",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025581842670436455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 这太棒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953528457339834368",
+        "conversation_id": "2025565341112578262",
+        "created_at": "2026-02-22T14:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025581842670436455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025581842670436455",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025565341112578262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 比起杀掉爱人更想要和爱人一起死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1455,
+          "like_count": 37133,
+          "listed_count": 8,
+          "media_count": 1078,
+          "tweet_count": 17705
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 74,
+          "like_count": 3138,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1475
+        },
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

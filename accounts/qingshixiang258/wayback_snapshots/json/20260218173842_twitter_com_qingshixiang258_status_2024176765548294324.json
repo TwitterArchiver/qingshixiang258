@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2023817469765579214",
+    "created_at": "2026-02-18T17:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024176765548294324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765333655868801024",
+          "start": 0,
+          "username": "aaaaabbbbcccsss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024176765548294324",
+    "in_reply_to_user_id": "1765333655868801024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023937184387002566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaabbbbcccsss 你有些低估推流了，如果一开始给你推化妆品类的时候你没有点进去，基本上就不会再给你推了，我对化妆品一类不是很了解，也是在那个人发那帖子之后才知道ys不是正版的，而且看那图里女主也是不知道的样子，一般来说情侣的经济情况不会差太多，所以我感觉买的男生应该也是不知情的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2023817469765579214",
+        "created_at": "2026-02-18T17:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024176765548294324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765333655868801024",
+              "start": 0,
+              "username": "aaaaabbbbcccsss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024176765548294324",
+        "in_reply_to_user_id": "1765333655868801024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023937184387002566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaabbbbcccsss 你有些低估推流了，如果一开始给你推化妆品类的时候你没有点进去，基本上就不会再给你推了，我对化妆品一类不是很了解，也是在那个人发那帖子之后才知道ys不是正版的，而且看那图里女主也是不知道的样子，一般来说情侣的经济情况不会差太多，所以我感觉买的男生应该也是不知情的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765333655868801024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10025257871",
+              "name": "Yves Saint Laurent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "2023817469765579214",
+        "created_at": "2026-02-18T01:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T02:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023937184387002566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023937184387002566",
+        "in_reply_to_user_id": "1765333655868801024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 778,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023936972117377258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 也没有人说所有人都要认识YSL吧，但是我觉得上过学有闲暇时间，还能谈恋爱，还能互相送礼物这个程度的话，肯定会有点多多少少的时间去玩会儿手机，玩会儿抖音，或者是刷会儿别的软件吧，再者不然，买了之后肯定会有相关推荐啊。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 1443,
+          "like_count": 36886,
+          "listed_count": 8,
+          "media_count": 1070,
+          "tweet_count": 17548
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T11:08:48.000Z",
+        "description": "",
+        "id": "1765333655868801024",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "Aaa.批发商王姐",
+        "pinned_tweet_id": "1919343041078247564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895850157675028480/rs4b7MVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 37,
+          "like_count": 1639,
+          "listed_count": 2,
+          "media_count": 830,
+          "tweet_count": 5945
+        },
+        "username": "aaaaabbbbcccsss",
+        "verified": false
+      }
+    ]
+  }
+}

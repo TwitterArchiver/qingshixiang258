@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1888492139106971726",
+    "created_at": "2025-02-09T09:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T10:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888526053045567586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831709757406666753",
+          "start": 0,
+          "username": "QiuMing_74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888526053045567586",
+    "in_reply_to_user_id": "1831709757406666753",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888520343553519628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuMing_74 ohno～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1888492139106971726",
+        "created_at": "2025-02-09T09:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T10:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888526053045567586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831709757406666753",
+              "start": 0,
+              "username": "QiuMing_74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888526053045567586",
+        "in_reply_to_user_id": "1831709757406666753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888520343553519628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuMing_74 ohno～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831709757406666753",
+        "conversation_id": "1888492139106971726",
+        "created_at": "2025-02-09T09:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T10:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888520343553519628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888520343553519628",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888492139106971726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 遗憾离场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）|她说不知道怎么挂显得更亲一点@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "青会一直陪着你",
+        "name": "青石🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884961875630399490/TQfiuJPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 975,
+          "like_count": 7342,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 3137
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:03:44.000Z",
+        "description": "男娘确诊/可以是妈妈（？/尽量不键政……/性少数友好/高三在读，回复不及时请谅解🥺/绝赞赛博🐦‍⬛饲养中/想被忍者·soul凭依/@NicoAliceOwO是可爱男娘/@qingshixiang258超级温柔青石酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "NicoAliceOwO"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "qingshixiang258"
+              }
+            ]
+          }
+        },
+        "id": "1831709757406666753",
+        "location": "地球联邦 月面都市冯·布朗",
+        "name": "秋洺绝赞赛博🐦‍⬛饲养中",
+        "pinned_tweet_id": "1863149365218709870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869054712831705088/ARExVmwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 622,
+          "like_count": 12069,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1968
+        },
+        "username": "QiuMing_74",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1976197280933073320",
+    "created_at": "2025-10-09T08:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T09:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976197593601540487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504387273919401987",
+          "start": 0,
+          "username": "KamiyaSara8972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976197593601540487",
+    "in_reply_to_user_id": "1504387273919401987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976197280933073320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiyaSara8972 想通过骂人来让自己推特热闹起来么，无人在意哈😙💅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1976197280933073320",
+        "created_at": "2025-10-09T08:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976197593601540487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504387273919401987",
+              "start": 0,
+              "username": "KamiyaSara8972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976197593601540487",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976197280933073320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiyaSara8972 想通过骂人来让自己推特热闹起来么，无人在意哈😙💅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504387273919401987",
+        "conversation_id": "1976197280933073320",
+        "created_at": "2025-10-09T08:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976197280933073320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/1976195216077095148",
+              "start": 32,
+              "url": "https://t.co/Ga96dwhQ8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976197280933073320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976195216077095148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好一出英雄救美的戏码，我都要感动哭了，原来人渣也有温情的一面。 https://t.co/Ga96dwhQ8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 1358,
+          "like_count": 31668,
+          "listed_count": 7,
+          "media_count": 849,
+          "tweet_count": 14224
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "Looking for a female fox",
+        "id": "1504387273919401987",
+        "name": "岐原狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975504476657360901/7dcg4XjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 352,
+          "like_count": 24551,
+          "listed_count": 4,
+          "media_count": 837,
+          "tweet_count": 29943
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

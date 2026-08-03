@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1996135447932866905",
+    "created_at": "2025-12-03T17:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996277526298308995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812559263371591680",
+          "start": 0,
+          "username": "huamingyouqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996277526298308995",
+    "in_reply_to_user_id": "1812559263371591680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996135447932866905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huamingyouqi 看看嗯～反正看看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996135436088156161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OymmeaoAEg1n4.jpg",
+        "width": 931
+      },
+      {
+        "height": 832,
+        "media_key": "3_1996135435173814272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OymjEa4AA5mps.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1996135447932866905",
+        "created_at": "2025-12-03T17:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996277526298308995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812559263371591680",
+              "start": 0,
+              "username": "huamingyouqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996277526298308995",
+        "in_reply_to_user_id": "1812559263371591680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996135447932866905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huamingyouqi 看看嗯～反正看看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996135436088156161",
+            "3_1996135435173814272"
+          ]
+        },
+        "author_id": "1812559263371591680",
+        "conversation_id": "1996135447932866905",
+        "created_at": "2025-12-03T08:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996135447932866905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0CFFihKMc",
+              "end": 34,
+              "expanded_url": "https://x.com/huamingyouqi/status/1996135447932866905/photo/1",
+              "media_key": "3_1996135436088156161",
+              "start": 11,
+              "url": "https://t.co/f0CFFihKMc"
+            },
+            {
+              "display_url": "pic.x.com/f0CFFihKMc",
+              "end": 34,
+              "expanded_url": "https://x.com/huamingyouqi/status/1996135447932866905/photo/1",
+              "media_key": "3_1996135435173814272",
+              "start": 11,
+              "url": "https://t.co/f0CFFihKMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996135447932866905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "601了哦\n干点啥好 https://t.co/f0CFFihKMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1477,
+          "like_count": 35047,
+          "listed_count": 8,
+          "media_count": 957,
+          "tweet_count": 15714
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T18:46:40.000Z",
+        "description": "疯疯癫癫的神明 疯疯癫癫的世界 疯疯癫癫的我https://t.co/7M9jJ4Tmzl匿名箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huamingyouqi2",
+                "end": 45,
+                "expanded_url": "https://ngl.link/huamingyouqi2",
+                "start": 22,
+                "url": "https://t.co/7M9jJ4Tmzl"
+              }
+            ]
+          }
+        },
+        "id": "1812559263371591680",
+        "location": "世界尽头",
+        "name": "花名有琦",
+        "pinned_tweet_id": "1978661826217865625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895039845816242176/dsjw8pzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 601,
+          "like_count": 14411,
+          "listed_count": 4,
+          "media_count": 1455,
+          "tweet_count": 6593
+        },
+        "username": "huamingyouqi",
+        "verified": false
+      }
+    ]
+  }
+}

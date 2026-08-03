@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993347983224819712"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1993348001608483313",
+    "created_at": "2025-11-25T15:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T16:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993348001608483313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENzmBm6MwI",
+          "end": 30,
+          "expanded_url": "https://x.com/qingshixiang258/status/1993348001608483313/photo/1",
+          "media_key": "3_1993347983224819712",
+          "start": 7,
+          "url": "https://t.co/ENzmBm6MwI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993348001608483313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就那么恶毒 https://t.co/ENzmBm6MwI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993347983224819712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nLbfXbUAAAURd.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993347983224819712"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1993348001608483313",
+        "created_at": "2025-11-25T15:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993348001608483313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENzmBm6MwI",
+              "end": 30,
+              "expanded_url": "https://x.com/qingshixiang258/status/1993348001608483313/photo/1",
+              "media_key": "3_1993347983224819712",
+              "start": 7,
+              "url": "https://t.co/ENzmBm6MwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993348001608483313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就那么恶毒 https://t.co/ENzmBm6MwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 1426,
+          "like_count": 34702,
+          "listed_count": 8,
+          "media_count": 941,
+          "tweet_count": 15441
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

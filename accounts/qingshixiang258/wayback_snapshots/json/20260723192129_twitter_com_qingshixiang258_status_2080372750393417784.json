@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2080370449360544236",
+    "created_at": "2026-07-23T19:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080372750393417784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843350227245510656",
+          "start": 0,
+          "username": "houhuilema"
+        },
+        {
+          "end": 26,
+          "id": "1862933126466666496",
+          "start": 12,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080372750393417784",
+    "in_reply_to_user_id": "1843350227245510656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080372300306915745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@houhuilema @moremoreagain 什么意思，占我便宜👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2080370449360544236",
+        "created_at": "2026-07-23T19:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080372750393417784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843350227245510656",
+              "start": 0,
+              "username": "houhuilema"
+            },
+            {
+              "end": 26,
+              "id": "1862933126466666496",
+              "start": 12,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080372750393417784",
+        "in_reply_to_user_id": "1843350227245510656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080372300306915745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@houhuilema @moremoreagain 什么意思，占我便宜👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843350227245510656",
+        "conversation_id": "2080370449360544236",
+        "created_at": "2026-07-23T19:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080372300306915745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            },
+            {
+              "end": 31,
+              "id": "1700935161301655552",
+              "start": 15,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080372300306915745",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080371397444960710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain @qingshixiang258 能叫我下爸爸吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1682,
+          "like_count": 44784,
+          "listed_count": 9,
+          "media_count": 1365,
+          "tweet_count": 21492
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T17:58:52.000Z",
+        "description": "想去月球",
+        "id": "1843350227245510656",
+        "location": "人间",
+        "name": "Player",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079265758195122176/Bf6IKd6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 110,
+          "like_count": 8915,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 2885
+        },
+        "url": "",
+        "username": "houhuilema",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜自诩为非自愿圣人｜贱人｜“我不在乎”｜我窃喜于我如此",
+        "id": "1862933126466666496",
+        "location": "上阙",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1114,
+          "like_count": 76308,
+          "listed_count": 4,
+          "media_count": 1683,
+          "tweet_count": 37537
+        },
+        "url": "",
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

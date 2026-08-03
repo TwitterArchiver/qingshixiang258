@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2062531169607180766",
+    "created_at": "2026-06-05T04:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062756674172321999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763362185118695424",
+          "start": 0,
+          "username": "kawayiizjqqqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062756674172321999",
+    "in_reply_to_user_id": "1763362185118695424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062534197198406026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawayiizjqqqq 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2062531169607180766",
+        "created_at": "2026-06-05T04:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062756674172321999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763362185118695424",
+              "start": 0,
+              "username": "kawayiizjqqqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062756674172321999",
+        "in_reply_to_user_id": "1763362185118695424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062534197198406026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawayiizjqqqq 哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763362185118695424",
+        "conversation_id": "2062531169607180766",
+        "created_at": "2026-06-04T13:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062534197198406026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062534197198406026",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062531169607180766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 1681,
+          "like_count": 42532,
+          "listed_count": 10,
+          "media_count": 1285,
+          "tweet_count": 20758
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T00:34:49.000Z",
+        "description": "👽/九大情報理工M1🏫/NLP🗣/成为一个自由的开发者⌨️/03yo/Lang:🇨🇳🇺🇸（🇯🇵learning）/喜欢和友善的人一起玩/自由と尊重",
+        "id": "1763362185118695424",
+        "location": "seaside",
+        "name": "Ryo",
+        "pinned_tweet_id": "1970734946328420573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061450346183196673/-je_7GdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 171,
+          "like_count": 35770,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 3491
+        },
+        "username": "kawayiizjqqqq",
+        "verified": false
+      }
+    ]
+  }
+}

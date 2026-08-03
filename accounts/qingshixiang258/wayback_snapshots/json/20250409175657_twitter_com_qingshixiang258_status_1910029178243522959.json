@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1910029178243522959",
+    "created_at": "2025-04-09T17:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T18:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910029178243522959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910029178243522959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909867887420146101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 2025年的中国，空气中弥漫着紧张与不安。来自习近平的军事威胁如影随形，侦察机整日盘旋在台湾上空，骚扰不断。民间议论纷纷，有人认为习近平只是想施压，逼迫台湾就范；也有人忧心忡忡，觉得大战真的要来了。\n          神说：“要想‘梧桐’台湾？笑话…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1910029178243522959",
+        "created_at": "2025-04-09T17:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T18:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910029178243522959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910029178243522959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909867887420146101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 2025年的中国，空气中弥漫着紧张与不安。来自习近平的军事威胁如影随形，侦察机整日盘旋在台湾上空，骚扰不断。民间议论纷纷，有人认为习近平只是想施压，逼迫台湾就范；也有人忧心忡忡，觉得大战真的要来了。\n          神说：“要想‘梧桐’台湾？笑话…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1909867887420146101",
+        "created_at": "2025-04-09T07:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T08:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909867887420146101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909867887420146101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2025年的中国，空气中弥漫着紧张与不安。来自习近平的军事威胁如影随形，侦察机整日盘旋在台湾上空，骚扰不断。民间议论纷纷，有人认为习近平只是想施压，逼迫台湾就范；也有人忧心忡忡，觉得大战真的要来了。\n          神说：“要想‘梧桐’台湾？笑话，除非琵琶牧牧先破处！”\n那天，金融市场彻底崩盘——股市、债务、外汇三盘齐杀，国际局势紧绷到令人窒息。工厂大批倒闭，失业的人走上街头，四处“献忠”，社会动荡一触即发。大家窃窃私语：“这次习近平是真的要动手了！”\n作战室里，气氛肃杀。习近平端坐在中央，双目紧闭，手指悬停在东风导弹的发射按钮上。他语气低沉，带着不容置疑的威严：“待会儿我倒数完，所有舰队和导弹基地一起发射，务必第一时间摧毁台湾的所有军事目标，让他们连反抗的机会都没有！”\n“收到！”将领们齐声应道，声音铿锵有力。\n“5、4、3、2、1……开炮！”习近平猛地按下按钮。\n然而，预想中的轰鸣并未响起，整个作战室陷入死一般的寂静。习近平皱眉，低头一看，发现导弹发射按钮竟然按不动。他脸色一沉，过了片刻，军部和舰队的报告陆续传来：\n“报告长官，炮弹哑火了！”\n“报告长官，发射器检查没问题，但就是点不着火！”\n习近平勃然大怒，拍案而起，破口大骂：“军队腐败到这种地步了？你们这群废物！养你们有什么用？！”\n一旁的王沪宁始终闭目养神，手指掐算着什么，仿佛置身事外。就在这时，他突然睁开眼，慢悠悠地开口，语气平静却带着一丝神秘：“非也，非也。主席，此事并非军队无能，而是另有玄机。您须找到推特上一人，名叫‘琵琶牧牧’，唯有他破处，这些失灵的导弹和武器才能恢复正常。”\n习近平闻言一愣，怒气未消却又夹杂着几分狐疑：“琵琶牧牧？什么玩意儿！这都什么乱七八糟的？”他转头看向作战室内的技术人员，吼道：“还愣着干什么？赶紧给我查！这个‘琵琶牧牧’到底是谁！”\n技术团队手忙脚乱地打开电脑，迅速登录推特，开始搜索这个神秘人物。与此同时，作战室外，士兵们对着哑火的导弹束手无策，有人甚至开始小声嘀咕：“难道真是天意？这仗还怎么打？”\n几分钟后，一名技术员战战兢兢地汇报：“长官，找到了！‘琵琶牧牧’，推特ID是......\n，资料显示是个……呃，处男，平时喜欢发窝问天问大地，看来是个哲批文艺青年，最近一条推文是‘老干部移植窝心脏的时候会看到窝心底的性压抑吗......”\n习近平听完，脸都气歪了：“这tm都啥啊？你告诉我，这雄竞失败弱智童贞跟我的导弹有什么关系？！”他狠狠瞪了王沪宁一眼，“老王，你不是忽悠我吧？”\n王沪宁却不慌不忙，淡定地说：“主席莫急，天机不可泄露太多。我夜观天象，掐指一算，此人命格奇特，与我军气运相连。只要他破了童贞，武器自会恢复。您若不信，不妨一试。”\n习近平半信半疑，但眼下局势危急，导弹哑火，舰队瘫痪，再不行动，国际上怕是要贻笑大方。他咬了咬牙，下令：“好！立刻派特工去找到这个人，不管用什么办法，给我把他弄破处！快！”\n命令一下，作战室立刻忙碌起来。一支精锐黑客小队迅速集结开盒琵琶牧牧的IP，与此同时，远在某个城市出租屋里的琵琶牧牧，正一边做题，一边念叨着：“逼逼逼逼逼逼逼逼逼…..”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4907,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "2025年的中国，空气中弥漫着紧张与不安。来自习近平的军事威胁如影随形，侦察机整日盘旋在台湾上空，骚扰不断。民间议论纷纷，有人认为习近平只是想施压，逼迫台湾就范；也有人忧心忡忡，觉得大战真的要来了。\n          神说：“要想‘梧桐’台湾？笑话，除非琵琶牧牧先破处！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909653788056768512/HVX8zDIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 710,
+          "like_count": 15277,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 6979
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   劳保爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄     嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/lbrp9vzziV"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "纳克萨玛斯                  下面是提问栏",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1846234338914193662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7701,
+          "following_count": 923,
+          "like_count": 79345,
+          "listed_count": 42,
+          "media_count": 1231,
+          "tweet_count": 18259
+        },
+        "url": "https://t.co/lbrp9vzziV",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

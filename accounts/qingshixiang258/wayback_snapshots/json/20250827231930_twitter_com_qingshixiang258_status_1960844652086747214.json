@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1960801953740677180",
+    "created_at": "2025-08-27T23:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T00:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960844652086747214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960844652086747214",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960801953740677180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 要看猫猫涩图～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1960801953740677180",
+        "created_at": "2025-08-27T23:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T00:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960844652086747214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960844652086747214",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960801953740677180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 要看猫猫涩图～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864739862697644032",
+        "conversation_id": "1960801953740677180",
+        "created_at": "2025-08-27T20:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T21:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960801953740677180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_cosine_x/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/_cosine_x/status/1960710784264052781",
+              "start": 17,
+              "url": "https://t.co/wKijIyaq41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960801953740677180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 226,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960710784264052781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从很早就说了凯尔希可是黄推！\n😾 https://t.co/wKijIyaq41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960756134580772873/c_7LKi-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1395,
+          "like_count": 28723,
+          "listed_count": 8,
+          "media_count": 762,
+          "tweet_count": 13024
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "本体是香香软软没有攻击性的INTP猞猁！有Candidacy，是explorer，coser和Les. 想做大家的好朋友给人们带来快乐。不太喜欢zs话题也不会主动传播负能量，刷到相关推文会点not interested. 看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 私信话题：源石会诱导Casp蛋白表达上升吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 629,
+          "like_count": 3873,
+          "listed_count": 6,
+          "media_count": 291,
+          "tweet_count": 3401
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      }
+    ]
+  }
+}

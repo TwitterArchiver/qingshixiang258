@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2036099501459755328",
+    "created_at": "2026-03-23T15:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036100974545338371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999000974913130496",
+          "start": 0,
+          "username": "AyanamiRikako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036100974545338371",
+    "in_reply_to_user_id": "1999000974913130496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036099501459755328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanamiRikako 我也…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_2036099481784225792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGtsOMbEAAHaGi.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2036099501459755328",
+        "created_at": "2026-03-23T15:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036100974545338371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999000974913130496",
+              "start": 0,
+              "username": "AyanamiRikako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036100974545338371",
+        "in_reply_to_user_id": "1999000974913130496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036099501459755328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanamiRikako 我也…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036099481784225792"
+          ]
+        },
+        "author_id": "1999000974913130496",
+        "conversation_id": "2036099501459755328",
+        "created_at": "2026-03-23T15:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036099501459755328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyJaVQo8Lf",
+              "end": 30,
+              "expanded_url": "https://x.com/AyanamiRikako/status/2036099501459755328/photo/1",
+              "media_key": "3_2036099481784225792",
+              "start": 7,
+              "url": "https://t.co/YyJaVQo8Lf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036099501459755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这的确是我… https://t.co/YyJaVQo8Lf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1610,
+          "like_count": 38974,
+          "listed_count": 8,
+          "media_count": 1154,
+          "tweet_count": 19188
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:19:11.000Z",
+        "description": "「将眼泪与过往一同埋葬。」\ncoser/摄影，常驻广东，偶尔是男娘，性取向女。\n拒绝任何键政\n坑：崩铁 明日方舟 绝区零 碧蓝 BA 赛马娘，以及各种单机联机游戏。\n第二人格 @Hasumi_Amemiya\n阿米娅 @xuexuelingling\n宠物小笨狗 @cialloi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Hasumi_Amemiya"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "xuexuelingling"
+              },
+              {
+                "end": 138,
+                "start": 130,
+                "username": "cialloi"
+              }
+            ]
+          }
+        },
+        "id": "1999000974913130496",
+        "location": "罗德岛第一舰桥大学",
+        "name": "雨宫莲见",
+        "pinned_tweet_id": "1999145703264993496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012517878830911488/aJai91DU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 208,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 250
+        },
+        "username": "AyanamiRikako",
+        "verified": false
+      }
+    ]
+  }
+}

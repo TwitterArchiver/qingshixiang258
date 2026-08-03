@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056035824572256345",
+    "created_at": "2026-05-17T15:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056039400023503221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1276439083120619520",
+          "start": 0,
+          "username": "123_imomiruku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056039400023503221",
+    "in_reply_to_user_id": "1276439083120619520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056035824572256345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123_imomiruku 好喜欢这种..."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16728,
+        "height": 1920,
+        "media_key": "13_2056035457046351872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056035457046351872/img/2En87_AJTjYLC7WG.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056035457046351872/vid/avc1/320x568/8UND2X_ywNJSDi5h.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056035457046351872/vid/avc1/480x852/7IJ9JNk1dtKorcbd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056035457046351872/vid/avc1/720x1280/dIznPfQ9AjwSKYzk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056035457046351872/pl/OsMuO_LXmQkHRviD.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056035824572256345",
+        "created_at": "2026-05-17T15:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056039400023503221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1276439083120619520",
+              "start": 0,
+              "username": "123_imomiruku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056039400023503221",
+        "in_reply_to_user_id": "1276439083120619520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056035824572256345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123_imomiruku 好喜欢这种..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056035457046351872"
+          ]
+        },
+        "author_id": "1276439083120619520",
+        "conversation_id": "2056035824572256345",
+        "created_at": "2026-05-17T15:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056035824572256345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MIESZ9dlnB",
+              "end": 35,
+              "expanded_url": "https://x.com/123_imomiruku/status/2056035824572256345/video/1",
+              "media_key": "13_2056035457046351872",
+              "start": 12,
+              "url": "https://t.co/MIESZ9dlnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056035824572256345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚刪\n似乎可以這樣用。 https://t.co/MIESZ9dlnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1689,
+          "like_count": 41073,
+          "listed_count": 9,
+          "media_count": 1246,
+          "tweet_count": 20222
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T08:56:59.000Z",
+        "description": "台湾 🇹🇼  / 放射線学修士 / 本を読むことが大好き/ 日本語は少しできる/ ハムスター、ラッコ 大好き 🐹 🦦🦦 /",
+        "id": "1276439083120619520",
+        "location": "台湾🇹🇼",
+        "name": "チャミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014972885509558272/8FxXyKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 682,
+          "like_count": 122349,
+          "listed_count": 3,
+          "media_count": 1867,
+          "tweet_count": 57751
+        },
+        "username": "123_imomiruku",
+        "verified": false
+      }
+    ]
+  }
+}

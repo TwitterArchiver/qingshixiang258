@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2062478163863900263",
+    "created_at": "2026-06-04T11:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062500610382139443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062500610382139443",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062478163863900263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 isla老师怎么收费呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2062478163863900263",
+        "created_at": "2026-06-04T11:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062500610382139443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062500610382139443",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062478163863900263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 isla老师怎么收费呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2062478163863900263",
+        "created_at": "2026-06-04T10:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062478163863900263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062478163863900263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贱卖自己。\n5块钱给别人算了三张牌。😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 1683,
+          "like_count": 42477,
+          "listed_count": 10,
+          "media_count": 1283,
+          "tweet_count": 20744
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "人生信条是不要拿西瓜当饭吃。/接塔罗牌分析。",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046770184216821760/ehQy1V_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7238,
+          "following_count": 4515,
+          "like_count": 41190,
+          "listed_count": 18,
+          "media_count": 2995,
+          "tweet_count": 40874
+        },
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

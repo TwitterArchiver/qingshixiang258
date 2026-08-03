@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1954498509182300523",
+    "created_at": "2025-08-10T14:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T15:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954545758759223390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864319392760385540",
+          "start": 0,
+          "username": "Q1ngyi"
+        },
+        {
+          "end": 19,
+          "id": "1692666360487145472",
+          "start": 8,
+          "username": "RLiarDance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954545758759223390",
+    "in_reply_to_user_id": "1864319392760385540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954545158718165123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q1ngyi @RLiarDance 给你拼好，502能用么～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1954545158718165123].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1954545158718165123",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1954545158718165123"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1954498509182300523",
+        "created_at": "2025-08-10T14:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954545758759223390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864319392760385540",
+              "start": 0,
+              "username": "Q1ngyi"
+            },
+            {
+              "end": 19,
+              "id": "1692666360487145472",
+              "start": 8,
+              "username": "RLiarDance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954545758759223390",
+        "in_reply_to_user_id": "1864319392760385540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954545158718165123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q1ngyi @RLiarDance 给你拼好，502能用么～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954539580998422528/nUejuF6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1261,
+          "like_count": 27352,
+          "listed_count": 7,
+          "media_count": 706,
+          "tweet_count": 12103
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T14:42:43.000Z",
+        "description": "墨砚斋传送门@Hibi3cus\n不知道干什么但是可以进去躺着的@Moyanzhai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "Hibi3cus"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Moyanzhai"
+              }
+            ]
+          }
+        },
+        "id": "1864319392760385540",
+        "name": "师师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940689351211732995/6tHLyF03_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 87,
+          "like_count": 2459,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 3067
+        },
+        "username": "Q1ngyi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T22:34:51.000Z",
+        "description": "真是充满希望的发言呢。",
+        "id": "1692666360487145472",
+        "name": "Komaeda Nagito",
+        "pinned_tweet_id": "1911769604294160671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947138462294974464/ogM80hBi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 33,
+          "like_count": 3952,
+          "listed_count": 1,
+          "media_count": 334,
+          "tweet_count": 2475
+        },
+        "username": "RLiarDance",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003843872791908352",
+        "3_2003843872791879681",
+        "3_2003843872833851392"
+      ],
+      "media_source_tweet_id": [
+        "2003843881918665107",
+        "2003843881918665107",
+        "2003843881918665107"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004146260941648352",
+    "created_at": "2025-12-25T11:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T12:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004146260941648352"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "玄仪",
+          "probability": 0.7284,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "701022860467240961",
+          "start": 3,
+          "username": "boilbanana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdYnAhuD94",
+          "end": 43,
+          "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+          "media_key": "3_2003843872791908352",
+          "start": 20,
+          "url": "https://t.co/mdYnAhuD94"
+        },
+        {
+          "display_url": "pic.x.com/mdYnAhuD94",
+          "end": 43,
+          "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+          "media_key": "3_2003843872791879681",
+          "start": 20,
+          "url": "https://t.co/mdYnAhuD94"
+        },
+        {
+          "display_url": "pic.x.com/mdYnAhuD94",
+          "end": 43,
+          "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+          "media_key": "3_2003843872833851392",
+          "start": 20,
+          "url": "https://t.co/mdYnAhuD94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004146260941648352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 432
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003843881918665107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boilbanana: 玄仪😤 https://t.co/mdYnAhuD94"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2003843872791908352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88VYq8a0AASylb.jpg",
+        "width": 688
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2003843872791879681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88VYq8aYAETkHo.jpg",
+        "width": 684
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2003843872833851392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88VYrGa0AADoSk.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003843872791908352",
+            "3_2003843872791879681",
+            "3_2003843872833851392"
+          ],
+          "media_source_tweet_id": [
+            "2003843881918665107",
+            "2003843881918665107",
+            "2003843881918665107"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004146260941648352",
+        "created_at": "2025-12-25T11:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T12:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004146260941648352"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "玄仪",
+              "probability": 0.7284,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "701022860467240961",
+              "start": 3,
+              "username": "boilbanana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdYnAhuD94",
+              "end": 43,
+              "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+              "media_key": "3_2003843872791908352",
+              "start": 20,
+              "url": "https://t.co/mdYnAhuD94"
+            },
+            {
+              "display_url": "pic.x.com/mdYnAhuD94",
+              "end": 43,
+              "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+              "media_key": "3_2003843872791879681",
+              "start": 20,
+              "url": "https://t.co/mdYnAhuD94"
+            },
+            {
+              "display_url": "pic.x.com/mdYnAhuD94",
+              "end": 43,
+              "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+              "media_key": "3_2003843872833851392",
+              "start": 20,
+              "url": "https://t.co/mdYnAhuD94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004146260941648352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 432
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003843881918665107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boilbanana: 玄仪😤 https://t.co/mdYnAhuD94"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003843872791908352",
+            "3_2003843872791879681",
+            "3_2003843872833851392"
+          ]
+        },
+        "author_id": "701022860467240961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003843881918665107",
+        "created_at": "2025-12-24T15:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003843881918665107"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "玄仪",
+              "probability": 0.698,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdYnAhuD94",
+              "end": 27,
+              "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+              "media_key": "3_2003843872791908352",
+              "start": 4,
+              "url": "https://t.co/mdYnAhuD94"
+            },
+            {
+              "display_url": "pic.x.com/mdYnAhuD94",
+              "end": 27,
+              "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+              "media_key": "3_2003843872791879681",
+              "start": 4,
+              "url": "https://t.co/mdYnAhuD94"
+            },
+            {
+              "display_url": "pic.x.com/mdYnAhuD94",
+              "end": 27,
+              "expanded_url": "https://x.com/boilbanana/status/2003843881918665107/photo/1",
+              "media_key": "3_2003843872833851392",
+              "start": 4,
+              "url": "https://t.co/mdYnAhuD94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003843881918665107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2359,
+          "impression_count": 492275,
+          "like_count": 10576,
+          "quote_count": 12,
+          "reply_count": 34,
+          "retweet_count": 432
+        },
+        "reply_settings": "everyone",
+        "text": "玄仪😤 https://t.co/mdYnAhuD94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003124565036396545/MYBsEibq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 1483,
+          "like_count": 35364,
+          "listed_count": 9,
+          "media_count": 974,
+          "tweet_count": 16107
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-20T12:37:29.000Z",
+        "description": "涂装师",
+        "id": "701022860467240961",
+        "name": "炸香蕉",
+        "pinned_tweet_id": "1944338772079813046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/735639380107231233/pIh9vYzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7590,
+          "following_count": 1106,
+          "like_count": 1884,
+          "listed_count": 68,
+          "media_count": 184,
+          "tweet_count": 1126
+        },
+        "username": "boilbanana",
+        "verified": false
+      }
+    ]
+  }
+}

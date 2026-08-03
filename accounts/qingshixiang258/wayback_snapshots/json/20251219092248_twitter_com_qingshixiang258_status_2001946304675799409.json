@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2001916448256725416",
+    "created_at": "2025-12-19T09:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T10:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001946304675799409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001946304675799409",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001916448256725416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001916445685608450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8g8ZpcacAI-psZ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2001916448256725416",
+        "created_at": "2025-12-19T09:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001946304675799409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001946304675799409",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001916448256725416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001916445685608450"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "2001916448256725416",
+        "created_at": "2025-12-19T07:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T08:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001916448256725416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQygHS3Bn1",
+              "end": 35,
+              "expanded_url": "https://x.com/_AkitaYura/status/2001916448256725416/photo/1",
+              "media_key": "3_2001916445685608450",
+              "start": 12,
+              "url": "https://t.co/hQygHS3Bn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001916448256725416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 59,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已穿上圣诞美甲，望周知 https://t.co/hQygHS3Bn1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000964822868090881/Gi0sIpqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 1482,
+          "like_count": 35351,
+          "listed_count": 9,
+          "media_count": 967,
+          "tweet_count": 16026
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|吾独爱猪猪🐷\n▫️🐑@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1999341529442460018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997229845726867456/uZxKxFpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 628,
+          "like_count": 67683,
+          "listed_count": 10,
+          "media_count": 2049,
+          "tweet_count": 17116
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

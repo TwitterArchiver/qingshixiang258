@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2060186896978878681",
+    "created_at": "2026-05-29T17:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060413530869039411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531301477062692864",
+          "start": 0,
+          "username": "HMartialEmperor"
+        },
+        {
+          "end": 26,
+          "id": "1557580848701980672",
+          "start": 17,
+          "username": "RoyMaste"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060413530869039411",
+    "in_reply_to_user_id": "1531301477062692864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060410839983907295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HMartialEmperor @RoyMaste 但是没有多次循环的规律算是规律么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2060186896978878681",
+        "created_at": "2026-05-29T17:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060413530869039411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531301477062692864",
+              "start": 0,
+              "username": "HMartialEmperor"
+            },
+            {
+              "end": 26,
+              "id": "1557580848701980672",
+              "start": 17,
+              "username": "RoyMaste"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060413530869039411",
+        "in_reply_to_user_id": "1531301477062692864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060410839983907295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HMartialEmperor @RoyMaste 但是没有多次循环的规律算是规律么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531301477062692864",
+        "conversation_id": "2060186896978878681",
+        "created_at": "2026-05-29T17:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060410839983907295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 26,
+              "id": "1557580848701980672",
+              "start": 17,
+              "username": "RoyMaste"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060410839983907295",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060216733764624540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 @RoyMaste 这题选a。第一张图，第二张图里面都是四个独立空间。第三张图里面是五个。第四第五章又变成四了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 1689,
+          "like_count": 41885,
+          "listed_count": 10,
+          "media_count": 1270,
+          "tweet_count": 20556
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T15:48:31.000Z",
+        "description": "身已许国难再许卿，投躯华夏不枉此生",
+        "id": "1531301477062692864",
+        "name": "神都",
+        "pinned_tweet_id": "1700191004404625679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031055358421266432/YBfs3fSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 747,
+          "like_count": 6857,
+          "listed_count": 4,
+          "media_count": 2293,
+          "tweet_count": 5785
+        },
+        "username": "HMartialEmperor",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T04:13:34.000Z",
+        "description": "𝙾𝚛𝚍𝚎𝚛 𝚒𝚜 𝚝𝚑𝚎 𝚑𝚒𝚐𝚑𝚎𝚜𝚝 𝚟𝚒𝚛𝚝𝚞𝚎.  #𝙲𝚘𝚜𝚖𝚒𝚌𝚁𝚎𝚊𝚕𝚙𝚘𝚕𝚒𝚝𝚒𝚔 #𝙿𝚘𝚜𝚝𝙷𝚞𝚖𝚊𝚗𝙴𝚝𝚑𝚒𝚌𝚜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 30,
+                "tag": "𝙲𝚘𝚜𝚖𝚒𝚌𝚁𝚎𝚊𝚕𝚙𝚘𝚕𝚒𝚝𝚒𝚔"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "tag": "𝙿𝚘𝚜𝚝𝙷𝚞𝚖𝚊𝚗𝙴𝚝𝚑𝚒𝚌𝚜"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ailab-two-pi.vercel.app",
+                "end": 23,
+                "expanded_url": "https://ailab-two-pi.vercel.app",
+                "start": 0,
+                "url": "https://t.co/m8qelvqwZB"
+              }
+            ]
+          }
+        },
+        "id": "1557580848701980672",
+        "location": "California, USA",
+        "name": "肅正協議(💯𝗙𝗼)",
+        "pinned_tweet_id": "2060007089603256369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029890531841769472/fesft2_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3255,
+          "following_count": 2557,
+          "like_count": 48883,
+          "listed_count": 5,
+          "media_count": 1210,
+          "tweet_count": 20702
+        },
+        "url": "https://t.co/m8qelvqwZB",
+        "username": "RoyMaste",
+        "verified": true
+      }
+    ]
+  }
+}

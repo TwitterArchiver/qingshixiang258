@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000047422442254336"
+      ],
+      "media_source_tweet_id": [
+        "2000047469263294815"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2000118689748877817",
+    "created_at": "2025-12-14T08:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T09:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000118689748877817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893325795759886336",
+          "start": 3,
+          "username": "Brigitta_INE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VbtAooa5Xg",
+          "end": 45,
+          "expanded_url": "https://x.com/Brigitta_INE/status/2000047469263294815/photo/1",
+          "media_key": "3_2000047422442254336",
+          "start": 22,
+          "url": "https://t.co/VbtAooa5Xg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000118689748877817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000047469263294815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brigitta_INE: 着色版 https://t.co/VbtAooa5Xg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000118689748877817].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000118689748877817",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000118689748877817"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000047422442254336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GYiLSbMAAaRx9.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000047422442254336"
+          ]
+        },
+        "author_id": "1893325795759886336",
+        "conversation_id": "2000047469263294815",
+        "created_at": "2025-12-14T03:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000047469263294815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbtAooa5Xg",
+              "end": 27,
+              "expanded_url": "https://x.com/Brigitta_INE/status/2000047469263294815/photo/1",
+              "media_key": "3_2000047422442254336",
+              "start": 4,
+              "url": "https://t.co/VbtAooa5Xg"
+            },
+            {
+              "display_url": "x.com/Brigitta_INE/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Brigitta_INE/status/1999903022407954700",
+              "start": 28,
+              "url": "https://t.co/9vYAM30p4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000047469263294815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999903022407954700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "着色版 https://t.co/VbtAooa5Xg https://t.co/9vYAM30p4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998367186075922432/8djgDaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1475,
+          "like_count": 35232,
+          "listed_count": 9,
+          "media_count": 965,
+          "tweet_count": 15956
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T15:44:23.000Z",
+        "description": "请输入文本",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/109812806",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/109812806",
+                "start": 0,
+                "url": "https://t.co/SWpURElftC"
+              }
+            ]
+          }
+        },
+        "id": "1893325795759886336",
+        "location": "🇨🇳",
+        "name": "薇尔琪塔～",
+        "pinned_tweet_id": "2000047469263294815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978359131292811264/IawUXSBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 190,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/SWpURElftC",
+        "username": "Brigitta_INE",
+        "verified": false
+      }
+    ]
+  }
+}

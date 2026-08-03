@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051292505090686976"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2051292567267102847",
+    "created_at": "2026-05-04T13:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051292567267102847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNaqpLyQKQ",
+          "end": 42,
+          "expanded_url": "https://x.com/qingshixiang258/status/2051292567267102847/photo/1",
+          "media_key": "3_2051292505090686976",
+          "start": 19,
+          "url": "https://t.co/dNaqpLyQKQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051292567267102847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老外怎么那么喜欢产这种电子泔水... https://t.co/dNaqpLyQKQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051292505090686976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHenqkhaAAAre-t.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051292505090686976"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2051292567267102847",
+        "created_at": "2026-05-04T13:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051292567267102847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNaqpLyQKQ",
+              "end": 42,
+              "expanded_url": "https://x.com/qingshixiang258/status/2051292567267102847/photo/1",
+              "media_key": "3_2051292505090686976",
+              "start": 19,
+              "url": "https://t.co/dNaqpLyQKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051292567267102847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老外怎么那么喜欢产这种电子泔水... https://t.co/dNaqpLyQKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 1678,
+          "like_count": 40331,
+          "listed_count": 9,
+          "media_count": 1222,
+          "tweet_count": 19822
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

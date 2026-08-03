@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1917780168397185079",
+    "created_at": "2025-05-01T03:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T04:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917783006452011353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764728841010831360",
+          "start": 0,
+          "username": "Quack_one"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917783006452011353",
+    "in_reply_to_user_id": "1764728841010831360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917780168397185079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quack_one 怪诶～再看一秒～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1718,
+        "height": 720,
+        "media_key": "7_1917780155646500867",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1917780155646500867/pu/img/6RPKH19WP19sF0f_.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917780155646500867/pu/vid/avc1/480x270/-Ca6TH0Zl332w-Uc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917780155646500867/pu/vid/avc1/640x360/JwT0NyeHX6_agCU9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1917780155646500867/pu/vid/avc1/1280x720/xSjVmcfdGl3Y-dzl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1917780155646500867/pu/pl/utLi6ben1_Pqpsc0.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1917780168397185079",
+        "created_at": "2025-05-01T03:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T04:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917783006452011353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764728841010831360",
+              "start": 0,
+              "username": "Quack_one"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917783006452011353",
+        "in_reply_to_user_id": "1764728841010831360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917780168397185079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quack_one 怪诶～再看一秒～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1917780155646500867"
+          ]
+        },
+        "author_id": "1764728841010831360",
+        "conversation_id": "1917780168397185079",
+        "created_at": "2025-05-01T03:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T04:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917780168397185079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5wG03igci",
+              "end": 27,
+              "expanded_url": "https://x.com/Quack_one/status/1917780168397185079/video/1",
+              "media_key": "7_1917780155646500867",
+              "start": 4,
+              "url": "https://t.co/X5wG03igci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917780168397185079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看一秒 https://t.co/X5wG03igci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "Akita Green🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916284947746459648/Fmz_BBPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 869,
+          "like_count": 18159,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 8049
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "小药娘 | INTJ | 吉他手 | 爵士乐 |",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "Quack_one",
+        "pinned_tweet_id": "1915099021800341897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907771273842929666/Goh3vr8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 81,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 533
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

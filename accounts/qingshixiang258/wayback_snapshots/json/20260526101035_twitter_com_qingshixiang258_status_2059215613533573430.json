@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2059182979856114108",
+    "created_at": "2026-05-26T10:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059215613533573430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        },
+        {
+          "end": 24,
+          "id": "2018718156764971008",
+          "start": 15,
+          "username": "tangxxni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059215613533573430",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059214686793384106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain @tangxxni 私发给你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2059182979856114108",
+        "created_at": "2026-05-26T10:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059215613533573430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            },
+            {
+              "end": 24,
+              "id": "2018718156764971008",
+              "start": 15,
+              "username": "tangxxni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059215613533573430",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059214686793384106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain @tangxxni 私发给你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2059182979856114108",
+        "created_at": "2026-05-26T10:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059214686793384106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 26,
+              "id": "2018718156764971008",
+              "start": 17,
+              "username": "tangxxni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059214686793384106",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059192085245497659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 @tangxxni 听听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1689,
+          "like_count": 41668,
+          "listed_count": 10,
+          "media_count": 1260,
+          "tweet_count": 20468
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜非自愿圣人",
+        "id": "1862933126466666496",
+        "location": "上阙",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1102,
+          "like_count": 74223,
+          "listed_count": 4,
+          "media_count": 1639,
+          "tweet_count": 35919
+        },
+        "username": "moremoreagain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T16:08:38.000Z",
+        "description": "游戏发生在一个被称作“地球”的现实世界，在这里，被玩家选中的人将被授予“主角光环”，导引生存之力。玩家将扮演一位名为“xxx”的神秘角色，在自由的旅行中邂逅性格各异、能力独特的脏比们，和他们一起击败强敌，找回失散的亲朋好友——同时，逐步发掘“人生”的真相。",
+        "id": "2018718156764971008",
+        "name": "谢不柔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019022663000461312/W4alSI0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 43,
+          "like_count": 504,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 416
+        },
+        "username": "tangxxni",
+        "verified": false
+      }
+    ]
+  }
+}

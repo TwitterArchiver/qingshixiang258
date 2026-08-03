@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1931991845393019221",
+    "created_at": "2025-06-12T11:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T12:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933127258258251955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854393593865367552",
+          "start": 0,
+          "username": "peanut_butterII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933127258258251955",
+    "in_reply_to_user_id": "1854393593865367552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931991845393019221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peanut_butterII 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1931991845393019221",
+        "created_at": "2025-06-12T11:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T12:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933127258258251955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854393593865367552",
+              "start": 0,
+              "username": "peanut_butterII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933127258258251955",
+        "in_reply_to_user_id": "1854393593865367552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931991845393019221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peanut_butterII 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854393593865367552",
+        "conversation_id": "1931991845393019221",
+        "created_at": "2025-06-09T08:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T09:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931991845393019221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931991845393019221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃杯面的时候出来了旧神，非要塞给我很大的一坨饭，后来发现很大的一坨饭攻击力有2000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "懒青鱼🍃🕊️",
+        "pinned_tweet_id": "1931748709324517749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1108,
+          "like_count": 24267,
+          "listed_count": 6,
+          "media_count": 615,
+          "tweet_count": 10594
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T05:21:08.000Z",
+        "description": "♀/放负用/ISTP/犯病账号/精神障碍/neet/高强度发癫",
+        "id": "1854393593865367552",
+        "location": "我的心中充满了粉色的泡泡泡泡",
+        "name": "momo@发病专用",
+        "pinned_tweet_id": "1917875526011944996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892338084273938432/h7F-WkFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 230,
+          "like_count": 555,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1047
+        },
+        "username": "peanut_butterII",
+        "verified": false
+      }
+    ]
+  }
+}

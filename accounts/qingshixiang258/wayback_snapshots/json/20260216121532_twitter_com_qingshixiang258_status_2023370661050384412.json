@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2023299362961699150",
+    "created_at": "2026-02-16T12:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023370661050384412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023370661050384412",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023333710075203721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love hyw？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2023333710075203721].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2023333710075203721",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2023333710075203721"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2023299362961699150",
+        "created_at": "2026-02-16T12:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023370661050384412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023370661050384412",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023333710075203721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love hyw？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1429,
+          "like_count": 37005,
+          "listed_count": 8,
+          "media_count": 1066,
+          "tweet_count": 17439
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "在模糊中辨认自己🐱/不可爱😖/互fo欢迎😙/eng @kadakisystem/最棒的秋月姐姐w @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "kadakisystem"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profile.mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://profile.mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/uzWasmI2ar"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "California, USA",
+        "name": "💫🌸永不言弃🥺♥️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023192209026351104/lCVUT0b1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 1013,
+          "like_count": 180668,
+          "listed_count": 3,
+          "media_count": 703,
+          "tweet_count": 6290
+        },
+        "url": "https://t.co/uzWasmI2ar",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

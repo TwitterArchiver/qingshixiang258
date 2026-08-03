@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1984234260941914260",
+    "created_at": "2025-11-02T04:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T05:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984836056655724818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692666360487145472",
+          "start": 0,
+          "username": "RLiarDance"
+        },
+        {
+          "end": 27,
+          "id": "1841801152381558784",
+          "start": 12,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984836056655724818",
+    "in_reply_to_user_id": "1692666360487145472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984288853793095794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RLiarDance @Amemiya_Hasumi 莲儿这个胖啊～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1984288853793095794].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1984288853793095794",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1984288853793095794"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1984234260941914260",
+        "created_at": "2025-11-02T04:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984836056655724818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692666360487145472",
+              "start": 0,
+              "username": "RLiarDance"
+            },
+            {
+              "end": 27,
+              "id": "1841801152381558784",
+              "start": 12,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984836056655724818",
+        "in_reply_to_user_id": "1692666360487145472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984288853793095794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RLiarDance @Amemiya_Hasumi 莲儿这个胖啊～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1394,
+          "like_count": 33207,
+          "listed_count": 7,
+          "media_count": 907,
+          "tweet_count": 14770
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T22:34:51.000Z",
+        "description": "榴莲粉丝团爱莲说/榴你一生莲你一世",
+        "id": "1692666360487145472",
+        "name": "爱莲说",
+        "pinned_tweet_id": "1911769604294160671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974143500729135107/THjyNgAn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 36,
+          "like_count": 5674,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 3340
+        },
+        "username": "RLiarDance",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「万千蝴蝶敛翼而坠 风的末尾。」\n「Even the thorn in your heart, in time it may become a rose.」\nCoser&摄影，性取向女，偶尔是男娘。\n第二人格@Hasumi_Amemiya。\n往期照片请见亮点，禁敏感政治 No serious Politics。\n↓更多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "Hasumi_Amemiya"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918165588679245825/T3Da3VAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4585,
+          "following_count": 2712,
+          "like_count": 41408,
+          "listed_count": 10,
+          "media_count": 1377,
+          "tweet_count": 9866
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

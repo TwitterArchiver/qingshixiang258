@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2064196863268692047",
+    "created_at": "2026-06-09T06:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064235268497183032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865050179617067008",
+          "start": 0,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064235268497183032",
+    "in_reply_to_user_id": "1865050179617067008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064196863268692047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaStellaria 感覺好好吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064196848412499968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWAGNgboAAmP7z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2064196863268692047",
+        "created_at": "2026-06-09T06:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064235268497183032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865050179617067008",
+              "start": 0,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064235268497183032",
+        "in_reply_to_user_id": "1865050179617067008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064196863268692047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaStellaria 感覺好好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064196848412499968"
+          ]
+        },
+        "author_id": "1865050179617067008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064196863268692047",
+        "created_at": "2026-06-09T04:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064196863268692047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdDW5CmJVR",
+              "end": 35,
+              "expanded_url": "https://x.com/AyaStellaria/status/2064196863268692047/photo/1",
+              "media_key": "3_2064196848412499968",
+              "start": 12,
+              "url": "https://t.co/MdDW5CmJVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064196863268692047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还挺好吃的就是有点贵了 https://t.co/MdDW5CmJVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1688,
+          "like_count": 42839,
+          "listed_count": 10,
+          "media_count": 1290,
+          "tweet_count": 20896
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "比风更轻盈，比路更坚定，比面朝人海的诀别更有感情",
+        "id": "1865050179617067008",
+        "location": "玉浮山",
+        "name": "凛御",
+        "pinned_tweet_id": "1892910789776068924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008491850056007680/KyJknQuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 1040,
+          "like_count": 62529,
+          "listed_count": 12,
+          "media_count": 691,
+          "tweet_count": 13675
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056655410397102151",
+    "created_at": "2026-05-19T09:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056669789142307060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "Lyrica_1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056669789142307060",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056655410397102151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyrica_1005 wdf？豆包还能把这几个列出来？那么厉害"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2056655410397102151].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2056655410397102151",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2056655410397102151"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056655410397102151",
+        "created_at": "2026-05-19T09:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056669789142307060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "Lyrica_1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056669789142307060",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056655410397102151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyrica_1005 wdf？豆包还能把这几个列出来？那么厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1686,
+          "like_count": 41266,
+          "listed_count": 9,
+          "media_count": 1249,
+          "tweet_count": 20288
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "𝙞 𝙟𝙪𝙨𝙩 𝙬𝙖𝙣𝙣𝙖 𝙗𝙧𝙚𝙖𝙠 𝙮𝙤𝙪 𝙙𝙤𝙬𝙣 𝙨𝙤 𝙗𝙖𝙖𝙖𝙖𝙙𝙡𝙮💕 | 伪娘婊子人妖－＞@Ikks0413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "Ikks0413"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "我是一个喜欢吃屎的人，愿与大家分享关于吃屎的一切",
+        "pinned_tweet_id": "2053401902420054106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020176914271608832/gx4tbkf9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 549,
+          "like_count": 46439,
+          "listed_count": 2,
+          "media_count": 1362,
+          "tweet_count": 12852
+        },
+        "username": "Lyrica_1005",
+        "verified": false
+      }
+    ]
+  }
+}

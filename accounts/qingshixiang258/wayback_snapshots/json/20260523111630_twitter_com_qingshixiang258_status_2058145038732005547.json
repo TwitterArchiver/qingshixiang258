@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2058142951117881415",
+    "created_at": "2026-05-23T11:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058145038732005547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1585942498253238273",
+          "start": 0,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058145038732005547",
+    "in_reply_to_user_id": "1585942498253238273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058144540213788833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceEslight 罪有应得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2058142951117881415",
+        "created_at": "2026-05-23T11:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058145038732005547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585942498253238273",
+              "start": 0,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058145038732005547",
+        "in_reply_to_user_id": "1585942498253238273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058144540213788833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceEslight 罪有应得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "2058142951117881415",
+        "created_at": "2026-05-23T11:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058144540213788833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058144540213788833",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058142951117881415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 听说现在洛克王国是人嫌狗厌，男的女的都讨厌了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 1687,
+          "like_count": 41451,
+          "listed_count": 10,
+          "media_count": 1254,
+          "tweet_count": 20376
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "爱丽丝，我爱着你。几乎，甚至一直。我太累了，躁动不安。",
+        "id": "1585942498253238273",
+        "location": "想象界",
+        "name": "疯子酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058069539917807616/Jv3rVgtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 89,
+          "like_count": 39327,
+          "listed_count": 4,
+          "media_count": 631,
+          "tweet_count": 14428
+        },
+        "username": "AliceEslight",
+        "verified": true
+      }
+    ]
+  }
+}

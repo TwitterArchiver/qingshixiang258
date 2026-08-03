@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2000200298435100674",
+    "created_at": "2025-12-14T16:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000238103622279521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874680837322706945",
+          "start": 0,
+          "username": "NineteenYizuka"
+        },
+        {
+          "end": 30,
+          "id": "1412768605880524800",
+          "start": 16,
+          "username": "GotoHoshino02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000238103622279521",
+    "in_reply_to_user_id": "1874680837322706945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000237759957741838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NineteenYizuka @GotoHoshino02 哎，xql"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000237759957741838].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000237759957741838",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2000237759957741838"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2000200298435100674",
+        "created_at": "2025-12-14T16:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000238103622279521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874680837322706945",
+              "start": 0,
+              "username": "NineteenYizuka"
+            },
+            {
+              "end": 30,
+              "id": "1412768605880524800",
+              "start": 16,
+              "username": "GotoHoshino02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000238103622279521",
+        "in_reply_to_user_id": "1874680837322706945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000237759957741838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NineteenYizuka @GotoHoshino02 哎，xql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998367186075922432/8djgDaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 1475,
+          "like_count": 35267,
+          "listed_count": 9,
+          "media_count": 965,
+          "tweet_count": 15966
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T04:55:43.000Z",
+        "description": "これは@JyushitiYizukaの脱出ポッド｜查成分后放行，只fo熟悉的人｜本账号作息与主账分开｜会存放一些主帐号不想发的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "JyushitiYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1874680837322706945",
+        "location": "距离你17m",
+        "name": "JYUKYU拾玖",
+        "pinned_tweet_id": "1987527377161982104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911010527930703872/Urwbufmp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 122,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 305
+        },
+        "username": "NineteenYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T13:41:15.000Z",
+        "description": "I feel excited after watching this game, and I feel that my life has reached the extreme. 💝#ホシノ LOVE🩷 ！ アイコン👉@hike810 🍻サブ垢 @KawaiHoshino よろしくねぇ🍵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "ホシノ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 109,
+                "username": "hike810"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "KawaiHoshino"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kawaihoshino?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/kawaihoshino?s=21",
+                "start": 0,
+                "url": "https://t.co/QqAEpt06F0"
+              }
+            ]
+          }
+        },
+        "id": "1412768605880524800",
+        "location": "アビドス 沙勒",
+        "name": "後藤GOTO 🍵🍺",
+        "pinned_tweet_id": "1951815248098545931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996484876372205568/n3tfSfBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 2788,
+          "like_count": 43059,
+          "listed_count": 4,
+          "media_count": 468,
+          "tweet_count": 10055
+        },
+        "url": "https://t.co/QqAEpt06F0",
+        "username": "GotoHoshino02",
+        "verified": false
+      }
+    ]
+  }
+}

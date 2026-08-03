@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925005758854529148",
+    "created_at": "2025-05-21T01:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T02:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925006677776138653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764728841010831360",
+          "start": 0,
+          "username": "Quack_one"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925006677776138653",
+    "in_reply_to_user_id": "1764728841010831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925005758854529148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quack_one 羡慕爱情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1925005758854529148",
+        "created_at": "2025-05-21T01:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T02:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925006677776138653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764728841010831360",
+              "start": 0,
+              "username": "Quack_one"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925006677776138653",
+        "in_reply_to_user_id": "1764728841010831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925005758854529148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quack_one 羡慕爱情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764728841010831360",
+        "conversation_id": "1925005758854529148",
+        "created_at": "2025-05-21T01:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T02:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925005758854529148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925005758854529148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天在推上骂我对象，让大家看多了还以为她有多逆天呢。\n\n其实她也有很好的一面：\n比如会偷偷把我的喜好，喜欢的食物用备忘录记下来\n\n每次出去吃饭买单会把我手机打掉\n\n下班回来没带伞会冲到地铁站接我\n\n跟她说有点散光看不清，第二天就拉我去眼镜店配眼镜\n\n说每年会带我去一个地方玩 然后真做到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 974,
+          "like_count": 20846,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 9094
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "mtf | 吉他手 | 爵士乐 | 买课私信我 ，合作品牌：Hotone，NeuralDSP，唐农，ALP，J&D，Chillman，Xvive",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "Quack_one",
+        "pinned_tweet_id": "1917158081559167344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907771273842929666/Goh3vr8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 106,
+          "like_count": 609,
+          "listed_count": 5,
+          "media_count": 80,
+          "tweet_count": 847
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

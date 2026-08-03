@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1929530768428331396",
+    "created_at": "2025-06-03T09:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T10:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929830468834545949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789558771980574720",
+          "start": 0,
+          "username": "abc307539296763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929830468834545949",
+    "in_reply_to_user_id": "1789558771980574720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929592159214489895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abc307539296763 其实也还好，应该能做到☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1929530768428331396",
+        "created_at": "2025-06-03T09:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T10:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929830468834545949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789558771980574720",
+              "start": 0,
+              "username": "abc307539296763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929830468834545949",
+        "in_reply_to_user_id": "1789558771980574720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929592159214489895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abc307539296763 其实也还好，应该能做到☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789558771980574720",
+        "conversation_id": "1929530768428331396",
+        "created_at": "2025-06-02T17:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T18:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929592159214489895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929592159214489895",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929530768428331396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 三角洲帮我一天跑刀跑出一千万"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1929183338176147686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 1039,
+          "like_count": 22916,
+          "listed_count": 6,
+          "media_count": 572,
+          "tweet_count": 9984
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T07:30:45.000Z",
+        "description": "树洞(假)，我可以倾听你说的一切(无)。是坐忘道(假的)男的爱看艺术",
+        "id": "1789558771980574720",
+        "name": "悲伤过后呢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886660821402705922/wHcIwVJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 1153,
+          "like_count": 2947,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 4117
+        },
+        "username": "abc307539296763",
+        "verified": false
+      }
+    ]
+  }
+}

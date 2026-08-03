@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925848856731717633"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925563763157344598",
+    "created_at": "2025-05-23T09:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T10:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925848879007760663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1611518842089648128",
+          "start": 0,
+          "username": "Awake1mg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wwD7ctgaBH",
+          "end": 33,
+          "expanded_url": "https://x.com/qingshixiang258/status/1925848879007760663/photo/1",
+          "media_key": "3_1925848856731717633",
+          "start": 10,
+          "url": "https://t.co/wwD7ctgaBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925848879007760663",
+    "in_reply_to_user_id": "1611518842089648128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925798187358470166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Awake1mg https://t.co/wwD7ctgaBH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925848879007760663].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925848879007760663",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925848879007760663"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1925848856731717633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grn9VOSWEAEVdb_.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611518842089648128",
+        "conversation_id": "1925563763157344598",
+        "created_at": "2025-05-23T06:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T07:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925798187358470166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925798187358470166",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925563763157344598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 986,
+          "like_count": 21329,
+          "listed_count": 5,
+          "media_count": 459,
+          "tweet_count": 9324
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-07T00:23:43.000Z",
+        "description": "中文/EN | Rhythm game player / Minecraft | Senior 3 | Male |\nQQ:3328093975 Please friend me on it😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ETyQbOp",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ETyQbOp",
+                "start": 0,
+                "url": "https://t.co/ltjHfJvAM5"
+              }
+            ]
+          }
+        },
+        "id": "1611518842089648128",
+        "location": "哈密⇆武威",
+        "name": "Awake1mg@梦醒酱",
+        "pinned_tweet_id": "1893171739544232175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886575874218319874/bXo-zVET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 342,
+          "like_count": 6850,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/ltjHfJvAM5",
+        "username": "Awake1mg",
+        "verified": false
+      }
+    ]
+  }
+}

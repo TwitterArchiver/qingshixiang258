@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1944388733240795594",
+    "created_at": "2025-07-13T13:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944388733240795594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1514956074549448712",
+          "start": 3,
+          "username": "GlunekiKCA"
+        },
+        {
+          "end": 25,
+          "id": "1248637653001494529",
+          "start": 16,
+          "username": "Hibi3cus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944388733240795594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944386704330363175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GlunekiKCA: @Hibi3cus 我草寺你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1944388733240795594",
+        "created_at": "2025-07-13T13:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944388733240795594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1514956074549448712",
+              "start": 3,
+              "username": "GlunekiKCA"
+            },
+            {
+              "end": 25,
+              "id": "1248637653001494529",
+              "start": 16,
+              "username": "Hibi3cus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944388733240795594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944386704330363175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GlunekiKCA: @Hibi3cus 我草寺你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514956074549448712",
+        "conversation_id": "1943908290548969900",
+        "created_at": "2025-07-13T13:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944386704330363175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Hibi3cus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944386704330363175",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944384730859712970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hibi3cus 我草寺你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1200,
+          "like_count": 25730,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 11245
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:41.000Z",
+        "description": "你好，远道而来的朋友～这里是江朝,是无情的发图机器/大学牲在读ing/乐子人ing/对大部分人保持包容心态，大家都是朋友嘛/偶尔碎碎念注意⚠️/嗯，就这样啦～绿宝@lamte15072 |老登@KiminTW_Offical |水箱乐队主唱@AyaStellaria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "lamte15072"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KiminTW_Offical"
+              },
+              {
+                "end": 133,
+                "start": 120,
+                "username": "AyaStellaria"
+              }
+            ]
+          }
+        },
+        "id": "1514956074549448712",
+        "location": "永夏之梦",
+        "name": "江朝",
+        "pinned_tweet_id": "1780930007436816535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910226837072216064/mSzLcdTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6004,
+          "following_count": 1466,
+          "like_count": 87266,
+          "listed_count": 33,
+          "media_count": 4125,
+          "tweet_count": 35394
+        },
+        "username": "GlunekiKCA",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "进来坐坐，小店什么都有，酒水茶点零食古玩饰品都请自便，欢迎你哦~\n小日记@Q1ngyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "Q1ngyi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "name": "墨砚斋收破烂の小掌柜清漪",
+        "pinned_tweet_id": "1941392505981075516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941029996341940224/Mj6visiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 222,
+          "like_count": 170520,
+          "listed_count": 30,
+          "media_count": 30,
+          "tweet_count": 41326
+        },
+        "username": "Hibi3cus",
+        "verified": false
+      }
+    ]
+  }
+}

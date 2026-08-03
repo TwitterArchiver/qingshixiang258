@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027097668338807223",
+    "created_at": "2026-02-26T20:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T21:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027117818303693043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1428041553608527873",
+          "start": 0,
+          "username": "xingling_xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027117818303693043",
+    "in_reply_to_user_id": "1428041553608527873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027097668338807223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingling_xl 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2027097668338807223",
+        "created_at": "2026-02-26T20:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T21:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027117818303693043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1428041553608527873",
+              "start": 0,
+              "username": "xingling_xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027117818303693043",
+        "in_reply_to_user_id": "1428041553608527873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027097668338807223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingling_xl 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428041553608527873",
+        "conversation_id": "2027097668338807223",
+        "created_at": "2026-02-26T19:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027097668338807223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027097668338807223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠…是无痛的吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 1479,
+          "like_count": 37298,
+          "listed_count": 8,
+          "media_count": 1087,
+          "tweet_count": 17938
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T17:10:20.000Z",
+        "description": "可能是个自己的树洞｜INFP｜简体中文（母语）｜English(IELTS 6.5)｜日本語(JLPT N2)｜会回fo｜🇯🇵日本への留学を準備する｜自傷OD致歉",
+        "id": "1428041553608527873",
+        "location": "Holy Terra",
+        "name": "STAR🌟0#南河三",
+        "pinned_tweet_id": "1971305588354437128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007830536564412416/HHMYGqU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 930,
+          "like_count": 4585,
+          "listed_count": 15,
+          "media_count": 103,
+          "tweet_count": 959
+        },
+        "username": "xingling_xl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1981410394867716342",
+    "created_at": "2025-10-24T17:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T18:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981767970683859324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802024392391802880",
+          "start": 0,
+          "username": "Determinat_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981767970683859324",
+    "in_reply_to_user_id": "1802024392391802880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981411034545180677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Determinat_37 晚安⭐️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1981410394867716342",
+        "created_at": "2025-10-24T17:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981767970683859324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802024392391802880",
+              "start": 0,
+              "username": "Determinat_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981767970683859324",
+        "in_reply_to_user_id": "1802024392391802880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981411034545180677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Determinat_37 晚安⭐️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802024392391802880",
+        "conversation_id": "1981410394867716342",
+        "created_at": "2025-10-23T17:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981411034545180677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981411034545180677",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981410394867716342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981035874054742016/gi1dhimK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1379,
+          "like_count": 32538,
+          "listed_count": 7,
+          "media_count": 883,
+          "tweet_count": 14502
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T17:04:47.000Z",
+        "description": "乱发乱写乱七八糟",
+        "id": "1802024392391802880",
+        "name": "樂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906817971940728832/i4eSccJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 509,
+          "like_count": 3498,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1659
+        },
+        "username": "Determinat_37",
+        "verified": false
+      }
+    ]
+  }
+}

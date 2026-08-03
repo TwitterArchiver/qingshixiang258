@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027583222343716865"
+      ],
+      "media_source_tweet_id": [
+        "2027685213002994122"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027771973800235464",
+    "created_at": "2026-02-28T15:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027771973800235464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813300601088036864",
+          "start": 3,
+          "username": "elyradream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jdn3zbERKP",
+          "end": 39,
+          "expanded_url": "https://x.com/elyradream/status/2027685213002994122/video/1",
+          "media_key": "13_2027583222343716865",
+          "start": 16,
+          "url": "https://t.co/jdn3zbERKP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027771973800235464",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 786
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027685213002994122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elyradream: https://t.co/jdn3zbERKP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25613,
+        "height": 1024,
+        "media_key": "13_2027583222343716865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027583222343716865/img/GnUzw-WZn2mxxsR3.jpg",
+        "public_metrics": {
+          "view_count": 69353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027583222343716865/vid/avc1/320x568/xWBLzhRscjCtSdD5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027583222343716865/vid/avc1/480x852/oeoSyNhdr4ggYrTW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027583222343716865/vid/avc1/576x1024/7KX1s6KIMy-BDm07.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027583222343716865/pl/oH8j-BtsNsxqFslF.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027583222343716865"
+          ],
+          "media_source_tweet_id": [
+            "2027685213002994122"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2027771973800235464",
+        "created_at": "2026-02-28T15:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027771973800235464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813300601088036864",
+              "start": 3,
+              "username": "elyradream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdn3zbERKP",
+              "end": 39,
+              "expanded_url": "https://x.com/elyradream/status/2027685213002994122/video/1",
+              "media_key": "13_2027583222343716865",
+              "start": 16,
+              "url": "https://t.co/jdn3zbERKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027771973800235464",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 786
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027685213002994122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elyradream: https://t.co/jdn3zbERKP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027583222343716865"
+          ]
+        },
+        "author_id": "1813300601088036864",
+        "conversation_id": "2027685213002994122",
+        "created_at": "2026-02-28T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027685213002994122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdn3zbERKP",
+              "end": 23,
+              "expanded_url": "https://x.com/elyradream/status/2027685213002994122/video/1",
+              "media_key": "13_2027583222343716865",
+              "start": 0,
+              "url": "https://t.co/jdn3zbERKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027685213002994122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 964,
+          "impression_count": 172070,
+          "like_count": 5417,
+          "quote_count": 84,
+          "reply_count": 22,
+          "retweet_count": 786
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jdn3zbERKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 1479,
+          "like_count": 37352,
+          "listed_count": 8,
+          "media_count": 1095,
+          "tweet_count": 17996
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T19:52:16.000Z",
+        "description": "a quiet little world for tender souls ✦",
+        "id": "1813300601088036864",
+        "name": "𝒆𝒍𝒚𝒓𝒂",
+        "pinned_tweet_id": "2019473973159899408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666176733925376/GQbLfkqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23860,
+          "following_count": 25,
+          "like_count": 41686,
+          "listed_count": 43,
+          "media_count": 508,
+          "tweet_count": 9584
+        },
+        "username": "elyradream",
+        "verified": true
+      }
+    ]
+  }
+}

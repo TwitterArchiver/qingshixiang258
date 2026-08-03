@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1982465416418177103",
+    "created_at": "2025-10-26T15:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982465416418177103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amemiya_hasumi…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/amemiya_hasumi/status/1982454335318728801",
+          "start": 7,
+          "url": "https://t.co/jEWet8VPzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982465416418177103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982454335318728801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已严肃观看🫡 https://t.co/jEWet8VPzz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1982454335318728801].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982454335318728801",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982454335318728801"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1982465416418177103",
+        "created_at": "2025-10-26T15:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982465416418177103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amemiya_hasumi…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/amemiya_hasumi/status/1982454335318728801",
+              "start": 7,
+              "url": "https://t.co/jEWet8VPzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982465416418177103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982454335318728801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃观看🫡 https://t.co/jEWet8VPzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981035874054742016/gi1dhimK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 1383,
+          "like_count": 32564,
+          "listed_count": 7,
+          "media_count": 889,
+          "tweet_count": 14569
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

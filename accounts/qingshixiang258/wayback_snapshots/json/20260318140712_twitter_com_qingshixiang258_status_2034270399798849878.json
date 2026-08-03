@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2034246070935720313",
+    "created_at": "2026-03-18T14:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034270399798849878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516381974327300099",
+          "start": 0,
+          "username": "jiejier2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034270399798849878",
+    "in_reply_to_user_id": "1516381974327300099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034269914614374746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejier2 慢慢来吧，干扫我倒是会，主要是我还挺喜欢做模型的过程的，所以基本上都是慢慢来🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2034246070935720313",
+        "created_at": "2026-03-18T14:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034270399798849878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516381974327300099",
+              "start": 0,
+              "username": "jiejier2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034270399798849878",
+        "in_reply_to_user_id": "1516381974327300099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034269914614374746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejier2 慢慢来吧，干扫我倒是会，主要是我还挺喜欢做模型的过程的，所以基本上都是慢慢来🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516381974327300099",
+        "conversation_id": "2034246070935720313",
+        "created_at": "2026-03-18T14:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034269914614374746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034269914614374746",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034268718021411197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 还好了，下一个会更好的，记住邓肯的薄涂和第一层没干不要画第二层就行，如果你开的族是NEC的话，用干扫应该会快很多，可以学学，我是画DA的，所以金属漆用的不是很多，对大面积金属漆画法了解也不多。=ᗜωᗜ="
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 1581,
+          "like_count": 38695,
+          "listed_count": 8,
+          "media_count": 1137,
+          "tweet_count": 18967
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T11:43:52.000Z",
+        "description": "英国诺丁汉塑料（树脂）受害者，微缩模型爱好者，低阶法师。",
+        "id": "1516381974327300099",
+        "name": "天行健",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007285726380208128/ZJ66dp0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 227
+        },
+        "username": "jiejier2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1926281631481917607",
+    "created_at": "2025-05-24T14:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T15:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926291472304734281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        },
+        {
+          "end": 30,
+          "id": "1865050179617067008",
+          "start": 17,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926291472304734281",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926291295078666391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical @AyaStellaria 不中嘞哥，俺也穷🤷"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1926291295078666391].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1926291295078666391",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1926291295078666391"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1926281631481917607",
+        "created_at": "2025-05-24T14:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T15:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926291472304734281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            },
+            {
+              "end": 30,
+              "id": "1865050179617067008",
+              "start": 17,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926291472304734281",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926291295078666391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical @AyaStellaria 不中嘞哥，俺也穷🤷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 989,
+          "like_count": 21761,
+          "listed_count": 5,
+          "media_count": 551,
+          "tweet_count": 9497
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "台中の男性|讀研中|極少鍵政|往返兩岸壬|建制習廚|擁共尊習|綠白與低素質勿擾\n\n推薦關注：好哥們@Amemiya_Hasumi 廚子@GlunekiKCA 小黍@_Shu_official 小綠@lamte15072 老保之友 @xu244986 好友 @Tinkles_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Amemiya_Hasumi"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "_Shu_official"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "lamte15072"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "xu244986"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Tinkles_12"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1897333077929824397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925522598760521728/QXXECkEk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20257,
+          "following_count": 2865,
+          "like_count": 287182,
+          "listed_count": 37,
+          "media_count": 5543,
+          "tweet_count": 55614
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "他们的悲伤化成了灰，散落在无情的大海中",
+        "id": "1865050179617067008",
+        "location": "哀星号",
+        "name": "凛御",
+        "pinned_tweet_id": "1892910789776068924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924104325585940480/KTFuuj9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 690,
+          "like_count": 42246,
+          "listed_count": 11,
+          "media_count": 309,
+          "tweet_count": 9717
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

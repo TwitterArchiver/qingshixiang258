@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1984549767310098819",
+    "created_at": "2025-11-02T14:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T15:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984985245876391953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hqin_chriso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984985245876391953",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984549767310098819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hqin_chriso 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1984549758170775552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qJfY7bQAAyBlv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984549758372102145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qJfZrbQAE4y4b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1984549767310098819",
+        "created_at": "2025-11-02T14:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984985245876391953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hqin_chriso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984985245876391953",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984549767310098819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hqin_chriso 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984549758170775552",
+            "3_1984549758372102145"
+          ]
+        },
+        "author_id": "1444640763070005251",
+        "conversation_id": "1984549767310098819",
+        "created_at": "2025-11-01T09:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984549767310098819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6X2sARXb3S",
+              "end": 23,
+              "expanded_url": "https://x.com/hqin_chriso/status/1984549767310098819/photo/1",
+              "media_key": "3_1984549758170775552",
+              "start": 0,
+              "url": "https://t.co/6X2sARXb3S"
+            },
+            {
+              "display_url": "pic.x.com/6X2sARXb3S",
+              "end": 23,
+              "expanded_url": "https://x.com/hqin_chriso/status/1984549767310098819/photo/1",
+              "media_key": "3_1984549758372102145",
+              "start": 0,
+              "url": "https://t.co/6X2sARXb3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984549767310098819",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6X2sARXb3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1399,
+          "like_count": 33283,
+          "listed_count": 7,
+          "media_count": 909,
+          "tweet_count": 14798
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "中国东北居民，男性，学生，学的是IT强相关的专业，喜欢ACGN、传统体育和电子竞技，还在思考未来要往哪里去。",
+        "id": "1444640763070005251",
+        "location": "Freljord, Sweden, North Europe",
+        "name": "🎲niqh",
+        "pinned_tweet_id": "1972362803626623078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974745213534187520/FOBaCVZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 950,
+          "like_count": 15227,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 7530
+        },
+        "username": "hqin_chriso",
+        "verified": false
+      }
+    ]
+  }
+}

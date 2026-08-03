@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1995515724346130654",
+    "created_at": "2025-12-03T07:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T08:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996120511781503427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764728841010831360",
+          "start": 0,
+          "username": "Quack_one"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996120511781503427",
+    "in_reply_to_user_id": "1764728841010831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996120328721104910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quack_one 没量过诶，但是我感觉挺宽的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1995515724346130654",
+        "created_at": "2025-12-03T07:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996120511781503427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764728841010831360",
+              "start": 0,
+              "username": "Quack_one"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996120511781503427",
+        "in_reply_to_user_id": "1764728841010831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996120328721104910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quack_one 没量过诶，但是我感觉挺宽的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764728841010831360",
+        "conversation_id": "1995515724346130654",
+        "created_at": "2025-12-03T07:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996120328721104910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996120328721104910",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995515724346130654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 青肩宽多少？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 1473,
+          "like_count": 35038,
+          "listed_count": 8,
+          "media_count": 955,
+          "tweet_count": 15704
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "职业吉他手，b站：尤里uri，吉他/乐理课请私信",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "小鹅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988206842250678273/wwJzgW30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 328,
+          "like_count": 2500,
+          "listed_count": 11,
+          "media_count": 198,
+          "tweet_count": 3026
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

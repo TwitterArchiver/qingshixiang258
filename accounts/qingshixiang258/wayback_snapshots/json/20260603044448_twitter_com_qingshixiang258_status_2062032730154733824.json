@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061491360809492480"
+      ],
+      "media_source_tweet_id": [
+        "2061491506305794534"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2062032730154733824",
+    "created_at": "2026-06-03T04:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062032730154733824"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 21,
+          "tag": "NoGameNoLife"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "90544607",
+          "start": 3,
+          "username": "Parorou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zsT4DLqjs0",
+          "end": 58,
+          "expanded_url": "https://x.com/Parorou/status/2061491506305794534/photo/1",
+          "media_key": "3_2061491360809492480",
+          "start": 35,
+          "url": "https://t.co/zsT4DLqjs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062032730154733824",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1838
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061491506305794534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Parorou: Shiro 👑 #NoGameNoLife https://t.co/zsT4DLqjs0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2061491360809492480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvjeGyWIAAWIvJ.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061491360809492480"
+          ],
+          "media_source_tweet_id": [
+            "2061491506305794534"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2062032730154733824",
+        "created_at": "2026-06-03T04:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062032730154733824"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 21,
+              "tag": "NoGameNoLife"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "90544607",
+              "start": 3,
+              "username": "Parorou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsT4DLqjs0",
+              "end": 58,
+              "expanded_url": "https://x.com/Parorou/status/2061491506305794534/photo/1",
+              "media_key": "3_2061491360809492480",
+              "start": 35,
+              "url": "https://t.co/zsT4DLqjs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062032730154733824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1838
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061491506305794534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Parorou: Shiro 👑 #NoGameNoLife https://t.co/zsT4DLqjs0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061491360809492480"
+          ]
+        },
+        "author_id": "90544607",
+        "conversation_id": "2061491506305794534",
+        "created_at": "2026-06-01T16:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061491506305794534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 8,
+              "tag": "NoGameNoLife"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsT4DLqjs0",
+              "end": 45,
+              "expanded_url": "https://x.com/Parorou/status/2061491506305794534/photo/1",
+              "media_key": "3_2061491360809492480",
+              "start": 22,
+              "url": "https://t.co/zsT4DLqjs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061491506305794534",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1713,
+          "impression_count": 141642,
+          "like_count": 18892,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 1838
+        },
+        "reply_settings": "everyone",
+        "text": "Shiro 👑 #NoGameNoLife https://t.co/zsT4DLqjs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1685,
+          "like_count": 42372,
+          "listed_count": 10,
+          "media_count": 1279,
+          "tweet_count": 20703
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-17T02:28:18.000Z",
+        "description": "I draw things♪♫ ENG // ESP\n\nwebcomics: Amissio, Negative Frames\nFanart ⭐ #parorofanart \n♥@alpacacarlesi ♥\nhttps://t.co/CWu1k1wo1W",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 73,
+                "tag": "parorofanart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "alpacacarlesi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/paroro",
+                "end": 129,
+                "expanded_url": "http://patreon.com/paroro",
+                "start": 106,
+                "url": "https://t.co/CWu1k1wo1W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/Paroro",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/Paroro",
+                "start": 0,
+                "url": "https://t.co/ivCI4GCBTM"
+              }
+            ]
+          }
+        },
+        "id": "90544607",
+        "location": "Santiago, Chile",
+        "name": "Paroro 🇨🇱🐙",
+        "pinned_tweet_id": "1873791346433200283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1371917290837573637/tQqye5HH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268259,
+          "following_count": 1718,
+          "like_count": 41934,
+          "listed_count": 1312,
+          "media_count": 2009,
+          "tweet_count": 29009
+        },
+        "url": "https://t.co/ivCI4GCBTM",
+        "username": "Parorou",
+        "verified": false
+      }
+    ]
+  }
+}

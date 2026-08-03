@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2063286185255166166",
+    "created_at": "2026-06-07T11:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063581715491434708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1309839363027529728",
+          "start": 0,
+          "username": "Nucky10902787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063581715491434708",
+    "in_reply_to_user_id": "1309839363027529728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063580843780743315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nucky10902787 對不起🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2063286185255166166",
+        "created_at": "2026-06-07T11:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063581715491434708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1309839363027529728",
+              "start": 0,
+              "username": "Nucky10902787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063581715491434708",
+        "in_reply_to_user_id": "1309839363027529728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063580843780743315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nucky10902787 對不起🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1309839363027529728",
+        "conversation_id": "2063286185255166166",
+        "created_at": "2026-06-07T11:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063580843780743315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063580843780743315",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063286185255166166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我草了老铁怎么在推也能刷到经典对立节目啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1686,
+          "like_count": 42678,
+          "listed_count": 10,
+          "media_count": 1288,
+          "tweet_count": 20846
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-26T12:57:04.000Z",
+        "description": "",
+        "id": "1309839363027529728",
+        "name": "Nucky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800917756013060096/vzds9yJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1366,
+          "like_count": 12664,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 169
+        },
+        "username": "Nucky10902787",
+        "verified": false
+      }
+    ]
+  }
+}

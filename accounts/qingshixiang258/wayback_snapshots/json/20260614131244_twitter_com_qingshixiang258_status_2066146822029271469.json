@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2066143511637074064",
+    "created_at": "2026-06-14T13:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066146822029271469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "foreverrr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066146822029271469",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066143511637074064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreverrr233 先停幾天吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066143511637074064].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066143511637074064",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066143511637074064"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2066143511637074064",
+        "created_at": "2026-06-14T13:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066146822029271469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "foreverrr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066146822029271469",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066143511637074064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreverrr233 先停幾天吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1690,
+          "like_count": 43324,
+          "listed_count": 10,
+          "media_count": 1307,
+          "tweet_count": 21027
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "喜欢《吹响吧！上低音号》的都是好孩子",
+        "id": "1894285195651813378",
+        "name": "姓名不能为空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065440742122872832/h7as0dJa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 1181,
+          "like_count": 12981,
+          "listed_count": 6,
+          "media_count": 113,
+          "tweet_count": 9207
+        },
+        "username": "foreverrr233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1960282720422289469",
+    "created_at": "2025-08-26T11:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T12:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960307328726774170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817429092716957696",
+          "start": 0,
+          "username": "YutoriNatsu124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960307328726774170",
+    "in_reply_to_user_id": "1817429092716957696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960282720422289469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YutoriNatsu124 怎么还有msk？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1960282715934343168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRSvn6awAAOONX.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1960282720422289469",
+        "created_at": "2025-08-26T11:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960307328726774170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817429092716957696",
+              "start": 0,
+              "username": "YutoriNatsu124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960307328726774170",
+        "in_reply_to_user_id": "1817429092716957696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960282720422289469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YutoriNatsu124 怎么还有msk？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960282715934343168"
+          ]
+        },
+        "author_id": "1817429092716957696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1960282720422289469",
+        "created_at": "2025-08-26T10:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960282720422289469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1958033547534753792/Y9i-XPWX?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1958033547534753792/Y9i-XPWX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/VDIpqeaMa9"
+            },
+            {
+              "display_url": "pic.x.com/PC0boeEQT5",
+              "end": 64,
+              "expanded_url": "https://x.com/YutoriNatsu124/status/1960282720422289469/photo/1",
+              "media_key": "3_1960282715934343168",
+              "start": 41,
+              "url": "https://t.co/PC0boeEQT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960282720422289469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/VDIpqeaMa9 https://t.co/PC0boeEQT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960162028452245504/D4ibNZrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1374,
+          "like_count": 28569,
+          "listed_count": 8,
+          "media_count": 749,
+          "tweet_count": 12950
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T05:17:41.000Z",
+        "description": "INFP-T丨東方プロジェクト丨古明地さとり推し丨ダンガンロンパ丨崩壊:スターレイル丨ブルアカ丨ナツとホシノ大好き❤️丨魔法少女ノ魔女裁判丨橘シェリーしか勝たん丨Idealist Neocons🇺🇦🇬🇪丨Gentile Zionist🇮🇱🕎🎗丨ジハード主義者❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "danganronpa.com",
+                "end": 23,
+                "expanded_url": "https://www.danganronpa.com/",
+                "start": 0,
+                "url": "https://t.co/2FjmhbyIXB"
+              }
+            ]
+          }
+        },
+        "id": "1817429092716957696",
+        "location": "トリニティ総合学園: 放課後スイーツ部",
+        "name": "ゆとりナツ",
+        "pinned_tweet_id": "1949830870153453787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953671895037227010/KjIf0_D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 1943,
+          "like_count": 75050,
+          "listed_count": 8,
+          "media_count": 1390,
+          "tweet_count": 20957
+        },
+        "url": "https://t.co/2FjmhbyIXB",
+        "username": "YutoriNatsu124",
+        "verified": false
+      }
+    ]
+  }
+}

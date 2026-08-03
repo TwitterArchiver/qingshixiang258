@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988645480012849152"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1988645489936654632",
+    "created_at": "2025-11-12T16:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988645489936654632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzrDuLhrD1",
+          "end": 31,
+          "expanded_url": "https://x.com/qingshixiang258/status/1988645489936654632/photo/1",
+          "media_key": "3_1988645480012849152",
+          "start": 8,
+          "url": "https://t.co/vzrDuLhrD1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988645489936654632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就那么被宠着🥰 https://t.co/vzrDuLhrD1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_1988645480012849152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kWhxxaIAAsIsu.jpg",
+        "width": 865
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988645480012849152"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1988645489936654632",
+        "created_at": "2025-11-12T16:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988645489936654632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzrDuLhrD1",
+              "end": 31,
+              "expanded_url": "https://x.com/qingshixiang258/status/1988645489936654632/photo/1",
+              "media_key": "3_1988645480012849152",
+              "start": 8,
+              "url": "https://t.co/vzrDuLhrD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988645489936654632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就那么被宠着🥰 https://t.co/vzrDuLhrD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1417,
+          "like_count": 34029,
+          "listed_count": 8,
+          "media_count": 930,
+          "tweet_count": 15080
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1923412090821161179",
+    "created_at": "2025-05-17T04:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T05:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923589898768089455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923589898768089455",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923587058255397109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash ngl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1923412090821161179",
+        "created_at": "2025-05-17T04:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T05:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923589898768089455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923589898768089455",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923587058255397109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash ngl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "1923412090821161179",
+        "created_at": "2025-05-17T03:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T04:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923587058255397109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923587058255397109",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923412090821161179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 这个ui是到底是哪个软件呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939396401803264/JH7fO8b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 956,
+          "like_count": 20075,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 8819
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  Non-binary🏳️‍⚧️🏳️‍🌈 好想变可爱啊呜\n闲聊贴贴抱抱QQ群:970700610\n迷茫的雾岛🥺",
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "雾岛岚🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1916824208446726435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6290,
+          "following_count": 6853,
+          "like_count": 96764,
+          "listed_count": 11,
+          "media_count": 888,
+          "tweet_count": 63088
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1975578042132217965",
+    "created_at": "2025-10-07T16:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975592033537691823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1863087380615569408",
+          "start": 0,
+          "username": "kiri_nokara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975592033537691823",
+    "in_reply_to_user_id": "1863087380615569408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975591900263719367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiri_nokara oh，这样啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1975591900263719367].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1975591900263719367",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1975591900263719367"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1975578042132217965",
+        "created_at": "2025-10-07T16:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975592033537691823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863087380615569408",
+              "start": 0,
+              "username": "kiri_nokara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975592033537691823",
+        "in_reply_to_user_id": "1863087380615569408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975591900263719367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiri_nokara oh，这样啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 1349,
+          "like_count": 31578,
+          "listed_count": 7,
+          "media_count": 842,
+          "tweet_count": 14168
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T05:08:07.000Z",
+        "description": "本人女｜性别男｜射手座 ISFP-T｜17岁｜反社会/边缘性/多重人格障碍｜重度抑郁/焦虑｜自残｜ASD|｜ADHD | 先天性心脏病｜某次援交不幸感染HIV｜玻璃心｜肥猪 ｜人妖 ｜OD｜攻手黑S｜",
+        "id": "1863087380615569408",
+        "location": "小马利亚",
+        "name": "户外探险小布",
+        "pinned_tweet_id": "1975543817731514635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971443412177195008/RVNJ4sIC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 278,
+          "like_count": 3994,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 515
+        },
+        "username": "kiri_nokara",
+        "verified": false
+      }
+    ]
+  }
+}

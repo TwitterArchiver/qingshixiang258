@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1895414599320817922",
+    "created_at": "2025-02-28T12:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T13:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895445174744125643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895445174744125643",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895414599320817922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore 清酱需要离开网络休息一下了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1895414599320817922].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1895414599320817922",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1895414599320817922"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1895414599320817922",
+        "created_at": "2025-02-28T12:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T13:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895445174744125643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895445174744125643",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895414599320817922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore 清酱需要离开网络休息一下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 902,
+          "like_count": 9756,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 4034
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "末里せい(清)です\nMtX🍥\n泛左进步b成分杂\n非顺直非健全非男群体革命奪權平權万才\n南圖伊勒主義\n“毛左”欽定民國派\n願大家平安顺遂快樂幸福\n愿善的人性理性感性终将引领拥有祂的人走向平和柔善的一个又一个地上天国\n我爱@manakaao68！！！！！！！！\n永远！！！！！！！\n最好的姐姐@ATRIyatuoliQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "manakaao68"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "ATRIyatuoliQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "小小の木ノ幡みら(是 平和を守れ 哟)🐳⭐️🌴🍥🍉🌸",
+        "pinned_tweet_id": "1734649492220342312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885006163034730496/vh82mVRb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 1831,
+          "like_count": 84229,
+          "listed_count": 6,
+          "media_count": 688,
+          "tweet_count": 40642
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      }
+    ]
+  }
+}

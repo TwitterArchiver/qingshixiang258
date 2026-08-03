@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1903014354506678517",
+    "created_at": "2025-03-22T11:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T12:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903402868486410315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340318604852559874",
+          "start": 0,
+          "username": "x0710_x0710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903402868486410315",
+    "in_reply_to_user_id": "1340318604852559874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903386053341544938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x0710_x0710 考完了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1903014354506678517",
+        "created_at": "2025-03-22T11:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903402868486410315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340318604852559874",
+              "start": 0,
+              "username": "x0710_x0710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903402868486410315",
+        "in_reply_to_user_id": "1340318604852559874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903386053341544938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x0710_x0710 考完了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340318604852559874",
+        "conversation_id": "1903014354506678517",
+        "created_at": "2025-03-22T09:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T10:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903386053341544938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903386053341544938",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903014354506678517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 已经解脱了，对吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷（mtx？）可以叫我青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️）｜很高兴认识你哦｜友人@_akitayura｜超喜欢的珍宝@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_akitayura"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV4VdD"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899136852403122176/8Y4AN1XR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 567,
+          "like_count": 11977,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5051
+        },
+        "url": "https://t.co/YIQfZV4VdD",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T15:30:47.000Z",
+        "description": "高三啦!(悲)male。CS2，PUBGM。人在河北，性格还好，欢迎聊天chat，想和你熟识。\n别聊天突然失踪就好(恼)\n学习java,sql,linux中........\nx酱似乎也可以称呼？？起个名字吧。。石雨深怎么样！？",
+        "id": "1340318604852559874",
+        "location": "河北, 中华人民共和国",
+        "name": "x0710",
+        "pinned_tweet_id": "1771555125632327871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738584319915094016/kzRPn69E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 101,
+          "like_count": 1972,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 840
+        },
+        "username": "x0710_x0710",
+        "verified": false
+      }
+    ]
+  }
+}

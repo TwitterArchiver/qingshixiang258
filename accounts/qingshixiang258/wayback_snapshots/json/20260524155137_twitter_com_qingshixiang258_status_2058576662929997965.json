@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2058241763085893961",
+    "created_at": "2026-05-24T15:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058576662929997965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513400430700597248",
+          "start": 0,
+          "username": "xinran020911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058576662929997965",
+    "in_reply_to_user_id": "1513400430700597248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058576412597227772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinran020911 ohno，早点休息呢～注意身体哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2058241763085893961",
+        "created_at": "2026-05-24T15:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058576662929997965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513400430700597248",
+              "start": 0,
+              "username": "xinran020911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058576662929997965",
+        "in_reply_to_user_id": "1513400430700597248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058576412597227772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinran020911 ohno，早点休息呢～注意身体哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513400430700597248",
+        "conversation_id": "2058241763085893961",
+        "created_at": "2026-05-24T15:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058576412597227772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058576412597227772",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058243630046065115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1689,
+          "like_count": 41537,
+          "listed_count": 10,
+          "media_count": 1257,
+          "tweet_count": 20427
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:16:18.000Z",
+        "description": "这里作为我的空间！心冉的空间，没有什么朋友。 私の友達じゃないです。",
+        "id": "1513400430700597248",
+        "location": "Pak Kret, Thailand",
+        "name": "シンラン（apple）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048463341023350784/dgHHB4bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 168,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 393
+        },
+        "username": "xinran020911",
+        "verified": false
+      }
+    ]
+  }
+}

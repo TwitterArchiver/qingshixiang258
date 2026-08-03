@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1972714630331142655",
+    "created_at": "2025-09-30T06:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T07:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972912926328774658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1549011946871336960",
+          "start": 0,
+          "username": "Alantur57426778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972912926328774658",
+    "in_reply_to_user_id": "1549011946871336960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972714630331142655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alantur57426778 好事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972714626493394944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2B9gDtbMAADCTa.jpg",
+        "width": 949
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972714623544815616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2B9f4ubcAA4kET.jpg",
+        "width": 951
+      },
+      {
+        "height": 958,
+        "media_key": "3_1972714606352297984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2B9e4racAAkNZb.jpg",
+        "width": 542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972714620562579456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2B9ftnaIAA_Woa.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1972714630331142655",
+        "created_at": "2025-09-30T06:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972912926328774658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549011946871336960",
+              "start": 0,
+              "username": "Alantur57426778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972912926328774658",
+        "in_reply_to_user_id": "1549011946871336960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972714630331142655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alantur57426778 好事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972714626493394944",
+            "3_1972714623544815616",
+            "3_1972714606352297984",
+            "3_1972714620562579456"
+          ]
+        },
+        "author_id": "1549011946871336960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1972714630331142655",
+        "created_at": "2025-09-29T17:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T18:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972714630331142655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8b7f6m8d7m",
+              "end": 167,
+              "expanded_url": "https://x.com/Alantur57426778/status/1972714630331142655/photo/1",
+              "media_key": "3_1972714626493394944",
+              "start": 144,
+              "url": "https://t.co/8b7f6m8d7m"
+            },
+            {
+              "display_url": "pic.x.com/8b7f6m8d7m",
+              "end": 167,
+              "expanded_url": "https://x.com/Alantur57426778/status/1972714630331142655/photo/1",
+              "media_key": "3_1972714623544815616",
+              "start": 144,
+              "url": "https://t.co/8b7f6m8d7m"
+            },
+            {
+              "display_url": "pic.x.com/8b7f6m8d7m",
+              "end": 167,
+              "expanded_url": "https://x.com/Alantur57426778/status/1972714630331142655/photo/1",
+              "media_key": "3_1972714606352297984",
+              "start": 144,
+              "url": "https://t.co/8b7f6m8d7m"
+            },
+            {
+              "display_url": "pic.x.com/8b7f6m8d7m",
+              "end": 167,
+              "expanded_url": "https://x.com/Alantur57426778/status/1972714630331142655/photo/1",
+              "media_key": "3_1972714620562579456",
+              "start": 144,
+              "url": "https://t.co/8b7f6m8d7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972714630331142655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1286,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内的意识形态正在分裂中……\n对于广播剧下架事件有两种态度，\n1.无条件拥护国家，国家养育培养了我们，没有国家就没有我们，都怪耽美太跳了，自觉降热度回归小众就能安稳。\n2.没有任何通知的下架与删改是对创作自由的最大迫害，从影视到广播剧再到小说漫画，今日割五城、明日割十城是换不来安宁的。 https://t.co/8b7f6m8d7m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1316,
+          "like_count": 30640,
+          "listed_count": 7,
+          "media_count": 828,
+          "tweet_count": 13863
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "Obama, are you listening？？？！！！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 148,
+          "like_count": 9035,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 1253
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

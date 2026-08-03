@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1961037694307561941",
+    "created_at": "2025-08-29T08:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T09:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961351328887968170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1901165386709823490",
+          "start": 0,
+          "username": "wuruto"
+        },
+        {
+          "end": 18,
+          "id": "1282832893304242178",
+          "start": 8,
+          "username": "baihui_Ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961351328887968170",
+    "in_reply_to_user_id": "1901165386709823490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961345833674383414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuruto @baihui_Ke 哇！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1961345833674383414].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1961345833674383414",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1961345833674383414"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1961037694307561941",
+        "created_at": "2025-08-29T08:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961351328887968170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1901165386709823490",
+              "start": 0,
+              "username": "wuruto"
+            },
+            {
+              "end": 18,
+              "id": "1282832893304242178",
+              "start": 8,
+              "username": "baihui_Ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961351328887968170",
+        "in_reply_to_user_id": "1901165386709823490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961345833674383414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuruto @baihui_Ke 哇！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960756134580772873/c_7LKi-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 1393,
+          "like_count": 28883,
+          "listed_count": 8,
+          "media_count": 769,
+          "tweet_count": 13079
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "山月不知心里事，水风空落眼前花。",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "pinned_tweet_id": "1944656352191840572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910395468691226624/jWfQLWQn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 307,
+          "like_count": 22963,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 9338
+        },
+        "username": "wuruto",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "我跟在白灰身后",
+        "id": "1282832893304242178",
+        "name": "白灰",
+        "pinned_tweet_id": "1890054887813296135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960990312526213120/yp9My0Wt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 290,
+          "like_count": 26959,
+          "listed_count": 1,
+          "media_count": 960,
+          "tweet_count": 10706
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      }
+    ]
+  }
+}

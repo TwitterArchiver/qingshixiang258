@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2029515645482836119",
+    "created_at": "2026-03-05T12:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T13:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029535079589089583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2024725145940873223",
+          "start": 0,
+          "username": "bibibidash79700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029535079589089583",
+    "in_reply_to_user_id": "2024725145940873223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029517112625295683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibidash79700 长征第一步"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2029515645482836119",
+        "created_at": "2026-03-05T12:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029535079589089583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2024725145940873223",
+              "start": 0,
+              "username": "bibibidash79700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029535079589089583",
+        "in_reply_to_user_id": "2024725145940873223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029517112625295683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibidash79700 长征第一步"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024725145940873223",
+        "conversation_id": "2029515645482836119",
+        "created_at": "2026-03-05T11:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029517112625295683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029517112625295683",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029515645482836119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 大小姐迈出第一步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 1487,
+          "like_count": 37599,
+          "listed_count": 8,
+          "media_count": 1107,
+          "tweet_count": 18201
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:58:01.000Z",
+        "description": "私信开放 欢迎聊天",
+        "id": "2024725145940873223",
+        "location": "Hino-shi, Tokyo",
+        "name": "低能大傻逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024725395917230080/N_gYdisf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 490
+        },
+        "username": "bibibidash79700",
+        "verified": false
+      }
+    ]
+  }
+}

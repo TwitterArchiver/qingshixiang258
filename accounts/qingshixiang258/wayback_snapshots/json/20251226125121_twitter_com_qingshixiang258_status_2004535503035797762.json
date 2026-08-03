@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2004525725186199633",
+    "created_at": "2025-12-26T12:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T13:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004535503035797762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "970525948847144960",
+          "start": 0,
+          "username": "Logic_Accepted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004535503035797762",
+    "in_reply_to_user_id": "970525948847144960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004525725186199633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Logic_Accepted 最烂app👎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2004525715446988800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9GBhIxagAA-5CC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2004525725186199633",
+        "created_at": "2025-12-26T12:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004535503035797762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "970525948847144960",
+              "start": 0,
+              "username": "Logic_Accepted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004535503035797762",
+        "in_reply_to_user_id": "970525948847144960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004525725186199633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Logic_Accepted 最烂app👎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004525715446988800"
+          ]
+        },
+        "author_id": "970525948847144960",
+        "conversation_id": "2004525725186199633",
+        "created_at": "2025-12-26T12:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004525725186199633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vsbyfJqREr",
+              "end": 33,
+              "expanded_url": "https://x.com/Logic_Accepted/status/2004525725186199633/photo/1",
+              "media_key": "3_2004525715446988800",
+              "start": 10,
+              "url": "https://t.co/vsbyfJqREr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004525725186199633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这学习通谁研究的呢 https://t.co/vsbyfJqREr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003124565036396545/MYBsEibq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1487,
+          "like_count": 35342,
+          "listed_count": 9,
+          "media_count": 974,
+          "tweet_count": 16112
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-05T05:06:32.000Z",
+        "description": "欢迎交朋友，对你的推文感兴趣会互 fo 这里分享生活 不喜欢政治和吵架，并可能会屏蔽，不是你的错",
+        "id": "970525948847144960",
+        "location": "Sky Dynasty",
+        "name": "Ayu🧠",
+        "pinned_tweet_id": "1594480827249086465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234062601878818816/L-BJHTBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 197,
+          "like_count": 10121,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1199
+        },
+        "username": "Logic_Accepted",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1896144433860726945",
+    "created_at": "2025-03-02T11:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T12:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896160580018610246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634940148147441667",
+          "start": 0,
+          "username": "emiya436900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896160580018610246",
+    "in_reply_to_user_id": "1634940148147441667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896144433860726945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emiya436900 之前退坑了，很可惜了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1896144431545200640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlB1UHUWMAAKQCF.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1896144433860726945",
+        "created_at": "2025-03-02T11:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896160580018610246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634940148147441667",
+              "start": 0,
+              "username": "emiya436900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896160580018610246",
+        "in_reply_to_user_id": "1634940148147441667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896144433860726945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emiya436900 之前退坑了，很可惜了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896144431545200640"
+          ]
+        },
+        "author_id": "1634940148147441667",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1896144433860726945",
+        "created_at": "2025-03-02T10:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T11:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896144433860726945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TOP1yJbXAY",
+              "end": 73,
+              "expanded_url": "https://x.com/emiya436900/status/1896144433860726945/photo/1",
+              "media_key": "3_1896144431545200640",
+              "start": 50,
+              "url": "https://t.co/TOP1yJbXAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896144433860726945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宝可梦ptcg有没有人和我加个好友呀\n◝(⑅•ᴗ•⑅)◜..°♡\n0509072804846719 https://t.co/TOP1yJbXAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 876,
+          "like_count": 9987,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 4176
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:31:31.000Z",
+        "description": "小小的荧光，只能散发出微小的光芒 #世界治愈计划@BoredFish_XY 最可爱的弟弟\n。一个匿名提问箱https://t.co/qN5UYD3KGC",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 17,
+                "tag": "世界治愈计划"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "BoredFish_XY"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/emiya4369",
+                "end": 76,
+                "expanded_url": "https://ngl.link/emiya4369",
+                "start": 53,
+                "url": "https://t.co/qN5UYD3KGC"
+              }
+            ]
+          }
+        },
+        "id": "1634940148147441667",
+        "name": "荧光",
+        "pinned_tweet_id": "1896144433860726945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870833900471398400/YPAJyXXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 364,
+          "like_count": 1776,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 2200
+        },
+        "username": "emiya436900",
+        "verified": false
+      }
+    ]
+  }
+}

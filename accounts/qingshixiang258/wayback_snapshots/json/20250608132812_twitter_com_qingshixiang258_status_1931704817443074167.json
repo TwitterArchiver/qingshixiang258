@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931458906221314048"
+      ],
+      "media_source_tweet_id": [
+        "1931458932155015587"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1931704817443074167",
+    "created_at": "2025-06-08T13:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T14:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931704817443074167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "173591677",
+          "start": 3,
+          "username": "fraveris"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqRnRxMxTW",
+          "end": 49,
+          "expanded_url": "https://x.com/fraveris/status/1931458932155015587/photo/1",
+          "media_key": "3_1931458906221314048",
+          "start": 26,
+          "url": "https://t.co/YqRnRxMxTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931704817443074167",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 443
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931458932155015587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fraveris: Juan Brufal https://t.co/YqRnRxMxTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1686,
+        "media_key": "3_1931458906221314048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs3rpFOWAAATi3_.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931458906221314048"
+          ],
+          "media_source_tweet_id": [
+            "1931458932155015587"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1931704817443074167",
+        "created_at": "2025-06-08T13:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T14:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931704817443074167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "173591677",
+              "start": 3,
+              "username": "fraveris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqRnRxMxTW",
+              "end": 49,
+              "expanded_url": "https://x.com/fraveris/status/1931458932155015587/photo/1",
+              "media_key": "3_1931458906221314048",
+              "start": 26,
+              "url": "https://t.co/YqRnRxMxTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931704817443074167",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931458932155015587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fraveris: Juan Brufal https://t.co/YqRnRxMxTW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931458906221314048"
+          ]
+        },
+        "author_id": "173591677",
+        "conversation_id": "1931458932155015587",
+        "created_at": "2025-06-07T21:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T22:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931458932155015587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqRnRxMxTW",
+              "end": 35,
+              "expanded_url": "https://x.com/fraveris/status/1931458932155015587/photo/1",
+              "media_key": "3_1931458906221314048",
+              "start": 12,
+              "url": "https://t.co/YqRnRxMxTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931458932155015587",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 54605,
+          "like_count": 3423,
+          "quote_count": 10,
+          "reply_count": 18,
+          "retweet_count": 443
+        },
+        "reply_settings": "everyone",
+        "text": "Juan Brufal https://t.co/YqRnRxMxTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1930276431860510793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 1076,
+          "like_count": 23695,
+          "listed_count": 7,
+          "media_count": 589,
+          "tweet_count": 10313
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-01T21:50:22.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "page.is/fraveris",
+                "end": 23,
+                "expanded_url": "http://page.is/fraveris",
+                "start": 0,
+                "url": "https://t.co/b50EpUFZ5Q"
+              }
+            ]
+          }
+        },
+        "id": "173591677",
+        "name": "Francisco Ribeiro",
+        "pinned_tweet_id": "1819332081110979057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270637600622153729/nnag_RM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171461,
+          "following_count": 2421,
+          "like_count": 195055,
+          "listed_count": 2058,
+          "media_count": 208994,
+          "tweet_count": 242372
+        },
+        "url": "https://t.co/b50EpUFZ5Q",
+        "username": "fraveris",
+        "verified": false
+      }
+    ]
+  }
+}

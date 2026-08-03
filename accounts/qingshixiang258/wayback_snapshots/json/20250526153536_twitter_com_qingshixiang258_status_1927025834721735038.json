@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1927021888049438841",
+    "created_at": "2025-05-26T15:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T16:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927025834721735038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823835476366692352",
+          "start": 0,
+          "username": "Mao_050729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927025834721735038",
+    "in_reply_to_user_id": "1823835476366692352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927024918924816691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mao_050729 我没有说因为不能换手机伤心，我就是感觉，哪怕是我自己挣的钱，家里也早就在没有经过我同意的情况下给我规划好了，他们从来没有问过我有没有什么别的想买的，自己有没有什么计划，他们一直想管着我，哪怕我在这边工作，头发稍微留长了一点，他们也想管着我，甚至逼我去理发😞"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1927024918924816691].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1927024918924816691",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1927024918924816691"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1927021888049438841",
+        "created_at": "2025-05-26T15:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927025834721735038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823835476366692352",
+              "start": 0,
+              "username": "Mao_050729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927025834721735038",
+        "in_reply_to_user_id": "1823835476366692352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927024918924816691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mao_050729 我没有说因为不能换手机伤心，我就是感觉，哪怕是我自己挣的钱，家里也早就在没有经过我同意的情况下给我规划好了，他们从来没有问过我有没有什么别的想买的，自己有没有什么计划，他们一直想管着我，哪怕我在这边工作，头发稍微留长了一点，他们也想管着我，甚至逼我去理发😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1028,
+          "like_count": 22061,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 9671
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "苏北农村 | 中年少女 | 偷了个鸡 | 虚度时光 | \n股票套牢 | 期货暂停 | 心理变态 | 家徒四壁 |  专科学校 | 又矮又丑 | 阳子表姐 | 城堡丢了 | 泛神论者 | 唯心主义 | 自由市场 | 交个朋友 | 金阁寺啊 | 天塌了没 | 喵了个喵 | 白纸精神 | 热爱生活 | 岡田奈々推 | きっき",
+        "id": "1823835476366692352",
+        "location": "Kobe City Chuo Ward, Hyogo",
+        "name": "五百城 茉央 🏳️‍⚧️",
+        "pinned_tweet_id": "1904450701851320558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911696403753005056/Id62Nojt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 601,
+          "like_count": 37851,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 7147
+        },
+        "username": "Mao_050729",
+        "verified": false
+      }
+    ]
+  }
+}

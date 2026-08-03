@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1949984187361976740",
+    "created_at": "2025-07-30T07:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T08:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950458269589524561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yuki72611/stat…",
+          "end": 31,
+          "expanded_url": "https://x.com/yuki72611/status/1948760167086244303",
+          "start": 8,
+          "url": "https://t.co/DjLFSNaz5o"
+        },
+        {
+          "display_url": "x.com/yuki72611/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/yuki72611/status/1948760167086244303",
+          "start": 32,
+          "url": "https://t.co/EWKAz9NCDd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950458269589524561",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948760167086244303",
+        "type": "quoted"
+      },
+      {
+        "id": "1950312970929786954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk https://t.co/DjLFSNaz5o https://t.co/EWKAz9NCDd"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1950312970929786954].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1950312970929786954",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1950312970929786954"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948760153895174147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtjCPVbgAMayJ2.jpg",
+        "width": 1150
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948760153937117189",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtjCPfbgAU6JZK.jpg",
+        "width": 1150
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948760153895112704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtjCPVakAAANAv.jpg",
+        "width": 1150
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1948760153966477320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwtjCPmbgAguXwi.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1949984187361976740",
+        "created_at": "2025-07-30T07:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T08:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950458269589524561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yuki72611/stat…",
+              "end": 31,
+              "expanded_url": "https://x.com/yuki72611/status/1948760167086244303",
+              "start": 8,
+              "url": "https://t.co/DjLFSNaz5o"
+            },
+            {
+              "display_url": "x.com/yuki72611/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yuki72611/status/1948760167086244303",
+              "start": 32,
+              "url": "https://t.co/EWKAz9NCDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950458269589524561",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948760167086244303",
+            "type": "quoted"
+          },
+          {
+            "id": "1950312970929786954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk https://t.co/DjLFSNaz5o https://t.co/EWKAz9NCDd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948760153895174147",
+            "3_1948760153937117189",
+            "3_1948760153895112704",
+            "3_1948760153966477320"
+          ]
+        },
+        "author_id": "1641088792269553665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948760167086244303",
+        "created_at": "2025-07-25T15:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T16:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948760167086244303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "白石杏誕生祭2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T78RNLbwhT",
+              "end": 52,
+              "expanded_url": "https://x.com/yuki72611/status/1948760167086244303/photo/1",
+              "media_key": "3_1948760153895174147",
+              "start": 29,
+              "url": "https://t.co/T78RNLbwhT"
+            },
+            {
+              "display_url": "pic.x.com/T78RNLbwhT",
+              "end": 52,
+              "expanded_url": "https://x.com/yuki72611/status/1948760167086244303/photo/1",
+              "media_key": "3_1948760153937117189",
+              "start": 29,
+              "url": "https://t.co/T78RNLbwhT"
+            },
+            {
+              "display_url": "pic.x.com/T78RNLbwhT",
+              "end": 52,
+              "expanded_url": "https://x.com/yuki72611/status/1948760167086244303/photo/1",
+              "media_key": "3_1948760153895112704",
+              "start": 29,
+              "url": "https://t.co/T78RNLbwhT"
+            },
+            {
+              "display_url": "pic.x.com/T78RNLbwhT",
+              "end": 52,
+              "expanded_url": "https://x.com/yuki72611/status/1948760167086244303/photo/1",
+              "media_key": "3_1948760153966477320",
+              "start": 29,
+              "url": "https://t.co/T78RNLbwhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948760167086244303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 652,
+          "impression_count": 126956,
+          "like_count": 8715,
+          "quote_count": 56,
+          "reply_count": 9,
+          "retweet_count": 2332
+        },
+        "reply_settings": "everyone",
+        "text": "#白石杏誕生祭2025\nお誕生日おめでと！\n※タップ推奨 https://t.co/T78RNLbwhT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1264,
+          "like_count": 27080,
+          "listed_count": 7,
+          "media_count": 687,
+          "tweet_count": 11896
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "🦊/plurality/🍥🏳️‍⚧️/轉發機 @kawa1_kitsune/成分複雜/發病/一般情況無攻擊性/歡迎私信或網站中聯絡方式/上两个都出了點問題請後面再試",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "kawa1_kitsune"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3U8dO"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "喵星，喵省，喵县，喵市，哈基区 1丁目14-5 哈基府",
+        "name": "出雲　長愛🏳️‍⚧️",
+        "pinned_tweet_id": "1946781282782073030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949220882330812416/-3shqzoQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 3140,
+          "like_count": 289436,
+          "listed_count": 12,
+          "media_count": 908,
+          "tweet_count": 13187
+        },
+        "url": "https://t.co/i3MKU3U8dO",
+        "username": "kjkluk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T14:44:06.000Z",
+        "description": "🎧 ｜🎧🤖️🎀🎨｜無断転載❌",
+        "id": "1641088792269553665",
+        "location": "圣诞岛",
+        "name": "cloud茶",
+        "pinned_tweet_id": "1948760167086244303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911052272718528512/kKdCAUsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12858,
+          "following_count": 18,
+          "like_count": 502,
+          "listed_count": 35,
+          "media_count": 48,
+          "tweet_count": 133
+        },
+        "username": "yuki72611",
+        "verified": false
+      }
+    ]
+  }
+}

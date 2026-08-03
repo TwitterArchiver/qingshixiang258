@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056751556448711085",
+    "created_at": "2026-05-20T03:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056943689218547771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442050453194244102",
+          "start": 0,
+          "username": "HfSr_official"
+        },
+        {
+          "end": 26,
+          "id": "901299158669180931",
+          "start": 15,
+          "username": "ShoBeiYong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056943689218547771",
+    "in_reply_to_user_id": "1442050453194244102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056896881675153477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HfSr_official @ShoBeiYong 你也吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056751556448711085",
+        "created_at": "2026-05-20T03:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056943689218547771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442050453194244102",
+              "start": 0,
+              "username": "HfSr_official"
+            },
+            {
+              "end": 26,
+              "id": "901299158669180931",
+              "start": 15,
+              "username": "ShoBeiYong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056943689218547771",
+        "in_reply_to_user_id": "1442050453194244102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056896881675153477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HfSr_official @ShoBeiYong 你也吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442050453194244102",
+        "conversation_id": "2056751556448711085",
+        "created_at": "2026-05-20T00:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056896881675153477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "901299158669180931",
+              "start": 0,
+              "username": "ShoBeiYong"
+            },
+            {
+              "end": 28,
+              "id": "1700935161301655552",
+              "start": 12,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 43,
+              "id": "1857802986837172224",
+              "start": 29,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056896881675153477",
+        "in_reply_to_user_id": "901299158669180931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056798276851253580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShoBeiYong @qingshixiang258 @LingJiaXin233 哎哟卧槽我说怎么推到我这了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是\n你知道的我最喜欢 @hhngki7292924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "hhngki7292924"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1685,
+          "like_count": 41316,
+          "listed_count": 9,
+          "media_count": 1249,
+          "tweet_count": 20311
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T08:56:58.000Z",
+        "description": "在炎炎国人/希望互关请私信/备用账号:@HfSr_unofficial/仅限熟人小号:@HfSr_hidden/正在与冰霜哥布林@kawaiiangel42散发恋爱的酸臭味😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "HfSr_unofficial"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "HfSr_hidden"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "kawaiiangel42"
+              }
+            ]
+          }
+        },
+        "id": "1442050453194244102",
+        "location": "/dev/null",
+        "name": "HfSr🇨🇳🇹🇼🇷🇺🇺🇦🇵🇸🇮🇱🇰🇵🇰🇷🇵🇰🇮🇳",
+        "pinned_tweet_id": "1939184333845340312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794946950015660032/uc_vaLVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 330,
+          "like_count": 36556,
+          "listed_count": 12,
+          "media_count": 1853,
+          "tweet_count": 26135
+        },
+        "username": "HfSr_official",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "大道廢，有仁義；智慧出，有大偽。",
+        "id": "901299158669180931",
+        "location": "央土 有中華地 閩海",
+        "name": "魈✟ ❂☭ 電波系奇男子",
+        "pinned_tweet_id": "2043583109229068494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3143,
+          "following_count": 363,
+          "like_count": 20101,
+          "listed_count": 15,
+          "media_count": 1179,
+          "tweet_count": 11811
+        },
+        "username": "ShoBeiYong",
+        "verified": false
+      }
+    ]
+  }
+}

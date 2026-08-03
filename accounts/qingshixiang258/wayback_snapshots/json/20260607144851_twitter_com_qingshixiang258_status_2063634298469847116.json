@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063634298469847116",
+    "created_at": "2026-06-07T14:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063634298469847116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039158975888060416",
+          "start": 3,
+          "username": "existishas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063634298469847116",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 992
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063437713043595366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @existishas: 얘들아\n게임해본 적 있지\n게임에서 캐릭터 한창 공들여 키우다가\n뭐 스탯 잘못 찍거나 직업 잘못 고른 것 같거나\n해서 답 없는 망캐 된 것 같으면\n점점 재미 없어지고 접속하기 싫어지잖아\n\n나는 인생도 비슷한 것 같아\n결국…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063634298469847116",
+        "created_at": "2026-06-07T14:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063634298469847116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039158975888060416",
+              "start": 3,
+              "username": "existishas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063634298469847116",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 992
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063437713043595366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @existishas: 얘들아\n게임해본 적 있지\n게임에서 캐릭터 한창 공들여 키우다가\n뭐 스탯 잘못 찍거나 직업 잘못 고른 것 같거나\n해서 답 없는 망캐 된 것 같으면\n점점 재미 없어지고 접속하기 싫어지잖아\n\n나는 인생도 비슷한 것 같아\n결국…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039158975888060416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2063437713043595366",
+        "created_at": "2026-06-07T01:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063437713043595366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063437713043595366",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "얘들아\n게임해본 적 있지\n게임에서 캐릭터 한창 공들여 키우다가\n뭐 스탯 잘못 찍거나 직업 잘못 고른 것 같거나\n해서 답 없는 망캐 된 것 같으면\n점점 재미 없어지고 접속하기 싫어지잖아\n\n나는 인생도 비슷한 것 같아\n결국 나라는 단 하나의 캐릭터를 키우는 건데\n뭔가 맘처럼 안 되는 것 같으면 \n이미 망한 거 뭐 ㅋ 하면서 더 대충하게 되고 \n접속하기 싫어서 잠도 많이 자게 되고\n\n하지만 알지\n한참 유기해놨다가도 어느날 문득 \n흠 오랜만에 들어가볼까 하고는\n장비창 확인하고 인벤토리 정리하고\n효율 좋은 노가다 찾아서 돈 벌고\n적당히 괜찮은 아이템 새로 맞춰주고 그러잖아\n\n그럼 인생이 뭔가 맘에 안 들 때도\n나라는 캐릭터에도 그렇게 해주자 \n인벤토리 (내 방, 내 집, 내 폰 등등) 열어서 \n뭐가 있나 보고 버릴 거 버리고 채울 거 채우고\n돈 없으면 간단하게라도 벌어서 (알바 등) \n급한 것부터 채우고 \n그렇게 하나씩 다시 \n천천히 공들여 키워보자"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1244,
+          "impression_count": 231045,
+          "like_count": 4355,
+          "quote_count": 179,
+          "reply_count": 15,
+          "retweet_count": 992
+        },
+        "reply_settings": "everyone",
+        "text": "얘들아\n게임해본 적 있지\n게임에서 캐릭터 한창 공들여 키우다가\n뭐 스탯 잘못 찍거나 직업 잘못 고른 것 같거나\n해서 답 없는 망캐 된 것 같으면\n점점 재미 없어지고 접속하기 싫어지잖아\n\n나는 인생도 비슷한 것 같아\n결국 나라는 단 하나의 캐릭터를 키우는 건데\n뭔가 맘처럼 안 되는 것 같으면"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1686,
+          "like_count": 42700,
+          "listed_count": 10,
+          "media_count": 1289,
+          "tweet_count": 20854
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T01:53:22.000Z",
+        "description": "갓생 걔. #해내고이써 #쌓고이써 #이써PICK ⬅️ 눌러 봐!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "해내고이써"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "쌓고이써"
+              },
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "이써PICK"
+              }
+            ]
+          }
+        },
+        "id": "2039158975888060416",
+        "location": "블루청원",
+        "name": "이써",
+        "pinned_tweet_id": "2058737047108780236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053002624874811392/VsRvForM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 998,
+          "like_count": 4876,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 4634
+        },
+        "username": "existishas",
+        "verified": true
+      }
+    ]
+  }
+}

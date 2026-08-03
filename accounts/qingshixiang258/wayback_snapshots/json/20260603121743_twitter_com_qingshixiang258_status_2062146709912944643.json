@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062020807308763136"
+      ],
+      "media_source_tweet_id": [
+        "2062020862497493086"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407388516682665984",
+          "name": "Otters"
+        }
+      }
+    ],
+    "conversation_id": "2062146709912944643",
+    "created_at": "2026-06-03T12:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062146709912944643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2351408209",
+          "start": 3,
+          "username": "cutest_animal1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/auxsrPa1tw",
+          "end": 57,
+          "expanded_url": "https://x.com/cutest_animal1/status/2062020862497493086/video/1",
+          "media_key": "13_2062020807308763136",
+          "start": 34,
+          "url": "https://t.co/auxsrPa1tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062146709912944643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2436
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062020862497493086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutest_animal1: カワウソとの触れ合いタイム https://t.co/auxsrPa1tw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6433,
+        "height": 916,
+        "media_key": "13_2062020807308763136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062020807308763136/img/DWyHM0L27EMr7BoA.jpg",
+        "public_metrics": {
+          "view_count": 98362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062020807308763136/vid/avc1/320x406/Ms-1tx2uFsaZBL4t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062020807308763136/vid/avc1/480x610/LzQHJ7rS6uIYi7ig.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062020807308763136/vid/avc1/720x916/3KPha9vyle-BDhTe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062020807308763136/pl/pduEQx_gclkicTXC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062020807308763136"
+          ],
+          "media_source_tweet_id": [
+            "2062020862497493086"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407388516682665984",
+              "name": "Otters"
+            }
+          }
+        ],
+        "conversation_id": "2062146709912944643",
+        "created_at": "2026-06-03T12:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062146709912944643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2351408209",
+              "start": 3,
+              "username": "cutest_animal1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/auxsrPa1tw",
+              "end": 57,
+              "expanded_url": "https://x.com/cutest_animal1/status/2062020862497493086/video/1",
+              "media_key": "13_2062020807308763136",
+              "start": 34,
+              "url": "https://t.co/auxsrPa1tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062146709912944643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2436
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062020862497493086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutest_animal1: カワウソとの触れ合いタイム https://t.co/auxsrPa1tw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062020807308763136"
+          ]
+        },
+        "author_id": "2351408209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407388516682665984",
+              "name": "Otters"
+            }
+          }
+        ],
+        "conversation_id": "2062020862497493086",
+        "created_at": "2026-06-03T03:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062020862497493086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auxsrPa1tw",
+              "end": 37,
+              "expanded_url": "https://x.com/cutest_animal1/status/2062020862497493086/video/1",
+              "media_key": "13_2062020807308763136",
+              "start": 14,
+              "url": "https://t.co/auxsrPa1tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062020862497493086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1003,
+          "impression_count": 443523,
+          "like_count": 18102,
+          "quote_count": 230,
+          "reply_count": 265,
+          "retweet_count": 2436
+        },
+        "reply_settings": "everyone",
+        "text": "カワウソとの触れ合いタイム https://t.co/auxsrPa1tw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1685,
+          "like_count": 42422,
+          "listed_count": 10,
+          "media_count": 1283,
+          "tweet_count": 20721
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-19T09:14:51.000Z",
+        "description": "癒される動物の画像・動画を紹介していきます。癒されたらRT",
+        "id": "2351408209",
+        "name": "癒される動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/443909295256530944/8T92sYY4_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673165,
+          "following_count": 12439,
+          "like_count": 948,
+          "listed_count": 2321,
+          "media_count": 30398,
+          "tweet_count": 49364
+        },
+        "username": "cutest_animal1",
+        "verified": true
+      }
+    ]
+  }
+}

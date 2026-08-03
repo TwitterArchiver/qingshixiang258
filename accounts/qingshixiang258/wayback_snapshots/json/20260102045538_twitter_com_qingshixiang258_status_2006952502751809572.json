@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2006770268946182475",
+    "created_at": "2026-01-02T04:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T05:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006952502751809572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867755654070349824",
+          "start": 0,
+          "username": "zezhe463149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006952502751809572",
+    "in_reply_to_user_id": "1867755654070349824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006887729087578274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zezhe463149 他就一精神病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2006770268946182475",
+        "created_at": "2026-01-02T04:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T05:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006952502751809572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867755654070349824",
+              "start": 0,
+              "username": "zezhe463149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006952502751809572",
+        "in_reply_to_user_id": "1867755654070349824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006887729087578274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zezhe463149 他就一精神病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867755654070349824",
+        "conversation_id": "2006770268946182475",
+        "created_at": "2026-01-02T00:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T01:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006887729087578274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006887729087578274",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006770268946182475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 这小孩精神病犯了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1379,
+          "like_count": 35492,
+          "listed_count": 9,
+          "media_count": 981,
+          "tweet_count": 16318
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:17:45.000Z",
+        "description": "一心/24y horseman",
+        "id": "1867755654070349824",
+        "location": "停尸房里的冰柜雅间",
+        "name": "Shiny fish fish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002938732819660801/0fqZN7ti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 391,
+          "like_count": 16161,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 8803
+        },
+        "username": "zezhe463149",
+        "verified": false
+      }
+    ]
+  }
+}

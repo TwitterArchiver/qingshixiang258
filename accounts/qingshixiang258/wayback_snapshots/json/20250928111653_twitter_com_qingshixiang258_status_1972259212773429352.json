@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1972224828020330831",
+    "created_at": "2025-09-28T11:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T12:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972259212773429352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "tanbara_ririka"
+        },
+        {
+          "end": 31,
+          "id": "1664948430920359936",
+          "start": 16,
+          "username": "Snowcomics9452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972259212773429352",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972224828020330831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanbara_ririka @Snowcomics9452 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1972224828020330831].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1972224828020330831",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1972224828020330831"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1972224828020330831",
+        "created_at": "2025-09-28T11:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T12:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972259212773429352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "tanbara_ririka"
+            },
+            {
+              "end": 31,
+              "id": "1664948430920359936",
+              "start": 16,
+              "username": "Snowcomics9452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972259212773429352",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972224828020330831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanbara_ririka @Snowcomics9452 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1431,
+          "like_count": 30661,
+          "listed_count": 7,
+          "media_count": 822,
+          "tweet_count": 13798
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "i just wanna break you down so baaaadly💕 | 🐽－＞ @citric_baizhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "citric_baizhou"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "👾丹原 凛々華🍥低浮上💤",
+        "pinned_tweet_id": "1962202269358948700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969440229443469312/B9CNYPKz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 591,
+          "like_count": 22771,
+          "listed_count": 1,
+          "media_count": 952,
+          "tweet_count": 8634
+        },
+        "username": "tanbara_ririka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit 可線下面基",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939666470113280000/TkkDO3rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 3425,
+          "like_count": 37847,
+          "listed_count": 5,
+          "media_count": 969,
+          "tweet_count": 7895
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

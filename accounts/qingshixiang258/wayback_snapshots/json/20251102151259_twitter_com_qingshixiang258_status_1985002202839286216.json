@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1985002202839286216",
+    "created_at": "2025-11-02T15:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T16:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985002202839286216"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "Callidia",
+          "probability": 0.3866,
+          "start": 45,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "846889707195781121",
+          "start": 3,
+          "username": "lazer_groove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985002202839286216",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4021
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872975263400919321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @lazer_groove: GM asked me to draw Sister Callidia kicking the wheelchair marine over. I thought it was funny so I did it during session…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1872974780657242112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf4ko7pXEAAEvPT.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1985002202839286216",
+        "created_at": "2025-11-02T15:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985002202839286216"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "Callidia",
+              "probability": 0.3866,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "846889707195781121",
+              "start": 3,
+              "username": "lazer_groove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985002202839286216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4021
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872975263400919321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @lazer_groove: GM asked me to draw Sister Callidia kicking the wheelchair marine over. I thought it was funny so I did it during session…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872974780657242112"
+          ]
+        },
+        "author_id": "846889707195781121",
+        "conversation_id": "1872975263400919321",
+        "created_at": "2024-12-28T11:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T12:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872975263400919321"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Callidia",
+              "probability": 0.4414,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFvhDCy8dR",
+              "end": 151,
+              "expanded_url": "https://x.com/lazer_groove/status/1872975263400919321/photo/1",
+              "media_key": "3_1872974780657242112",
+              "start": 128,
+              "url": "https://t.co/XFvhDCy8dR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872975263400919321",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7079,
+          "impression_count": 1526574,
+          "like_count": 57850,
+          "quote_count": 150,
+          "reply_count": 788,
+          "retweet_count": 4021
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "GM asked me to draw Sister Callidia kicking the wheelchair marine over. I thought it was funny so I did it during session time. https://t.co/XFvhDCy8dR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1400,
+          "like_count": 33299,
+          "listed_count": 7,
+          "media_count": 912,
+          "tweet_count": 14808
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-29T01:00:15.000Z",
+        "description": "🇧🇷 \nI draw stuff, some 40k too.\nDms are broken please be patient.\n\nPfp by mossacannibalis\nBanner by @potassiumhere",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "potassiumhere"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/LazerGroove",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/LazerGroove",
+                "start": 0,
+                "url": "https://t.co/4PV92Ie6uk"
+              }
+            ]
+          }
+        },
+        "id": "846889707195781121",
+        "location": "Out there and on the run",
+        "name": "LazerGroove | Vanripper arc",
+        "pinned_tweet_id": "1980014715867738452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960335521785184256/wmJwT4Bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49392,
+          "following_count": 1168,
+          "like_count": 103641,
+          "listed_count": 106,
+          "media_count": 1225,
+          "tweet_count": 6875
+        },
+        "url": "https://t.co/4PV92Ie6uk",
+        "username": "lazer_groove",
+        "verified": false
+      }
+    ]
+  }
+}

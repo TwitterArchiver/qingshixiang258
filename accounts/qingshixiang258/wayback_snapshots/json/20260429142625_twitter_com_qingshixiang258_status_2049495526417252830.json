@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049443721373245440"
+      ],
+      "media_source_tweet_id": [
+        "2049443730932056066"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2049495526417252830",
+    "created_at": "2026-04-29T14:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049495526417252830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "99054535",
+          "start": 3,
+          "username": "Anmi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pHYp1j2OVK",
+          "end": 46,
+          "expanded_url": "https://x.com/Anmi_/status/2049443730932056066/photo/1",
+          "media_key": "3_2049443721373245440",
+          "start": 23,
+          "url": "https://t.co/pHYp1j2OVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049495526417252830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 374
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049443730932056066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anmi_: スポットライトを、私に https://t.co/pHYp1j2OVK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049443721373245440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEWNMebYAAk2mj.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049443721373245440"
+          ],
+          "media_source_tweet_id": [
+            "2049443730932056066"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2049495526417252830",
+        "created_at": "2026-04-29T14:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049495526417252830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "99054535",
+              "start": 3,
+              "username": "Anmi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHYp1j2OVK",
+              "end": 46,
+              "expanded_url": "https://x.com/Anmi_/status/2049443730932056066/photo/1",
+              "media_key": "3_2049443721373245440",
+              "start": 23,
+              "url": "https://t.co/pHYp1j2OVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049495526417252830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 374
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049443730932056066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anmi_: スポットライトを、私に https://t.co/pHYp1j2OVK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049443721373245440"
+          ]
+        },
+        "author_id": "99054535",
+        "conversation_id": "2049443730932056066",
+        "created_at": "2026-04-29T11:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049443730932056066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHYp1j2OVK",
+              "end": 35,
+              "expanded_url": "https://x.com/Anmi_/status/2049443730932056066/photo/1",
+              "media_key": "3_2049443721373245440",
+              "start": 12,
+              "url": "https://t.co/pHYp1j2OVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049443730932056066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 46099,
+          "like_count": 2332,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 374
+        },
+        "reply_settings": "everyone",
+        "text": "スポットライトを、私に https://t.co/pHYp1j2OVK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 1655,
+          "like_count": 39939,
+          "listed_count": 9,
+          "media_count": 1211,
+          "tweet_count": 19656
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-24T07:22:38.000Z",
+        "description": "画集「Crystal Clear」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/anmi_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/anmi_",
+                "start": 0,
+                "url": "https://t.co/lTPMxV3Gus"
+              }
+            ]
+          }
+        },
+        "id": "99054535",
+        "location": "ファンタジスタッ都",
+        "name": "Anmi",
+        "pinned_tweet_id": "1953758585306943709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556269168223141888/szg117NA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717899,
+          "following_count": 796,
+          "like_count": 7603,
+          "listed_count": 7120,
+          "media_count": 682,
+          "tweet_count": 15352
+        },
+        "url": "https://t.co/lTPMxV3Gus",
+        "username": "Anmi_",
+        "verified": true
+      }
+    ]
+  }
+}

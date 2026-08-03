@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2021464258341634146",
+    "created_at": "2026-02-11T06:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T07:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021464258341634146"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wdesocute/stat…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/wdesocute/status/2020837990436851776",
+          "start": 75,
+          "url": "https://t.co/HUhoDklOR8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021464258341634146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020837990436851776",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有意义，很多我喜欢的需要学习的事情ai一瞬间就可以完成，我再去学习当然对于别人没有丝毫的意义，但是在我学习喜欢的东西的时候我是开心的，这就足够了。 https://t.co/HUhoDklOR8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020837985995153408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAt1cP_bYAAJ1Pf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2021464258341634146",
+        "created_at": "2026-02-11T06:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T07:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021464258341634146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wdesocute/stat…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/wdesocute/status/2020837990436851776",
+              "start": 75,
+              "url": "https://t.co/HUhoDklOR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021464258341634146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020837990436851776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有意义，很多我喜欢的需要学习的事情ai一瞬间就可以完成，我再去学习当然对于别人没有丝毫的意义，但是在我学习喜欢的东西的时候我是开心的，这就足够了。 https://t.co/HUhoDklOR8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020837985995153408"
+          ]
+        },
+        "author_id": "1591244535774035968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2020837990436851776",
+        "created_at": "2026-02-09T12:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020837990436851776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPGcK0tctU",
+              "end": 170,
+              "expanded_url": "https://x.com/wdesocute/status/2020837990436851776/photo/1",
+              "media_key": "3_2020837985995153408",
+              "start": 147,
+              "url": "https://t.co/mPGcK0tctU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020837990436851776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5181,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天看了个视频，大意就是图片这样\n我现在就有这样的问题：我写的东西虽说也不怎么好，但是却要花费两个多小时\n然而我用grok生成小说，完全超过了我，不管是速度，还是质量\n我也可以用ai一天更好几篇，也可以说谎“这就是我写的”\n我再去花两个多小时写一篇不怎么样的小黄文，真的有意义吗(´つヮ⊂︎) https://t.co/mPGcK0tctU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 1423,
+          "like_count": 36795,
+          "listed_count": 8,
+          "media_count": 1059,
+          "tweet_count": 17329
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T01:40:44.000Z",
+        "description": "🔞/是大学生/147·33的小土豆/写小黄文/打游戏死宅/看番追剧/二次元/网瘾少女/小天蝎/梦想是不用出门的家庭主妇/超级社恐/不知道聊什么夸我就好了",
+        "id": "1591244535774035968",
+        "name": "琉璃烁烁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001697225878171649/rKYftdZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8452,
+          "following_count": 122,
+          "like_count": 1721,
+          "listed_count": 29,
+          "media_count": 419,
+          "tweet_count": 1672
+        },
+        "username": "wdesocute",
+        "verified": false
+      }
+    ]
+  }
+}

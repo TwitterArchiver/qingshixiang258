@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2005059644184822239",
+    "created_at": "2025-12-28T15:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005306409408463348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313182519551025152",
+          "start": 0,
+          "username": "elenachanjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005306409408463348",
+    "in_reply_to_user_id": "1313182519551025152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005059644184822239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elenachanjp 你自己国家都守不住了，白皮猪还bb呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 911,
+        "media_key": "3_2005059639130685440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9NnHlfbgAA9fB6.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2005059644184822239",
+        "created_at": "2025-12-28T15:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005306409408463348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313182519551025152",
+              "start": 0,
+              "username": "elenachanjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005306409408463348",
+        "in_reply_to_user_id": "1313182519551025152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005059644184822239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elenachanjp 你自己国家都守不住了，白皮猪还bb呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005059639130685440"
+          ]
+        },
+        "author_id": "1313182519551025152",
+        "conversation_id": "2005059644184822239",
+        "created_at": "2025-12-27T23:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T00:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005059644184822239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZY4hJZqws",
+              "end": 50,
+              "expanded_url": "https://x.com/elenachanjp/status/2005059644184822239/photo/1",
+              "media_key": "3_2005059639130685440",
+              "start": 27,
+              "url": "https://t.co/nZY4hJZqws"
+            },
+            {
+              "display_url": "x.com/elenachanjp/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/elenachanjp/status/2004688522532585754",
+              "start": 51,
+              "url": "https://t.co/ilWecCVDZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005059644184822239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 192998,
+          "like_count": 1460,
+          "quote_count": 78,
+          "reply_count": 123,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004688522532585754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ちゅうごく🇨🇳👲\nこれぐらいほうかい\nしてください🥰 https://t.co/nZY4hJZqws https://t.co/ilWecCVDZe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2005092093090546046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005305326652854273/P0IXE9nk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1487,
+          "like_count": 35385,
+          "listed_count": 9,
+          "media_count": 974,
+          "tweet_count": 16170
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T18:22:11.000Z",
+        "description": "エレナちゃんファンクラブ🥰📩→https://t.co/sM5ZVWdoC2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/elenachan",
+                "end": 38,
+                "expanded_url": "http://patreon.com/elenachan",
+                "start": 15,
+                "url": "https://t.co/sM5ZVWdoC2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/elenachan",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/elenachan",
+                "start": 0,
+                "url": "https://t.co/lqxWqnGt9j"
+              }
+            ]
+          }
+        },
+        "id": "1313182519551025152",
+        "location": "🌏",
+        "name": "🇺🇦エレナちゃん",
+        "pinned_tweet_id": "1936628089846689801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609919512798797824/P92B1Mkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173537,
+          "following_count": 0,
+          "like_count": 15598,
+          "listed_count": 545,
+          "media_count": 2614,
+          "tweet_count": 7279
+        },
+        "url": "https://t.co/lqxWqnGt9j",
+        "username": "elenachanjp",
+        "verified": true
+      }
+    ]
+  }
+}

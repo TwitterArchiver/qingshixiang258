@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1947328427415281915",
+    "created_at": "2025-07-22T15:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T16:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947685692039172579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514928812764524545",
+          "start": 0,
+          "username": "anpaizhe00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947685692039172579",
+    "in_reply_to_user_id": "1514928812764524545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 382,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947579734264586591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anpaizhe00 但是11也太小了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1947328427415281915",
+        "created_at": "2025-07-22T15:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T16:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947685692039172579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514928812764524545",
+              "start": 0,
+              "username": "anpaizhe00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947685692039172579",
+        "in_reply_to_user_id": "1514928812764524545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947579734264586591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anpaizhe00 但是11也太小了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514928812764524545",
+        "conversation_id": "1947328427415281915",
+        "created_at": "2025-07-22T08:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T09:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947579734264586591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947579734264586591",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 557,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947328427415281915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我感觉真要说 这玩意就得趁小吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "_akitayura"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1227,
+          "like_count": 26285,
+          "listed_count": 6,
+          "media_count": 672,
+          "tweet_count": 11552
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T11:29:19.000Z",
+        "description": "",
+        "id": "1514928812764524545",
+        "name": "杰洛的粉红小熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934632923246067713/qspjtqQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 156,
+          "like_count": 1674,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 1192
+        },
+        "username": "anpaizhe00",
+        "verified": false
+      }
+    ]
+  }
+}

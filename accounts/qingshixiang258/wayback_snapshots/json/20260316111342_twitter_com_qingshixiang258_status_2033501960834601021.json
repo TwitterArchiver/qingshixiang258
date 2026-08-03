@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2033501067825328571",
+    "created_at": "2026-03-16T11:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033501960834601021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033501960834601021",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033501067825328571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei 太谷，小时候在那里待了好久呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2033501064625037312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhycb9aoAA0DWJ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2033501067825328571",
+        "created_at": "2026-03-16T11:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033501960834601021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033501960834601021",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033501067825328571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei 太谷，小时候在那里待了好久呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033501064625037312"
+          ]
+        },
+        "author_id": "1870022570353012736",
+        "conversation_id": "2033501067825328571",
+        "created_at": "2026-03-16T11:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033501067825328571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6p4RrUdou",
+              "end": 35,
+              "expanded_url": "https://x.com/kukudejiaxibei/status/2033501067825328571/photo/1",
+              "media_key": "3_2033501064625037312",
+              "start": 12,
+              "url": "https://t.co/A6p4RrUdou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033501067825328571",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My hometown https://t.co/A6p4RrUdou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1547,
+          "like_count": 38454,
+          "listed_count": 8,
+          "media_count": 1129,
+          "tweet_count": 18827
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06liner INFJ Virgo♍\n🎮Gaming|🍸 Bartending 🍳 Cooking  \nBFF: @NataliaIcey2006💖@xiyimeng04\nCat:@jiang_chua28655🐾\n💕@Notyet_cat💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "NataliaIcey2006"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "xiyimeng04"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "jiang_chua28655"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "Notyet_cat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NataliaICEY060…",
+                "end": 23,
+                "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                "start": 0,
+                "url": "https://t.co/lGi3Ux1gT3"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "Sanctum 9 Inner Ring of Virgo",
+        "name": "j4sib3r",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021235545742180352/CN_Wdihr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 2811,
+          "like_count": 29148,
+          "listed_count": 1,
+          "media_count": 920,
+          "tweet_count": 7969
+        },
+        "url": "https://t.co/lGi3Ux1gT3",
+        "username": "kukudejiaxibei",
+        "verified": false
+      }
+    ]
+  }
+}

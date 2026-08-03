@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2026301791542141068",
+    "created_at": "2026-02-24T15:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026320340843163821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570466382365728771",
+          "start": 0,
+          "username": "m8o9j6i4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026320340843163821",
+    "in_reply_to_user_id": "1570466382365728771",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026319125606547851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m8o9j6i4 ？hyw"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2026319125606547851].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2026319125606547851",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2026319125606547851"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2026301791542141068",
+        "created_at": "2026-02-24T15:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026320340843163821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570466382365728771",
+              "start": 0,
+              "username": "m8o9j6i4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026320340843163821",
+        "in_reply_to_user_id": "1570466382365728771",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026319125606547851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m8o9j6i4 ？hyw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1469,
+          "like_count": 37208,
+          "listed_count": 8,
+          "media_count": 1083,
+          "tweet_count": 17821
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T17:35:48.000Z",
+        "description": "我大号@mo6ji4 被封了😭\n最好最善良最可爱的好厚米：@BigFreshShrimp @SuperShrimp9000  @miku_suki393939\nemmmmmmmmm🚪14000000\n开放私信所以fo之前请私信说明，私密账号所以不认识的人不过\n有事联系不上找我的宝宝传话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "mo6ji4"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "BigFreshShrimp"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "SuperShrimp9000"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1570466382365728771",
+        "location": "厄普西隆南极总部",
+        "name": "Big青蛙姬 我是贞德",
+        "pinned_tweet_id": "1903068922070565313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 352,
+          "like_count": 38530,
+          "listed_count": 1,
+          "media_count": 1426,
+          "tweet_count": 11983
+        },
+        "username": "m8o9j6i4",
+        "verified": false
+      }
+    ]
+  }
+}

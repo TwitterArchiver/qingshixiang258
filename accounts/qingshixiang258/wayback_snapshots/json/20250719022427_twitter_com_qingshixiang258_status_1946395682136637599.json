@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1946391867714920876",
+    "created_at": "2025-07-19T02:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T03:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946395682136637599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1771562039485534208",
+          "start": 0,
+          "username": "soyorin_chihaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946395682136637599",
+    "in_reply_to_user_id": "1771562039485534208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946391867714920876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soyorin_chihaya 这是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1946391867714920876",
+        "created_at": "2025-07-19T02:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946395682136637599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771562039485534208",
+              "start": 0,
+              "username": "soyorin_chihaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946395682136637599",
+        "in_reply_to_user_id": "1771562039485534208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946391867714920876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyorin_chihaya 这是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771562039485534208",
+        "conversation_id": "1946391867714920876",
+        "created_at": "2025-07-19T02:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946391867714920876"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "我也试试"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/soyorin_love12…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/soyorin_love123/status/1946380634857070903",
+              "start": 18,
+              "url": "https://t.co/KXcMyqIMGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946391867714920876",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946380634857070903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sugar daddy #我也试试 https://t.co/KXcMyqIMGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "_akitayura"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 1214,
+          "like_count": 26057,
+          "listed_count": 6,
+          "media_count": 667,
+          "tweet_count": 11419
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T15:38:07.000Z",
+        "description": "硬硬的，原来是祥木😇|MyGO!!!!!一生推！|素/祥/爱|电吉他苦手 新人练习影色舞中......|小团体：698422286 记得小窗说一声熟的会给过|提问箱：https://t.co/Ws2mymEYPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/soyorin_chihaya",
+                "end": 106,
+                "expanded_url": "https://ngl.link/soyorin_chihaya",
+                "start": 83,
+                "url": "https://t.co/Ws2mymEYPp"
+              }
+            ]
+          }
+        },
+        "id": "1771562039485534208",
+        "location": "羽丘女子学园",
+        "name": "嘴硬不过Soyo木硬不过Kiko",
+        "pinned_tweet_id": "1945861739247271968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921068183345094656/a-W8bW6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 595,
+          "like_count": 36985,
+          "listed_count": 1,
+          "media_count": 1003,
+          "tweet_count": 8920
+        },
+        "username": "soyorin_chihaya",
+        "verified": false
+      }
+    ]
+  }
+}

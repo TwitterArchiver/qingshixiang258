@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1976185777861128409",
+    "created_at": "2025-10-09T07:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T08:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976186183194743192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504387273919401987",
+          "start": 0,
+          "username": "KamiyaSara8972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976186183194743192",
+    "in_reply_to_user_id": "1504387273919401987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976185777861128409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiyaSara8972 看见两个人走近一点就想到这个，不愧是，你不会经常干吧😙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1976185777861128409",
+        "created_at": "2025-10-09T07:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976186183194743192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504387273919401987",
+              "start": 0,
+              "username": "KamiyaSara8972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976186183194743192",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976185777861128409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiyaSara8972 看见两个人走近一点就想到这个，不愧是，你不会经常干吧😙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504387273919401987",
+        "conversation_id": "1976185777861128409",
+        "created_at": "2025-10-09T07:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976185777861128409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/1976184707743121505",
+              "start": 24,
+              "url": "https://t.co/5TkBh88Gwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976185777861128409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976184707743121505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你叫你的小骚皮炎子多发两个瘟可比这有攻击性多了 https://t.co/5TkBh88Gwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1358,
+          "like_count": 31660,
+          "listed_count": 7,
+          "media_count": 848,
+          "tweet_count": 14215
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "Looking for a female fox",
+        "id": "1504387273919401987",
+        "name": "岐原狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975504476657360901/7dcg4XjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 352,
+          "like_count": 24553,
+          "listed_count": 4,
+          "media_count": 836,
+          "tweet_count": 29935
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

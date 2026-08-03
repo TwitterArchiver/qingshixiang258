@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1923423477249307132",
+    "created_at": "2025-05-17T00:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T01:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923537339646869647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Q2anmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923537339646869647",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923423477249307132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q2anmo 哇！干干！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1923423477249307132",
+        "created_at": "2025-05-17T00:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T01:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923537339646869647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Q2anmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923537339646869647",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923423477249307132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q2anmo 哇！干干！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1923423477249307132",
+        "created_at": "2025-05-16T17:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T18:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923423477249307132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rushsharkk/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Rushsharkk/status/1923415954228199534",
+              "start": 17,
+              "url": "https://t.co/bO3zKB3juW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923423477249307132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 981,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923415954228199534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至简介还保留了師師，循序渐进。 https://t.co/bO3zKB3juW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939396401803264/JH7fO8b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 956,
+          "like_count": 20064,
+          "listed_count": 5,
+          "media_count": 365,
+          "tweet_count": 8813
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "是師師。\n@Q3anmo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "Q3anmo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ss70888",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ss70888",
+                "start": 0,
+                "url": "https://t.co/EuPi9YGMMZ"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "萱華軒",
+        "name": "千芊",
+        "pinned_tweet_id": "1921441506432303212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923404150941028352/74eD9QFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 282,
+          "like_count": 153915,
+          "listed_count": 27,
+          "media_count": 31,
+          "tweet_count": 34913
+        },
+        "url": "https://t.co/EuPi9YGMMZ",
+        "username": "Q2anmo",
+        "verified": false
+      }
+    ]
+  }
+}

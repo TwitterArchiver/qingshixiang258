@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971271834911023104",
+        "3_1971271834906861568",
+        "3_1971271834910990336",
+        "3_1971271834915176449"
+      ],
+      "media_source_tweet_id": [
+        "1971271839864525056",
+        "1971271839864525056",
+        "1971271839864525056",
+        "1971271839864525056"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1971608319363355096",
+    "created_at": "2025-09-26T16:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T17:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971608319363355096"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 16,
+          "tag": "chainsawman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1392904024823795721",
+          "start": 3,
+          "username": "kurehalxxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kHKa9mDD1N",
+          "end": 56,
+          "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+          "media_key": "3_1971271834911023104",
+          "start": 33,
+          "url": "https://t.co/kHKa9mDD1N"
+        },
+        {
+          "display_url": "pic.x.com/kHKa9mDD1N",
+          "end": 56,
+          "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+          "media_key": "3_1971271834906861568",
+          "start": 33,
+          "url": "https://t.co/kHKa9mDD1N"
+        },
+        {
+          "display_url": "pic.x.com/kHKa9mDD1N",
+          "end": 56,
+          "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+          "media_key": "3_1971271834910990336",
+          "start": 33,
+          "url": "https://t.co/kHKa9mDD1N"
+        },
+        {
+          "display_url": "pic.x.com/kHKa9mDD1N",
+          "end": 56,
+          "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+          "media_key": "3_1971271834915176449",
+          "start": 33,
+          "url": "https://t.co/kHKa9mDD1N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971608319363355096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11747
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971271839864525056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurehalxxx: #chainsawman 💥💥💥 https://t.co/kHKa9mDD1N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 523,
+        "media_key": "3_1971271834911023104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tdSiOaoAArm71.jpg",
+        "width": 945
+      },
+      {
+        "height": 523,
+        "media_key": "3_1971271834906861568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tdSiNbIAAVqiL.jpg",
+        "width": 945
+      },
+      {
+        "height": 523,
+        "media_key": "3_1971271834910990336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tdSiOaIAAYMP-.jpg",
+        "width": 945
+      },
+      {
+        "height": 523,
+        "media_key": "3_1971271834915176449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tdSiPaAAEJjD0.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971271834911023104",
+            "3_1971271834906861568",
+            "3_1971271834910990336",
+            "3_1971271834915176449"
+          ],
+          "media_source_tweet_id": [
+            "1971271839864525056",
+            "1971271839864525056",
+            "1971271839864525056",
+            "1971271839864525056"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1971608319363355096",
+        "created_at": "2025-09-26T16:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971608319363355096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 16,
+              "tag": "chainsawman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1392904024823795721",
+              "start": 3,
+              "username": "kurehalxxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHKa9mDD1N",
+              "end": 56,
+              "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+              "media_key": "3_1971271834911023104",
+              "start": 33,
+              "url": "https://t.co/kHKa9mDD1N"
+            },
+            {
+              "display_url": "pic.x.com/kHKa9mDD1N",
+              "end": 56,
+              "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+              "media_key": "3_1971271834906861568",
+              "start": 33,
+              "url": "https://t.co/kHKa9mDD1N"
+            },
+            {
+              "display_url": "pic.x.com/kHKa9mDD1N",
+              "end": 56,
+              "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+              "media_key": "3_1971271834910990336",
+              "start": 33,
+              "url": "https://t.co/kHKa9mDD1N"
+            },
+            {
+              "display_url": "pic.x.com/kHKa9mDD1N",
+              "end": 56,
+              "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+              "media_key": "3_1971271834915176449",
+              "start": 33,
+              "url": "https://t.co/kHKa9mDD1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971608319363355096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11747
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971271839864525056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurehalxxx: #chainsawman 💥💥💥 https://t.co/kHKa9mDD1N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971271834911023104",
+            "3_1971271834906861568",
+            "3_1971271834910990336",
+            "3_1971271834915176449"
+          ]
+        },
+        "author_id": "1392904024823795721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1971271839864525056",
+        "created_at": "2025-09-25T17:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T18:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971271839864525056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHKa9mDD1N",
+              "end": 40,
+              "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+              "media_key": "3_1971271834911023104",
+              "start": 17,
+              "url": "https://t.co/kHKa9mDD1N"
+            },
+            {
+              "display_url": "pic.x.com/kHKa9mDD1N",
+              "end": 40,
+              "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+              "media_key": "3_1971271834906861568",
+              "start": 17,
+              "url": "https://t.co/kHKa9mDD1N"
+            },
+            {
+              "display_url": "pic.x.com/kHKa9mDD1N",
+              "end": 40,
+              "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+              "media_key": "3_1971271834910990336",
+              "start": 17,
+              "url": "https://t.co/kHKa9mDD1N"
+            },
+            {
+              "display_url": "pic.x.com/kHKa9mDD1N",
+              "end": 40,
+              "expanded_url": "https://x.com/kurehalxxx/status/1971271839864525056/photo/1",
+              "media_key": "3_1971271834915176449",
+              "start": 17,
+              "url": "https://t.co/kHKa9mDD1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971271839864525056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8485,
+          "impression_count": 2132928,
+          "like_count": 120110,
+          "quote_count": 209,
+          "reply_count": 37,
+          "retweet_count": 11747
+        },
+        "reply_settings": "everyone",
+        "text": "#chainsawman 💥💥💥 https://t.co/kHKa9mDD1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968343101979897856/T41BJaco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 1420,
+          "like_count": 30495,
+          "listed_count": 7,
+          "media_count": 818,
+          "tweet_count": 13746
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-13T18:06:22.000Z",
+        "description": "𝗜𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗼𝗿 / 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 連絡先▶︎kuremelll@gmail.com / https://t.co/9c8DNYlvuw FA▶︎#κμrεhαrτ ⛓️🩹(@_hexvow)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 77,
+                "tag": "κμrεhαrτ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "_hexvow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kuremelll.wixsite.com/website/",
+                "end": 72,
+                "expanded_url": "https://kuremelll.wixsite.com/website/",
+                "start": 49,
+                "url": "https://t.co/9c8DNYlvuw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kurehalxxx.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://kurehalxxx.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/wrxekj3xcp"
+              }
+            ]
+          }
+        },
+        "id": "1392904024823795721",
+        "location": "(目にハイライトのない)絵のご相談はDMまたはメール　",
+        "name": "ᴋᴜʀᴇʜᴀ",
+        "pinned_tweet_id": "1950180913393852506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557416904905461766/EGWy0HqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47387,
+          "following_count": 287,
+          "like_count": 3825,
+          "listed_count": 343,
+          "media_count": 66,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/wrxekj3xcp",
+        "username": "kurehalxxx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "1885376183824769348",
+    "created_at": "2025-02-01T03:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T04:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885532189754052966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "liu589043"
+        },
+        {
+          "end": 21,
+          "id": "1793636329299066880",
+          "start": 11,
+          "username": "cuichuna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885532189754052966",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885531710991065176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu589043 @cuichuna7 很多游戏ios和安卓不通"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1885376183824769348",
+        "created_at": "2025-02-01T03:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T04:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885532189754052966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "liu589043"
+            },
+            {
+              "end": 21,
+              "id": "1793636329299066880",
+              "start": 11,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885532189754052966",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885531710991065176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu589043 @cuichuna7 很多游戏ios和安卓不通"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626578993821675521",
+        "conversation_id": "1885376183824769348",
+        "created_at": "2025-02-01T03:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T04:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885531710991065176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 27,
+              "id": "1793636329299066880",
+              "start": 17,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885531710991065176",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885380971354349673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 @cuichuna7 都可以买个几十的安卓了💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视｜喜欢被叫姐姐和妈妈（嘘～）|目前常驻苏北，两假广州刷新|有点恶趣味，喜欢逗看黄男玩|唔～暂时就这些叭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "青会一直陪着你",
+        "name": "青石🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884961875630399490/TQfiuJPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 931,
+          "like_count": 6115,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "一个普通的躺平教教主罢了|认真b滚，小狗@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1626578993821675521",
+        "name": "川和 柠檬🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882771188721782784/F0QjLBMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 378,
+          "like_count": 37751,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 7913
+        },
+        "username": "liu589043",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹目前在家休学养病//欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿加点东西@grame_oppb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "grame_oppb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/troellstoree2",
+                "end": 23,
+                "expanded_url": "https://t.me/troellstoree2",
+                "start": 0,
+                "url": "https://t.co/YwNpXr2uZp"
+              }
+            ]
+          }
+        },
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "graee.time☃︎（能不能讨个foTVT",
+        "pinned_tweet_id": "1868290454615474348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 2602,
+          "like_count": 5174,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1620
+        },
+        "url": "https://t.co/YwNpXr2uZp",
+        "username": "cuichuna7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061260779337527296"
+      ],
+      "media_source_tweet_id": [
+        "2061260786534863209"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2061333868104544569",
+    "created_at": "2026-06-01T06:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061333868104544569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W60IpXzXfg",
+          "end": 39,
+          "expanded_url": "https://x.com/__fanqie__/status/2061260786534863209/photo/1",
+          "media_key": "3_2061260779337527296",
+          "start": 16,
+          "url": "https://t.co/W60IpXzXfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061333868104544569",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061260786534863209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: https://t.co/W60IpXzXfg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_2061260779337527296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsRwf3bsAA3cHn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061260779337527296"
+          ],
+          "media_source_tweet_id": [
+            "2061260786534863209"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2061333868104544569",
+        "created_at": "2026-06-01T06:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061333868104544569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W60IpXzXfg",
+              "end": 39,
+              "expanded_url": "https://x.com/__fanqie__/status/2061260786534863209/photo/1",
+              "media_key": "3_2061260779337527296",
+              "start": 16,
+              "url": "https://t.co/W60IpXzXfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061333868104544569",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061260786534863209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: https://t.co/W60IpXzXfg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061260779337527296"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2061260786534863209",
+        "created_at": "2026-06-01T01:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061260786534863209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W60IpXzXfg",
+              "end": 23,
+              "expanded_url": "https://x.com/__fanqie__/status/2061260786534863209/photo/1",
+              "media_key": "3_2061260779337527296",
+              "start": 0,
+              "url": "https://t.co/W60IpXzXfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061260786534863209",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1128,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W60IpXzXfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1684,
+          "like_count": 42112,
+          "listed_count": 10,
+          "media_count": 1276,
+          "tweet_count": 20626
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发小头梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2059895523402981792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7676,
+          "following_count": 2931,
+          "like_count": 1577,
+          "listed_count": 17,
+          "media_count": 1547,
+          "tweet_count": 9806
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

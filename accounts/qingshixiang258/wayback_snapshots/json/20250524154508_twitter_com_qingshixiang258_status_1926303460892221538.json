@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1926302599155777559",
+    "created_at": "2025-05-24T15:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T16:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926303460892221538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764728841010831360",
+          "start": 0,
+          "username": "Quack_one"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926303460892221538",
+    "in_reply_to_user_id": "1764728841010831360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926302599155777559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quack_one 想看小鹅姐姐🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926302459678384128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GruZ4Y8XYAAh2xR.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926302595477307393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GruaAS1WgAEX3hG.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926302596303634432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GruaAV6XQAAT5mC.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1926302599155777559",
+        "created_at": "2025-05-24T15:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926303460892221538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764728841010831360",
+              "start": 0,
+              "username": "Quack_one"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926303460892221538",
+        "in_reply_to_user_id": "1764728841010831360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926302599155777559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quack_one 想看小鹅姐姐🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926302459678384128",
+            "3_1926302595477307393",
+            "3_1926302596303634432"
+          ]
+        },
+        "author_id": "1764728841010831360",
+        "conversation_id": "1926302599155777559",
+        "created_at": "2025-05-24T15:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926302599155777559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RydFduI5yP",
+              "end": 108,
+              "expanded_url": "https://x.com/Quack_one/status/1926302599155777559/photo/1",
+              "media_key": "3_1926302459678384128",
+              "start": 85,
+              "url": "https://t.co/RydFduI5yP"
+            },
+            {
+              "display_url": "pic.x.com/RydFduI5yP",
+              "end": 108,
+              "expanded_url": "https://x.com/Quack_one/status/1926302599155777559/photo/1",
+              "media_key": "3_1926302595477307393",
+              "start": 85,
+              "url": "https://t.co/RydFduI5yP"
+            },
+            {
+              "display_url": "pic.x.com/RydFduI5yP",
+              "end": 108,
+              "expanded_url": "https://x.com/Quack_one/status/1926302599155777559/photo/1",
+              "media_key": "3_1926302596303634432",
+              "start": 85,
+              "url": "https://t.co/RydFduI5yP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926302599155777559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼皮下男：真是怪了 你们怎么总能认出我是男的捏？\n\n🤣🤣🤣因为你们不管换多少身份，多少话术都总会在10句话之内暴露你们的目的啊。\n\n一股味儿太大了 隔着皮都能闻出来。 https://t.co/RydFduI5yP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 989,
+          "like_count": 21775,
+          "listed_count": 5,
+          "media_count": 551,
+          "tweet_count": 9510
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "mtf | 吉他手 | 爵士乐 | 买课私信我 ，合作品牌：Hotone，NeuralDSP，唐农，ALP，J&D，Chillman，Xvive",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "小鹅",
+        "pinned_tweet_id": "1917158081559167344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926139287273197568/pJ_S87eK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 106,
+          "like_count": 656,
+          "listed_count": 7,
+          "media_count": 93,
+          "tweet_count": 970
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

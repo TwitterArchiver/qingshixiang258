@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057059098001305600"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2057059107845341537",
+    "created_at": "2026-05-20T11:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057059107845341537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXizQC01AM",
+          "end": 29,
+          "expanded_url": "https://x.com/qingshixiang258/status/2057059107845341537/photo/1",
+          "media_key": "3_2057059098001305600",
+          "start": 6,
+          "url": "https://t.co/TXizQC01AM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057059107845341537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫爪可爱捏 https://t.co/TXizQC01AM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057059098001305600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwkWdJacAAB6ps.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057059098001305600"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2057059107845341537",
+        "created_at": "2026-05-20T11:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057059107845341537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXizQC01AM",
+              "end": 29,
+              "expanded_url": "https://x.com/qingshixiang258/status/2057059107845341537/photo/1",
+              "media_key": "3_2057059098001305600",
+              "start": 6,
+              "url": "https://t.co/TXizQC01AM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057059107845341537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫爪可爱捏 https://t.co/TXizQC01AM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是\n你知道的我最喜欢 @hhngki7292924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "hhngki7292924"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 1686,
+          "like_count": 41356,
+          "listed_count": 9,
+          "media_count": 1252,
+          "tweet_count": 20323
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1880583942618898643",
+    "created_at": "2025-01-18T12:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T13:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880586070183825433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710485003371773952",
+          "start": 0,
+          "username": "xlnliang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880586070183825433",
+    "in_reply_to_user_id": "1710485003371773952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880583942618898643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xlnliang 团子大家族可以试试看哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1880583942618898643",
+        "created_at": "2025-01-18T12:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T13:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880586070183825433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710485003371773952",
+              "start": 0,
+              "username": "xlnliang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880586070183825433",
+        "in_reply_to_user_id": "1710485003371773952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880583942618898643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xlnliang 团子大家族可以试试看哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710485003371773952",
+        "conversation_id": "1880583942618898643",
+        "created_at": "2025-01-18T11:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880583942618898643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880583942618898643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么好看的恐怖、喜剧、日剧、动漫推荐啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "青是一个缺爱的家伙，不喜欢独处，如果可以，请找我聊天，聊什么都可以哦（虽然我不太会聊天💦💦）。可以做大家情绪的垃圾桶哦。防失联：青石湾：@qing1814486981",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "qing1814486981"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fkxqs.vw50.com",
+                "end": 23,
+                "expanded_url": "http://fkxqs.vw50.com",
+                "start": 0,
+                "url": "https://t.co/lskfE1n6J3"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "出云之地",
+        "name": "青石🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879525318786256896/imoL0WpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 762,
+          "like_count": 3314,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/lskfE1n6J3",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T02:39:51.000Z",
+        "description": "大火燃烧了苹果树从而诞生了苹果派",
+        "id": "1710485003371773952",
+        "location": "0.1",
+        "name": "一把大火点燃苹果树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877384241061019648/N-5Ool4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 82,
+          "like_count": 6966,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 215
+        },
+        "username": "xlnliang",
+        "verified": false
+      }
+    ]
+  }
+}

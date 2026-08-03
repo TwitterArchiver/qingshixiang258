@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2052433281375940961",
+    "created_at": "2026-05-07T17:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052437239058321897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039397494413561856",
+          "start": 0,
+          "username": "JLiao120724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052437239058321897",
+    "in_reply_to_user_id": "2039397494413561856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052433281375940961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLiao120724 代充什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2052433281375940961",
+        "created_at": "2026-05-07T17:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052437239058321897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039397494413561856",
+              "start": 0,
+              "username": "JLiao120724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052437239058321897",
+        "in_reply_to_user_id": "2039397494413561856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052433281375940961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLiao120724 代充什么的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039397494413561856",
+        "conversation_id": "2052433281375940961",
+        "created_at": "2026-05-07T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052433281375940961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/2052419814715703369",
+              "start": 37,
+              "url": "https://t.co/SzKoTQX1YL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052433281375940961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052419814715703369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇你们没有palpay怎么付的钱？不过难道只有我想到什么发什么吗？ https://t.co/SzKoTQX1YL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1688,
+          "like_count": 40433,
+          "listed_count": 9,
+          "media_count": 1231,
+          "tweet_count": 19975
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:40:51.000Z",
+        "description": "@zhan_ji53669（小号）我很神秘，你们看不见我😈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "zhan_ji53669"
+              }
+            ]
+          }
+        },
+        "id": "2039397494413561856",
+        "location": "地球村",
+        "name": "金属废料（感染叮咚🐔中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039397660713734144/9gomjoCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 90,
+          "like_count": 2166,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 2474
+        },
+        "username": "JLiao120724",
+        "verified": false
+      }
+    ]
+  }
+}

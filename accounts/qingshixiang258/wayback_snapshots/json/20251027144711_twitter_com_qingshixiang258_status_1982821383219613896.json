@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982790074619002880"
+      ],
+      "media_source_tweet_id": [
+        "1982790080852058620"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1982821383219613896",
+    "created_at": "2025-10-27T14:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T15:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982821383219613896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1899080113486237696",
+          "start": 3,
+          "username": "8_wa0407"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aSeTd5O0Me",
+          "end": 42,
+          "expanded_url": "https://x.com/8_wa0407/status/1982790080852058620/photo/1",
+          "media_key": "3_1982790074619002880",
+          "start": 19,
+          "url": "https://t.co/aSeTd5O0Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982821383219613896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982790080852058620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8_wa0407: らくがき https://t.co/aSeTd5O0Me"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1637,
+        "media_key": "3_1982790074619002880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RJEU3WAAAxNTk.jpg",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982790074619002880"
+          ],
+          "media_source_tweet_id": [
+            "1982790080852058620"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1982821383219613896",
+        "created_at": "2025-10-27T14:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982821383219613896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1899080113486237696",
+              "start": 3,
+              "username": "8_wa0407"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSeTd5O0Me",
+              "end": 42,
+              "expanded_url": "https://x.com/8_wa0407/status/1982790080852058620/photo/1",
+              "media_key": "3_1982790074619002880",
+              "start": 19,
+              "url": "https://t.co/aSeTd5O0Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982821383219613896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982790080852058620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8_wa0407: らくがき https://t.co/aSeTd5O0Me"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982790074619002880"
+          ]
+        },
+        "author_id": "1899080113486237696",
+        "conversation_id": "1982790080852058620",
+        "created_at": "2025-10-27T12:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982790080852058620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSeTd5O0Me",
+              "end": 28,
+              "expanded_url": "https://x.com/8_wa0407/status/1982790080852058620/photo/1",
+              "media_key": "3_1982790074619002880",
+              "start": 5,
+              "url": "https://t.co/aSeTd5O0Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982790080852058620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3534,
+          "like_count": 230,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "らくがき https://t.co/aSeTd5O0Me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "榴莲🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982772624179519488/QEAMYp3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1388,
+          "like_count": 32636,
+          "listed_count": 7,
+          "media_count": 892,
+          "tweet_count": 14599
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T12:49:26.000Z",
+        "description": "20↑ 八幡海鈴さんと高松燈さんと岡田夢以さんが大好き。うみたきとともあのがすき",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ofcr5t2flrser4d",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ofcr5t2flrser4d",
+                "start": 0,
+                "url": "https://t.co/NiBBGXq1iL"
+              }
+            ]
+          }
+        },
+        "id": "1899080113486237696",
+        "location": "転載・AI学習禁止|かわいいものがすき",
+        "name": "もちづき",
+        "pinned_tweet_id": "1972167985629683735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958559240345600001/n45kQB_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 115,
+          "like_count": 2566,
+          "listed_count": 6,
+          "media_count": 170,
+          "tweet_count": 3447
+        },
+        "url": "https://t.co/NiBBGXq1iL",
+        "username": "8_wa0407",
+        "verified": false
+      }
+    ]
+  }
+}

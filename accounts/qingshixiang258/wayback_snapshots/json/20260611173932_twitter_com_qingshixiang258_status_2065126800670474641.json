@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2064959872735777256",
+    "created_at": "2026-06-11T17:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065126800670474641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282832893304242178",
+          "start": 0,
+          "username": "baihui_Ke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065126800670474641",
+    "in_reply_to_user_id": "1282832893304242178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065035513422368814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baihui_Ke 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2064959872735777256",
+        "created_at": "2026-06-11T17:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065126800670474641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282832893304242178",
+              "start": 0,
+              "username": "baihui_Ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065126800670474641",
+        "in_reply_to_user_id": "1282832893304242178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065035513422368814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baihui_Ke 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282832893304242178",
+        "conversation_id": "2064959872735777256",
+        "created_at": "2026-06-11T11:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065035513422368814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065035513422368814",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064959872735777256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 1689,
+          "like_count": 43117,
+          "listed_count": 10,
+          "media_count": 1298,
+          "tweet_count": 20959
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "时时刻刻不知如何是好",
+        "id": "1282832893304242178",
+        "location": "距离你1.2km",
+        "name": "白灰",
+        "pinned_tweet_id": "2043739633432047711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044264449352294400/C8Kciu-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 353,
+          "like_count": 31622,
+          "listed_count": 1,
+          "media_count": 1433,
+          "tweet_count": 15402
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1985308021107659162",
+    "created_at": "2025-11-04T03:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985546733385056335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "383880629",
+          "start": 0,
+          "username": "TokyoHeianBear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985546733385056335",
+    "in_reply_to_user_id": "383880629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985308021107659162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TokyoHeianBear 我一般把灭火器藏起来高价卖自己的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985308011813109761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G407Hj3bgAEsO9F.jpg",
+        "width": 1388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1985308021107659162",
+        "created_at": "2025-11-04T03:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985546733385056335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "383880629",
+              "start": 0,
+              "username": "TokyoHeianBear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985546733385056335",
+        "in_reply_to_user_id": "383880629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985308021107659162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TokyoHeianBear 我一般把灭火器藏起来高价卖自己的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985308011813109761"
+          ]
+        },
+        "author_id": "383880629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985308021107659162",
+        "created_at": "2025-11-03T11:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985308021107659162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DEbDSw5QJg",
+              "end": 35,
+              "expanded_url": "https://x.com/TokyoHeianBear/status/1985308021107659162/photo/1",
+              "media_key": "3_1985308011813109761",
+              "start": 12,
+              "url": "https://t.co/DEbDSw5QJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985308021107659162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当今世界be like https://t.co/DEbDSw5QJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1403,
+          "like_count": 33392,
+          "listed_count": 7,
+          "media_count": 914,
+          "tweet_count": 14870
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-02T17:44:50.000Z",
+        "description": "来日18年目の熊星人の日常垢。四十路オッサンリーマン新米パパ。1/4広東の血。工学＋国際貿易＋経済経営学出身。MONSTER中毒者(減量中)。動物と仕事機械大好き！TFなどの変形玩具、本・マンガ読みは趣味。最近はちょっとアキバに行けるように。面白い話大歓迎。親バカ。頑張る人、正直な人、他人の為犠牲する人の味方。",
+        "id": "383880629",
+        "location": "日本 東京",
+        "name": "東京平安熊#🐒🎁🦀🍤🐷❤️‍🩹",
+        "pinned_tweet_id": "1978659297849397448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908082032259051520/xp1DXcYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2702,
+          "following_count": 1545,
+          "like_count": 533359,
+          "listed_count": 22,
+          "media_count": 4986,
+          "tweet_count": 51296
+        },
+        "username": "TokyoHeianBear",
+        "verified": false
+      }
+    ]
+  }
+}

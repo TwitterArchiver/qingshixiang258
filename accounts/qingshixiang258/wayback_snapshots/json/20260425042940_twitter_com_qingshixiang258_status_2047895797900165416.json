@@ -1,0 +1,620 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047725929599057920"
+      ],
+      "media_source_tweet_id": [
+        "2047727634210279454"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      }
+    ],
+    "conversation_id": "2047895797900165416",
+    "created_at": "2026-04-25T04:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047895797900165416"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 32,
+          "tag": "warhammer40k"
+        },
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "fanart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1274867355407970304",
+          "start": 3,
+          "username": "ginias1007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DzzL8mxPE9",
+          "end": 77,
+          "expanded_url": "https://x.com/ginias1007/status/2047727634210279454/video/1",
+          "media_key": "13_2047725929599057920",
+          "start": 54,
+          "url": "https://t.co/DzzL8mxPE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047895797900165416",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047727634210279454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ginias1007: Lion el'jonson\n\n#warhammer40k #fanart https://t.co/DzzL8mxPE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52240,
+        "height": 1712,
+        "media_key": "13_2047725929599057920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047725929599057920/img/Xb33COzpG5jCqPV0.jpg",
+        "public_metrics": {
+          "view_count": 1158
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047725929599057920/vid/avc1/320x452/jb-at-c7-OITJz_c.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047725929599057920/vid/avc1/480x678/9m__Yy2dpvXmyUy4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047725929599057920/vid/avc1/720x1016/E82K4FVqwGFzL4RI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047725929599057920/pl/1GGrqKbXichnvtjc.m3u8?tag=14&v=e2e"
+          }
+        ],
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047725929599057920"
+          ],
+          "media_source_tweet_id": [
+            "2047727634210279454"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "2047895797900165416",
+        "created_at": "2026-04-25T04:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047895797900165416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 32,
+              "tag": "warhammer40k"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "fanart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1274867355407970304",
+              "start": 3,
+              "username": "ginias1007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzzL8mxPE9",
+              "end": 77,
+              "expanded_url": "https://x.com/ginias1007/status/2047727634210279454/video/1",
+              "media_key": "13_2047725929599057920",
+              "start": 54,
+              "url": "https://t.co/DzzL8mxPE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047895797900165416",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047727634210279454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ginias1007: Lion el'jonson\n\n#warhammer40k #fanart https://t.co/DzzL8mxPE9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047725929599057920"
+          ]
+        },
+        "author_id": "1274867355407970304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "2047727634210279454",
+        "created_at": "2026-04-24T17:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047727634210279454"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "warhammer40k"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "fanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzzL8mxPE9",
+              "end": 61,
+              "expanded_url": "https://x.com/ginias1007/status/2047727634210279454/video/1",
+              "media_key": "13_2047725929599057920",
+              "start": 38,
+              "url": "https://t.co/DzzL8mxPE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047727634210279454",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 4461,
+          "like_count": 419,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "Lion el'jonson\n\n#warhammer40k #fanart https://t.co/DzzL8mxPE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 1637,
+          "like_count": 39560,
+          "listed_count": 9,
+          "media_count": 1201,
+          "tweet_count": 19556
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-22T00:50:50.000Z",
+        "description": "地球再见我回母星了",
+        "id": "1274867355407970304",
+        "location": "credit artist when you repost",
+        "name": "纪年Ginias",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741848306614190080/RvH9l6n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14926,
+          "following_count": 153,
+          "like_count": 783,
+          "listed_count": 62,
+          "media_count": 288,
+          "tweet_count": 430
+        },
+        "username": "ginias1007",
+        "verified": false
+      }
+    ]
+  }
+}

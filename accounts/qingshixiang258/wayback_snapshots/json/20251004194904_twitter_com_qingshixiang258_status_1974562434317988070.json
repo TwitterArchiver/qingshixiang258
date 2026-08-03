@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1974471547118342232",
+    "created_at": "2025-10-04T19:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T20:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974562434317988070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744616499657003008",
+          "start": 0,
+          "username": "c17709381285196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974562434317988070",
+    "in_reply_to_user_id": "1744616499657003008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974471547118342232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c17709381285196 没脑子是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1974471547118342232",
+        "created_at": "2025-10-04T19:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T20:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974562434317988070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744616499657003008",
+              "start": 0,
+              "username": "c17709381285196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974562434317988070",
+        "in_reply_to_user_id": "1744616499657003008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974471547118342232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c17709381285196 没脑子是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744616499657003008",
+        "conversation_id": "1974471547118342232",
+        "created_at": "2025-10-04T13:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974471547118342232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yizhixiaoxun52…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/yizhixiaoxun520/status/1974447111099052374",
+              "start": 35,
+              "url": "https://t.co/8n5pHrqx27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974471547118342232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974447111099052374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你神经病吧人家怕你出事关心你还骂人，终于知道为啥那么多人b你了😆😆😆 https://t.co/8n5pHrqx27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介                                                   私密空间@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 1329,
+          "like_count": 31109,
+          "listed_count": 7,
+          "media_count": 834,
+          "tweet_count": 14011
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T07:06:36.000Z",
+        "description": "09/前mtf 此账号发癫用",
+        "id": "1744616499657003008",
+        "location": "你的身边",
+        "name": "绪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973605273555312643/EVQ5pokW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 874,
+          "like_count": 2637,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 955
+        },
+        "username": "c17709381285196",
+        "verified": false
+      }
+    ]
+  }
+}

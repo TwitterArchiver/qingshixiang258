@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991902727354650624",
+        "3_1991902727346266113"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1991902743993495726",
+    "created_at": "2025-11-21T16:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991902743993495726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CvlFIFeZpv",
+          "end": 36,
+          "expanded_url": "https://x.com/qingshixiang258/status/1991902743993495726/photo/1",
+          "media_key": "3_1991902727354650624",
+          "start": 13,
+          "url": "https://t.co/CvlFIFeZpv"
+        },
+        {
+          "display_url": "pic.x.com/CvlFIFeZpv",
+          "end": 36,
+          "expanded_url": "https://x.com/qingshixiang258/status/1991902743993495726/photo/1",
+          "media_key": "3_1991902727346266113",
+          "start": 13,
+          "url": "https://t.co/CvlFIFeZpv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991902743993495726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友的房间，借来拍摄～🫣 https://t.co/CvlFIFeZpv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991902743993495726].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991902743993495726",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991902743993495726"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2011,
+        "media_key": "3_1991902727354650624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6So-hsbEAA3smW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1991902727346266113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6So-hqbIAEyFG6.jpg",
+        "width": 1730
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1417,
+          "like_count": 34488,
+          "listed_count": 8,
+          "media_count": 936,
+          "tweet_count": 15281
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

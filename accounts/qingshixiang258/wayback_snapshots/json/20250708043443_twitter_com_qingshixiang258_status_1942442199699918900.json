@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1942236414579441846",
+    "created_at": "2025-07-08T04:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T05:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942442199699918900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880109814241746944",
+          "start": 0,
+          "username": "fallenleavesw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942442199699918900",
+    "in_reply_to_user_id": "1880109814241746944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942236414579441846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fallenleavesw 其实我一直想学调酒🍸🤧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1870,
+        "media_key": "3_1942236346497552385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQ1qq7W0AEtNGw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942236346795307009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvQ1qsCWMAEuCCD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1942236414579441846",
+        "created_at": "2025-07-08T04:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942442199699918900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880109814241746944",
+              "start": 0,
+              "username": "fallenleavesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942442199699918900",
+        "in_reply_to_user_id": "1880109814241746944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942236414579441846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fallenleavesw 其实我一直想学调酒🍸🤧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942236346497552385",
+            "3_1942236346795307009"
+          ]
+        },
+        "author_id": "1880109814241746944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Rum",
+              "id": "850429726850076672",
+              "name": "Rum"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rum",
+              "id": "850429726850076672",
+              "name": "Rum"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Rum",
+              "id": "850429726850076672",
+              "name": "Rum"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gin",
+              "id": "850413695184257024",
+              "name": "Gin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Gin",
+              "id": "850413695184257024",
+              "name": "Gin"
+            }
+          }
+        ],
+        "conversation_id": "1942236414579441846",
+        "created_at": "2025-07-07T14:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942236414579441846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IaLdSFnEoA",
+              "end": 164,
+              "expanded_url": "https://x.com/fallenleavesw/status/1942236414579441846/photo/1",
+              "media_key": "3_1942236346497552385",
+              "start": 141,
+              "url": "https://t.co/IaLdSFnEoA"
+            },
+            {
+              "display_url": "pic.x.com/IaLdSFnEoA",
+              "end": 164,
+              "expanded_url": "https://x.com/fallenleavesw/status/1942236414579441846/photo/1",
+              "media_key": "3_1942236346795307009",
+              "start": 141,
+              "url": "https://t.co/IaLdSFnEoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942236414579441846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "特调、苏威+蜜瓜利口酒（不知道具体）+盐，配了一块儿蜜瓜+火腿。\n\n很棒的组合，像在火炉边闻着淡淡的泥煤喝小甜水。盐放的很妙，把厚重的泥煤与果味儿做了过渡与融合。\n\n试了店里自制的冷萃酒，菠萝+话梅+gin/迷迭香+rum。迷迭香那款柔和清冷超喜欢，适合佐黄油味儿又有肉酸的牛排。\n\n临走还送了一点mortis（？），没搜到虽然。但花香很重，像百合那种清甜香、印象超深www"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特调、苏威+蜜瓜利口酒（不知道具体）+盐，配了一块儿蜜瓜+火腿。\n\n很棒的组合，像在火炉边闻着淡淡的泥煤喝小甜水。盐放的很妙，把厚重的泥煤与果味儿做了过渡与融合。\n\n试了店里自制的冷萃酒，菠萝+话梅+gin/迷迭香+rum。迷迭香那款柔和清冷超喜欢，适合佐黄油味儿又有肉酸的牛排。 https://t.co/IaLdSFnEoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 1190,
+          "like_count": 25478,
+          "listed_count": 5,
+          "media_count": 647,
+          "tweet_count": 11186
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "约克在读mtx(mt什么啊我真不知道)🍥/位置多伦多，欢迎扩列w/爱人❤️@VentusUta/ 闲云推月，静风拂尘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "VentusUta"
+              }
+            ]
+          }
+        },
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍥",
+        "pinned_tweet_id": "1881601897531875776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880117301489364992/8cjlM9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 465,
+          "like_count": 18604,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 3475
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      }
+    ]
+  }
+}

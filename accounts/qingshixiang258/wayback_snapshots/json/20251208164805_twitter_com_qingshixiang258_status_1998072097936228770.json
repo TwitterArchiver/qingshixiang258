@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1997359400005304771",
+    "created_at": "2025-12-08T16:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998072097936228770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845043845266014211",
+          "start": 0,
+          "username": "waxcwsxcdg520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998072097936228770",
+    "in_reply_to_user_id": "1845043845266014211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998054751335063558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waxcwsxcdg520 好的，我这就删掉，我以为是群友ai跑的来着对不起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_1998054748554162176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qENSlacAAP4_9.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1997359400005304771",
+        "created_at": "2025-12-08T16:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998072097936228770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845043845266014211",
+              "start": 0,
+              "username": "waxcwsxcdg520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998072097936228770",
+        "in_reply_to_user_id": "1845043845266014211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998054751335063558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waxcwsxcdg520 好的，我这就删掉，我以为是群友ai跑的来着对不起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998054748554162176"
+          ]
+        },
+        "author_id": "1845043845266014211",
+        "conversation_id": "1997359400005304771",
+        "created_at": "2025-12-08T15:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998054751335063558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/daaEwLxLcG",
+              "end": 40,
+              "expanded_url": "https://x.com/waxcwsxcdg520/status/1998054751335063558/photo/1",
+              "media_key": "3_1998054748554162176",
+              "start": 17,
+              "url": "https://t.co/daaEwLxLcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998054751335063558",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997682022140272804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 https://t.co/daaEwLxLcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 1500,
+          "like_count": 35103,
+          "listed_count": 9,
+          "media_count": 960,
+          "tweet_count": 15819
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:08:32.000Z",
+        "description": "是女生啦(˃ ⌑ ˂ഃ )\n会发一点碎碎念和一些图片，请不要在意，请不要关注我(｡•́︿•̀｡)\n是杂食党，什么都看一点。\n我很好说话的，但是补药骂我补药欺负我啊(｡í _ ì｡)",
+        "id": "1845043845266014211",
+        "location": "America",
+        "name": "我乱说的补药骂我",
+        "pinned_tweet_id": "1993583990796915082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997733172835123200/REJXGeLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 49,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 126
+        },
+        "username": "waxcwsxcdg520",
+        "verified": false
+      }
+    ]
+  }
+}

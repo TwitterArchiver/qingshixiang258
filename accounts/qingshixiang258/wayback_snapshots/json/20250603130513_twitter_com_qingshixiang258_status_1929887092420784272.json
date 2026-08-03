@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1929885212948803655",
+    "created_at": "2025-06-03T13:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T14:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929887092420784272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725303955297824768",
+          "start": 0,
+          "username": "Mostima2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929887092420784272",
+    "in_reply_to_user_id": "1725303955297824768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929885212948803655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mostima2025 舍友干什么蠢事了？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929885212948803655].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929885212948803655",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929885212948803655"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1929885212948803655",
+        "created_at": "2025-06-03T13:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929887092420784272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725303955297824768",
+              "start": 0,
+              "username": "Mostima2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929887092420784272",
+        "in_reply_to_user_id": "1725303955297824768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929885212948803655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mostima2025 舍友干什么蠢事了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1929183338176147686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1039,
+          "like_count": 22967,
+          "listed_count": 6,
+          "media_count": 574,
+          "tweet_count": 10010
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T00:05:03.000Z",
+        "description": "大号@shiroko2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "shiroko2024"
+              }
+            ]
+          }
+        },
+        "id": "1725303955297824768",
+        "location": "拉特兰",
+        "name": "枫糖小莫",
+        "pinned_tweet_id": "1919912659727876398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920511311718305792/G_Ge8uio_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 379,
+          "like_count": 1792,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 290
+        },
+        "username": "Mostima2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2008206159761854466"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2008206162035093838",
+    "created_at": "2026-01-05T15:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T16:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008206162035093838"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008206162035093838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你认为现在是一个信息迅速流动的时代么？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-01-06T15:57:13.000Z",
+        "id": "2008206159761854466",
+        "options": [
+          {
+            "label": "✅",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "❌",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2008206159761854466"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2008206162035093838",
+        "created_at": "2026-01-05T15:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008206162035093838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008206162035093838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你认为现在是一个信息迅速流动的时代么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1364,
+          "like_count": 35656,
+          "listed_count": 9,
+          "media_count": 986,
+          "tweet_count": 16423
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

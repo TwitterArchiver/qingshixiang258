@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1947325049444425739",
+    "created_at": "2025-07-21T16:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T17:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947327623690117440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864319392760385540",
+          "start": 0,
+          "username": "Q1ngyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947327623690117440",
+    "in_reply_to_user_id": "1864319392760385540",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947327554949656943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q1ngyi 基咪🙏"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1947327554949656943].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947327554949656943",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1947327554949656943"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1947325049444425739",
+        "created_at": "2025-07-21T16:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947327623690117440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864319392760385540",
+              "start": 0,
+              "username": "Q1ngyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947327623690117440",
+        "in_reply_to_user_id": "1864319392760385540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947327554949656943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q1ngyi 基咪🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "_akitayura"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 1219,
+          "like_count": 26177,
+          "listed_count": 6,
+          "media_count": 672,
+          "tweet_count": 11493
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T14:42:43.000Z",
+        "description": "墨砚斋传送门@Hibi3cus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "Hibi3cus"
+              }
+            ]
+          }
+        },
+        "id": "1864319392760385540",
+        "name": "师师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940689351211732995/6tHLyF03_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 81,
+          "like_count": 2154,
+          "listed_count": 4,
+          "media_count": 84,
+          "tweet_count": 2735
+        },
+        "username": "Q1ngyi",
+        "verified": false
+      }
+    ]
+  }
+}

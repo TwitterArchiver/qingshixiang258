@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2004783139013755006",
+    "created_at": "2025-12-27T06:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004796789892022387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004796789892022387",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004783139013755006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi 本质还是画圈子，排挤异议者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2004783139013755006",
+        "created_at": "2025-12-27T06:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004796789892022387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004796789892022387",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004783139013755006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi 本质还是画圈子，排挤异议者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356583549",
+        "conversation_id": "2004783139013755006",
+        "created_at": "2025-12-27T05:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004783139013755006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SagerRgyalpo/s…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/SagerRgyalpo/status/2003308237962248658",
+              "start": 131,
+              "url": "https://t.co/BcjF0MUWn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004783139013755006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003308237962248658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起初，她们针对的是 顺性别男性，没有女籍就是原罪；\n后来，他们开始针对 跨性别女性，开除她们的女籍；\n现在，它们对不够激进的 顺性别女性，也打为需要开除女籍的背叛者。\n从辱男词典，到辱跨词典，到开始自己书写辱女词典；\n而这些词典的扉页却口口声声说着在争取平权。 https://t.co/BcjF0MUWn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003124565036396545/MYBsEibq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 1488,
+          "like_count": 35347,
+          "listed_count": 9,
+          "media_count": 974,
+          "tweet_count": 16123
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没有头像和推文的、或广告人乐子人别点关注会被拉黑。女装不发R18（但有擦边的）。友跨顺男，撑跨。大龄女装爱好者。喜欢无性SM（Switch）。G+难民。曾脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgrsWF"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "1700827655258690027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14942,
+          "following_count": 5653,
+          "like_count": 20142,
+          "listed_count": 61,
+          "media_count": 517,
+          "tweet_count": 4088
+        },
+        "url": "https://t.co/s9yovgrsWF",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

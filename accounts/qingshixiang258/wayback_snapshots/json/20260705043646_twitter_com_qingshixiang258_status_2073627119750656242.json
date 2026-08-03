@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073627107788496897"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073627119750656242",
+    "created_at": "2026-07-05T04:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073627119750656242"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "对啊吃什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ylv5ausMqQ",
+          "end": 30,
+          "expanded_url": "https://x.com/qingshixiang258/status/2073627119750656242/photo/1",
+          "media_key": "3_2073627107788496897",
+          "start": 7,
+          "url": "https://t.co/Ylv5ausMqQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073627119750656242",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#对啊吃什么 https://t.co/Ylv5ausMqQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073627107788496897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcA3jRaoAEnn4x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073627107788496897"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073627119750656242",
+        "created_at": "2026-07-05T04:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073627119750656242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "对啊吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ylv5ausMqQ",
+              "end": 30,
+              "expanded_url": "https://x.com/qingshixiang258/status/2073627119750656242/photo/1",
+              "media_key": "3_2073627107788496897",
+              "start": 7,
+              "url": "https://t.co/Ylv5ausMqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073627119750656242",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#对啊吃什么 https://t.co/Ylv5ausMqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071265514597519361/MXKHALWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 1687,
+          "like_count": 44276,
+          "listed_count": 10,
+          "media_count": 1332,
+          "tweet_count": 21290
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

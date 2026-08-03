@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1963243146516574424",
+    "created_at": "2025-09-03T14:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T15:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963251180982734870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824814270275899393",
+          "start": 0,
+          "username": "James_sunny001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963251180982734870",
+    "in_reply_to_user_id": "1824814270275899393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963243146516574424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@James_sunny001 骑车拍啊？注意安全诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1963243146516574424",
+        "created_at": "2025-09-03T14:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T15:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963251180982734870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824814270275899393",
+              "start": 0,
+              "username": "James_sunny001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963251180982734870",
+        "in_reply_to_user_id": "1824814270275899393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963243146516574424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James_sunny001 骑车拍啊？注意安全诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824814270275899393",
+        "conversation_id": "1963243146516574424",
+        "created_at": "2025-09-03T14:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T15:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963243146516574424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aftercare55082…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Aftercare550820/status/1962867002164580493",
+              "start": 2,
+              "url": "https://t.co/SsftC9JR1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963243146516574424",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962867002164580493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/SsftC9JR1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962157986505453568/SrEovYX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 1393,
+          "like_count": 29322,
+          "listed_count": 8,
+          "media_count": 774,
+          "tweet_count": 13221
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:23:35.000Z",
+        "description": "@Aftercare550820的女奴/男尊女卑/长期找单女m加入我们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Aftercare550820"
+              }
+            ]
+          }
+        },
+        "id": "1824814270275899393",
+        "name": "宿宿sunny",
+        "pinned_tweet_id": "1895101612932182248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957829608318828544/2B_nGCql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622,
+          "following_count": 13,
+          "like_count": 7784,
+          "listed_count": 8,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "James_sunny001",
+        "verified": false
+      }
+    ]
+  }
+}

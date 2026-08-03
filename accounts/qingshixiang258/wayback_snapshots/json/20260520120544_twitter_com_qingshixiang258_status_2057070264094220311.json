@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2057059107845341537",
+    "created_at": "2026-05-20T12:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057070264094220311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "970525948847144960",
+          "start": 0,
+          "username": "Logic_Accepted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057070264094220311",
+    "in_reply_to_user_id": "970525948847144960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057068733525627035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Logic_Accepted 我知道呀，特意卷过来的，好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2057059107845341537",
+        "created_at": "2026-05-20T12:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057070264094220311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "970525948847144960",
+              "start": 0,
+              "username": "Logic_Accepted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057070264094220311",
+        "in_reply_to_user_id": "970525948847144960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057068733525627035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Logic_Accepted 我知道呀，特意卷过来的，好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "970525948847144960",
+        "conversation_id": "2057059107845341537",
+        "created_at": "2026-05-20T11:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057068733525627035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057068733525627035",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057059107845341537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 青姐穿反了吧 www 这个猫爪是防滑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是\n你知道的我最喜欢 @hhngki7292924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "hhngki7292924"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 1686,
+          "like_count": 41359,
+          "listed_count": 9,
+          "media_count": 1252,
+          "tweet_count": 20330
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-05T05:06:32.000Z",
+        "description": "欢迎交朋友，对你的推文感兴趣会互 fo 这里分享生活 不喜欢政治和吵架，并可能会屏蔽，不是你的错",
+        "id": "970525948847144960",
+        "location": "Sky Dynasty",
+        "name": "あゆAyu🧠",
+        "pinned_tweet_id": "1594480827249086465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234062601878818816/L-BJHTBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 269,
+          "like_count": 12774,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1494
+        },
+        "username": "Logic_Accepted",
+        "verified": false
+      }
+    ]
+  }
+}

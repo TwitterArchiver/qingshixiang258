@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2059175406432026737",
+    "created_at": "2026-05-26T07:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059175406432026737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yulian0617/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/yulian0617/status/1999930938051191095",
+          "start": 17,
+          "url": "https://t.co/dcFLn09oJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059175406432026737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999930938051191095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会扔掉你们，在你们不爱我之前。 https://t.co/dcFLn09oJ5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2059175406432026737",
+        "created_at": "2026-05-26T07:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059175406432026737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yulian0617/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yulian0617/status/1999930938051191095",
+              "start": 17,
+              "url": "https://t.co/dcFLn09oJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059175406432026737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999930938051191095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会扔掉你们，在你们不爱我之前。 https://t.co/dcFLn09oJ5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896618655548649472",
+        "conversation_id": "1999930938051191095",
+        "created_at": "2025-12-13T19:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999930938051191095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999930938051191095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会尽量爱你们的，在你们把我扔掉之前，尽量吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1689,
+          "like_count": 41661,
+          "listed_count": 10,
+          "media_count": 1259,
+          "tweet_count": 20461
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T17:48:27.000Z",
+        "description": "你说得对，但是我攻击性很强",
+        "id": "1896618655548649472",
+        "location": "小于10km",
+        "name": "青衫引梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006192591411314688/oSkynilC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 69,
+          "like_count": 312,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 233
+        },
+        "username": "yulian0617",
+        "verified": false
+      }
+    ]
+  }
+}

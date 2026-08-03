@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1970790904383582268",
+    "created_at": "2025-09-24T12:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T13:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970831717096464781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1887401098178342912",
+          "start": 0,
+          "username": "Taolixianshichu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970831717096464781",
+    "in_reply_to_user_id": "1887401098178342912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970790904383582268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taolixianshichu 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1970790904383582268",
+        "created_at": "2025-09-24T12:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T13:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970831717096464781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1887401098178342912",
+              "start": 0,
+              "username": "Taolixianshichu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970831717096464781",
+        "in_reply_to_user_id": "1887401098178342912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970790904383582268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taolixianshichu 哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887401098178342912",
+        "conversation_id": "1970790904383582268",
+        "created_at": "2025-09-24T10:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970790904383582268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDzhanshou5150…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/DDzhanshou5150/status/1970579825778909264",
+              "start": 8,
+              "url": "https://t.co/q8IpNF6qUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970790904383582268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970579825778909264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看的我有点心碎 https://t.co/q8IpNF6qUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968343101979897856/T41BJaco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 1412,
+          "like_count": 30365,
+          "listed_count": 7,
+          "media_count": 814,
+          "tweet_count": 13696
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T07:21:23.000Z",
+        "description": "",
+        "id": "1887401098178342912",
+        "name": "爱心酱",
+        "pinned_tweet_id": "1900459980777808315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887402260583620611/xYv3tyLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 316,
+          "like_count": 31162,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 6271
+        },
+        "username": "Taolixianshichu",
+        "verified": false
+      }
+    ]
+  }
+}

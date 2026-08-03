@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017999278921408512"
+      ],
+      "media_source_tweet_id": [
+        "2018165729347195289"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2018250548844359983",
+    "created_at": "2026-02-02T09:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T10:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018250548844359983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1849790041343856640",
+          "start": 3,
+          "username": "TEN_GOKU_X"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6vjw65jepk",
+          "end": 67,
+          "expanded_url": "https://x.com/TEN_GOKU_X/status/2018165729347195289/photo/1",
+          "media_key": "3_2017999278921408512",
+          "start": 44,
+          "url": "https://t.co/6vjw65jepk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018250548844359983",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018165729347195289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TEN_GOKU_X: 【リクエスト】ふたなりJKちゃん、初めての尿道えっち… https://t.co/6vjw65jepk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018250548844359983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018250548844359983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018250548844359983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2033,
+        "media_key": "3_2017999278921408512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAFfpwEa4AAFVnG.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017999278921408512"
+          ]
+        },
+        "author_id": "1849790041343856640",
+        "conversation_id": "2018165729347195289",
+        "created_at": "2026-02-02T03:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018165729347195289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6vjw65jepk",
+              "end": 51,
+              "expanded_url": "https://x.com/TEN_GOKU_X/status/2018165729347195289/photo/1",
+              "media_key": "3_2017999278921408512",
+              "start": 28,
+              "url": "https://t.co/6vjw65jepk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018165729347195289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 578,
+          "impression_count": 25148,
+          "like_count": 1658,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "【リクエスト】ふたなりJKちゃん、初めての尿道えっち… https://t.co/6vjw65jepk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 1406,
+          "like_count": 36602,
+          "listed_count": 8,
+          "media_count": 1050,
+          "tweet_count": 17209
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-25T12:28:18.000Z",
+        "description": "✦ I drawing FUTANARI. 　\n✦ PIXIV https://t.co/X9Ffe1joVX　\n✦ FANBOX https://t.co/zJLKKDeefN　\n✦ LitLink https://t.co/lYIWWD2XTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/100864908",
+                "end": 55,
+                "expanded_url": "https://www.pixiv.net/users/100864908",
+                "start": 32,
+                "url": "https://t.co/X9Ffe1joVX"
+              },
+              {
+                "display_url": "ten-goku.fanbox.cc",
+                "end": 89,
+                "expanded_url": "https://ten-goku.fanbox.cc/",
+                "start": 66,
+                "url": "https://t.co/zJLKKDeefN"
+              },
+              {
+                "display_url": "lit.link/TENGOKU",
+                "end": 124,
+                "expanded_url": "https://lit.link/TENGOKU",
+                "start": 101,
+                "url": "https://t.co/lYIWWD2XTk"
+              }
+            ]
+          }
+        },
+        "id": "1849790041343856640",
+        "name": "T E N G O K U",
+        "pinned_tweet_id": "2018165729347195289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967247414395535360/uMoAIndw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28141,
+          "following_count": 3274,
+          "like_count": 1211,
+          "listed_count": 187,
+          "media_count": 8,
+          "tweet_count": 2668
+        },
+        "username": "TEN_GOKU_X",
+        "verified": true
+      }
+    ]
+  }
+}

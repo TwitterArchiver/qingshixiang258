@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1982082438676488334",
+    "created_at": "2026-05-26T07:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059174679286551038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1708874582554513408",
+          "start": 0,
+          "username": "hehuoyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059174679286551038",
+    "in_reply_to_user_id": "1708874582554513408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982456861996789878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hehuoyuan 话说回来我第一个社团还是被人拉着进的来着，不过确实也度过了一个很棒的大学生活呢。认识了很多人，学了很多事情…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1982082438676488334",
+        "created_at": "2026-05-26T07:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059174679286551038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1708874582554513408",
+              "start": 0,
+              "username": "hehuoyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059174679286551038",
+        "in_reply_to_user_id": "1708874582554513408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982456861996789878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hehuoyuan 话说回来我第一个社团还是被人拉着进的来着，不过确实也度过了一个很棒的大学生活呢。认识了很多人，学了很多事情…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708874582554513408",
+        "conversation_id": "1982082438676488334",
+        "created_at": "2025-10-26T14:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982456861996789878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982456861996789878",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982082438676488334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 社团？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1689,
+          "like_count": 41660,
+          "listed_count": 10,
+          "media_count": 1259,
+          "tweet_count": 20460
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T16:01:10.000Z",
+        "description": "喜欢梗图bot和关注画师老师，还有一些碎碎念？",
+        "id": "1708874582554513408",
+        "location": "地球",
+        "name": "鶴火源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033633421558456320/FxKKhHnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 254,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1401
+        },
+        "username": "hehuoyuan",
+        "verified": false
+      }
+    ]
+  }
+}

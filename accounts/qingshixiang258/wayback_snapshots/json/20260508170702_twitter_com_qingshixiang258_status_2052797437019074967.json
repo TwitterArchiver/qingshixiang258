@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2052419814715703369",
+    "created_at": "2026-05-08T17:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052797437019074967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636943878317285376",
+          "start": 0,
+          "username": "smeridiw3920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052797437019074967",
+    "in_reply_to_user_id": "1636943878317285376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052697169736679903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smeridiw3920 人底层逻辑都是一样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2052419814715703369",
+        "created_at": "2026-05-08T17:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052797437019074967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636943878317285376",
+              "start": 0,
+              "username": "smeridiw3920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052797437019074967",
+        "in_reply_to_user_id": "1636943878317285376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052697169736679903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smeridiw3920 人底层逻辑都是一样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636943878317285376",
+        "conversation_id": "2052419814715703369",
+        "created_at": "2026-05-08T10:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052697169736679903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052697169736679903",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052419814715703369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 韩国推特圈尤其是这样，为了浏览量什么都发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1687,
+          "like_count": 40486,
+          "listed_count": 9,
+          "media_count": 1233,
+          "tweet_count": 19994
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T04:13:48.000Z",
+        "description": "Fiat iustitia, et pereat mundus",
+        "id": "1636943878317285376",
+        "name": "두부",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997694276973768704/pt9LWk4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 151,
+          "like_count": 5600,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1097
+        },
+        "username": "smeridiw3920",
+        "verified": false
+      }
+    ]
+  }
+}

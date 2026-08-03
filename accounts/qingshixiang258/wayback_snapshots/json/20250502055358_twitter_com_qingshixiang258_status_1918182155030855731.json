@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1918167659230925139",
+    "created_at": "2025-05-02T05:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T06:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918182155030855731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1762820280035250176",
+          "start": 0,
+          "username": "Ocelot8964"
+        },
+        {
+          "end": 27,
+          "id": "1866902607954055170",
+          "start": 12,
+          "username": "qing1814486981"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918182155030855731",
+    "in_reply_to_user_id": "1762820280035250176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918168655277482376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ocelot8964 @qing1814486981 你猜🫶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918168655277482376].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1918168655277482376",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1918168655277482376"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1918167659230925139",
+        "created_at": "2025-05-02T05:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918182155030855731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1762820280035250176",
+              "start": 0,
+              "username": "Ocelot8964"
+            },
+            {
+              "end": 27,
+              "id": "1866902607954055170",
+              "start": 12,
+              "username": "qing1814486981"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918182155030855731",
+        "in_reply_to_user_id": "1762820280035250176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918168655277482376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ocelot8964 @qing1814486981 你猜🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "GREENFANS🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916284947746459648/Fmz_BBPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 874,
+          "like_count": 18434,
+          "listed_count": 5,
+          "media_count": 311,
+          "tweet_count": 8141
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T12:41:36.000Z",
+        "description": "Bilingualism: Chinese🇨🇳🇹🇼&English🇺🇸 To china,may freedom reign! Glory belongs to LIBERTY!!! #FuckAuthoritatianism 民主万岁！被极权与威权迫害的烈士万岁！@lifa_Petter",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 92,
+                "tag": "FuckAuthoritatianism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 145,
+                "start": 133,
+                "username": "lifa_Petter"
+              }
+            ]
+          }
+        },
+        "id": "1762820280035250176",
+        "location": "IP地址：梁家河",
+        "name": "豹猫🇺🇸 Ocelot",
+        "pinned_tweet_id": "1916874319504003342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 504,
+          "like_count": 11105,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 5251
+        },
+        "username": "Ocelot8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T17:47:33.000Z",
+        "description": "这里作为我的空间",
+        "id": "1866902607954055170",
+        "location": "群星",
+        "name": "孤山🕊️⛰️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918152969511682049/Eyjd3s8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 12,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 150
+        },
+        "username": "qing1814486981",
+        "verified": false
+      }
+    ]
+  }
+}

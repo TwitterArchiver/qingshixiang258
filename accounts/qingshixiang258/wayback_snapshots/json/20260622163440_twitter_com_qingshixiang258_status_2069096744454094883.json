@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2069095405883945030",
+    "created_at": "2026-06-22T16:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069096744454094883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009765103236009984",
+          "start": 0,
+          "username": "rudo_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069096744454094883",
+    "in_reply_to_user_id": "2009765103236009984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069095405883945030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rudo_u ohno！有傷到嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2069095405883945030",
+        "created_at": "2026-06-22T16:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069096744454094883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009765103236009984",
+              "start": 0,
+              "username": "rudo_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069096744454094883",
+        "in_reply_to_user_id": "2009765103236009984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069095405883945030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rudo_u ohno！有傷到嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009765103236009984",
+        "conversation_id": "2069095405883945030",
+        "created_at": "2026-06-22T16:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069095405883945030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069095405883945030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下床踩空，差点死寝室😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1691,
+          "like_count": 43828,
+          "listed_count": 10,
+          "media_count": 1322,
+          "tweet_count": 21160
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:12:20.000Z",
+        "description": "",
+        "id": "2009765103236009984",
+        "name": "urudo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061093445046095872/SIRoD08W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 118,
+          "like_count": 2561,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "rudo_u",
+        "verified": false
+      }
+    ]
+  }
+}

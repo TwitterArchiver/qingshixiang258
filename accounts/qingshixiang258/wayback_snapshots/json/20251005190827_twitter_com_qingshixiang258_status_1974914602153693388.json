@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874986545456848896"
+      ],
+      "media_source_tweet_id": [
+        "1874986548355379407"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1974914602153693388",
+    "created_at": "2025-10-05T19:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T20:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974914602153693388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1152145212191453186",
+          "start": 3,
+          "username": "aestheticwabi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cKUhHn58hf",
+          "end": 61,
+          "expanded_url": "https://x.com/aestheticwabi/status/1874986548355379407/photo/1",
+          "media_key": "3_1874986545456848896",
+          "start": 38,
+          "url": "https://t.co/cKUhHn58hf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974914602153693388",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874986548355379407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aestheticwabi: What do you think? https://t.co/cKUhHn58hf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1874986545456848896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgVKVDiXoAAufvl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874986545456848896"
+          ],
+          "media_source_tweet_id": [
+            "1874986548355379407"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1974914602153693388",
+        "created_at": "2025-10-05T19:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974914602153693388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1152145212191453186",
+              "start": 3,
+              "username": "aestheticwabi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKUhHn58hf",
+              "end": 61,
+              "expanded_url": "https://x.com/aestheticwabi/status/1874986548355379407/photo/1",
+              "media_key": "3_1874986545456848896",
+              "start": 38,
+              "url": "https://t.co/cKUhHn58hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974914602153693388",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874986548355379407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aestheticwabi: What do you think? https://t.co/cKUhHn58hf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874986545456848896"
+          ]
+        },
+        "author_id": "1152145212191453186",
+        "conversation_id": "1874986548355379407",
+        "created_at": "2025-01-03T01:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T02:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874986548355379407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKUhHn58hf",
+              "end": 42,
+              "expanded_url": "https://x.com/aestheticwabi/status/1874986548355379407/photo/1",
+              "media_key": "3_1874986545456848896",
+              "start": 19,
+              "url": "https://t.co/cKUhHn58hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874986548355379407",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 29605,
+          "like_count": 672,
+          "quote_count": 10,
+          "reply_count": 33,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "What do you think? https://t.co/cKUhHn58hf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 1333,
+          "like_count": 31283,
+          "listed_count": 7,
+          "media_count": 837,
+          "tweet_count": 14048
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-19T09:16:39.000Z",
+        "description": "Soft moments where nature meets calm, green fields, gentle dreams, and the loud voice of simplicity. AI generated.\nFor promotion and sponsorship inquiries, DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aestheticwabi",
+                "end": 23,
+                "expanded_url": "http://instagram.com/aestheticwabi",
+                "start": 0,
+                "url": "https://t.co/j40p8r6tel"
+              }
+            ]
+          }
+        },
+        "id": "1152145212191453186",
+        "name": "𝘢𝘦𝘴𝘵𝘩𝘦𝘵𝘪𝘤 𝘷𝘪𝘴𝘶𝘢𝘭𝘴 •°. *࿐",
+        "pinned_tweet_id": "1973806318428549282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1437094961284100096/rgTHmO4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345203,
+          "following_count": 11351,
+          "like_count": 17077,
+          "listed_count": 1421,
+          "media_count": 4707,
+          "tweet_count": 7679
+        },
+        "url": "https://t.co/j40p8r6tel",
+        "username": "aestheticwabi",
+        "verified": true
+      }
+    ]
+  }
+}

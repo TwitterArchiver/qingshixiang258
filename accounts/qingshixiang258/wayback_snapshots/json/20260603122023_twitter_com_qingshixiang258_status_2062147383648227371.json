@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2062147383648227371",
+    "created_at": "2026-06-03T12:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062147383648227371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553625577730428929",
+          "start": 3,
+          "username": "cyrs0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062147383648227371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062093144829898905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyrs0519: 十六七岁混圈药娘如同过江之鲫，隔两个月换一批、生命周期比鲑鱼短"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2062147383648227371",
+        "created_at": "2026-06-03T12:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062147383648227371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553625577730428929",
+              "start": 3,
+              "username": "cyrs0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062147383648227371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062093144829898905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyrs0519: 十六七岁混圈药娘如同过江之鲫，隔两个月换一批、生命周期比鲑鱼短"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553625577730428929",
+        "conversation_id": "2062093144829898905",
+        "created_at": "2026-06-03T08:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062093144829898905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosusu456/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/xiaosusu456/status/2061758027871727681",
+              "start": 32,
+              "url": "https://t.co/0ewgNUrvmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062093144829898905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1037,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061758027871727681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十六七岁混圈药娘如同过江之鲫，隔两个月换一批、生命周期比鲑鱼短 https://t.co/0ewgNUrvmL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1685,
+          "like_count": 42423,
+          "listed_count": 10,
+          "media_count": 1283,
+          "tweet_count": 20722
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T06:16:29.000Z",
+        "description": "含糖三年，性别未知，是只野猫（？🚪88",
+        "id": "1553625577730428929",
+        "location": "北京",
+        "name": "漫天星白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056432007501279233/g-19ZLiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 274,
+          "like_count": 8801,
+          "listed_count": 21,
+          "media_count": 882,
+          "tweet_count": 5082
+        },
+        "username": "cyrs0519",
+        "verified": false
+      }
+    ]
+  }
+}

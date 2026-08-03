@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2048603417757798519",
+    "created_at": "2026-04-27T03:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048611402919846252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912667915251511296",
+          "start": 0,
+          "username": "Ciky_Shore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048611402919846252",
+    "in_reply_to_user_id": "1912667915251511296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048610974182285750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciky_Shore 南征"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2048603417757798519",
+        "created_at": "2026-04-27T03:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048611402919846252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912667915251511296",
+              "start": 0,
+              "username": "Ciky_Shore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048611402919846252",
+        "in_reply_to_user_id": "1912667915251511296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048610974182285750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciky_Shore 南征"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912667915251511296",
+        "conversation_id": "2048603417757798519",
+        "created_at": "2026-04-27T03:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048610974182285750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048610974182285750",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048603417757798519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 北伐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 1650,
+          "like_count": 39770,
+          "listed_count": 9,
+          "media_count": 1205,
+          "tweet_count": 19607
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:42:34.000Z",
+        "description": "Ciky/sɪ'kɪ/辞魁月and月见初霜 也可以叫我月霜！/🍥2026.4.16/这里只是一个垃圾桶喵/究竟什么时候才能死掉呢/出生日2009.2.6/CODM/逆水寒暂退中——/提前致歉因我说的话而伤害到的人喵喵喵/我就是个超级大傻福/我在除夕夜逮狗 叫我野狗猎手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cikyitz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cikyitz",
+                "start": 0,
+                "url": "https://t.co/4gXj9Q6KZO"
+              }
+            ]
+          }
+        },
+        "id": "1912667915251511296",
+        "location": "湮灭潮",
+        "name": "辞魁月",
+        "pinned_tweet_id": "2048446987171962897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912670682519068672/fM1gWLPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/4gXj9Q6KZO",
+        "username": "Ciky_Shore",
+        "verified": false
+      }
+    ]
+  }
+}

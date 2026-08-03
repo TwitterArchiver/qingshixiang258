@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1956704638583058785",
+    "created_at": "2025-08-16T15:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T16:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956746447568916980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1450302749803909130",
+          "start": 0,
+          "username": "OshinoAkane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956746447568916980",
+    "in_reply_to_user_id": "1450302749803909130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956746143532257506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OshinoAkane 谢谢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1956704638583058785",
+        "created_at": "2025-08-16T15:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956746447568916980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1450302749803909130",
+              "start": 0,
+              "username": "OshinoAkane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956746447568916980",
+        "in_reply_to_user_id": "1450302749803909130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956746143532257506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OshinoAkane 谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450302749803909130",
+        "conversation_id": "1956704638583058785",
+        "created_at": "2025-08-16T15:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T16:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956746143532257506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956746143532257506",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956704638583058785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 恭喜咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954539580998422528/nUejuF6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1288,
+          "like_count": 27929,
+          "listed_count": 7,
+          "media_count": 722,
+          "tweet_count": 12387
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T03:28:30.000Z",
+        "description": "Bonne journée, monsieur ⌚",
+        "id": "1450302749803909130",
+        "location": "科洛桑",
+        "name": "橙色水口钳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931248708756389888/8l2S17v-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 529,
+          "like_count": 37020,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 877
+        },
+        "username": "OshinoAkane",
+        "verified": false
+      }
+    ]
+  }
+}

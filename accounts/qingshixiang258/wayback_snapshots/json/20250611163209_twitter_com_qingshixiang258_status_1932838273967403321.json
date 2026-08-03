@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1932420650351886439",
+    "created_at": "2025-06-11T16:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T17:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932838273967403321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1818214513059201024",
+          "start": 0,
+          "username": "1234568hhhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932838273967403321",
+    "in_reply_to_user_id": "1818214513059201024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932421697292120369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1234568hhhhh 盼盼效应！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1932420650351886439",
+        "created_at": "2025-06-11T16:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T17:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932838273967403321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1818214513059201024",
+              "start": 0,
+              "username": "1234568hhhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932838273967403321",
+        "in_reply_to_user_id": "1818214513059201024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932421697292120369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1234568hhhhh 盼盼效应！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818214513059201024",
+        "conversation_id": "1932420650351886439",
+        "created_at": "2025-06-10T12:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932421697292120369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932421697292120369",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932420650351886439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 这是达利园效应！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "懒青鱼🍃🕊️",
+        "pinned_tweet_id": "1931748709324517749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 1108,
+          "like_count": 24190,
+          "listed_count": 6,
+          "media_count": 611,
+          "tweet_count": 10543
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T09:18:22.000Z",
+        "description": "所谓过往，皆为序章",
+        "id": "1818214513059201024",
+        "location": "鸡窝托斯",
+        "name": "星野日向（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823799508263669761/CFFimO0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 916,
+          "like_count": 19062,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 3530
+        },
+        "username": "1234568hhhhh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032459423097180161",
+        "3_2032459423088869379"
+      ],
+      "media_source_tweet_id": [
+        "2032459429082513611",
+        "2032459429082513611"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2032753631179715034",
+    "created_at": "2026-03-14T09:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T10:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032753631179715034"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "バンドリ",
+          "probability": 0.3407,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 18,
+          "tag": "見つけてくれてありがとう祭開幕"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1483510138913058816",
+          "start": 3,
+          "username": "white_garand"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bUwJdT7TDy",
+          "end": 107,
+          "expanded_url": "https://x.com/white_garand/status/2032459429082513611/photo/1",
+          "media_key": "3_2032459423097180161",
+          "start": 84,
+          "url": "https://t.co/bUwJdT7TDy"
+        },
+        {
+          "display_url": "pic.x.com/bUwJdT7TDy",
+          "end": 107,
+          "expanded_url": "https://x.com/white_garand/status/2032459429082513611/photo/1",
+          "media_key": "3_2032459423088869379",
+          "start": 84,
+          "url": "https://t.co/bUwJdT7TDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032753631179715034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032459429082513611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @white_garand: #見つけてくれてありがとう祭開幕\n\nまのさば、バンドリ、超かぐや姫！\nを通してたくさんの人に見ていただけるようになって本当に感謝🙏 https://t.co/bUwJdT7TDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_2032459423097180161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS_E64aUAEoEQQ.jpg",
+        "width": 890
+      },
+      {
+        "height": 929,
+        "media_key": "3_2032459423088869379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDS_E62bgAMn7Og.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032459423097180161",
+            "3_2032459423088869379"
+          ],
+          "media_source_tweet_id": [
+            "2032459429082513611",
+            "2032459429082513611"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2032753631179715034",
+        "created_at": "2026-03-14T09:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032753631179715034"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "バンドリ",
+              "probability": 0.3407,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 18,
+              "tag": "見つけてくれてありがとう祭開幕"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1483510138913058816",
+              "start": 3,
+              "username": "white_garand"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUwJdT7TDy",
+              "end": 107,
+              "expanded_url": "https://x.com/white_garand/status/2032459429082513611/photo/1",
+              "media_key": "3_2032459423097180161",
+              "start": 84,
+              "url": "https://t.co/bUwJdT7TDy"
+            },
+            {
+              "display_url": "pic.x.com/bUwJdT7TDy",
+              "end": 107,
+              "expanded_url": "https://x.com/white_garand/status/2032459429082513611/photo/1",
+              "media_key": "3_2032459423088869379",
+              "start": 84,
+              "url": "https://t.co/bUwJdT7TDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032753631179715034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032459429082513611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @white_garand: #見つけてくれてありがとう祭開幕\n\nまのさば、バンドリ、超かぐや姫！\nを通してたくさんの人に見ていただけるようになって本当に感謝🙏 https://t.co/bUwJdT7TDy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032459423097180161",
+            "3_2032459423088869379"
+          ]
+        },
+        "author_id": "1483510138913058816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2032459429082513611",
+        "created_at": "2026-03-13T14:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032459429082513611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "見つけてくれてありがとう祭開幕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUwJdT7TDy",
+              "end": 89,
+              "expanded_url": "https://x.com/white_garand/status/2032459429082513611/photo/1",
+              "media_key": "3_2032459423097180161",
+              "start": 66,
+              "url": "https://t.co/bUwJdT7TDy"
+            },
+            {
+              "display_url": "pic.x.com/bUwJdT7TDy",
+              "end": 89,
+              "expanded_url": "https://x.com/white_garand/status/2032459429082513611/photo/1",
+              "media_key": "3_2032459423088869379",
+              "start": 66,
+              "url": "https://t.co/bUwJdT7TDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032459429082513611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 12553,
+          "like_count": 563,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "#見つけてくれてありがとう祭開幕\n\nまのさば、バンドリ、超かぐや姫！\nを通してたくさんの人に見ていただけるようになって本当に感謝🙏 https://t.co/bUwJdT7TDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 1529,
+          "like_count": 38153,
+          "listed_count": 8,
+          "media_count": 1122,
+          "tweet_count": 18602
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T18:42:42.000Z",
+        "description": "主にVTuberさんのイラスト描いてます\nハイライトにいろいろ載せています\n【Gmail→garando531@gmail.com】\n【実績・お仕事→https://t.co/QdPtHxpuMA】\n【依頼受注中(早期納品不可)】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/ibitsugara",
+                "end": 98,
+                "expanded_url": "https://lit.link/ibitsugara",
+                "start": 75,
+                "url": "https://t.co/QdPtHxpuMA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/ibitsugara",
+                "end": 23,
+                "expanded_url": "https://fori.io/ibitsugara",
+                "start": 0,
+                "url": "https://t.co/MM9VjFADUO"
+              }
+            ]
+          }
+        },
+        "id": "1483510138913058816",
+        "location": "イラストの私的利用の範囲を越えた使用は禁止です",
+        "name": "がらんど︎",
+        "pinned_tweet_id": "2030642370497102156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021473053709086720/QUAnEBvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9172,
+          "following_count": 914,
+          "like_count": 59328,
+          "listed_count": 46,
+          "media_count": 2821,
+          "tweet_count": 21242
+        },
+        "url": "https://t.co/MM9VjFADUO",
+        "username": "white_garand",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1902778549326463096",
+    "created_at": "2025-03-21T10:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T11:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903028574761721906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858396078644842496",
+          "start": 0,
+          "username": "xioy372"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903028574761721906",
+    "in_reply_to_user_id": "1858396078644842496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903027373328470175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioy372 oh，这种人简直是一个模子刻出来的💔，摸摸萧雨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1902778549326463096",
+        "created_at": "2025-03-21T10:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T11:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903028574761721906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858396078644842496",
+              "start": 0,
+              "username": "xioy372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903028574761721906",
+        "in_reply_to_user_id": "1858396078644842496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903027373328470175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy372 oh，这种人简直是一个模子刻出来的💔，摸摸萧雨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858396078644842496",
+        "conversation_id": "1902778549326463096",
+        "created_at": "2025-03-21T10:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T11:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903027373328470175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903027373328470175",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902778549326463096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 之前舍友戴耳机打游戏说话声音特别大，还容易红温怪叫🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷（mtx？）可以叫我青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️）｜很高兴认识你哦｜友人@_akitayura｜超喜欢的珍宝@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_akitayura"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV4VdD"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899136852403122176/8Y4AN1XR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 565,
+          "like_count": 11910,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 5027
+        },
+        "url": "https://t.co/YIQfZV4VdD",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:25:53.000Z",
+        "description": "🏳️‍⚧️mtf(x? )🍥无证含糖/i(e)nfp疯小孩/大二休学(…)/精神状态时好时差/二游重度依赖、偶尔玩玩音游，竞技类游戏小菜鸡/奇怪拧巴的性格，非常喜欢贴贴抱抱…\n最爱最爱最爱的姐姐：@GailEngel6\n是姐姐又是恋人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "GailEngel6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rain82684",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rain82684",
+                "start": 0,
+                "url": "https://t.co/RClIiELqkG"
+              }
+            ]
+          }
+        },
+        "id": "1858396078644842496",
+        "name": "萧雨(笨蛋猫猫)",
+        "pinned_tweet_id": "1881250033225617464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881660133484425216/tKhd37Ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1016,
+          "like_count": 3772,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/RClIiELqkG",
+        "username": "xioy372",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1879815425510539659",
+    "created_at": "2025-01-17T00:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T01:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880056981031137628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "985073553123852289",
+          "start": 0,
+          "username": "geeseartist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880056981031137628",
+    "in_reply_to_user_id": "985073553123852289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879815425510539659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geeseartist 青之前想玩来着，但是因为备考就没玩，等青考完试去试试看(´▽｀)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1879815425510539659].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1879815425510539659",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1879815425510539659"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1879815425510539659",
+        "created_at": "2025-01-17T00:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T01:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880056981031137628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "985073553123852289",
+              "start": 0,
+              "username": "geeseartist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880056981031137628",
+        "in_reply_to_user_id": "985073553123852289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879815425510539659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geeseartist 青之前想玩来着，但是因为备考就没玩，等青考完试去试试看(´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "青是一个缺爱的家伙，不喜欢独处，如果可以，请找我聊天，聊什么都可以哦（甚至可以私聊建政(*¯︶¯*)（虽然我不太会聊天💦💦）。可以做大家情绪的垃圾桶哦。防失联：青石湾：@qing1814486981",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "qing1814486981"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fkxqs.vw50.com",
+                "end": 23,
+                "expanded_url": "http://fkxqs.vw50.com",
+                "start": 0,
+                "url": "https://t.co/lskfE1n6J3"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "出云之地",
+        "name": "青石🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879525318786256896/imoL0WpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 733,
+          "like_count": 2643,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/lskfE1n6J3",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-14T08:33:31.000Z",
+        "description": "CN 顺男 LGBTQ友好  抖M red pill-incel 传统视觉艺术爱好者 多语言者 健全B 表面E人 INTJ 不谈论政治的Polisci+JD graduate 热衷数学、信息论与信号论 建议顺直女见到本账号直接block",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gooseartist.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://gooseartist.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/qaZd30c3kk"
+              }
+            ]
+          }
+        },
+        "id": "985073553123852289",
+        "location": "https://t.me/+5f2fiJf9nGE0ZjNl",
+        "name": "鹅鹅艺术家",
+        "pinned_tweet_id": "1877944029293277605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874719852990251008/je-TpkuH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 239,
+          "like_count": 1091,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/qaZd30c3kk",
+        "username": "geeseartist",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1894431033908760622",
+    "created_at": "2025-02-25T16:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T17:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894431033908760622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1856253330437353472",
+          "start": 3,
+          "username": "zirancumin0"
+        },
+        {
+          "end": 28,
+          "id": "1798582217536376832",
+          "start": 17,
+          "username": "lucyforzqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894431033908760622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894430703565295906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zirancumin0: @lucyforzqy 少玩网，对脑子不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1894431033908760622",
+        "created_at": "2025-02-25T16:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894431033908760622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1856253330437353472",
+              "start": 3,
+              "username": "zirancumin0"
+            },
+            {
+              "end": 28,
+              "id": "1798582217536376832",
+              "start": 17,
+              "username": "lucyforzqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894431033908760622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894430703565295906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zirancumin0: @lucyforzqy 少玩网，对脑子不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856253330437353472",
+        "conversation_id": "1894421068699635897",
+        "created_at": "2025-02-25T16:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894430703565295906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798582217536376832",
+              "start": 0,
+              "username": "lucyforzqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894430703565295906",
+        "in_reply_to_user_id": "1798582217536376832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894421068699635897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucyforzqy 少玩网，对脑子不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 892,
+          "like_count": 9636,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 3950
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T08:31:19.000Z",
+        "description": "“破晓的日子多着呢，太阳也只不过是一颗晨星”    日子人加乐子人    友人：@qingshixiang258，@Paradise_091230，@Salt_soda_aqua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "Paradise_091230"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Salt_soda_aqua"
+              }
+            ]
+          }
+        },
+        "id": "1856253330437353472",
+        "location": "中华人民共和国",
+        "name": "孜然cumin",
+        "pinned_tweet_id": "1882408415127122396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892814400127397888/gbQVHg8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 2489,
+          "like_count": 14424,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4420
+        },
+        "username": "zirancumin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T05:06:42.000Z",
+        "description": "学医狗，一直在纠结某些东西\n疑似有点精神问题\n想更好地认识世界，希望遇到更多不同领域的朋友",
+        "id": "1798582217536376832",
+        "location": "这里",
+        "name": "张起越",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866033522127114240/d9QWcF54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 168,
+          "like_count": 221,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1033
+        },
+        "username": "lucyforzqy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1998376606130446799",
+    "created_at": "2025-12-09T16:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T17:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998437348498096601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "881844856770904065",
+          "start": 0,
+          "username": "yyl04"
+        },
+        {
+          "end": 22,
+          "id": "970525948847144960",
+          "start": 7,
+          "username": "Logic_Accepted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998437348498096601",
+    "in_reply_to_user_id": "881844856770904065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998387251848569180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyl04 @Logic_Accepted 是这样子的～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1998376606130446799",
+        "created_at": "2025-12-09T16:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T17:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998437348498096601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "881844856770904065",
+              "start": 0,
+              "username": "yyl04"
+            },
+            {
+              "end": 22,
+              "id": "970525948847144960",
+              "start": 7,
+              "username": "Logic_Accepted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998437348498096601",
+        "in_reply_to_user_id": "881844856770904065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998387251848569180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyl04 @Logic_Accepted 是这样子的～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881844856770904065",
+        "conversation_id": "1998376606130446799",
+        "created_at": "2025-12-09T13:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998387251848569180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "970525948847144960",
+              "start": 0,
+              "username": "Logic_Accepted"
+            },
+            {
+              "end": 32,
+              "id": "1700935161301655552",
+              "start": 16,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998387251848569180",
+        "in_reply_to_user_id": "970525948847144960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998384661958152552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Logic_Accepted @qingshixiang258 青石巷好听嘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998367186075922432/8djgDaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 1480,
+          "like_count": 35144,
+          "listed_count": 9,
+          "media_count": 962,
+          "tweet_count": 15862
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-03T11:59:32.000Z",
+        "description": "xp展示，🇨🇳🏳️‍🌈⚤中文/En，男孩子20↑，玩原神，霉粉🧡✨，最喜欢的人、BFF @Stapx_Happy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Stapx_Happy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yyl04.…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/yyl04.stapxs.cn",
+                "start": 0,
+                "url": "https://t.co/waBzyoON1L"
+              }
+            ]
+          }
+        },
+        "id": "881844856770904065",
+        "location": "云南 昆明",
+        "name": "林霂凌yyl",
+        "pinned_tweet_id": "1705263229658861670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953418575076843520/ily0l4ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 3594,
+          "like_count": 144587,
+          "listed_count": 5,
+          "media_count": 1023,
+          "tweet_count": 11672
+        },
+        "url": "https://t.co/waBzyoON1L",
+        "username": "yyl04",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-05T05:06:32.000Z",
+        "description": "欢迎交朋友，对你的推文感兴趣会互 fo 这里分享生活 不喜欢政治和吵架，并可能会屏蔽，不是你的错",
+        "id": "970525948847144960",
+        "location": "Sky Dynasty",
+        "name": "Ayu🧠",
+        "pinned_tweet_id": "1594480827249086465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234062601878818816/L-BJHTBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 182,
+          "like_count": 9871,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 1158
+        },
+        "username": "Logic_Accepted",
+        "verified": false
+      }
+    ]
+  }
+}

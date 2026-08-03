@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2028883857966354432"
+      ],
+      "media_source_tweet_id": [
+        "2028884285617484160"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028973043863962010",
+    "created_at": "2026-03-03T23:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T00:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028973043863962010"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "草薙寧々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "855376947387318272",
+          "start": 3,
+          "username": "mocha0729w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tSqiHsiE3j",
+          "end": 50,
+          "expanded_url": "https://x.com/mocha0729w/status/2028884285617484160/video/1",
+          "media_key": "13_2028883857966354432",
+          "start": 27,
+          "url": "https://t.co/tSqiHsiE3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028973043863962010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 532
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028884285617484160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mocha0729w: #草薙寧々 \n是描改 https://t.co/tSqiHsiE3j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30791,
+        "height": 1920,
+        "media_key": "13_2028883857966354432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028883857966354432/img/1yvzayadUz_PPhny.jpg",
+        "public_metrics": {
+          "view_count": 14962
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028883857966354432/vid/avc1/320x568/kwU6tLIHrZNIkz0K.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028883857966354432/vid/avc1/480x852/m_WoJjXGpnC-vs5y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028883857966354432/vid/avc1/720x1280/TvgtwoQNCTEYphiH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028883857966354432/pl/1kdrItrOC96uTtjg.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028883857966354432"
+          ],
+          "media_source_tweet_id": [
+            "2028884285617484160"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028973043863962010",
+        "created_at": "2026-03-03T23:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T00:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028973043863962010"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "草薙寧々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "855376947387318272",
+              "start": 3,
+              "username": "mocha0729w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSqiHsiE3j",
+              "end": 50,
+              "expanded_url": "https://x.com/mocha0729w/status/2028884285617484160/video/1",
+              "media_key": "13_2028883857966354432",
+              "start": 27,
+              "url": "https://t.co/tSqiHsiE3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028973043863962010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 532
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028884285617484160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mocha0729w: #草薙寧々 \n是描改 https://t.co/tSqiHsiE3j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028883857966354432"
+          ]
+        },
+        "author_id": "855376947387318272",
+        "conversation_id": "2028884285617484160",
+        "created_at": "2026-03-03T17:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T18:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028884285617484160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "草薙寧々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSqiHsiE3j",
+              "end": 34,
+              "expanded_url": "https://x.com/mocha0729w/status/2028884285617484160/video/1",
+              "media_key": "13_2028883857966354432",
+              "start": 11,
+              "url": "https://t.co/tSqiHsiE3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028884285617484160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 636,
+          "impression_count": 35649,
+          "like_count": 3503,
+          "quote_count": 14,
+          "reply_count": 1,
+          "retweet_count": 532
+        },
+        "reply_settings": "everyone",
+        "text": "#草薙寧々 \n是描改 https://t.co/tSqiHsiE3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 1483,
+          "like_count": 37487,
+          "listed_count": 8,
+          "media_count": 1102,
+          "tweet_count": 18137
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-21T11:05:31.000Z",
+        "description": "20↑，prsk：🎈🤖超喜欢！💜💚\n也会更新明日方舟相关，🚫禁止AI学习、未经授权禁止转载\n希望能够友好交流哦～",
+        "id": "855376947387318272",
+        "name": "末茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012220159822331904/oL7z9IMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 61,
+          "like_count": 526,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 215
+        },
+        "username": "mocha0729w",
+        "verified": false
+      }
+    ]
+  }
+}

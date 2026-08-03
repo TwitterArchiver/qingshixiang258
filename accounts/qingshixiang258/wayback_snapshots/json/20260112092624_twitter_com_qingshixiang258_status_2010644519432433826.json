@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2010629843659174394",
+    "created_at": "2026-01-12T09:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010644519432433826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779000257399164928",
+          "start": 0,
+          "username": "marinokaeri"
+        },
+        {
+          "end": 21,
+          "id": "1609619970811482112",
+          "start": 13,
+          "username": "3ch4O1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010644519432433826",
+    "in_reply_to_user_id": "1779000257399164928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010639564902473877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marinokaeri @3ch4O1H 火锅鸡🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010639564902473877].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2010639564902473877",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2010639564902473877"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2010629843659174394",
+        "created_at": "2026-01-12T09:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010644519432433826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779000257399164928",
+              "start": 0,
+              "username": "marinokaeri"
+            },
+            {
+              "end": 21,
+              "id": "1609619970811482112",
+              "start": 13,
+              "username": "3ch4O1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010644519432433826",
+        "in_reply_to_user_id": "1779000257399164928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010639564902473877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marinokaeri @3ch4O1H 火锅鸡🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1388,
+          "like_count": 35903,
+          "listed_count": 9,
+          "media_count": 1004,
+          "tweet_count": 16703
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:14:58.000Z",
+        "description": "困得要死天天骂人",
+        "id": "1779000257399164928",
+        "name": "まりん",
+        "pinned_tweet_id": "1917224654726680884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005172690068381696/_4vGPQ_N_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 376,
+          "like_count": 63095,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 15229
+        },
+        "username": "marinokaeri",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n破山中贼易 破心中贼难\n最爱的伴侣@LixdH5jzYx99195\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/echo4th",
+                "end": 23,
+                "expanded_url": "https://ngl.link/echo4th",
+                "start": 0,
+                "url": "https://t.co/YdmeUcqw1x"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010438672425066496/i0xiD74g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 4050,
+          "like_count": 105383,
+          "listed_count": 3,
+          "media_count": 1210,
+          "tweet_count": 38554
+        },
+        "url": "https://t.co/YdmeUcqw1x",
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

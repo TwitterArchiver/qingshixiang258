@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1907684168475263357",
+    "created_at": "2025-04-03T06:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T07:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907685220905595294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822910760873537536",
+          "start": 0,
+          "username": "KaitlynXiaoLu99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907685220905595294",
+    "in_reply_to_user_id": "1822910760873537536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907684168475263357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaitlynXiaoLu99 该走的可以看广告多次复活自己"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907684168475263357].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907684168475263357",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907684168475263357"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1907684168475263357",
+        "created_at": "2025-04-03T06:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T07:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907685220905595294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822910760873537536",
+              "start": 0,
+              "username": "KaitlynXiaoLu99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907685220905595294",
+        "in_reply_to_user_id": "1822910760873537536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907684168475263357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaitlynXiaoLu99 该走的可以看广告多次复活自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907640355794944000/eiQF31Fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 597,
+          "like_count": 13711,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5754
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:19:35.000Z",
+        "description": "isfp-t｜バンドリ｜威权主义+建制派☭｜lgbtq尊重｜魔女の旅々｜MyGO全员厨｜MaimaiDX｜愿我们都能走在有光的路上｜发癫小号：@XiaoLuNigeru｜筹备二周目ing…@LightlyXiaoLu99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "XiaoLuNigeru"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "LightlyXiaoLu99"
+              }
+            ]
+          }
+        },
+        "id": "1822910760873537536",
+        "location": "羽丘女子学园",
+        "name": "-小鹿小鹿-🇨🇳☭",
+        "pinned_tweet_id": "1902459772336750656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906759235129729024/bo3AJeGX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 1309,
+          "like_count": 21542,
+          "listed_count": 9,
+          "media_count": 481,
+          "tweet_count": 8680
+        },
+        "username": "KaitlynXiaoLu99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1958510669269266818",
+    "created_at": "2025-08-21T13:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T14:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958516761399071177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958516761399071177",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958510669269266818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 这太恶心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1958510669269266818",
+        "created_at": "2025-08-21T13:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T14:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958516761399071177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958516761399071177",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958510669269266818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 这太恶心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764856941151596549",
+        "conversation_id": "1958510669269266818",
+        "created_at": "2025-08-21T12:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958510669269266818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AeriAeri__/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/AeriAeri__/status/1958208203491324227",
+              "start": 34,
+              "url": "https://t.co/ndzuiJFZyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958510669269266818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958208203491324227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽了……就算洗完澡，但之后上过洗手间的，那我都受不了…………🤮🤮 https://t.co/ndzuiJFZyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 1301,
+          "like_count": 28063,
+          "listed_count": 7,
+          "media_count": 739,
+          "tweet_count": 12574
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双性恋之颜性恋🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|\n▫️🍰@I_love_yumira\n▫️🥜@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "I_love_yumira"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1933062488725319684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878406135503540224/BC7Tb7V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 670,
+          "like_count": 59515,
+          "listed_count": 8,
+          "media_count": 1597,
+          "tweet_count": 14202
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

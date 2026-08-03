@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2059536112704790554",
+    "created_at": "2026-05-27T08:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059551638193586291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718887354826637312",
+          "start": 0,
+          "username": "MeowSakur76073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059551638193586291",
+    "in_reply_to_user_id": "1718887354826637312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059536112704790554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowSakur76073 真的可以吗，我的一个小时左右就没电了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059536112704790554].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059536112704790554",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059536112704790554"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2059536112704790554",
+        "created_at": "2026-05-27T08:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059551638193586291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718887354826637312",
+              "start": 0,
+              "username": "MeowSakur76073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059551638193586291",
+        "in_reply_to_user_id": "1718887354826637312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059536112704790554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowSakur76073 真的可以吗，我的一个小时左右就没电了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1689,
+          "like_count": 41725,
+          "listed_count": 10,
+          "media_count": 1262,
+          "tweet_count": 20497
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "Do not go gentle into that good night                                                 \na walking dead｜self heater｜yuri｜🦊｜泛性恋｜因为太喜欢所以想变成可爱女孩子｜ @cangshengsunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "cangshengsunset"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowsakur76073…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowsakur7607356428",
+                "start": 0,
+                "url": "https://t.co/aYC5pg7YwO"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "Heaven",
+        "name": "Meow Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013129102786437120/dxrmWKgD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 4231,
+          "like_count": 48929,
+          "listed_count": 5,
+          "media_count": 881,
+          "tweet_count": 14706
+        },
+        "url": "https://t.co/aYC5pg7YwO",
+        "username": "MeowSakur76073",
+        "verified": false
+      }
+    ]
+  }
+}

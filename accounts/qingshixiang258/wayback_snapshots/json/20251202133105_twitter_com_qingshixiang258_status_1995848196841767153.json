@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995848155498442752"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1995848196841767153",
+    "created_at": "2025-12-02T13:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T14:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995848196841767153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wwu33zqUrb",
+          "end": 27,
+          "expanded_url": "https://x.com/qingshixiang258/status/1995848196841767153/photo/1",
+          "media_key": "3_1995848155498442752",
+          "start": 4,
+          "url": "https://t.co/Wwu33zqUrb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995848196841767153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开心了 https://t.co/Wwu33zqUrb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995848155498442752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KtUq4acAAmfAe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995848155498442752"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1995848196841767153",
+        "created_at": "2025-12-02T13:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995848196841767153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wwu33zqUrb",
+              "end": 27,
+              "expanded_url": "https://x.com/qingshixiang258/status/1995848196841767153/photo/1",
+              "media_key": "3_1995848155498442752",
+              "start": 4,
+              "url": "https://t.co/Wwu33zqUrb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995848196841767153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开心了 https://t.co/Wwu33zqUrb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 1462,
+          "like_count": 35026,
+          "listed_count": 8,
+          "media_count": 955,
+          "tweet_count": 15694
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052577880232873984"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2052370418405884076",
+    "created_at": "2026-05-08T02:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052577888957006309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pby4JP37Hy",
+          "end": 45,
+          "expanded_url": "https://x.com/qingshixiang258/status/2052577888957006309/photo/1",
+          "media_key": "3_2052577880232873984",
+          "start": 22,
+          "url": "https://t.co/Pby4JP37Hy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052577888957006309",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052370418405884076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical 对的对的 https://t.co/Pby4JP37Hy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 998,
+        "media_key": "3_2052577880232873984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw4tQEa0AAjQmq.jpg",
+        "width": 838
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2052370411544018944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt8A--agAAZKan.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052577880232873984"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2052370418405884076",
+        "created_at": "2026-05-08T02:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052577888957006309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pby4JP37Hy",
+              "end": 45,
+              "expanded_url": "https://x.com/qingshixiang258/status/2052577888957006309/photo/1",
+              "media_key": "3_2052577880232873984",
+              "start": 22,
+              "url": "https://t.co/Pby4JP37Hy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052577888957006309",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052370418405884076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical 对的对的 https://t.co/Pby4JP37Hy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052370411544018944"
+          ]
+        },
+        "author_id": "1193167151596634112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2052370418405884076",
+        "created_at": "2026-05-07T12:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052370418405884076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/enkfnPMGG0",
+              "end": 63,
+              "expanded_url": "https://x.com/KiminTW_Offical/status/2052370418405884076/photo/1",
+              "media_key": "3_2052370411544018944",
+              "start": 40,
+              "url": "https://t.co/enkfnPMGG0"
+            },
+            {
+              "display_url": "x.com/wlisaka/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/wlisaka/status/2051998610896629910",
+              "start": 64,
+              "url": "https://t.co/T27Sxoy0nV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052370418405884076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 914,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051998610896629910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "字數超了，我就先放圖\n\n話說為什麼生成出來的形象那麼像一個玩世不恭的渣男（？） https://t.co/enkfnPMGG0 https://t.co/T27Sxoy0nV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1688,
+          "like_count": 40451,
+          "listed_count": 9,
+          "media_count": 1232,
+          "tweet_count": 19981
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "男|台中人|時政基本評論|生活推為主|建制習派|威權份子|暫退役男|藍綠白和無腦粉紅勿擾 \n好哥們@AyanamiRikako 廚子@GlunekiKCA  小綠@lamte15072 老保之友 @caswerlebel05",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "AyanamiRikako"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "lamte15072"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "caswerlebel05"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1959219877324947468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045470547686072320/92XdLV7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20907,
+          "following_count": 2950,
+          "like_count": 319101,
+          "listed_count": 32,
+          "media_count": 6096,
+          "tweet_count": 61672
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

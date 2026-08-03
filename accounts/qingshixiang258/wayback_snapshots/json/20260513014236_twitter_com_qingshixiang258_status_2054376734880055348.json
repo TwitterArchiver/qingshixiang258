@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2054083951174865307",
+    "created_at": "2026-05-13T01:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054376734880055348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989615098516975616",
+          "start": 0,
+          "username": "Mozzie64419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054376734880055348",
+    "in_reply_to_user_id": "1989615098516975616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054372284249563192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mozzie64419 别碎～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2054083951174865307",
+        "created_at": "2026-05-13T01:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054376734880055348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989615098516975616",
+              "start": 0,
+              "username": "Mozzie64419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054376734880055348",
+        "in_reply_to_user_id": "1989615098516975616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054372284249563192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mozzie64419 别碎～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989615098516975616",
+        "conversation_id": "2054083951174865307",
+        "created_at": "2026-05-13T01:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054372284249563192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054372284249563192",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054083951174865307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我有一个朋友碎掉了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 1688,
+          "like_count": 40822,
+          "listed_count": 9,
+          "media_count": 1237,
+          "tweet_count": 20097
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T08:43:48.000Z",
+        "description": "####",
+        "id": "1989615098516975616",
+        "name": "Mozzie",
+        "pinned_tweet_id": "2052186301462695964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052187560873717760/5isuf8jJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 66,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 660
+        },
+        "username": "Mozzie64419",
+        "verified": false
+      }
+    ]
+  }
+}

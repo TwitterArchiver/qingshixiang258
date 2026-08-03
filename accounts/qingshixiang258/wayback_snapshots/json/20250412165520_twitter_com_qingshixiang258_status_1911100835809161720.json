@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1911099218623668530",
+    "created_at": "2025-04-12T16:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T17:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911100835809161720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1787569355523227648",
+          "start": 0,
+          "username": "ovonightrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911100835809161720",
+    "in_reply_to_user_id": "1787569355523227648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911100634549334186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovonightrat 我向正在使用者道歉🙇‍♀️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1911100634549334186].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1911100634549334186",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1911100634549334186"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1911099218623668530",
+        "created_at": "2025-04-12T16:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T17:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911100835809161720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1787569355523227648",
+              "start": 0,
+              "username": "ovonightrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911100835809161720",
+        "in_reply_to_user_id": "1787569355523227648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911100634549334186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovonightrat 我向正在使用者道歉🙇‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909653788056768512/HVX8zDIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 716,
+          "like_count": 15589,
+          "listed_count": 5,
+          "media_count": 271,
+          "tweet_count": 7151
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T19:46:09.000Z",
+        "description": "一盒泡了死老鼠的牛奶。||ftx||人称代词It/They||🚪55但是是discord||看到不好的评论我会直接block你||⚠️该帐号有多位使用者，请注意辨别⚠️",
+        "id": "1787569355523227648",
+        "location": "变三次推了不过还是多数以文字为主，将就看吧",
+        "name": "/give @s milk🏳️‍⚧️",
+        "pinned_tweet_id": "1910526277468979203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908594015777218563/3OrieCsq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 184,
+          "like_count": 5935,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 2537
+        },
+        "username": "ovonightrat",
+        "verified": false
+      }
+    ]
+  }
+}

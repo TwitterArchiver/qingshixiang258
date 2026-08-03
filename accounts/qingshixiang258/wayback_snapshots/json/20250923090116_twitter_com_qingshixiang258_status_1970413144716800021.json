@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1970194835220120012",
+    "created_at": "2025-09-23T09:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970413144716800021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1709199673746141184",
+          "start": 0,
+          "username": "_xiaoaimi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970413144716800021",
+    "in_reply_to_user_id": "1709199673746141184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970194835220120012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xiaoaimi_ 🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1970194835220120012",
+        "created_at": "2025-09-23T09:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970413144716800021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1709199673746141184",
+              "start": 0,
+              "username": "_xiaoaimi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970413144716800021",
+        "in_reply_to_user_id": "1709199673746141184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970194835220120012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xiaoaimi_ 🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709199673746141184",
+        "conversation_id": "1970194835220120012",
+        "created_at": "2025-09-22T18:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T19:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970194835220120012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CYl8o/status/1…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/CYl8o/status/1970129605576347686",
+              "start": 11,
+              "url": "https://t.co/zXb6NuKjEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970194835220120012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970129605576347686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要让所有人都来看😎 https://t.co/zXb6NuKjEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968343101979897856/T41BJaco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 1406,
+          "like_count": 30296,
+          "listed_count": 7,
+          "media_count": 813,
+          "tweet_count": 13670
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T13:32:21.000Z",
+        "description": "acg/valorant/genshin/overwatch/VOCALOID/vtuber/餐券\n还有我是玉玉症，你骂我我可就鼠了",
+        "id": "1709199673746141184",
+        "location": "夢の中",
+        "name": "uni_tasake",
+        "pinned_tweet_id": "1895884063275434297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902313893084721153/y0I1YW4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 337,
+          "like_count": 9930,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 966
+        },
+        "username": "_xiaoaimi_",
+        "verified": false
+      }
+    ]
+  }
+}

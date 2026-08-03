@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2066016299516354890",
+    "created_at": "2026-06-14T14:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066170461617348824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "foreverrr233"
+        },
+        {
+          "end": 30,
+          "id": "1557541453253038080",
+          "start": 14,
+          "username": "KawawaDiana8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066170461617348824",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066169177866645616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreverrr233 @KawawaDiana8964 但是我也看到有些人不承認中華民國就是了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066169177866645616].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066169177866645616",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066169177866645616"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2066016299516354890",
+        "created_at": "2026-06-14T14:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066170461617348824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "foreverrr233"
+            },
+            {
+              "end": 30,
+              "id": "1557541453253038080",
+              "start": 14,
+              "username": "KawawaDiana8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066170461617348824",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066169177866645616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreverrr233 @KawawaDiana8964 但是我也看到有些人不承認中華民國就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 1689,
+          "like_count": 43347,
+          "listed_count": 10,
+          "media_count": 1308,
+          "tweet_count": 21034
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "喜欢《吹响吧！上低音号》的都是好孩子",
+        "id": "1894285195651813378",
+        "name": "姓名不能为空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065440742122872832/h7as0dJa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 1180,
+          "like_count": 13011,
+          "listed_count": 6,
+          "media_count": 113,
+          "tweet_count": 9220
+        },
+        "username": "foreverrr233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "小蓝(Alan) NE美留一枚\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑谣棍双标\nSUPPORT🇺🇦🇵🇸🇻🇪☮️↙️\n#中推名人评分 DemSoc, MLM\n\n欢迎友好交流(8964=勿转内网)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmPIIJ"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "Boston Metropolitan Area ",
+        "name": "蓝蓝🫐然然浪浪(🏳️‍🌈🐻🤚🏻 Di Alan Chan)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062898467513532416/hKPNkjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 726,
+          "like_count": 9301,
+          "listed_count": 8,
+          "media_count": 1048,
+          "tweet_count": 4397
+        },
+        "url": "https://t.co/wy2TJmPIIJ",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

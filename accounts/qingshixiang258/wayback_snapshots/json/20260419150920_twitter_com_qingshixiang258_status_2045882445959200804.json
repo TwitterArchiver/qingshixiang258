@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045882433514741760"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2045882445959200804",
+    "created_at": "2026-04-19T15:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045882445959200804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/isVKuZ3dxn",
+          "end": 97,
+          "expanded_url": "https://x.com/qingshixiang258/status/2045882445959200804/photo/1",
+          "media_key": "3_2045882433514741760",
+          "start": 74,
+          "url": "https://t.co/isVKuZ3dxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045882445959200804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真服了！英语老师一学期讲了啥，开学还说怕被ai代替，ai真不能代替垃圾吧…求你了，照着ppt念吧，别折磨我了，实在不行说点自己留学经历显摆一下呢 https://t.co/isVKuZ3dxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2045882433514741760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRvO9XboAALC2H.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045882433514741760"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2045882445959200804",
+        "created_at": "2026-04-19T15:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045882445959200804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/isVKuZ3dxn",
+              "end": 97,
+              "expanded_url": "https://x.com/qingshixiang258/status/2045882445959200804/photo/1",
+              "media_key": "3_2045882433514741760",
+              "start": 74,
+              "url": "https://t.co/isVKuZ3dxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045882445959200804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真服了！英语老师一学期讲了啥，开学还说怕被ai代替，ai真不能代替垃圾吧…求你了，照着ppt念吧，别折磨我了，实在不行说点自己留学经历显摆一下呢 https://t.co/isVKuZ3dxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 1595,
+          "like_count": 39143,
+          "listed_count": 8,
+          "media_count": 1174,
+          "tweet_count": 19386
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

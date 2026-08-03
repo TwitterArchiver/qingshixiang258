@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062754177139519489",
+        "3_2062754177156370432"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2062754189781131526",
+    "created_at": "2026-06-05T04:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062754189781131526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hty39Dqa7f",
+          "end": 41,
+          "expanded_url": "https://x.com/qingshixiang258/status/2062754189781131526/photo/1",
+          "media_key": "3_2062754177139519489",
+          "start": 18,
+          "url": "https://t.co/Hty39Dqa7f"
+        },
+        {
+          "display_url": "pic.x.com/Hty39Dqa7f",
+          "end": 41,
+          "expanded_url": "https://x.com/qingshixiang258/status/2062754189781131526/photo/1",
+          "media_key": "3_2062754177156370432",
+          "start": 18,
+          "url": "https://t.co/Hty39Dqa7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062754189781131526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "法国媒体拍照片是有点说法的🙂‍↕️ https://t.co/Hty39Dqa7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2062754177139519489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBf_sNasAEAqF9.jpg",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "media_key": "3_2062754177156370432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBf_sRb0AArmH-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062754177139519489",
+            "3_2062754177156370432"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2062754189781131526",
+        "created_at": "2026-06-05T04:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062754189781131526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hty39Dqa7f",
+              "end": 41,
+              "expanded_url": "https://x.com/qingshixiang258/status/2062754189781131526/photo/1",
+              "media_key": "3_2062754177139519489",
+              "start": 18,
+              "url": "https://t.co/Hty39Dqa7f"
+            },
+            {
+              "display_url": "pic.x.com/Hty39Dqa7f",
+              "end": 41,
+              "expanded_url": "https://x.com/qingshixiang258/status/2062754189781131526/photo/1",
+              "media_key": "3_2062754177156370432",
+              "start": 18,
+              "url": "https://t.co/Hty39Dqa7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062754189781131526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "法国媒体拍照片是有点说法的🙂‍↕️ https://t.co/Hty39Dqa7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 1681,
+          "like_count": 42529,
+          "listed_count": 10,
+          "media_count": 1285,
+          "tweet_count": 20757
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

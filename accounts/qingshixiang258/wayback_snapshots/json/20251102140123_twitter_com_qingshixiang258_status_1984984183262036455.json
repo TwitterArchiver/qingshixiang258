@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1984975253328834810",
+    "created_at": "2025-11-02T14:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T15:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984984183262036455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514956074549448712",
+          "start": 0,
+          "username": "GlunekiKCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984984183262036455",
+    "in_reply_to_user_id": "1514956074549448712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984984000726004075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlunekiKCA 挠头…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1984975253328834810",
+        "created_at": "2025-11-02T14:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984984183262036455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514956074549448712",
+              "start": 0,
+              "username": "GlunekiKCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984984183262036455",
+        "in_reply_to_user_id": "1514956074549448712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984984000726004075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlunekiKCA 挠头…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514956074549448712",
+        "conversation_id": "1984975253328834810",
+        "created_at": "2025-11-02T14:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984984000726004075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984984000726004075",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984983781892337704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 1111真吃啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 1399,
+          "like_count": 33280,
+          "listed_count": 7,
+          "media_count": 909,
+          "tweet_count": 14797
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:41.000Z",
+        "description": "你好，远道而来的朋友～这里是江朝,是无情的发图机器/大学牲在读ing/乐子人ing/对大部分人保持包容心态，大家都是朋友嘛/偶尔碎碎念注意⚠️/嗯，就这样啦～老登@KiminTW_Offical | 加小账请私信 |绿咪@lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "KiminTW_Offical"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1514956074549448712",
+        "location": "永夏之梦",
+        "name": "江朝",
+        "pinned_tweet_id": "1780930007436816535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910226837072216064/mSzLcdTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6331,
+          "following_count": 1488,
+          "like_count": 92200,
+          "listed_count": 33,
+          "media_count": 4477,
+          "tweet_count": 38141
+        },
+        "username": "GlunekiKCA",
+        "verified": false
+      }
+    ]
+  }
+}

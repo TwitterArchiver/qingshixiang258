@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1934558813019082852",
+    "created_at": "2025-06-16T12:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T13:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934582551437598846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843131527351394304",
+          "start": 0,
+          "username": "xu244986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934582551437598846",
+    "in_reply_to_user_id": "1843131527351394304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934582362157068625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu244986 是啊😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1934558813019082852",
+        "created_at": "2025-06-16T12:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934582551437598846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843131527351394304",
+              "start": 0,
+              "username": "xu244986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934582551437598846",
+        "in_reply_to_user_id": "1843131527351394304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934582362157068625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu244986 是啊😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843131527351394304",
+        "conversation_id": "1934558813019082852",
+        "created_at": "2025-06-16T12:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934582362157068625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934582362157068625",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934581671548096797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 不用感觉，东亚这边就是有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 1130,
+          "like_count": 24377,
+          "listed_count": 6,
+          "media_count": 623,
+          "tweet_count": 10670
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T03:29:45.000Z",
+        "description": "安石性强忮，遇事无可否，自信所见，执意不回。 至议变法，而在廷交执不可，安石傅经义，出己意，辩论辄数百言，众不能诎。甚者谓:天变不足畏，祖宗不足法，人言不足恤。(老保之友，明日香激推小号：@zshzh207，熙宁变法失败：@shan80799）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "zshzh207"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "shan80799"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/maozed…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194205.htm",
+                "start": 0,
+                "url": "https://t.co/mHaTcrRup6"
+              }
+            ]
+          }
+        },
+        "id": "1843131527351394304",
+        "location": "大宋江宁府",
+        "name": "獾郎Caswer Lebel（谪居金陵中）",
+        "pinned_tweet_id": "1926153721999679819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919415700508278784/Y3ZTdBEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 587,
+          "like_count": 9990,
+          "listed_count": 0,
+          "media_count": 703,
+          "tweet_count": 4279
+        },
+        "url": "https://t.co/mHaTcrRup6",
+        "username": "xu244986",
+        "verified": false
+      }
+    ]
+  }
+}

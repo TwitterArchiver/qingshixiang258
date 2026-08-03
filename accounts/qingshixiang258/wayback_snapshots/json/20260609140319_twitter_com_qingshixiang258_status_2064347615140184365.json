@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2064346991925350501",
+    "created_at": "2026-06-09T14:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064347615140184365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1469582798604234752",
+          "start": 0,
+          "username": "yulia_OwO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064347615140184365",
+    "in_reply_to_user_id": "1469582798604234752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064346991925350501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yulia_OwO_ 老師你接稿嘛？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_2064346986539806720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYIpZnacAA2cAn.jpg",
+        "width": 1890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2064346991925350501",
+        "created_at": "2026-06-09T14:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064347615140184365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1469582798604234752",
+              "start": 0,
+              "username": "yulia_OwO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064347615140184365",
+        "in_reply_to_user_id": "1469582798604234752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064346991925350501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulia_OwO_ 老師你接稿嘛？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064346986539806720"
+          ]
+        },
+        "author_id": "1469582798604234752",
+        "conversation_id": "2064346991925350501",
+        "created_at": "2026-06-09T14:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064346991925350501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zHn8hF4kDK",
+              "end": 25,
+              "expanded_url": "https://x.com/yulia_OwO_/status/2064346991925350501/photo/1",
+              "media_key": "3_2064346986539806720",
+              "start": 2,
+              "url": "https://t.co/zHn8hF4kDK"
+            },
+            {
+              "display_url": "x.com/yulia_owo_/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yulia_owo_/status/2060738593367441808",
+              "start": 26,
+              "url": "https://t.co/3L4ylaj8pw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064346991925350501",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060738593367441808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "♡ https://t.co/zHn8hF4kDK https://t.co/3L4ylaj8pw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1688,
+          "like_count": 42893,
+          "listed_count": 10,
+          "media_count": 1290,
+          "tweet_count": 20906
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T08:20:35.000Z",
+        "description": "偶爾畫畫_(:3 」∠ )_",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/yulia_owo",
+                "end": 23,
+                "expanded_url": "https://vgen.co/yulia_owo",
+                "start": 0,
+                "url": "https://t.co/QG9GX6xn2i"
+              }
+            ]
+          }
+        },
+        "id": "1469582798604234752",
+        "name": "璃",
+        "pinned_tweet_id": "2052754231367737360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044330688003092482/HwoNrp4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 49,
+          "like_count": 15949,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1465
+        },
+        "url": "https://t.co/QG9GX6xn2i",
+        "username": "yulia_OwO_",
+        "verified": false
+      }
+    ]
+  }
+}

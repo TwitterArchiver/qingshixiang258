@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1970512759533248975",
+    "created_at": "2025-09-24T09:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T10:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970776088206033128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1856253330437353472",
+          "start": 0,
+          "username": "zirancumin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970776088206033128",
+    "in_reply_to_user_id": "1856253330437353472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970681652939735332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zirancumin0 没问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1970512759533248975",
+        "created_at": "2025-09-24T09:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T10:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970776088206033128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1856253330437353472",
+              "start": 0,
+              "username": "zirancumin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970776088206033128",
+        "in_reply_to_user_id": "1856253330437353472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970681652939735332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zirancumin0 没问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856253330437353472",
+        "conversation_id": "1970512759533248975",
+        "created_at": "2025-09-24T02:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T03:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970681652939735332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970681652939735332",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970512759533248975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 招了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968343101979897856/T41BJaco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 1409,
+          "like_count": 30339,
+          "listed_count": 7,
+          "media_count": 814,
+          "tweet_count": 13686
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T08:31:19.000Z",
+        "description": "日子人加乐子人",
+        "id": "1856253330437353472",
+        "location": "中华人民共和国",
+        "name": "孜然cumin",
+        "pinned_tweet_id": "1919358160860532855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945355508652892165/ZLcZiXI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 3570,
+          "like_count": 29742,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 9123
+        },
+        "username": "zirancumin0",
+        "verified": false
+      }
+    ]
+  }
+}

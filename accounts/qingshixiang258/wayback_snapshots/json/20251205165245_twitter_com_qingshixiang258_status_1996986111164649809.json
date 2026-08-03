@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1996795496799879435",
+    "created_at": "2025-12-05T16:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T17:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996986111164649809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1328922423438303234",
+          "start": 0,
+          "username": "2r3mm"
+        },
+        {
+          "end": 14,
+          "id": "1602328096622800896",
+          "start": 7,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996986111164649809",
+    "in_reply_to_user_id": "1328922423438303234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996850444942168368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2r3mm @dutyge 谁都有年少无知的时候，人不可能一生下来就懂事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1996795496799879435",
+        "created_at": "2025-12-05T16:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996986111164649809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1328922423438303234",
+              "start": 0,
+              "username": "2r3mm"
+            },
+            {
+              "end": 14,
+              "id": "1602328096622800896",
+              "start": 7,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996986111164649809",
+        "in_reply_to_user_id": "1328922423438303234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996850444942168368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2r3mm @dutyge 谁都有年少无知的时候，人不可能一生下来就懂事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328922423438303234",
+        "conversation_id": "1996795496799879435",
+        "created_at": "2025-12-05T07:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996850444942168368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1602328096622800896",
+              "start": 0,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996850444942168368",
+        "in_reply_to_user_id": "1602328096622800896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1260,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996795496799879435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyge 那问题来了中年老登小时候为什么不好好学习"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 1479,
+          "like_count": 35052,
+          "listed_count": 8,
+          "media_count": 957,
+          "tweet_count": 15745
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-18T04:46:19.000Z",
+        "description": "说实话我不知道该写什么",
+        "id": "1328922423438303234",
+        "location": "East of Soissons",
+        "name": "𝓐𝓻𝓭𝓪𝓷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992951616392298496/ENQJRW5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 264,
+          "like_count": 1690,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2588
+        },
+        "username": "2r3mm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53437,
+          "following_count": 96,
+          "like_count": 0,
+          "listed_count": 245,
+          "media_count": 8517,
+          "tweet_count": 14437
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1974155040823943307",
+    "created_at": "2025-10-03T18:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T19:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974180136959553664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691242509815754754",
+          "start": 0,
+          "username": "LastTrouvaille"
+        },
+        {
+          "end": 31,
+          "id": "970525948847144960",
+          "start": 16,
+          "username": "Logic_Accepted"
+        },
+        {
+          "end": 42,
+          "id": "1153921233445986304",
+          "start": 32,
+          "username": "shirumesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974180136959553664",
+    "in_reply_to_user_id": "1691242509815754754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974165343745814693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastTrouvaille @Logic_Accepted @shirumesu 那和我谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1974155040823943307",
+        "created_at": "2025-10-03T18:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974180136959553664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "LastTrouvaille"
+            },
+            {
+              "end": 31,
+              "id": "970525948847144960",
+              "start": 16,
+              "username": "Logic_Accepted"
+            },
+            {
+              "end": 42,
+              "id": "1153921233445986304",
+              "start": 32,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974180136959553664",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974165343745814693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastTrouvaille @Logic_Accepted @shirumesu 那和我谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1974155040823943307",
+        "created_at": "2025-10-03T17:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T18:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974165343745814693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "970525948847144960",
+              "start": 0,
+              "username": "Logic_Accepted"
+            },
+            {
+              "end": 26,
+              "id": "1153921233445986304",
+              "start": 16,
+              "username": "shirumesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974165343745814693",
+        "in_reply_to_user_id": "970525948847144960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974161158413377867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Logic_Accepted @shirumesu 才没有！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 1330,
+          "like_count": 30971,
+          "listed_count": 7,
+          "media_count": 831,
+          "tweet_count": 13974
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "【故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也】Hi~这里是Cream Cheese，可以称呼CC，叫妈妈姐姐也行(划掉)‖🇨🇳‖INFP-T‖天秤‖轻抑‖性格奇怪(?)但是温柔细腻(?)富有爱心(?)不时话痨(雾)‖常驻上海，两假驻广州‖会emo‖键政🚫‖中粤英👌🏻‖网链是提问箱和miku↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille",
+                "start": 0,
+                "url": "https://t.co/cjyY2KdsGB"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "location": "禁阁·星光沙漠·玫瑰园&纪念馆",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 2693,
+          "like_count": 30985,
+          "listed_count": 12,
+          "media_count": 692,
+          "tweet_count": 7256
+        },
+        "url": "https://t.co/cjyY2KdsGB",
+        "username": "LastTrouvaille",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-05T05:06:32.000Z",
+        "description": "欢迎交朋友，对你的推文感兴趣会互 fo 这里分享生活 不喜欢政治和吵架，并可能会屏蔽，不是你的错",
+        "id": "970525948847144960",
+        "location": "Sky Dynasty",
+        "name": "Ayu🧠",
+        "pinned_tweet_id": "1594480827249086465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234062601878818816/L-BJHTBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 166,
+          "like_count": 9411,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1071
+        },
+        "username": "Logic_Accepted",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～包健全的/fo无依据随缘看心情/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "镜中城 拉·瑟兰德尼姆",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964015080477249536/BbQ06nlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 44,
+          "like_count": 23924,
+          "listed_count": 6,
+          "media_count": 425,
+          "tweet_count": 13073
+        },
+        "username": "shirumesu",
+        "verified": false
+      }
+    ]
+  }
+}

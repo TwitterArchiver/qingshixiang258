@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2047268377794879554",
+    "created_at": "2026-04-23T11:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047272121248956585"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "高血糖"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "高血脂"
+        },
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "高血压"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826255472636350464",
+          "start": 0,
+          "username": "KawaiiTrotsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047272121248956585",
+    "in_reply_to_user_id": "1826255472636350464",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047271967544516883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiTrotsky #高血糖 #高血脂 #高血压 ～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047271967544516883].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047271967544516883",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047271967544516883"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2047268377794879554",
+        "created_at": "2026-04-23T11:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047272121248956585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "高血糖"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "高血脂"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "高血压"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826255472636350464",
+              "start": 0,
+              "username": "KawaiiTrotsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047272121248956585",
+        "in_reply_to_user_id": "1826255472636350464",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047271967544516883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiTrotsky #高血糖 #高血脂 #高血压 ～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 1625,
+          "like_count": 39411,
+          "listed_count": 9,
+          "media_count": 1191,
+          "tweet_count": 19492
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T13:50:30.000Z",
+        "description": "無言フォロー失礼します|アニメ|低浮上|フォロバ99%|block back100%(blocked 8000+)\n不定期更新华国锋/李朝栋美（guǐ）图😁\n死妈盗号骗子的🖕👉@_fabianellis6\n账号终于解封了😭政治推文下别@我\nFair is foul, and foul is fair.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "_fabianellis6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Twitter.com/FourLeafStudio…",
+                "end": 23,
+                "expanded_url": "https://Twitter.com/FourLeafStudios?mx=1",
+                "start": 0,
+                "url": "https://t.co/XedtsYyW5z"
+              }
+            ]
+          }
+        },
+        "id": "1826255472636350464",
+        "location": "4LSOFFICIAL↓fuck@_fabianellis6",
+        "name": "砂藤リリー",
+        "pinned_tweet_id": "2039731582936953139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931922308031250432/PgClKYdP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 7467,
+          "like_count": 13213,
+          "listed_count": 1,
+          "media_count": 1282,
+          "tweet_count": 18841
+        },
+        "url": "https://t.co/XedtsYyW5z",
+        "username": "KawaiiTrotsky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2028074484029325338",
+    "created_at": "2026-03-01T12:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028087662243131890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009765103236009984",
+          "start": 0,
+          "username": "rudo_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028087662243131890",
+    "in_reply_to_user_id": "2009765103236009984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028074664187277569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rudo_u 张嘴了？好机会！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2028074484029325338",
+        "created_at": "2026-03-01T12:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028087662243131890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009765103236009984",
+              "start": 0,
+              "username": "rudo_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028087662243131890",
+        "in_reply_to_user_id": "2009765103236009984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028074664187277569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rudo_u 张嘴了？好机会！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009765103236009984",
+        "conversation_id": "2028074484029325338",
+        "created_at": "2026-03-01T11:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T12:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028074664187277569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028074664187277569",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028074484029325338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 唔哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1481,
+          "like_count": 37374,
+          "listed_count": 8,
+          "media_count": 1098,
+          "tweet_count": 18012
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:12:20.000Z",
+        "description": "",
+        "id": "2009765103236009984",
+        "name": "urudo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009767733488168960/JWeXbFKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 87,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 310
+        },
+        "username": "rudo_u",
+        "verified": false
+      }
+    ]
+  }
+}

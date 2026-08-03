@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933948106598420480",
+        "3_1933948123690217473",
+        "3_1933948149455818752",
+        "3_1933948170343485440"
+      ],
+      "media_source_tweet_id": [
+        "1933949054846926964",
+        "1933949054846926964",
+        "1933949054846926964",
+        "1933949054846926964"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1934282959261143503",
+    "created_at": "2025-06-15T16:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T17:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934282959261143503"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "Frederic Edwin Church",
+          "probability": 0.9355,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827411715606081536",
+          "start": 3,
+          "username": "_ArtMuseum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1eQrGczmFf",
+          "end": 86,
+          "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+          "media_key": "3_1933948106598420480",
+          "start": 63,
+          "url": "https://t.co/1eQrGczmFf"
+        },
+        {
+          "display_url": "pic.x.com/1eQrGczmFf",
+          "end": 86,
+          "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+          "media_key": "3_1933948123690217473",
+          "start": 63,
+          "url": "https://t.co/1eQrGczmFf"
+        },
+        {
+          "display_url": "pic.x.com/1eQrGczmFf",
+          "end": 86,
+          "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+          "media_key": "3_1933948149455818752",
+          "start": 63,
+          "url": "https://t.co/1eQrGczmFf"
+        },
+        {
+          "display_url": "pic.x.com/1eQrGczmFf",
+          "end": 86,
+          "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+          "media_key": "3_1933948170343485440",
+          "start": 63,
+          "url": "https://t.co/1eQrGczmFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934282959261143503",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 541
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933949054846926964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ArtMuseum: Paintings by Frederic Edwin Church (1826-1900) https://t.co/1eQrGczmFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_1933948106598420480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtbDjnPWkAAJsPQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 632,
+        "media_key": "3_1933948123690217473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtbDkm6WsAES9Ev.jpg",
+        "width": 894
+      },
+      {
+        "height": 557,
+        "media_key": "3_1933948149455818752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtbDmG5WkAALC-m.jpg",
+        "width": 1040
+      },
+      {
+        "height": 657,
+        "media_key": "3_1933948170343485440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtbDnUtXEAA2SMf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933948106598420480",
+            "3_1933948123690217473",
+            "3_1933948149455818752",
+            "3_1933948170343485440"
+          ],
+          "media_source_tweet_id": [
+            "1933949054846926964",
+            "1933949054846926964",
+            "1933949054846926964",
+            "1933949054846926964"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1934282959261143503",
+        "created_at": "2025-06-15T16:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T17:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934282959261143503"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Frederic Edwin Church",
+              "probability": 0.9355,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827411715606081536",
+              "start": 3,
+              "username": "_ArtMuseum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eQrGczmFf",
+              "end": 86,
+              "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+              "media_key": "3_1933948106598420480",
+              "start": 63,
+              "url": "https://t.co/1eQrGczmFf"
+            },
+            {
+              "display_url": "pic.x.com/1eQrGczmFf",
+              "end": 86,
+              "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+              "media_key": "3_1933948123690217473",
+              "start": 63,
+              "url": "https://t.co/1eQrGczmFf"
+            },
+            {
+              "display_url": "pic.x.com/1eQrGczmFf",
+              "end": 86,
+              "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+              "media_key": "3_1933948149455818752",
+              "start": 63,
+              "url": "https://t.co/1eQrGczmFf"
+            },
+            {
+              "display_url": "pic.x.com/1eQrGczmFf",
+              "end": 86,
+              "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+              "media_key": "3_1933948170343485440",
+              "start": 63,
+              "url": "https://t.co/1eQrGczmFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934282959261143503",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 541
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933949054846926964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ArtMuseum: Paintings by Frederic Edwin Church (1826-1900) https://t.co/1eQrGczmFf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933948106598420480",
+            "3_1933948123690217473",
+            "3_1933948149455818752",
+            "3_1933948170343485440"
+          ]
+        },
+        "author_id": "1827411715606081536",
+        "conversation_id": "1933949054846926964",
+        "created_at": "2025-06-14T18:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933949054846926964"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Frederic Edwin Church",
+              "probability": 0.9226,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eQrGczmFf",
+              "end": 70,
+              "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+              "media_key": "3_1933948106598420480",
+              "start": 47,
+              "url": "https://t.co/1eQrGczmFf"
+            },
+            {
+              "display_url": "pic.x.com/1eQrGczmFf",
+              "end": 70,
+              "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+              "media_key": "3_1933948123690217473",
+              "start": 47,
+              "url": "https://t.co/1eQrGczmFf"
+            },
+            {
+              "display_url": "pic.x.com/1eQrGczmFf",
+              "end": 70,
+              "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+              "media_key": "3_1933948149455818752",
+              "start": 47,
+              "url": "https://t.co/1eQrGczmFf"
+            },
+            {
+              "display_url": "pic.x.com/1eQrGczmFf",
+              "end": 70,
+              "expanded_url": "https://x.com/_ArtMuseum/status/1933949054846926964/photo/1",
+              "media_key": "3_1933948170343485440",
+              "start": 47,
+              "url": "https://t.co/1eQrGczmFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933949054846926964",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 554,
+          "impression_count": 51268,
+          "like_count": 2927,
+          "quote_count": 15,
+          "reply_count": 8,
+          "retweet_count": 541
+        },
+        "reply_settings": "everyone",
+        "text": "Paintings by Frederic Edwin Church (1826-1900) https://t.co/1eQrGczmFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 1121,
+          "like_count": 24357,
+          "listed_count": 6,
+          "media_count": 622,
+          "tweet_count": 10662
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:24:56.000Z",
+        "description": "Art Museum 🏛",
+        "id": "1827411715606081536",
+        "name": "𝑨𝒓𝒕 🎨",
+        "pinned_tweet_id": "1880696409789207005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827412002559389696/eWCMsBLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24057,
+          "following_count": 3419,
+          "like_count": 7933,
+          "listed_count": 173,
+          "media_count": 645,
+          "tweet_count": 2588
+        },
+        "username": "_ArtMuseum",
+        "verified": false
+      }
+    ]
+  }
+}

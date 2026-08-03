@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1922096873399054462",
+    "created_at": "2025-05-13T06:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T07:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922178760817652149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        },
+        {
+          "end": 27,
+          "id": "1597116471733211136",
+          "start": 17,
+          "username": "hnbngzhg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922178760817652149",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922171267131580656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical @hnbngzhg1 这也叫风凉话啊…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1922171267131580656].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1922171267131580656",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1922171267131580656"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1922096873399054462",
+        "created_at": "2025-05-13T06:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T07:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922178760817652149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            },
+            {
+              "end": 27,
+              "id": "1597116471733211136",
+              "start": 17,
+              "username": "hnbngzhg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922178760817652149",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922171267131580656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical @hnbngzhg1 这也叫风凉话啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939396401803264/JH7fO8b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 905,
+          "like_count": 19609,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 8580
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "台中の男性|讀研中|極少鍵政|往返兩岸壬|建制習廚|擁共尊習|綠白與低素質勿擾\n\n推薦關注：好哥們@Amemiya_Hasumi 廚子@GlunekiKCA 小黍@_Nagasaki_Soyo_ 小綠@lamte15072 老保之友 @xu244986 好友 @Tinkles_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Amemiya_Hasumi"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "_Nagasaki_Soyo_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "lamte15072"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "xu244986"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Tinkles_12"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1897333077929824397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917217921757216769/4fjPnUfS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20284,
+          "following_count": 2857,
+          "like_count": 281915,
+          "listed_count": 37,
+          "media_count": 5491,
+          "tweet_count": 54836
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:33:50.000Z",
+        "description": "ㅋㅋㅋㅋㅋㅋ.\n커피를 좋아해요.",
+        "id": "1597116471733211136",
+        "location": "Los Angeles, CA",
+        "name": "한병지구",
+        "pinned_tweet_id": "1889350334390456335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684618374612217856/FL11qBR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 7501,
+          "like_count": 57445,
+          "listed_count": 9,
+          "media_count": 436,
+          "tweet_count": 13795
+        },
+        "username": "hnbngzhg1",
+        "verified": false
+      }
+    ]
+  }
+}

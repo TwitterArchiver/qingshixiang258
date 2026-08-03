@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2005873206213947718",
+    "created_at": "2025-12-30T14:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T15:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006016523899379757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006016523899379757",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005873206213947718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 很荣幸被关注了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2005873206213947718",
+        "created_at": "2025-12-30T14:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006016523899379757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006016523899379757",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005873206213947718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 很荣幸被关注了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2005873206213947718",
+        "created_at": "2025-12-30T05:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T06:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005873206213947718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005873206213947718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当初觉得我想当大明星然后关注者/正在关注比例一直维持在10:1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2005092093090546046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 1468,
+          "like_count": 35416,
+          "listed_count": 9,
+          "media_count": 980,
+          "tweet_count": 16222
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei👋｜在日常中发现📸｜我构建 OneLauncher👩‍💻｜大坏猫 @lovelyshuimao ❤️💥🫵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2002749269015777340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002735211898089472/5MAuttCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6725,
+          "following_count": 427,
+          "like_count": 33181,
+          "listed_count": 15,
+          "media_count": 2180,
+          "tweet_count": 18784
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

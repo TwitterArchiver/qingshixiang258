@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1946586034722295942",
+    "created_at": "2025-07-19T23:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T00:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946707939777298469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866698750477168640",
+          "start": 0,
+          "username": "Kuroko100106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946707939777298469",
+    "in_reply_to_user_id": "1866698750477168640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946586034722295942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuroko100106 怎么了亲爱的😿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946586034722295942].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946586034722295942",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946586034722295942"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1946586034722295942",
+        "created_at": "2025-07-19T23:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T00:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946707939777298469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866698750477168640",
+              "start": 0,
+              "username": "Kuroko100106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946707939777298469",
+        "in_reply_to_user_id": "1866698750477168640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946586034722295942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuroko100106 怎么了亲爱的😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 71,
+                "username": "_akitayura"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 1220,
+          "like_count": 26085,
+          "listed_count": 6,
+          "media_count": 667,
+          "tweet_count": 11428
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T04:17:56.000Z",
+        "description": "自杀未遂者",
+        "id": "1866698750477168640",
+        "location": "你说你不想在这里",
+        "name": "白井黑子的篮球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866700085024919559/o5S-xdpk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 56,
+          "like_count": 1796,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 93
+        },
+        "username": "Kuroko100106",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027623658362179585"
+      ],
+      "media_source_tweet_id": [
+        "2027623662036390192"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027681527702945854",
+    "created_at": "2026-02-28T09:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T10:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027681527702945854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774477637534281728",
+          "start": 3,
+          "username": "GeimoGeimo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rF25Z10K25",
+          "end": 43,
+          "expanded_url": "https://x.com/GeimoGeimo/status/2027623662036390192/photo/1",
+          "media_key": "3_2027623658362179585",
+          "start": 20,
+          "url": "https://t.co/rF25Z10K25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027681527702945854",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027623662036390192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GeimoGeimo: ✌🏻💖 https://t.co/rF25Z10K25"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027623658362179585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOQ-XbbEAE8LVp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027623658362179585"
+          ],
+          "media_source_tweet_id": [
+            "2027623662036390192"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2027681527702945854",
+        "created_at": "2026-02-28T09:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027681527702945854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774477637534281728",
+              "start": 3,
+              "username": "GeimoGeimo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rF25Z10K25",
+              "end": 43,
+              "expanded_url": "https://x.com/GeimoGeimo/status/2027623662036390192/photo/1",
+              "media_key": "3_2027623658362179585",
+              "start": 20,
+              "url": "https://t.co/rF25Z10K25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027681527702945854",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027623662036390192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GeimoGeimo: ✌🏻💖 https://t.co/rF25Z10K25"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027623658362179585"
+          ]
+        },
+        "author_id": "1774477637534281728",
+        "conversation_id": "2027623662036390192",
+        "created_at": "2026-02-28T05:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027623662036390192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rF25Z10K25",
+              "end": 27,
+              "expanded_url": "https://x.com/GeimoGeimo/status/2027623662036390192/photo/1",
+              "media_key": "3_2027623658362179585",
+              "start": 4,
+              "url": "https://t.co/rF25Z10K25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027623662036390192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 3726,
+          "like_count": 626,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "✌🏻💖 https://t.co/rF25Z10K25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 1478,
+          "like_count": 37329,
+          "listed_count": 8,
+          "media_count": 1091,
+          "tweet_count": 17973
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T16:43:52.000Z",
+        "description": "♂/臭打游戏的，随缘更新照片/偶尔发点画",
+        "id": "1774477637534281728",
+        "location": "在东百读研",
+        "name": "Geimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004756239209951232/hqctl2-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3549,
+          "following_count": 363,
+          "like_count": 10217,
+          "listed_count": 10,
+          "media_count": 42,
+          "tweet_count": 1479
+        },
+        "username": "GeimoGeimo",
+        "verified": false
+      }
+    ]
+  }
+}

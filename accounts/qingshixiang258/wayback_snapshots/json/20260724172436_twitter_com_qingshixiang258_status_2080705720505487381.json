@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2080698303642304957",
+    "created_at": "2026-07-24T17:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080705720505487381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080705720505487381",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080699987227509236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr 全都创死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2080699973562413056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAhmhhaMAANebJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2080698303642304957",
+        "created_at": "2026-07-24T17:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080705720505487381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080705720505487381",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080699987227509236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 全都创死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080699973562413056"
+          ]
+        },
+        "author_id": "1866050038088024064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080698303642304957",
+        "created_at": "2026-07-24T17:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080699987227509236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypVBkdTXEL",
+              "end": 46,
+              "expanded_url": "https://x.com/123456wwerr/status/2080699987227509236/photo/1",
+              "media_key": "3_2080699973562413056",
+              "start": 23,
+              "url": "https://t.co/ypVBkdTXEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080699987227509236",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080698303642304957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 不幸者猛攻 https://t.co/ypVBkdTXEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 1681,
+          "like_count": 44820,
+          "listed_count": 8,
+          "media_count": 1367,
+          "tweet_count": 21507
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "恒人党委员会荣誉会员，百分之八十皮特人间体，悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 449,
+          "like_count": 133897,
+          "listed_count": 2,
+          "media_count": 885,
+          "tweet_count": 20799
+        },
+        "url": "",
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

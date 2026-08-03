@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059259441695100928"
+      ],
+      "media_source_tweet_id": [
+        "2059259455490121833"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2059264739457499228",
+    "created_at": "2026-05-26T13:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059264739457499228"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "新头像"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766129619474993152",
+          "start": 3,
+          "username": "AcetateFrag"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tkbu67P7ik",
+          "end": 68,
+          "expanded_url": "https://x.com/AcetateFrag/status/2059259455490121833/photo/1",
+          "media_key": "3_2059259441695100928",
+          "start": 45,
+          "url": "https://t.co/tkbu67P7ik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059264739457499228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059259455490121833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcetateFrag: 小a有礼貌，所以小a戴礼帽！(*¯︶¯*)\n\n#新头像 https://t.co/tkbu67P7ik"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2059259441695100928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP1jUKbEAAP5wh.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059259441695100928"
+          ],
+          "media_source_tweet_id": [
+            "2059259455490121833"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2059264739457499228",
+        "created_at": "2026-05-26T13:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059264739457499228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "新头像"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766129619474993152",
+              "start": 3,
+              "username": "AcetateFrag"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkbu67P7ik",
+              "end": 68,
+              "expanded_url": "https://x.com/AcetateFrag/status/2059259455490121833/photo/1",
+              "media_key": "3_2059259441695100928",
+              "start": 45,
+              "url": "https://t.co/tkbu67P7ik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059264739457499228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059259455490121833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcetateFrag: 小a有礼貌，所以小a戴礼帽！(*¯︶¯*)\n\n#新头像 https://t.co/tkbu67P7ik"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059259441695100928"
+          ]
+        },
+        "author_id": "1766129619474993152",
+        "conversation_id": "2059259455490121833",
+        "created_at": "2026-05-26T13:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059259455490121833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkbu67P7ik",
+              "end": 51,
+              "expanded_url": "https://x.com/AcetateFrag/status/2059259455490121833/photo/1",
+              "media_key": "3_2059259441695100928",
+              "start": 28,
+              "url": "https://t.co/tkbu67P7ik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059259455490121833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小a有礼貌，所以小a戴礼帽！(*¯︶¯*)\n\n#新头像 https://t.co/tkbu67P7ik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1689,
+          "like_count": 41680,
+          "listed_count": 10,
+          "media_count": 1261,
+          "tweet_count": 20475
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T15:52:00.000Z",
+        "description": "你好～ 请叫我小a就好｜是爱哭鬼｜是大傻纸｜迷迷糊糊｜昏昏饿饿｜偶尔会自由发挥一下（笨蛋施工ing...）",
+        "id": "1766129619474993152",
+        "name": "Acetate🍰",
+        "pinned_tweet_id": "1881722587975479448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059257959772045312/byTc-_98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 190,
+          "like_count": 1778,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1100
+        },
+        "username": "AcetateFrag",
+        "verified": false
+      }
+    ]
+  }
+}

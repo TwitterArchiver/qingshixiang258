@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2073014133600170295",
+    "created_at": "2026-07-03T20:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073135317369151686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073135317369151686",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073014133600170295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 看起来好好吃！来一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073014119238897664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTTW6-akAAqNWB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2073014133600170295",
+        "created_at": "2026-07-03T20:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073135317369151686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073135317369151686",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073014133600170295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin 看起来好好吃！来一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073014119238897664"
+          ]
+        },
+        "author_id": "1717455447110844416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reality TV",
+              "id": "847523721065537536",
+              "name": "Reality TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400772033245184",
+              "name": "Movies & TV events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2073014133600170295",
+        "created_at": "2026-07-03T12:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073014133600170295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hETXeZvJXc",
+              "end": 88,
+              "expanded_url": "https://x.com/ZhuangXuexin/status/2073014133600170295/photo/1",
+              "media_key": "3_2073014119238897664",
+              "start": 65,
+              "url": "https://t.co/hETXeZvJXc"
+            },
+            {
+              "display_url": "x.com/zhuangxuexin/s…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/zhuangxuexin/status/2071098657030742084",
+              "start": 89,
+              "url": "https://t.co/eeIPAb0WOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073014133600170295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071098657030742084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六，味千（想了想还是计数吧）。\n应该是范围最大的日式拉面连锁店，\n但，几乎吃不出是日式拉面。\n而且即使抛开这点也不好吃\n鉴定为拉 https://t.co/hETXeZvJXc https://t.co/eeIPAb0WOs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071265514597519361/MXKHALWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 1689,
+          "like_count": 44304,
+          "listed_count": 10,
+          "media_count": 1330,
+          "tweet_count": 21283
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "我是伪人。读一些中国古典诗文和西方哲学，最爱的作者是 庾信 杜甫 王沂孙 辛弃疾 周邦彦 康德 黑格尔，欢迎让我荐书喔。最近一层人生观是v曲和木柜子动画塑造的。近对 政治思想史 英美道德学 德国法学 感兴趣。理论物理研究生，梦想的职业是科学史和文学批评。想做一个功利主义的幸福者。我上推就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2072511789150179404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069824631582953472/pBcMGUM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 245,
+          "like_count": 28462,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 3072
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

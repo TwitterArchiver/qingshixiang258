@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2051322161026257015",
+    "created_at": "2026-05-04T15:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051325842878599348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HuamanX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051325842878599348",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051322161026257015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuamanX09 别忘了见好就收"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051322149668048896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfCoHLa0AA3_Q7.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2051322161026257015",
+        "created_at": "2026-05-04T15:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051325842878599348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051325842878599348",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051322161026257015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuamanX09 别忘了见好就收"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051322149668048896"
+          ]
+        },
+        "author_id": "2021505488337416192",
+        "conversation_id": "2051322161026257015",
+        "created_at": "2026-05-04T15:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051322161026257015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70V0GrgfmZ",
+              "end": 30,
+              "expanded_url": "https://x.com/HuamanX09/status/2051322161026257015/photo/1",
+              "media_key": "3_2051322149668048896",
+              "start": 7,
+              "url": "https://t.co/70V0GrgfmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051322161026257015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赚了一万块了 https://t.co/70V0GrgfmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 1679,
+          "like_count": 40347,
+          "listed_count": 9,
+          "media_count": 1222,
+          "tweet_count": 19829
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "伴侣@CyberKanjousen🐱/老师@Aoim33｜20岁｜专科大一｜日语、心理学、自杀干预、记录生活｜ACGN爱好者｜VTuber/游戏主播｜交易技术分析 波浪理论",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5XUGTKL",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5XUGTKL",
+                "start": 0,
+                "url": "https://t.co/o0VzlkAATx"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "日本",
+        "name": "花漫阳春Official",
+        "pinned_tweet_id": "2051322161026257015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050866823537848320/pK1F5VG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 679,
+          "like_count": 3643,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/o0VzlkAATx",
+        "username": "HuamanX09",
+        "verified": true
+      }
+    ]
+  }
+}

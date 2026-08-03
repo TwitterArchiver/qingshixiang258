@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2073733438621028525",
+    "created_at": "2026-07-05T13:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073757586101580101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865050179617067008",
+          "start": 0,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073757586101580101",
+    "in_reply_to_user_id": "1865050179617067008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073733438621028525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaStellaria 666，大主包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2073733436255395840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdhkrraYAA0GG_.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2073733438621028525",
+        "created_at": "2026-07-05T13:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073757586101580101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865050179617067008",
+              "start": 0,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073757586101580101",
+        "in_reply_to_user_id": "1865050179617067008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073733438621028525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaStellaria 666，大主包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073733436255395840"
+          ]
+        },
+        "author_id": "1865050179617067008",
+        "conversation_id": "2073733438621028525",
+        "created_at": "2026-07-05T11:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073733438621028525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXtBAADJmz",
+              "end": 29,
+              "expanded_url": "https://x.com/AyaStellaria/status/2073733438621028525/photo/1",
+              "media_key": "3_2073733436255395840",
+              "start": 6,
+              "url": "https://t.co/zXtBAADJmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073733438621028525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六百六十六 https://t.co/zXtBAADJmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071265514597519361/MXKHALWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 1687,
+          "like_count": 44289,
+          "listed_count": 10,
+          "media_count": 1332,
+          "tweet_count": 21294
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "比风更轻盈，比路更坚定，比面朝人海的诀别更有感情",
+        "id": "1865050179617067008",
+        "location": "玉浮山",
+        "name": "凛御",
+        "pinned_tweet_id": "1892910789776068924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008491850056007680/KyJknQuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1113,
+          "like_count": 65680,
+          "listed_count": 12,
+          "media_count": 708,
+          "tweet_count": 13897
+        },
+        "url": "",
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

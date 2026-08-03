@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1986323890415808532",
+    "created_at": "2025-11-06T12:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T13:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986406532809138607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Hibi3cus"
+        },
+        {
+          "end": 21,
+          "id": "1692666360487145472",
+          "start": 10,
+          "username": "RLiarDance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986406532809138607",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986393931249295398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hibi3cus @RLiarDance 你谁？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1986323890415808532",
+        "created_at": "2025-11-06T12:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T13:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986406532809138607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Hibi3cus"
+            },
+            {
+              "end": 21,
+              "id": "1692666360487145472",
+              "start": 10,
+              "username": "RLiarDance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986406532809138607",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986393931249295398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hibi3cus @RLiarDance 你谁？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1986323890415808532",
+        "created_at": "2025-11-06T11:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986393931249295398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692666360487145472",
+              "start": 0,
+              "username": "RLiarDance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986393931249295398",
+        "in_reply_to_user_id": "1692666360487145472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986393367367110857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RLiarDance 我是榴莲的好朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982824485905453056/GgENe-19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1414,
+          "like_count": 33629,
+          "listed_count": 7,
+          "media_count": 922,
+          "tweet_count": 14933
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ss84252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ss84252",
+                "start": 0,
+                "url": "https://t.co/TDolTYSMj8"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "name": "全麦吐师",
+        "pinned_tweet_id": "1969221235876794442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986372521881718784/QmLZJQ_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 229,
+          "like_count": 180995,
+          "listed_count": 35,
+          "media_count": 66,
+          "tweet_count": 45546
+        },
+        "url": "https://t.co/TDolTYSMj8",
+        "username": "Hibi3cus",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T22:34:51.000Z",
+        "description": "榴莲粉丝团爱莲说/榴你一生莲你一世",
+        "id": "1692666360487145472",
+        "name": "爱莲说",
+        "pinned_tweet_id": "1911769604294160671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974143500729135107/THjyNgAn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 36,
+          "like_count": 5730,
+          "listed_count": 1,
+          "media_count": 390,
+          "tweet_count": 3367
+        },
+        "username": "RLiarDance",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2027366969796968883",
+    "created_at": "2026-02-27T12:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027366969796968883"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027366969796968883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想穿着我新买的马面出去玩🥺，但是我感觉我的化妆不足以让我足够pass🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2027366969796968883",
+        "created_at": "2026-02-27T12:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027366969796968883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027366969796968883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想穿着我新买的马面出去玩🥺，但是我感觉我的化妆不足以让我足够pass🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1479,
+          "like_count": 37303,
+          "listed_count": 8,
+          "media_count": 1088,
+          "tweet_count": 17944
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

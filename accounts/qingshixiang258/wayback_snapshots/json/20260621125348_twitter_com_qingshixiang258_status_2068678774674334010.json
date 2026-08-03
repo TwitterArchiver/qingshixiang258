@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2068615534938395106",
+    "created_at": "2026-06-21T12:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068678774674334010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068678774674334010",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068615534938395106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr ohno！注意消毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068615511987109888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUy2SDawAAUnJZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068615511982956544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUy2SCbYAAR9sR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068615511991287808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUy2SEagAAlzjc.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2068615511991332864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUy2SEbMAA4ppJ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2068615534938395106",
+        "created_at": "2026-06-21T12:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068678774674334010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068678774674334010",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068615534938395106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr ohno！注意消毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068615511987109888",
+            "3_2068615511982956544",
+            "3_2068615511991287808",
+            "3_2068615511991332864"
+          ]
+        },
+        "author_id": "1866050038088024064",
+        "conversation_id": "2068615534938395106",
+        "created_at": "2026-06-21T08:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068615534938395106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLiGQzxRl0",
+              "end": 35,
+              "expanded_url": "https://x.com/123456wwerr/status/2068615534938395106/photo/1",
+              "media_key": "3_2068615511987109888",
+              "start": 12,
+              "url": "https://t.co/HLiGQzxRl0"
+            },
+            {
+              "display_url": "pic.x.com/HLiGQzxRl0",
+              "end": 35,
+              "expanded_url": "https://x.com/123456wwerr/status/2068615534938395106/photo/1",
+              "media_key": "3_2068615511982956544",
+              "start": 12,
+              "url": "https://t.co/HLiGQzxRl0"
+            },
+            {
+              "display_url": "pic.x.com/HLiGQzxRl0",
+              "end": 35,
+              "expanded_url": "https://x.com/123456wwerr/status/2068615534938395106/photo/1",
+              "media_key": "3_2068615511991287808",
+              "start": 12,
+              "url": "https://t.co/HLiGQzxRl0"
+            },
+            {
+              "display_url": "pic.x.com/HLiGQzxRl0",
+              "end": 35,
+              "expanded_url": "https://x.com/123456wwerr/status/2068615534938395106/photo/1",
+              "media_key": "3_2068615511991332864",
+              "start": 12,
+              "url": "https://t.co/HLiGQzxRl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068615534938395106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摔了一跤，好疼，止血中 https://t.co/HLiGQzxRl0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1692,
+          "like_count": 43764,
+          "listed_count": 10,
+          "media_count": 1318,
+          "tweet_count": 21141
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "恒人党委员会荣誉会员，百分之八十皮特人间体，悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 84,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 435,
+          "like_count": 130585,
+          "listed_count": 2,
+          "media_count": 818,
+          "tweet_count": 19869
+        },
+        "url": "",
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

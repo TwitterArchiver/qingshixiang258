@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1982112955157414177",
+    "created_at": "2025-10-26T12:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T13:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982427880253776302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692666360487145472",
+          "start": 0,
+          "username": "RLiarDance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982427880253776302",
+    "in_reply_to_user_id": "1692666360487145472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982112955157414177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RLiarDance 我吃一口"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1982112955157414177].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982112955157414177",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1982112955157414177"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1982112955157414177",
+        "created_at": "2025-10-26T12:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982427880253776302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692666360487145472",
+              "start": 0,
+              "username": "RLiarDance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982427880253776302",
+        "in_reply_to_user_id": "1692666360487145472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982112955157414177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RLiarDance 我吃一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981035874054742016/gi1dhimK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 1384,
+          "like_count": 32553,
+          "listed_count": 7,
+          "media_count": 889,
+          "tweet_count": 14568
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T22:34:51.000Z",
+        "description": "榴莲粉丝团爱莲说/榴你一生莲你一世",
+        "id": "1692666360487145472",
+        "name": "爱莲说",
+        "pinned_tweet_id": "1911769604294160671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974143500729135107/THjyNgAn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 35,
+          "like_count": 5533,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 3259
+        },
+        "username": "RLiarDance",
+        "verified": false
+      }
+    ]
+  }
+}

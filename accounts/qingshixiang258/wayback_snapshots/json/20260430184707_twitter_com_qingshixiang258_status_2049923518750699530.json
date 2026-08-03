@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2049916275913310238",
+    "created_at": "2026-04-30T18:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T19:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049923518750699530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HuamanX09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049923518750699530",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049916275913310238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuamanX09 以后转专业就是，单招以后校内或者升学都可以转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2049916275913310238",
+        "created_at": "2026-04-30T18:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049923518750699530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HuamanX09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049923518750699530",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049916275913310238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuamanX09 以后转专业就是，单招以后校内或者升学都可以转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505488337416192",
+        "conversation_id": "2049916275913310238",
+        "created_at": "2026-04-30T18:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:05:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049913146668941451",
+          "2049916275913310238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5chyms/status/…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/5chyms/status/2043577161479786703",
+              "start": 134,
+              "url": "https://t.co/0OEvDwUjzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049916275913310238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043577161479786703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "头脑一热选了这个专业，仅仅是因为我喜欢日本二次元文化。\n\n现在说实话我真的非常后悔。但是志愿无法修改，也已被学校录取了。日语毕竟只是一门语言，只会语言而没有什么真正的专业技能，以后肯定找不到工作，更别说想要留在日本工作了......\n\n未来的路该怎么走，只有天知道。 https://t.co/0OEvDwUjzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 1662,
+          "like_count": 40033,
+          "listed_count": 9,
+          "media_count": 1215,
+          "tweet_count": 19692
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "我始终都在这里。 https://t.co/E5w4a5cLsw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Z4qoVLc",
+                "end": 32,
+                "expanded_url": "https://b23.tv/Z4qoVLc",
+                "start": 9,
+                "url": "https://t.co/E5w4a5cLsw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acg.rip",
+                "end": 23,
+                "expanded_url": "http://acg.rip",
+                "start": 0,
+                "url": "https://t.co/7lyUL1iWac"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Japan",
+        "name": "花漫阳春",
+        "pinned_tweet_id": "2049795065707647378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795042991738880/UMh5OtPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 642,
+          "like_count": 3164,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/7lyUL1iWac",
+        "username": "HuamanX09",
+        "verified": false
+      }
+    ]
+  }
+}

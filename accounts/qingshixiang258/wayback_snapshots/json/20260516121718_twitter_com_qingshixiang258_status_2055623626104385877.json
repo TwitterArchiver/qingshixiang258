@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2055570314034385105",
+    "created_at": "2026-05-16T12:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055623626104385877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1318819823758069760",
+          "start": 0,
+          "username": "Enorez2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055623626104385877",
+    "in_reply_to_user_id": "1318819823758069760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055614960554713401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enorez2 狼哥😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055614934352838656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcC5EUWwAAjK0w.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2055570314034385105",
+        "created_at": "2026-05-16T12:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055623626104385877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318819823758069760",
+              "start": 0,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055623626104385877",
+        "in_reply_to_user_id": "1318819823758069760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055614960554713401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enorez2 狼哥😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055614934352838656"
+          ]
+        },
+        "author_id": "1318819823758069760",
+        "conversation_id": "2055570314034385105",
+        "created_at": "2026-05-16T11:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055614960554713401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pDvoYXsOgh",
+              "end": 40,
+              "expanded_url": "https://x.com/Enorez2/status/2055614960554713401/photo/1",
+              "media_key": "3_2055614934352838656",
+              "start": 17,
+              "url": "https://t.co/pDvoYXsOgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055614960554713401",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055614101800517992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 https://t.co/pDvoYXsOgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 1691,
+          "like_count": 41014,
+          "listed_count": 9,
+          "media_count": 1243,
+          "tweet_count": 20186
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "I play Arknights/Endfiled/Limbus Company. I love Hatsune Miku very much. I love Sui siblings, and I love Shu best. I like ACGN culture.",
+        "id": "1318819823758069760",
+        "location": "鴻園",
+        "name": "Rei_LingYi",
+        "pinned_tweet_id": "2054474746046152761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053476758532345857/Q2bURgSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 645,
+          "like_count": 36370,
+          "listed_count": 0,
+          "media_count": 875,
+          "tweet_count": 6346
+        },
+        "username": "Enorez2",
+        "verified": false
+      }
+    ]
+  }
+}

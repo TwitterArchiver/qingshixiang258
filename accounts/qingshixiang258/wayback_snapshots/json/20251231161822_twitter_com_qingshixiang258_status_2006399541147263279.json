@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2006394944374689951",
+    "created_at": "2025-12-31T16:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006399541147263279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        },
+        {
+          "end": 17,
+          "id": "1720779183809519616",
+          "start": 8,
+          "username": "RyyyYoin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006399541147263279",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006398180838252955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS @RyyyYoin 同乐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2006398180838252955].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2006398180838252955",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2006398180838252955"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2006394944374689951",
+        "created_at": "2025-12-31T16:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006399541147263279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            },
+            {
+              "end": 17,
+              "id": "1720779183809519616",
+              "start": 8,
+              "username": "RyyyYoin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006399541147263279",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006398180838252955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS @RyyyYoin 同乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2005092093090546046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1470,
+          "like_count": 35446,
+          "listed_count": 9,
+          "media_count": 981,
+          "tweet_count": 16264
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "@Akiscara_3405 永远幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "_(:з」∠)_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004289020424343552/bJn4W1KA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 475,
+          "like_count": 38436,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 11255
+        },
+        "username": "STULRS",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T12:25:10.000Z",
+        "description": "我也可以为你潜入海里面/妈咪@RANNA_ISOKAZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "RANNA_ISOKAZE"
+              }
+            ]
+          }
+        },
+        "id": "1720779183809519616",
+        "name": "余韻",
+        "pinned_tweet_id": "1923960404994097413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001902092190138368/yr6LcnQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 292,
+          "like_count": 61868,
+          "listed_count": 8,
+          "media_count": 1659,
+          "tweet_count": 14453
+        },
+        "username": "RyyyYoin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2016931223189528655",
+    "created_at": "2026-01-30T15:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017257848686972983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808047925676986368",
+          "start": 0,
+          "username": "xxx_zzx71446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017257848686972983",
+    "in_reply_to_user_id": "1808047925676986368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016944293693247958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_zzx71446 条件反射了，一被吼就怒从心生了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2016931223189528655",
+        "created_at": "2026-01-30T15:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017257848686972983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808047925676986368",
+              "start": 0,
+              "username": "xxx_zzx71446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017257848686972983",
+        "in_reply_to_user_id": "1808047925676986368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016944293693247958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_zzx71446 条件反射了，一被吼就怒从心生了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808047925676986368",
+        "conversation_id": "2016931223189528655",
+        "created_at": "2026-01-29T18:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016944293693247958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016944293693247958",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016931223189528655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 能不能脱敏呢，听多了不觉得可怕了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 1413,
+          "like_count": 36513,
+          "listed_count": 8,
+          "media_count": 1044,
+          "tweet_count": 17172
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "🇨🇳🇺🇸真是一对苦命鸳鸯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "123.com",
+                "end": 23,
+                "expanded_url": "http://www.123.com",
+                "start": 0,
+                "url": "https://t.co/TOiUbqsTjO"
+              }
+            ]
+          }
+        },
+        "id": "1808047925676986368",
+        "location": "距离10.3km",
+        "name": "流光诺梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981046735225913344/HPTthMmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 421,
+          "like_count": 10269,
+          "listed_count": 4,
+          "media_count": 1518,
+          "tweet_count": 13294
+        },
+        "url": "https://t.co/TOiUbqsTjO",
+        "username": "xxx_zzx71446",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1996770267134415236",
+    "created_at": "2025-12-05T06:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T07:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996834929930653847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1509391402484080646",
+          "start": 0,
+          "username": "moran_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996834929930653847",
+    "in_reply_to_user_id": "1509391402484080646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996770267134415236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moran_neko 学生扣平时分，老师扣ta绩效～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_1996770264693276672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Xz-fUbAAAC4sw.jpg",
+        "width": 791
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1996770267134415236",
+        "created_at": "2025-12-05T06:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996834929930653847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509391402484080646",
+              "start": 0,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996834929930653847",
+        "in_reply_to_user_id": "1509391402484080646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996770267134415236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moran_neko 学生扣平时分，老师扣ta绩效～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996770264693276672"
+          ]
+        },
+        "author_id": "1509391402484080646",
+        "conversation_id": "1996770267134415236",
+        "created_at": "2025-12-05T02:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996770267134415236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I80ZfLFZxt",
+              "end": 38,
+              "expanded_url": "https://x.com/moran_neko/status/1996770267134415236/photo/1",
+              "media_key": "3_1996770264693276672",
+              "start": 15,
+              "url": "https://t.co/I80ZfLFZxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996770267134415236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 341,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师旷课了，这种一般怎么处理 https://t.co/I80ZfLFZxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 1480,
+          "like_count": 35066,
+          "listed_count": 8,
+          "media_count": 957,
+          "tweet_count": 15738
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "𝑷𝑳𝑼𝑽𝑰𝑶𝑷𝑯𝑰𝑳𝑬 (n.)嗜雨生物┋挂一个走失的孩子@mokuneko_21┋成分在置顶帖~┋个人博客↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "mokuneko_21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "空调外机",
+        "name": "默然ᓚ𝑀᳐𝑜𝑅𝑎᳐𝑛²¹",
+        "pinned_tweet_id": "1974093214048305419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918685355508932608/QeN0qub6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 1622,
+          "like_count": 32116,
+          "listed_count": 6,
+          "media_count": 1506,
+          "tweet_count": 6579
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

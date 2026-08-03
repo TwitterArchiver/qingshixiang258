@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2046940339261567421",
+    "created_at": "2026-04-22T13:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046943340550393930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046943340550393930",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046940339261567421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 好厉害，看不懂呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2046940337135104000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgxZDdbMAAlu6k.jpg",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2046940339261567421",
+        "created_at": "2026-04-22T13:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046943340550393930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046943340550393930",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046940339261567421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 好厉害，看不懂呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046940337135104000"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2046940339261567421",
+        "created_at": "2026-04-22T13:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046940339261567421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to Yizuka17/MediaLiveTile development by creating an account on GitHub.",
+              "display_url": "github.com/Yizuka17/Media…",
+              "end": 140,
+              "expanded_url": "https://github.com/Yizuka17/MediaLiveTile",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2046940343913136128/qIQfinjK?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046940343913136128/qIQfinjK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 117,
+              "status": 200,
+              "title": "GitHub - Yizuka17/MediaLiveTile",
+              "unwound_url": "https://github.com/Yizuka17/MediaLiveTile",
+              "url": "https://t.co/yDhJCogPGW"
+            },
+            {
+              "display_url": "pic.x.com/yPcz8ml2cS",
+              "end": 164,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2046940339261567421/photo/1",
+              "media_key": "3_2046940337135104000",
+              "start": 141,
+              "url": "https://t.co/yPcz8ml2cS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046940339261567421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已发布，是对那个已经逝去的时代的实验性应用补充\nWin10开始菜单\n可以显示当前媒体信息的动态磁贴\n目前还是非常不好用的，只能抓取接入系统媒体会话的信息，而且纯uwp应用只能依靠前台保活\n后面会开发混合架构\n*仅面向个人（自己）开发\nhttps://t.co/yDhJCogPGW https://t.co/yPcz8ml2cS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1891,
+          "following_count": 1612,
+          "like_count": 39324,
+          "listed_count": 9,
+          "media_count": 1179,
+          "tweet_count": 19446
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」 | 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 122,
+                "start": 107,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 1309,
+          "like_count": 42097,
+          "listed_count": 8,
+          "media_count": 1632,
+          "tweet_count": 25960
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2032865589073686888",
+    "created_at": "2026-03-14T17:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032873471513104715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830006669222502400",
+          "start": 0,
+          "username": "Sayaka_990208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032873471513104715",
+    "in_reply_to_user_id": "1830006669222502400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032865589073686888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sayaka_990208 chudai到底是什么意思啊，我看好多片都打这个标签"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032865589073686888].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032865589073686888",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032865589073686888"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2032865589073686888",
+        "created_at": "2026-03-14T17:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032873471513104715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830006669222502400",
+              "start": 0,
+              "username": "Sayaka_990208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032873471513104715",
+        "in_reply_to_user_id": "1830006669222502400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032865589073686888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sayaka_990208 chudai到底是什么意思啊，我看好多片都打这个标签"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1534,
+          "like_count": 38204,
+          "listed_count": 8,
+          "media_count": 1125,
+          "tweet_count": 18646
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T22:16:15.000Z",
+        "description": "元東京都民 Arknights/明日方舟/アークナイツ/명일방주 esse est percipi",
+        "id": "1830006669222502400",
+        "location": "ГОРОД СОЛНЦА",
+        "name": "さやか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031636306112172032/xjilTHPK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 914,
+          "like_count": 33467,
+          "listed_count": 3,
+          "media_count": 2259,
+          "tweet_count": 3480
+        },
+        "username": "Sayaka_990208",
+        "verified": false
+      }
+    ]
+  }
+}

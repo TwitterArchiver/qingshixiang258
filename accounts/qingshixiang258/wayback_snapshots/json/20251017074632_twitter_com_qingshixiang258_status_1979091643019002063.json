@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1978633382864294241",
+    "created_at": "2025-10-17T07:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T08:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979091643019002063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1210030696841936896",
+          "start": 0,
+          "username": "TIGAZMY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979091643019002063",
+    "in_reply_to_user_id": "1210030696841936896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978832830877589828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TIGAZMY ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1978633382864294241",
+        "created_at": "2025-10-17T07:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979091643019002063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1210030696841936896",
+              "start": 0,
+              "username": "TIGAZMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979091643019002063",
+        "in_reply_to_user_id": "1210030696841936896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978832830877589828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TIGAZMY ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1210030696841936896",
+        "conversation_id": "1978633382864294241",
+        "created_at": "2025-10-16T14:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978832830877589828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978832830877589828",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978633382864294241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 守护世界上最好的小扁担"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1374,
+          "like_count": 32037,
+          "listed_count": 7,
+          "media_count": 859,
+          "tweet_count": 14370
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-26T02:53:05.000Z",
+        "description": "INTJ-A",
+        "id": "1210030696841936896",
+        "location": "常州",
+        "name": "亚里士少德",
+        "pinned_tweet_id": "1901422816354009313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551175911822700544/YTx7HvLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 413,
+          "like_count": 5928,
+          "listed_count": 0,
+          "media_count": 299,
+          "tweet_count": 2402
+        },
+        "username": "TIGAZMY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047963847957626880",
+        "3_2047963851258482688",
+        "3_2047963851262750720",
+        "3_2047963851266965504"
+      ],
+      "media_source_tweet_id": [
+        "2047963859751989544",
+        "2047963859751989544",
+        "2047963859751989544",
+        "2047963859751989544"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2048107862933819670",
+    "created_at": "2026-04-25T18:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048107862933819670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "991179597931626496",
+          "start": 3,
+          "username": "kogaya7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QrcDJFHM3e",
+          "end": 48,
+          "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+          "media_key": "3_2047963847957626880",
+          "start": 25,
+          "url": "https://t.co/QrcDJFHM3e"
+        },
+        {
+          "display_url": "pic.x.com/QrcDJFHM3e",
+          "end": 48,
+          "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+          "media_key": "3_2047963851258482688",
+          "start": 25,
+          "url": "https://t.co/QrcDJFHM3e"
+        },
+        {
+          "display_url": "pic.x.com/QrcDJFHM3e",
+          "end": 48,
+          "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+          "media_key": "3_2047963851262750720",
+          "start": 25,
+          "url": "https://t.co/QrcDJFHM3e"
+        },
+        {
+          "display_url": "pic.x.com/QrcDJFHM3e",
+          "end": 48,
+          "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+          "media_key": "3_2047963851266965504",
+          "start": 25,
+          "url": "https://t.co/QrcDJFHM3e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048107862933819670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047963859751989544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kogaya7: あなたの夜が明けるまで https://t.co/QrcDJFHM3e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2047963847957626880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvUROZbQAAQz_S.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1002,
+        "media_key": "3_2047963851258482688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvURasaUAAbzY8.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1002,
+        "media_key": "3_2047963851262750720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvURatbcAAjbUd.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1002,
+        "media_key": "3_2047963851266965504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvURaubwAAsUgB.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047963847957626880",
+            "3_2047963851258482688",
+            "3_2047963851262750720",
+            "3_2047963851266965504"
+          ],
+          "media_source_tweet_id": [
+            "2047963859751989544",
+            "2047963859751989544",
+            "2047963859751989544",
+            "2047963859751989544"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2048107862933819670",
+        "created_at": "2026-04-25T18:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048107862933819670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "991179597931626496",
+              "start": 3,
+              "username": "kogaya7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QrcDJFHM3e",
+              "end": 48,
+              "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+              "media_key": "3_2047963847957626880",
+              "start": 25,
+              "url": "https://t.co/QrcDJFHM3e"
+            },
+            {
+              "display_url": "pic.x.com/QrcDJFHM3e",
+              "end": 48,
+              "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+              "media_key": "3_2047963851258482688",
+              "start": 25,
+              "url": "https://t.co/QrcDJFHM3e"
+            },
+            {
+              "display_url": "pic.x.com/QrcDJFHM3e",
+              "end": 48,
+              "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+              "media_key": "3_2047963851262750720",
+              "start": 25,
+              "url": "https://t.co/QrcDJFHM3e"
+            },
+            {
+              "display_url": "pic.x.com/QrcDJFHM3e",
+              "end": 48,
+              "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+              "media_key": "3_2047963851266965504",
+              "start": 25,
+              "url": "https://t.co/QrcDJFHM3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048107862933819670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047963859751989544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kogaya7: あなたの夜が明けるまで https://t.co/QrcDJFHM3e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047963847957626880",
+            "3_2047963851258482688",
+            "3_2047963851262750720",
+            "3_2047963851266965504"
+          ]
+        },
+        "author_id": "991179597931626496",
+        "conversation_id": "2047963859751989544",
+        "created_at": "2026-04-25T09:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047963859751989544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QrcDJFHM3e",
+              "end": 35,
+              "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+              "media_key": "3_2047963847957626880",
+              "start": 12,
+              "url": "https://t.co/QrcDJFHM3e"
+            },
+            {
+              "display_url": "pic.x.com/QrcDJFHM3e",
+              "end": 35,
+              "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+              "media_key": "3_2047963851258482688",
+              "start": 12,
+              "url": "https://t.co/QrcDJFHM3e"
+            },
+            {
+              "display_url": "pic.x.com/QrcDJFHM3e",
+              "end": 35,
+              "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+              "media_key": "3_2047963851262750720",
+              "start": 12,
+              "url": "https://t.co/QrcDJFHM3e"
+            },
+            {
+              "display_url": "pic.x.com/QrcDJFHM3e",
+              "end": 35,
+              "expanded_url": "https://x.com/kogaya7/status/2047963859751989544/photo/1",
+              "media_key": "3_2047963851266965504",
+              "start": 12,
+              "url": "https://t.co/QrcDJFHM3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047963859751989544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 6607,
+          "like_count": 613,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "あなたの夜が明けるまで https://t.co/QrcDJFHM3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 1640,
+          "like_count": 39683,
+          "listed_count": 9,
+          "media_count": 1203,
+          "tweet_count": 19582
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-01T04:56:46.000Z",
+        "description": "One day's Photography.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kogaya7",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kogaya7",
+                "start": 0,
+                "url": "https://t.co/xZQwOBprPf"
+              }
+            ]
+          }
+        },
+        "id": "991179597931626496",
+        "location": "Japan Osaka / ご依頼はDMまで",
+        "name": "𝓴𝓸𝓰𝓪𝔂𝓪.",
+        "pinned_tweet_id": "1433725792291229697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324656687848976385/a-OUN2pm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71172,
+          "following_count": 288,
+          "like_count": 130393,
+          "listed_count": 817,
+          "media_count": 2392,
+          "tweet_count": 51076
+        },
+        "url": "https://t.co/xZQwOBprPf",
+        "username": "kogaya7",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1997348381362901400",
+    "created_at": "2025-12-07T16:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T17:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997700206499152183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636943878317285376",
+          "start": 0,
+          "username": "smeridiw3920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997700206499152183",
+    "in_reply_to_user_id": "1636943878317285376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997699843431735359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smeridiw3920 没事，我会摆弄我的小模型～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1997348381362901400",
+        "created_at": "2025-12-07T16:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997700206499152183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636943878317285376",
+              "start": 0,
+              "username": "smeridiw3920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997700206499152183",
+        "in_reply_to_user_id": "1636943878317285376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997699843431735359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smeridiw3920 没事，我会摆弄我的小模型～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636943878317285376",
+        "conversation_id": "1997348381362901400",
+        "created_at": "2025-12-07T16:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997699843431735359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997699843431735359",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997698295486144605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1498,
+          "like_count": 35095,
+          "listed_count": 9,
+          "media_count": 958,
+          "tweet_count": 15806
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T04:13:48.000Z",
+        "description": "Fiat iustitia, et pereat mundus",
+        "id": "1636943878317285376",
+        "name": "두부",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997694276973768704/pt9LWk4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 135,
+          "like_count": 5216,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 931
+        },
+        "username": "smeridiw3920",
+        "verified": false
+      }
+    ]
+  }
+}

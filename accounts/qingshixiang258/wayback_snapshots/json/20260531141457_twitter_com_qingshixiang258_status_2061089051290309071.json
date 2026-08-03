@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056607932142514292",
+    "created_at": "2026-05-31T14:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061089051290309071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450302749803909130",
+          "start": 0,
+          "username": "NanjingHero1937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061089051290309071",
+    "in_reply_to_user_id": "1450302749803909130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056607932142514292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanjingHero1937 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056607932142514292",
+        "created_at": "2026-05-31T14:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061089051290309071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450302749803909130",
+              "start": 0,
+              "username": "NanjingHero1937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061089051290309071",
+        "in_reply_to_user_id": "1450302749803909130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056607932142514292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanjingHero1937 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450302749803909130",
+        "conversation_id": "2056607932142514292",
+        "created_at": "2026-05-19T05:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056607932142514292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056607932142514292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说话笨笨的，没有要冒犯人的意思，请不要讨厌我😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 1689,
+          "like_count": 42001,
+          "listed_count": 10,
+          "media_count": 1272,
+          "tweet_count": 20596
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T03:28:30.000Z",
+        "description": "こんにちは🥰 ふあん民🐾",
+        "id": "1450302749803909130",
+        "location": "南京",
+        "name": "井盖飞贼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019265138411614208/G_qr96kn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 576,
+          "like_count": 48310,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1062
+        },
+        "username": "NanjingHero1937",
+        "verified": false
+      }
+    ]
+  }
+}

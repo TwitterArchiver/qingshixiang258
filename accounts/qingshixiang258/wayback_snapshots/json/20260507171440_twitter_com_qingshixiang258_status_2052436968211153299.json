@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2052419814715703369",
+    "created_at": "2026-05-07T17:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052436968211153299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846264453463236608",
+          "start": 0,
+          "username": "Caroyalink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052436968211153299",
+    "in_reply_to_user_id": "1846264453463236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052432557397188858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caroyalink 这样是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2052419814715703369",
+        "created_at": "2026-05-07T17:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052436968211153299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846264453463236608",
+              "start": 0,
+              "username": "Caroyalink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052436968211153299",
+        "in_reply_to_user_id": "1846264453463236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052432557397188858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caroyalink 这样是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846264453463236608",
+        "conversation_id": "2052419814715703369",
+        "created_at": "2026-05-07T16:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052432557397188858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052432557397188858",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052419814715703369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我就不一样，开不开蓝勾都不会改变我的表达方式，也不会发那种争议性内容🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 1688,
+          "like_count": 40431,
+          "listed_count": 9,
+          "media_count": 1230,
+          "tweet_count": 19972
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:58:52.000Z",
+        "description": "求道者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tnews365",
+                "end": 23,
+                "expanded_url": "https://t.me/tnews365",
+                "start": 0,
+                "url": "https://t.co/4u1lFEsSz4"
+              }
+            ]
+          }
+        },
+        "id": "1846264453463236608",
+        "location": "TAKEZO",
+        "name": "桃木给",
+        "pinned_tweet_id": "2033602682406244538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033593402730975232/g4WdqX7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 747,
+          "like_count": 1301,
+          "listed_count": 8,
+          "media_count": 205,
+          "tweet_count": 2906
+        },
+        "url": "https://t.co/4u1lFEsSz4",
+        "username": "Caroyalink",
+        "verified": true
+      }
+    ]
+  }
+}

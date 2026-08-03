@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1916099968395579875",
+    "created_at": "2025-04-27T08:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T09:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916410065587708144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "Karry_NZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916410065587708144",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916099968395579875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Karry_NZ 生日快乐❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1916099968395579875",
+        "created_at": "2025-04-27T08:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T09:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916410065587708144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "Karry_NZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916410065587708144",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916099968395579875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Karry_NZ 生日快乐❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "1916099968395579875",
+        "created_at": "2025-04-26T12:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916099968395579875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916099968395579875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1077,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我自己生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916284947746459648/Fmz_BBPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 837,
+          "like_count": 17647,
+          "listed_count": 5,
+          "media_count": 303,
+          "tweet_count": 7893
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "请叫我Karry | he/him | 生日27/04/09 (DD/MM/YY)| 新西兰Y11在读 | 顺直男(存疑) | 铁路迷 | 航空迷 | 模拟建造游戏爱好者 | MBTI: ISTP | 传统自由意志主义 | 现居ChCh, NZ | 中文 / English",
+        "id": "1751497892001685504",
+        "location": "Christchurch City, New Zealand",
+        "name": "45.206MHz🇳🇿（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911968805909106688/w0awgYRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 193,
+          "like_count": 9234,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 129
+        },
+        "username": "Karry_NZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1940776133878075789",
+    "created_at": "2025-07-03T14:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940779939915346017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806577888751427584",
+          "start": 0,
+          "username": "Maria52413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940779939915346017",
+    "in_reply_to_user_id": "1806577888751427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940776133878075789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maria52413 记得我之前也挂过她来着🫨，言论有时候太逆天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1940776133878075789",
+        "created_at": "2025-07-03T14:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940779939915346017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1806577888751427584",
+              "start": 0,
+              "username": "Maria52413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940779939915346017",
+        "in_reply_to_user_id": "1806577888751427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940776133878075789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maria52413 记得我之前也挂过她来着🫨，言论有时候太逆天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806577888751427584",
+        "conversation_id": "1940776133878075789",
+        "created_at": "2025-07-03T14:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940776133878075789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huddvjhh/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/huddvjhh/status/1940387151943991335",
+              "start": 25,
+              "url": "https://t.co/VmiyfBenmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940776133878075789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940387151943991335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行了 还是需要这个挂在我主页里 我真的很讨厌她 https://t.co/VmiyfBenmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1940762370948944145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1174,
+          "like_count": 25318,
+          "listed_count": 5,
+          "media_count": 644,
+          "tweet_count": 11123
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T06:38:47.000Z",
+        "description": "#les 带我去看你盛开的繁花\n🖤 @RubyRose7233",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "les"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "RubyRose7233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maggiebai48210…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/maggiebai4821036",
+                "start": 0,
+                "url": "https://t.co/3eDFTqxWfw"
+              }
+            ]
+          }
+        },
+        "id": "1806577888751427584",
+        "location": "花园",
+        "name": "枫铃",
+        "pinned_tweet_id": "1910000050975236587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928031576803397635/JPStL2Ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 493,
+          "like_count": 37868,
+          "listed_count": 4,
+          "media_count": 7,
+          "tweet_count": 2530
+        },
+        "url": "https://t.co/3eDFTqxWfw",
+        "username": "Maria52413",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1880817208391327921",
+    "created_at": "2025-01-19T03:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T04:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880818269004968025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880818269004968025",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880817208391327921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 琥珀短短半小时已经下海三次啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1880817208391327921",
+        "created_at": "2025-01-19T03:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T04:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880818269004968025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880818269004968025",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880817208391327921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 琥珀短短半小时已经下海三次啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880817200086581248",
+            "3_1880817201013473280",
+            "3_1880817200187277312"
+          ]
+        },
+        "author_id": "1862933126466666496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1880817208391327921",
+        "created_at": "2025-01-19T03:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T04:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880817208391327921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V7HRpeKXKJ",
+              "end": 157,
+              "expanded_url": "https://x.com/moremoreagain/status/1880817208391327921/photo/1",
+              "media_key": "3_1880817200086581248",
+              "start": 134,
+              "url": "https://t.co/V7HRpeKXKJ"
+            },
+            {
+              "display_url": "pic.x.com/V7HRpeKXKJ",
+              "end": 157,
+              "expanded_url": "https://x.com/moremoreagain/status/1880817208391327921/photo/1",
+              "media_key": "3_1880817201013473280",
+              "start": 134,
+              "url": "https://t.co/V7HRpeKXKJ"
+            },
+            {
+              "display_url": "pic.x.com/V7HRpeKXKJ",
+              "end": 157,
+              "expanded_url": "https://x.com/moremoreagain/status/1880817208391327921/photo/1",
+              "media_key": "3_1880817200187277312",
+              "start": 134,
+              "url": "https://t.co/V7HRpeKXKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880817208391327921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我下海啦，请多多支持\n本次更新修复了琥珀没有赚钱想法的bug\n（在推特搞代肝会看起来很怪吗？）\n（先生小姐看一眼再走吧，真的黑奴了）\n\n我很想要钱\n所以……\n其它游戏都可以私信我的\n我可以学\n可以拿别人的价目表找我压价\n\n明日方舟代肝\n重返未来：1999代肝 https://t.co/V7HRpeKXKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "青是一个缺爱的家伙，不喜欢独处，如果可以，请找我聊天，聊什么都可以哦（虽然我不太会聊天💦💦）。可以做大家情绪的垃圾桶哦。防失联：青石湾：@qing1814486981",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "qing1814486981"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fkxqs.vw50.com",
+                "end": 23,
+                "expanded_url": "http://fkxqs.vw50.com",
+                "start": 0,
+                "url": "https://t.co/lskfE1n6J3"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "出云之地",
+        "name": "青石🏳️‍⚧️🍃",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879525318786256896/imoL0WpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 775,
+          "like_count": 3796,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/lskfE1n6J3",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "07年大学牲｜偶尔抽象｜来推特发癫｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜屏蔽我之前可以跟我说一下原因吗🥺我不会多纠缠的😭什么原因都可以😭\nhttps://t.co/jLUjmSEaHT提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moremoreagain",
+                "end": 118,
+                "expanded_url": "https://ngl.link/moremoreagain",
+                "start": 95,
+                "url": "https://t.co/jLUjmSEaHT"
+              }
+            ]
+          }
+        },
+        "id": "1862933126466666496",
+        "name": "琥珀",
+        "pinned_tweet_id": "1880817208391327921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863409830171742208/hTjZ4qQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 450,
+          "like_count": 16101,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 7596
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

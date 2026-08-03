@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1976183989519126600",
+    "created_at": "2025-10-09T07:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T08:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976184265667912129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504387273919401987",
+          "start": 0,
+          "username": "KamiyaSara8972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976184265667912129",
+    "in_reply_to_user_id": "1504387273919401987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976183989519126600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiyaSara8972 就这，我还以为你在扣什么有攻击性的词呢，白期待了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1976183985844998144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zQ3WcbUAAlBy_.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1976183989519126600",
+        "created_at": "2025-10-09T07:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976184265667912129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504387273919401987",
+              "start": 0,
+              "username": "KamiyaSara8972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976184265667912129",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976183989519126600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiyaSara8972 就这，我还以为你在扣什么有攻击性的词呢，白期待了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976183985844998144"
+          ]
+        },
+        "author_id": "1504387273919401987",
+        "conversation_id": "1976183989519126600",
+        "created_at": "2025-10-09T07:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976183989519126600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Rr2PlmulX",
+              "end": 23,
+              "expanded_url": "https://x.com/KamiyaSara8972/status/1976183989519126600/photo/1",
+              "media_key": "3_1976183985844998144",
+              "start": 0,
+              "url": "https://t.co/3Rr2PlmulX"
+            },
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/1976182285004308875",
+              "start": 24,
+              "url": "https://t.co/SDhT4AXely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976183989519126600",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976182285004308875",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/3Rr2PlmulX https://t.co/SDhT4AXely"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1358,
+          "like_count": 31657,
+          "listed_count": 7,
+          "media_count": 848,
+          "tweet_count": 14213
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "Looking for a female fox",
+        "id": "1504387273919401987",
+        "name": "岐原狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975504476657360901/7dcg4XjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 352,
+          "like_count": 24553,
+          "listed_count": 4,
+          "media_count": 836,
+          "tweet_count": 29934
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

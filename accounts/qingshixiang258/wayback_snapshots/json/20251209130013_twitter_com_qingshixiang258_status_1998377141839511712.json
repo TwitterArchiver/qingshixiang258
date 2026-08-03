@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1998368120243921201",
+    "created_at": "2025-12-09T13:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998377141839511712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "764856941151596549",
+          "start": 0,
+          "username": "_AkitaYura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998377141839511712",
+    "in_reply_to_user_id": "764856941151596549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998368120243921201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AkitaYura 现在也可以呀（挠头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1998368120243921201",
+        "created_at": "2025-12-09T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998377141839511712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "764856941151596549",
+              "start": 0,
+              "username": "_AkitaYura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998377141839511712",
+        "in_reply_to_user_id": "764856941151596549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998368120243921201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AkitaYura 现在也可以呀（挠头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764856941151596549",
+        "conversation_id": "1998368120243921201",
+        "created_at": "2025-12-09T12:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998368120243921201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998368120243921201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前我可以从私信里点推油头像直达推油主页进行监视，现在点不开了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998367186075922432/8djgDaQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 1480,
+          "like_count": 35134,
+          "listed_count": 9,
+          "media_count": 960,
+          "tweet_count": 15842
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|吾独爱猪猪🐷\n▫️🐑@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997229845726867456/uZxKxFpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 639,
+          "like_count": 66716,
+          "listed_count": 10,
+          "media_count": 2005,
+          "tweet_count": 16856
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

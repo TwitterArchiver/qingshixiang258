@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1997359400005304771",
+    "created_at": "2025-12-07T16:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T17:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997699971697795235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1295019581480681477",
+          "start": 0,
+          "username": "03linen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997699971697795235",
+    "in_reply_to_user_id": "1295019581480681477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997699834435051855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@03linen 对不起别杀我！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1997359400005304771",
+        "created_at": "2025-12-07T16:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997699971697795235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1295019581480681477",
+              "start": 0,
+              "username": "03linen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997699971697795235",
+        "in_reply_to_user_id": "1295019581480681477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997699834435051855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@03linen 对不起别杀我！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295019581480681477",
+        "conversation_id": "1997359400005304771",
+        "created_at": "2025-12-07T16:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997699834435051855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997699834435051855",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997359400005304771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 你完了我要找人整死你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1498,
+          "like_count": 35095,
+          "listed_count": 9,
+          "media_count": 958,
+          "tweet_count": 15805
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T15:28:31.000Z",
+        "description": ":D",
+        "id": "1295019581480681477",
+        "name": "City the WOLF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704839965769916416/NpzVF1Bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 625,
+          "like_count": 8072,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1136
+        },
+        "username": "03linen",
+        "verified": false
+      }
+    ]
+  }
+}

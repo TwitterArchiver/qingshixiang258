@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981285276799438849"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1981231294173606330",
+    "created_at": "2025-10-23T09:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T10:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981285286429806919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1739811571449434112",
+          "start": 0,
+          "username": "101101y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTxOglndaC",
+          "end": 40,
+          "expanded_url": "https://x.com/qingshixiang258/status/1981285286429806919/photo/1",
+          "media_key": "3_1981285276799438849",
+          "start": 17,
+          "url": "https://t.co/eTxOglndaC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981285286429806919",
+    "in_reply_to_user_id": "1739811571449434112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981231294173606330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@101101y 这道是提醒我了 https://t.co/eTxOglndaC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_1981285276799438849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37wdkJXkAEi5wa.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981285276799438849"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "1981231294173606330",
+        "created_at": "2025-10-23T09:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981285286429806919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1739811571449434112",
+              "start": 0,
+              "username": "101101y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTxOglndaC",
+              "end": 40,
+              "expanded_url": "https://x.com/qingshixiang258/status/1981285286429806919/photo/1",
+              "media_key": "3_1981285276799438849",
+              "start": 17,
+              "url": "https://t.co/eTxOglndaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981285286429806919",
+        "in_reply_to_user_id": "1739811571449434112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981231294173606330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@101101y 这道是提醒我了 https://t.co/eTxOglndaC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739811571449434112",
+        "conversation_id": "1981231294173606330",
+        "created_at": "2025-10-23T05:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981231294173606330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981231294173606330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃火鸡面。抽一个人看我吃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981035874054742016/gi1dhimK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1381,
+          "like_count": 32397,
+          "listed_count": 7,
+          "media_count": 873,
+          "tweet_count": 14448
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T00:53:15.000Z",
+        "description": "ENTP-A/欢迎找我哦， 这里是喜欢海洋生物的身高191（随机变动），18cm的黑皮体育生会比较高频发推，直接私信就好，最后我不月抛、我不键政，我不混字母圈，不搞4i，我是直的，我没有宗教信仰，我不互看，旁边是ngl可以随便问 … 小号@meow1101111011（只过眼熟互关别乱发申请了🙏）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "meow1101111011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%87%9D%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%87%9D%E5%87%9D",
+                "start": 0,
+                "url": "https://t.co/vDa6VJQYiF"
+              }
+            ]
+          }
+        },
+        "id": "1739811571449434112",
+        "location": "🚪114514",
+        "name": "无敌猪猪侠",
+        "pinned_tweet_id": "1955607707052073000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980600410785058816/66M2j4sX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 1148,
+          "like_count": 33259,
+          "listed_count": 9,
+          "media_count": 1154,
+          "tweet_count": 7798
+        },
+        "url": "https://t.co/vDa6VJQYiF",
+        "username": "101101y",
+        "verified": false
+      }
+    ]
+  }
+}

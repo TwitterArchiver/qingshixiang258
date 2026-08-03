@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2060763572880437632",
+    "created_at": "2026-05-31T02:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T03:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060909531086078198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552439937198587904",
+          "start": 0,
+          "username": "kikiyoshi_2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060909531086078198",
+    "in_reply_to_user_id": "1552439937198587904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060888557519249815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikiyoshi_2233 但是我确实不太舍得..对不起🤧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2060763572880437632",
+        "created_at": "2026-05-31T02:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060909531086078198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552439937198587904",
+              "start": 0,
+              "username": "kikiyoshi_2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060909531086078198",
+        "in_reply_to_user_id": "1552439937198587904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060888557519249815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikiyoshi_2233 但是我确实不太舍得..对不起🤧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552439937198587904",
+        "conversation_id": "2060763572880437632",
+        "created_at": "2026-05-31T00:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060888557519249815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060888557519249815",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060763572880437632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 300不算贵吧！看这样子，我反而担心成品的质量可能不太行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 1689,
+          "like_count": 41957,
+          "listed_count": 10,
+          "media_count": 1272,
+          "tweet_count": 20593
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T23:45:26.000Z",
+        "description": "个人博客：https://t.co/fGVztYtBQS。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kikiyoshi.blogspot.com",
+                "end": 28,
+                "expanded_url": "https://kikiyoshi.blogspot.com/",
+                "start": 5,
+                "url": "https://t.co/fGVztYtBQS"
+              }
+            ]
+          }
+        },
+        "id": "1552439937198587904",
+        "name": "ききよし",
+        "pinned_tweet_id": "2036400876856942638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773164373248479232/xSR3ZxIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4151,
+          "following_count": 3259,
+          "like_count": 344370,
+          "listed_count": 29,
+          "media_count": 2338,
+          "tweet_count": 44636
+        },
+        "username": "kikiyoshi_2233",
+        "verified": true
+      }
+    ]
+  }
+}

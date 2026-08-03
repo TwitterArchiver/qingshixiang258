@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1929891778301440276",
+    "created_at": "2025-06-04T12:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T13:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930244879504027958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1012920230803169280",
+          "start": 0,
+          "username": "Quebec_MonPays"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930244879504027958",
+    "in_reply_to_user_id": "1012920230803169280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929944587662987621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quebec_MonPays 哈喽👋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1929891778301440276",
+        "created_at": "2025-06-04T12:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T13:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930244879504027958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1012920230803169280",
+              "start": 0,
+              "username": "Quebec_MonPays"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930244879504027958",
+        "in_reply_to_user_id": "1012920230803169280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929944587662987621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quebec_MonPays 哈喽👋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012920230803169280",
+        "conversation_id": "1929891778301440276",
+        "created_at": "2025-06-03T16:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T17:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929944587662987621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929944587662987621",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929891778301440276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 哈哈，在线啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1929183338176147686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 1045,
+          "like_count": 23124,
+          "listed_count": 6,
+          "media_count": 580,
+          "tweet_count": 10087
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-30T04:46:16.000Z",
+        "description": "现居魁北克/中文/English/Français\n二次元/TypeMoon/Galgame/Steam/英雄联盟/主机游戏/FNATIC\n我推：爱尔奎特，新谷灯華，荻浜茜，咲畑梨深。\nRT/Fo≠Endorsement\n尽量不支黑 随缘回Fo。\n我们终将相逢在明月映照的彼方！\n月の彼方で逢いましょう！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "w1nthetarget.github.io",
+                "end": 23,
+                "expanded_url": "http://w1nthetarget.github.io",
+                "start": 0,
+                "url": "https://t.co/qnNGBD8W8L"
+              }
+            ]
+          }
+        },
+        "id": "1012920230803169280",
+        "location": "IP所在国：魁北克",
+        "name": "观测者归来，看波函数土崩瓦解，光粒子性的本征态已经到来！",
+        "pinned_tweet_id": "1929671946171830394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897287680309829632/ra9YoYW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 6956,
+          "like_count": 71817,
+          "listed_count": 15,
+          "media_count": 503,
+          "tweet_count": 4062
+        },
+        "url": "https://t.co/qnNGBD8W8L",
+        "username": "Quebec_MonPays",
+        "verified": true
+      }
+    ]
+  }
+}

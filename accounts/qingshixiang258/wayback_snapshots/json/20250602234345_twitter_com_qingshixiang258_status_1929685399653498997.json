@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1929605958655004833",
+    "created_at": "2025-06-02T23:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T00:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929685399653498997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764728841010831360",
+          "start": 0,
+          "username": "Quack_one"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929685399653498997",
+    "in_reply_to_user_id": "1764728841010831360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929605958655004833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quack_one 结婚。懂？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1929605958655004833",
+        "created_at": "2025-06-02T23:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T00:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929685399653498997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764728841010831360",
+              "start": 0,
+              "username": "Quack_one"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929685399653498997",
+        "in_reply_to_user_id": "1764728841010831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929605958655004833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quack_one 结婚。懂？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764728841010831360",
+        "conversation_id": "1929605958655004833",
+        "created_at": "2025-06-02T18:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T19:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929605958655004833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929605958655004833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有不太熟悉我的人，来介绍一下自己吧\n我叫鹅，22，男大，185，有腹肌，小帅。\n\n给自己打7.5分吧。多一分怕自己骄傲，少一分又太谦虚。平时是比较偏冷酷型的，不爱笑。\n\n如果有妹妹私信我请在前面加上“你的宝贝”这个前缀，谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1929183338176147686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 1032,
+          "like_count": 22815,
+          "listed_count": 6,
+          "media_count": 569,
+          "tweet_count": 9965
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "mtf | 吉他手 | 爵士乐 |",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "小鹅",
+        "pinned_tweet_id": "1925164317558845950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926139287273197568/pJ_S87eK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2770,
+          "following_count": 113,
+          "like_count": 811,
+          "listed_count": 7,
+          "media_count": 113,
+          "tweet_count": 1144
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

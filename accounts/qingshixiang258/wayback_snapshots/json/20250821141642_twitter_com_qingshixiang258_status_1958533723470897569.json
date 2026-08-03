@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1958153771663683996",
+    "created_at": "2025-08-21T14:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T15:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958533723470897569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1920509405432541184",
+          "start": 0,
+          "username": "Hasumi_Amemiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958533723470897569",
+    "in_reply_to_user_id": "1920509405432541184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958153771663683996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hasumi_Amemiya 是s姐和大e！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958153771663683996].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958153771663683996",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958153771663683996"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1958153771663683996",
+        "created_at": "2025-08-21T14:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T15:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958533723470897569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1920509405432541184",
+              "start": 0,
+              "username": "Hasumi_Amemiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958533723470897569",
+        "in_reply_to_user_id": "1920509405432541184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958153771663683996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hasumi_Amemiya 是s姐和大e！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1302,
+          "like_count": 28100,
+          "listed_count": 7,
+          "media_count": 740,
+          "tweet_count": 12607
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:01:46.000Z",
+        "description": "「あなたを信じて 狙い定めて Bull's eye」\n@Amemiya_Hasumi的第二人格。\n邀请制，仅限亲友。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "Amemiya_Hasumi"
+              }
+            ]
+          }
+        },
+        "id": "1920509405432541184",
+        "name": "小莲",
+        "pinned_tweet_id": "1937232959377146045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929288680272994305/-JHuqANQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 96,
+          "like_count": 5698,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 1991
+        },
+        "username": "Hasumi_Amemiya",
+        "verified": false
+      }
+    ]
+  }
+}

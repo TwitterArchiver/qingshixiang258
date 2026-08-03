@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2009300509945905635",
+    "created_at": "2026-01-09T03:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T04:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009464039337021473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860742128688857088",
+          "start": 0,
+          "username": "zhouxuanjiu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009464039337021473",
+    "in_reply_to_user_id": "1860742128688857088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009454970400329898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouxuanjiu2 对对对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2009300509945905635",
+        "created_at": "2026-01-09T03:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009464039337021473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860742128688857088",
+              "start": 0,
+              "username": "zhouxuanjiu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009464039337021473",
+        "in_reply_to_user_id": "1860742128688857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009454970400329898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouxuanjiu2 对对对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860742128688857088",
+        "conversation_id": "2009300509945905635",
+        "created_at": "2026-01-09T02:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T03:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009454970400329898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009454970400329898",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009300509945905635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 🤔哦对的对的对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1374,
+          "like_count": 35771,
+          "listed_count": 9,
+          "media_count": 995,
+          "tweet_count": 16562
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "我与我，周旋久｜性格恶劣｜可以和我交朋友了，顧某譞如是说。｜当然你也可以给我打钱。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GUMOUXUAN",
+                "end": 23,
+                "expanded_url": "https://www.github.com/GUMOUXUAN",
+                "start": 0,
+                "url": "https://t.co/QgNGK9gmua"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "粥璇玖喵～🍥",
+        "pinned_tweet_id": "2006708039752233179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457468016099328/iv334UJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 169,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/QgNGK9gmua",
+        "username": "zhouxuanjiu2",
+        "verified": false
+      }
+    ]
+  }
+}

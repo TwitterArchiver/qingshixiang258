@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2051541380460322835",
+    "created_at": "2026-05-05T11:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051630654740423003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "Lyrica_1005"
+        },
+        {
+          "end": 29,
+          "id": "1868205822511288320",
+          "start": 13,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051630654740423003",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051541380460322835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyrica_1005 @vicoOci_Olvidar 羡慕死了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051541380460322835].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051541380460322835",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051541380460322835"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2051541380460322835",
+        "created_at": "2026-05-05T11:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051630654740423003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "Lyrica_1005"
+            },
+            {
+              "end": 29,
+              "id": "1868205822511288320",
+              "start": 13,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051630654740423003",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051541380460322835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyrica_1005 @vicoOci_Olvidar 羡慕死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1677,
+          "like_count": 40459,
+          "listed_count": 9,
+          "media_count": 1225,
+          "tweet_count": 19854
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "𝙞 𝙟𝙪𝙨𝙩 𝙬𝙖𝙣𝙣𝙖 𝙗𝙧𝙚𝙖𝙠 𝙮𝙤𝙪 𝙙𝙤𝙬𝙣 𝙨𝙤 𝙗𝙖𝙖𝙖𝙖𝙙𝙡𝙮💕 | 伪娘婊子人妖－＞@Ikks0413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "Ikks0413"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "网络配置低😔一玩gemini就死机😬我要换pixel手机😍可是没钱要分期😑",
+        "pinned_tweet_id": "2029193637041758608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020176914271608832/gx4tbkf9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 552,
+          "like_count": 45546,
+          "listed_count": 2,
+          "media_count": 1352,
+          "tweet_count": 12703
+        },
+        "username": "Lyrica_1005",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "欢迎各种看法来打倒我️❤️🫶😉/可爱林子 @rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/C8DJQnD8y9"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "天台",
+        "name": "万宝胃",
+        "pinned_tweet_id": "2042842358858027084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4467,
+          "following_count": 392,
+          "like_count": 24243,
+          "listed_count": 16,
+          "media_count": 1242,
+          "tweet_count": 16278
+        },
+        "url": "https://t.co/C8DJQnD8y9",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

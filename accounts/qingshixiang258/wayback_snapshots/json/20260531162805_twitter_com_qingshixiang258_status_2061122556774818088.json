@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2061104059021742434",
+    "created_at": "2026-05-31T16:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061122556774818088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786664071749877760",
+          "start": 0,
+          "username": "yy8586711742873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061122556774818088",
+    "in_reply_to_user_id": "1786664071749877760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061122401409327181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy8586711742873 工作顺利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2061104059021742434",
+        "created_at": "2026-05-31T16:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061122556774818088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786664071749877760",
+              "start": 0,
+              "username": "yy8586711742873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061122556774818088",
+        "in_reply_to_user_id": "1786664071749877760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061122401409327181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy8586711742873 工作顺利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786664071749877760",
+        "conversation_id": "2061104059021742434",
+        "created_at": "2026-05-31T16:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061122401409327181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061122401409327181",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061104059021742434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我没有这个资格\n面对顾客要开心喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 1688,
+          "like_count": 42046,
+          "listed_count": 10,
+          "media_count": 1273,
+          "tweet_count": 20606
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T07:48:13.000Z",
+        "description": "",
+        "id": "1786664071749877760",
+        "name": "pdsd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059735278512930816/VO8zCf4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 91,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 167
+        },
+        "username": "yy8586711742873",
+        "verified": false
+      }
+    ]
+  }
+}

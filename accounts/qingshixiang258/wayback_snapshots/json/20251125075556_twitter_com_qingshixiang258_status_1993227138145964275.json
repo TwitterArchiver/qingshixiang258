@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1993222535715143968",
+    "created_at": "2025-11-25T07:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993227138145964275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1710018308286877696",
+          "start": 0,
+          "username": "choliko_office"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993227138145964275",
+    "in_reply_to_user_id": "1710018308286877696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993222535715143968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choliko_office 时间好快，我也快了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1993222535715143968",
+        "created_at": "2025-11-25T07:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993227138145964275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1710018308286877696",
+              "start": 0,
+              "username": "choliko_office"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993227138145964275",
+        "in_reply_to_user_id": "1710018308286877696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993222535715143968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choliko_office 时间好快，我也快了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710018308286877696",
+        "conversation_id": "1993222535715143968",
+        "created_at": "2025-11-25T07:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993222535715143968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993222535715143968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天过完生日就二十二岁了。。。想想好像已经到了可以结婚的年纪了，感觉自己还完全是小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1422,
+          "like_count": 34693,
+          "listed_count": 8,
+          "media_count": 939,
+          "tweet_count": 15426
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T19:45:28.000Z",
+        "description": "是男孩子，喜欢漂亮的衣服！",
+        "id": "1710018308286877696",
+        "location": "38万公里月面漫步",
+        "name": "朝生幸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992937861369499648/SuqDWPf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 379,
+          "like_count": 1379,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 367
+        },
+        "username": "choliko_office",
+        "verified": false
+      }
+    ]
+  }
+}

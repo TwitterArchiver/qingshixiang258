@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1889861998432940374",
+    "created_at": "2025-02-13T09:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T10:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889970055968100726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762820280035250176",
+          "start": 0,
+          "username": "Ocelo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889970055968100726",
+    "in_reply_to_user_id": "1762820280035250176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889861998432940374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ocelo8964 维尼熊多可爱🥲😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1889861998432940374",
+        "created_at": "2025-02-13T09:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T10:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889970055968100726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762820280035250176",
+              "start": 0,
+              "username": "Ocelo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889970055968100726",
+        "in_reply_to_user_id": "1762820280035250176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889861998432940374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ocelo8964 维尼熊多可爱🥲😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762820280035250176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1889861998432940374",
+        "created_at": "2025-02-13T02:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T03:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889861998432940374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manakaao68/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/manakaao68/status/1889753392743911745",
+              "start": 25,
+              "url": "https://t.co/oRZTkTPI1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889861998432940374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889753392743911745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评价我，习近平的头像\n打得越低越好，习近平超丑的 https://t.co/oRZTkTPI1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "你好，这里是青石巷，你也可以叫青|如若遇到烦心事，可以找青，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（嘘～）｜唔～暂时就这些，很高兴认识你哦｜友人@_akitayura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "_akitayura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "小于1km",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1866186558715678826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969125638422529/OKy-cju9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 831,
+          "like_count": 8592,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T12:41:36.000Z",
+        "description": "ENFP-T｜Bilingualism: Chinese🇹🇼&English🇺🇸 To china,may freedom reign! Authoritarian rulers aren’t able to control liberal citizen\n民主万岁！被极权与威权迫害的烈士万岁！",
+        "id": "1762820280035250176",
+        "location": "IP地址：梁家河",
+        "name": "豹猫🇺🇸🇹🇼☮️",
+        "pinned_tweet_id": "1889150595384434831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818947910509240320/vVBphImo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 373,
+          "like_count": 6867,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 3660
+        },
+        "username": "Ocelo8964",
+        "verified": false
+      }
+    ]
+  }
+}

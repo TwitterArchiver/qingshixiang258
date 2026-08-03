@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1932298667723235675",
+    "created_at": "2025-06-10T07:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T08:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932332832396894209"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "恭喜",
+          "probability": 0.632,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "840657664342343681",
+          "start": 0,
+          "username": "Yuna_Kamisato"
+        },
+        {
+          "end": 24,
+          "id": "1521276666689261568",
+          "start": 15,
+          "username": "Yue_0404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932332832396894209",
+    "in_reply_to_user_id": "840657664342343681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932298667723235675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuna_Kamisato @Yue_0404 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1853,
+        "media_key": "3_1932298631954247680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDnXjWbMAAU2xB.jpg",
+        "width": 1608
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1932298634932129792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtDnXucaEAA_9En.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1932298667723235675",
+        "created_at": "2025-06-10T07:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T08:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932332832396894209"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "恭喜",
+              "probability": 0.632,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "840657664342343681",
+              "start": 0,
+              "username": "Yuna_Kamisato"
+            },
+            {
+              "end": 24,
+              "id": "1521276666689261568",
+              "start": 15,
+              "username": "Yue_0404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932332832396894209",
+        "in_reply_to_user_id": "840657664342343681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932298667723235675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuna_Kamisato @Yue_0404 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932298631954247680",
+            "3_1932298634932129792"
+          ]
+        },
+        "author_id": "840657664342343681",
+        "conversation_id": "1932298667723235675",
+        "created_at": "2025-06-10T04:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932298667723235675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exn1eFYWqY",
+              "end": 84,
+              "expanded_url": "https://x.com/Yuna_Kamisato/status/1932298667723235675/photo/1",
+              "media_key": "3_1932298631954247680",
+              "start": 61,
+              "url": "https://t.co/exn1eFYWqY"
+            },
+            {
+              "display_url": "pic.x.com/exn1eFYWqY",
+              "end": 84,
+              "expanded_url": "https://x.com/Yuna_Kamisato/status/1932298667723235675/photo/1",
+              "media_key": "3_1932298634932129792",
+              "start": 61,
+              "url": "https://t.co/exn1eFYWqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932298667723235675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5228,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "礼成！\n计划通✓\n\n男证完成了它最后的使命\n顺利剪角毕业\n之后用户籍变更证明维持婚姻法律效力\n这下真是已婚Les惹🥹🥹🥹 https://t.co/exn1eFYWqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷Qingshi Lane 🍃🕊️",
+        "pinned_tweet_id": "1931748709324517749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642071146442752/DL727ikJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 1098,
+          "like_count": 23992,
+          "listed_count": 5,
+          "media_count": 603,
+          "tweet_count": 10424
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-11T20:16:20.000Z",
+        "description": "INFP-A🦋 Les-PP 老婆是：@Yue_0404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Yue_0404"
+              }
+            ]
+          }
+        },
+        "id": "840657664342343681",
+        "location": "距您65535km内，汐之梦 - Yuna's Dream",
+        "name": "汐玥玥",
+        "pinned_tweet_id": "1931706932349337921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931744283461337088/1Km5gR3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5576,
+          "following_count": 350,
+          "like_count": 24861,
+          "listed_count": 14,
+          "media_count": 668,
+          "tweet_count": 6849
+        },
+        "username": "Yuna_Kamisato",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T23:53:27.000Z",
+        "description": "Yuèyue：“因为有自知之明，所以我包容万事万物；因为曾历经黑暗，所以我可以同情同理。”\n☮☮☮☮☮☮☮☮☮☮\n如果我生活在明朝，也许会是个短命的打油诗人。",
+        "id": "1521276666689261568",
+        "name": "钥钥",
+        "pinned_tweet_id": "1838185307952615661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898375334661394432/6e48qwAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 16,
+          "like_count": 8417,
+          "listed_count": 11,
+          "media_count": 192,
+          "tweet_count": 7212
+        },
+        "username": "Yue_0404",
+        "verified": false
+      }
+    ]
+  }
+}

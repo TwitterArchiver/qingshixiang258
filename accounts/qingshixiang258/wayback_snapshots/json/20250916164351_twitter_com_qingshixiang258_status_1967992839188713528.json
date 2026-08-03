@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1964010457322189109",
+    "created_at": "2025-09-16T16:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T17:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967992839188713528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1267850413442600960",
+          "start": 0,
+          "username": "Youker_Doaget"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967992839188713528",
+    "in_reply_to_user_id": "1267850413442600960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964010457322189109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youker_Doaget 好吃🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1964010457322189109].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1964010457322189109",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1964010457322189109"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1964010457322189109",
+        "created_at": "2025-09-16T16:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967992839188713528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1267850413442600960",
+              "start": 0,
+              "username": "Youker_Doaget"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967992839188713528",
+        "in_reply_to_user_id": "1267850413442600960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964010457322189109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youker_Doaget 好吃🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965119862482538496/jBe7Ru4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1393,
+          "like_count": 30022,
+          "listed_count": 8,
+          "media_count": 802,
+          "tweet_count": 13516
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T16:08:04.000Z",
+        "description": "I'm Youker. /ゆかちゃん/中国人です/touhou lover/東方がすき/车万人",
+        "id": "1267850413442600960",
+        "location": "幻想郷",
+        "name": "ゆか",
+        "pinned_tweet_id": "1357286447955341315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682983024894541824/TLUPI82x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 764,
+          "like_count": 4956,
+          "listed_count": 5,
+          "media_count": 684,
+          "tweet_count": 5545
+        },
+        "username": "Youker_Doaget",
+        "verified": false
+      }
+    ]
+  }
+}

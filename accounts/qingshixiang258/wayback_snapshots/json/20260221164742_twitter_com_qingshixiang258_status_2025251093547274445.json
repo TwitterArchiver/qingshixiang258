@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2025247340295229781",
+    "created_at": "2026-02-21T16:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025251093547274445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802024392391802880",
+          "start": 0,
+          "username": "Determinat_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025251093547274445",
+    "in_reply_to_user_id": "1802024392391802880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025247340295229781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Determinat_37 好厉害，我咬一口～（啊～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025247337346650112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsfuRzaUAAAxDW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2025247340295229781",
+        "created_at": "2026-02-21T16:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025251093547274445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802024392391802880",
+              "start": 0,
+              "username": "Determinat_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025251093547274445",
+        "in_reply_to_user_id": "1802024392391802880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025247340295229781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Determinat_37 好厉害，我咬一口～（啊～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025247337346650112"
+          ]
+        },
+        "author_id": "1802024392391802880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2025247340295229781",
+        "created_at": "2026-02-21T16:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025247340295229781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65fgVt3XVN",
+              "end": 168,
+              "expanded_url": "https://x.com/Determinat_37/status/2025247340295229781/photo/1",
+              "media_key": "3_2025247337346650112",
+              "start": 145,
+              "url": "https://t.co/65fgVt3XVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025247340295229781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫，你可以吃芝士汉堡\n\n这个汉堡背后是我备了两小时菜，两斤的肉馅手剁麻了，生粉一开始放少了还，肉饼不成型反反复复加了很多次料，最后煎出来脆皮的汉堡肉饼巨香巨好吃\n\n两层肉两层芝士再来一点洋葱碎和番茄酱简直就是人间美味\n\n年中吃过最爽的一餐饭，从一堆腊味里脱离出来了\n\n祝你们新年发大财w https://t.co/65fgVt3XVN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1457,
+          "like_count": 37092,
+          "listed_count": 8,
+          "media_count": 1075,
+          "tweet_count": 17666
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T17:04:47.000Z",
+        "description": "乱发乱写乱七八糟",
+        "id": "1802024392391802880",
+        "name": "樂( ◜‿◝ )♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906817971940728832/i4eSccJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 910,
+          "like_count": 8708,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 2558
+        },
+        "username": "Determinat_37",
+        "verified": false
+      }
+    ]
+  }
+}

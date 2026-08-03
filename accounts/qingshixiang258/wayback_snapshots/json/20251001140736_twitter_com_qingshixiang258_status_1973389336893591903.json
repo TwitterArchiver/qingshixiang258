@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1973363165099598192",
+    "created_at": "2025-10-01T14:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T15:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973389336893591903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1193167151596634112",
+          "start": 0,
+          "username": "KiminTW_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973389336893591903",
+    "in_reply_to_user_id": "1193167151596634112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973363165099598192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiminTW_Offical 是你做的么你就发🤨"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1973363165099598192].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1973363165099598192",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1973363165099598192"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1973363165099598192",
+        "created_at": "2025-10-01T14:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T15:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973389336893591903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1193167151596634112",
+              "start": 0,
+              "username": "KiminTW_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973389336893591903",
+        "in_reply_to_user_id": "1193167151596634112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973363165099598192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiminTW_Offical 是你做的么你就发🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1319,
+          "like_count": 30754,
+          "listed_count": 7,
+          "media_count": 830,
+          "tweet_count": 13898
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-09T14:03:22.000Z",
+        "description": "男|台中人|時政基本評論|生活推為主|建制習派|威權份子|暫退役男|綠白與低素質人士勿擾\n\n好哥們@Amemiya_Hasumi 廚子@GlunekiKCA 小黍@_Shu_official 小綠@lamte15072 老保之友 @xu244986 好友 @Tinkles_12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Amemiya_Hasumi"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "GlunekiKCA"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "_Shu_official"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "lamte15072"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "xu244986"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Tinkles_12"
+              }
+            ]
+          }
+        },
+        "id": "1193167151596634112",
+        "location": "東亞防禦倡議協議組織（E.A.D.I）",
+        "name": "拉斯普金不是阿金🇨🇳🇹🇼",
+        "pinned_tweet_id": "1959219877324947468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962842229212688384/0NQ-Faya_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20385,
+          "following_count": 2955,
+          "like_count": 311128,
+          "listed_count": 36,
+          "media_count": 5864,
+          "tweet_count": 59521
+        },
+        "username": "KiminTW_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

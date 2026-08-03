@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068602301099687936",
+        "3_2068602343843917824"
+      ],
+      "media_source_tweet_id": [
+        "2068649630460526937",
+        "2068649630460526937"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2069343691073065003",
+    "created_at": "2026-06-23T08:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069343691073065003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1085899701986091008",
+          "start": 3,
+          "username": "dsuV4sW8qYWHQVL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ZjePRdy8F",
+          "end": 75,
+          "expanded_url": "https://x.com/dsuV4sW8qYWHQVL/status/2068649630460526937/photo/1",
+          "media_key": "3_2068602301099687936",
+          "start": 52,
+          "url": "https://t.co/0ZjePRdy8F"
+        },
+        {
+          "display_url": "pic.x.com/0ZjePRdy8F",
+          "end": 75,
+          "expanded_url": "https://x.com/dsuV4sW8qYWHQVL/status/2068649630460526937/photo/1",
+          "media_key": "3_2068602343843917824",
+          "start": 52,
+          "url": "https://t.co/0ZjePRdy8F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069343691073065003",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2792
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068649630460526937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dsuV4sW8qYWHQVL: 見えるとこだけ描いた絵ぇ\n\n←ラフ　　　　　　　　　　→完成 https://t.co/0ZjePRdy8F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2068602301099687936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUm1TqaQAAEke4.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2068602343843917824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUm3y5bcAADNc9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068602301099687936",
+            "3_2068602343843917824"
+          ],
+          "media_source_tweet_id": [
+            "2068649630460526937",
+            "2068649630460526937"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2069343691073065003",
+        "created_at": "2026-06-23T08:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069343691073065003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1085899701986091008",
+              "start": 3,
+              "username": "dsuV4sW8qYWHQVL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZjePRdy8F",
+              "end": 75,
+              "expanded_url": "https://x.com/dsuV4sW8qYWHQVL/status/2068649630460526937/photo/1",
+              "media_key": "3_2068602301099687936",
+              "start": 52,
+              "url": "https://t.co/0ZjePRdy8F"
+            },
+            {
+              "display_url": "pic.x.com/0ZjePRdy8F",
+              "end": 75,
+              "expanded_url": "https://x.com/dsuV4sW8qYWHQVL/status/2068649630460526937/photo/1",
+              "media_key": "3_2068602343843917824",
+              "start": 52,
+              "url": "https://t.co/0ZjePRdy8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343691073065003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2792
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068649630460526937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dsuV4sW8qYWHQVL: 見えるとこだけ描いた絵ぇ\n\n←ラフ　　　　　　　　　　→完成 https://t.co/0ZjePRdy8F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068602301099687936",
+            "3_2068602343843917824"
+          ]
+        },
+        "author_id": "1085899701986091008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2068649630460526937",
+        "created_at": "2026-06-21T10:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068649630460526937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ZjePRdy8F",
+              "end": 54,
+              "expanded_url": "https://x.com/dsuV4sW8qYWHQVL/status/2068649630460526937/photo/1",
+              "media_key": "3_2068602301099687936",
+              "start": 31,
+              "url": "https://t.co/0ZjePRdy8F"
+            },
+            {
+              "display_url": "pic.x.com/0ZjePRdy8F",
+              "end": 54,
+              "expanded_url": "https://x.com/dsuV4sW8qYWHQVL/status/2068649630460526937/photo/1",
+              "media_key": "3_2068602343843917824",
+              "start": 31,
+              "url": "https://t.co/0ZjePRdy8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068649630460526937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6801,
+          "impression_count": 1512944,
+          "like_count": 60804,
+          "quote_count": 103,
+          "reply_count": 59,
+          "retweet_count": 2792
+        },
+        "reply_settings": "everyone",
+        "text": "見えるとこだけ描いた絵ぇ\n\n←ラフ　　　　　　　　　　→完成 https://t.co/0ZjePRdy8F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 1692,
+          "like_count": 43861,
+          "listed_count": 10,
+          "media_count": 1322,
+          "tweet_count": 21177
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T14:00:38.000Z",
+        "description": "イラストレーターです★MV/ジャケット/コンセプトアート/書籍「背景描き方大辞典」/coloso講座https://t.co/6qs6b1k2XO \nご相談→kawatani.officeguild@gmail.com\nyoutube→https://t.co/tuIJF9Tab0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3ZPTfGt",
+                "end": 73,
+                "expanded_url": "https://bit.ly/3ZPTfGt",
+                "start": 50,
+                "url": "https://t.co/6qs6b1k2XO"
+              },
+              {
+                "display_url": "youtube.com/@Smile-v4r",
+                "end": 141,
+                "expanded_url": "https://www.youtube.com/@Smile-v4r",
+                "start": 118,
+                "url": "https://t.co/tuIJF9Tab0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9790122",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/9790122",
+                "start": 0,
+                "url": "https://t.co/JBaHgdEs9o"
+              }
+            ]
+          }
+        },
+        "id": "1085899701986091008",
+        "location": "生成AI不使用",
+        "name": "smile",
+        "pinned_tweet_id": "1863870797070397554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658281215093518336/EscHh5cP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139129,
+          "following_count": 97,
+          "like_count": 29204,
+          "listed_count": 1039,
+          "media_count": 1212,
+          "tweet_count": 22957
+        },
+        "url": "https://t.co/JBaHgdEs9o",
+        "username": "dsuV4sW8qYWHQVL",
+        "verified": true
+      }
+    ]
+  }
+}

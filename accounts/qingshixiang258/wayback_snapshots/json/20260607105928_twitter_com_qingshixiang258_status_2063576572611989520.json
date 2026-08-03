@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2063484001634164741",
+    "created_at": "2026-06-07T10:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063576572611989520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1244282246111973382",
+          "start": 0,
+          "username": "SR_Malaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063576572611989520",
+    "in_reply_to_user_id": "1244282246111973382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063484001634164741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SR_Malaya 沒必要這樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2063484001634164741",
+        "created_at": "2026-06-07T10:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063576572611989520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1244282246111973382",
+              "start": 0,
+              "username": "SR_Malaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063576572611989520",
+        "in_reply_to_user_id": "1244282246111973382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063484001634164741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SR_Malaya 沒必要這樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244282246111973382",
+        "conversation_id": "2063484001634164741",
+        "created_at": "2026-06-07T04:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063484001634164741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/2063286185255166166",
+              "start": 24,
+              "url": "https://t.co/KKDs7q3cgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063484001634164741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1071,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063286185255166166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "贪官奸，清官要更奸。\n女权坏，反女权就要更坏。 https://t.co/KKDs7q3cgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1686,
+          "like_count": 42675,
+          "listed_count": 10,
+          "media_count": 1288,
+          "tweet_count": 20845
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T15:16:38.000Z",
+        "description": "开动脑筋",
+        "id": "1244282246111973382",
+        "name": "乱编瞎想",
+        "pinned_tweet_id": "1987742663857311863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987785156305055744/jlKFXN_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7982,
+          "following_count": 3590,
+          "like_count": 5188,
+          "listed_count": 43,
+          "media_count": 1027,
+          "tweet_count": 9313
+        },
+        "username": "SR_Malaya",
+        "verified": false
+      }
+    ]
+  }
+}

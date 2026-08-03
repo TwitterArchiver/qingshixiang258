@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2031779338912448722",
+    "created_at": "2026-03-12T15:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032117026840592679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1634930304107581446",
+          "start": 0,
+          "username": "Sprim20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032117026840592679",
+    "in_reply_to_user_id": "1634930304107581446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031780050182553845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sprim20 晚安哦默老师～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2031779338912448722",
+        "created_at": "2026-03-12T15:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032117026840592679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1634930304107581446",
+              "start": 0,
+              "username": "Sprim20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032117026840592679",
+        "in_reply_to_user_id": "1634930304107581446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031780050182553845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sprim20 晚安哦默老师～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634930304107581446",
+        "conversation_id": "2031779338912448722",
+        "created_at": "2026-03-11T17:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031780050182553845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031780050182553845",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031779338912448722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 晚安青石巷！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 1507,
+          "like_count": 38008,
+          "listed_count": 8,
+          "media_count": 1116,
+          "tweet_count": 18437
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T14:52:26.000Z",
+        "description": "你好？你好！(你可以叫我102",
+        "id": "1634930304107581446",
+        "location": "回南天下的潮湿角落",
+        "name": "默数第102次呼吸",
+        "pinned_tweet_id": "2009835411254968510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 283,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 346
+        },
+        "username": "Sprim20",
+        "verified": false
+      }
+    ]
+  }
+}

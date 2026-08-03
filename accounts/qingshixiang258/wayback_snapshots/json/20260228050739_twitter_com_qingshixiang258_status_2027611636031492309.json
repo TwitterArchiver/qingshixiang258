@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027414643808026624"
+      ],
+      "media_source_tweet_id": [
+        "2027414699579777280"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027611636031492309",
+    "created_at": "2026-02-28T05:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027611636031492309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797294215543889920",
+          "start": 3,
+          "username": "amiadac1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qi5XhilfpR",
+          "end": 44,
+          "expanded_url": "https://x.com/amiadac1/status/2027414699579777280/video/1",
+          "media_key": "13_2027414643808026624",
+          "start": 21,
+          "url": "https://t.co/qi5XhilfpR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027611636031492309",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027414699579777280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiadac1: 새 옷 자랑 https://t.co/qi5XhilfpR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3495,
+        "height": 720,
+        "media_key": "13_2027414643808026624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027414643808026624/img/kHOwuOXSj6vN23AM.jpg",
+        "public_metrics": {
+          "view_count": 835
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027414643808026624/vid/avc1/386x270/vT3GZtR6vRMolMY3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027414643808026624/vid/avc1/516x360/jATP3BOV7eFW2pOp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027414643808026624/vid/avc1/1032x720/2RafsF5R467JcySZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027414643808026624/pl/IrqTPbXry2oKofCv.m3u8"
+          }
+        ],
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027414643808026624"
+          ],
+          "media_source_tweet_id": [
+            "2027414699579777280"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027611636031492309",
+        "created_at": "2026-02-28T05:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027611636031492309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797294215543889920",
+              "start": 3,
+              "username": "amiadac1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qi5XhilfpR",
+              "end": 44,
+              "expanded_url": "https://x.com/amiadac1/status/2027414699579777280/video/1",
+              "media_key": "13_2027414643808026624",
+              "start": 21,
+              "url": "https://t.co/qi5XhilfpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027611636031492309",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027414699579777280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiadac1: 새 옷 자랑 https://t.co/qi5XhilfpR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027414643808026624"
+          ]
+        },
+        "author_id": "1797294215543889920",
+        "conversation_id": "2027414699579777280",
+        "created_at": "2026-02-27T16:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027414699579777280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qi5XhilfpR",
+              "end": 30,
+              "expanded_url": "https://x.com/amiadac1/status/2027414699579777280/video/1",
+              "media_key": "13_2027414643808026624",
+              "start": 7,
+              "url": "https://t.co/qi5XhilfpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027414699579777280",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2193,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "새 옷 자랑 https://t.co/qi5XhilfpR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 1478,
+          "like_count": 37322,
+          "listed_count": 8,
+          "media_count": 1090,
+          "tweet_count": 17967
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T15:48:40.000Z",
+        "description": "몇번이고 다시 이어질 수 있도록",
+        "id": "1797294215543889920",
+        "name": "밈주",
+        "pinned_tweet_id": "1880436110456926261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880366510537076736/L4MBqCe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3453,
+          "following_count": 258,
+          "like_count": 9041,
+          "listed_count": 8,
+          "media_count": 1722,
+          "tweet_count": 3523
+        },
+        "username": "amiadac1",
+        "verified": false
+      }
+    ]
+  }
+}

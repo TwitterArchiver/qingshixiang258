@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925868054342164670",
+    "created_at": "2025-05-24T07:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T08:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926180301291585678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667865236559519745",
+          "start": 0,
+          "username": "MashiroCatej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926180301291585678",
+    "in_reply_to_user_id": "1667865236559519745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925868054342164670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MashiroCatej 点了👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1925868054342164670",
+        "created_at": "2025-05-24T07:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926180301291585678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667865236559519745",
+              "start": 0,
+              "username": "MashiroCatej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926180301291585678",
+        "in_reply_to_user_id": "1667865236559519745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925868054342164670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MashiroCatej 点了👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667865236559519745",
+        "conversation_id": "1925868054342164670",
+        "created_at": "2025-05-23T10:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925868054342164670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MashiroCatej/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/MashiroCatej/status/1924359085069316245",
+              "start": 26,
+              "url": "https://t.co/93zKh1L2Wl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925868054342164670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 913,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924359085069316245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很享受淋雨，就像跟大雨融为一体，从世界上消失了一样 https://t.co/93zKh1L2Wl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 988,
+          "like_count": 21685,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 9474
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T12:04:05.000Z",
+        "description": "没去过的地方，我都想去看。学长:@HTT_m1saka。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "HTT_m1saka"
+              }
+            ]
+          }
+        },
+        "id": "1667865236559519745",
+        "name": "無理の屑人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915770407879385088/yASLDyno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 1450,
+          "like_count": 154550,
+          "listed_count": 8,
+          "media_count": 1234,
+          "tweet_count": 10545
+        },
+        "username": "MashiroCatej",
+        "verified": false
+      }
+    ]
+  }
+}

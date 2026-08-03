@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2057059107845341537",
+    "created_at": "2026-05-20T11:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057068136172814684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2036213859044958209",
+          "start": 0,
+          "username": "Tsumune_Fritz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057068136172814684",
+    "in_reply_to_user_id": "2036213859044958209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057065135567675478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsumune_Fritz 吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057065135567675478].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057065135567675478",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057065135567675478"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2057059107845341537",
+        "created_at": "2026-05-20T11:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057068136172814684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2036213859044958209",
+              "start": 0,
+              "username": "Tsumune_Fritz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057068136172814684",
+        "in_reply_to_user_id": "2036213859044958209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057065135567675478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsumune_Fritz 吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是\n你知道的我最喜欢 @hhngki7292924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "hhngki7292924"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 1686,
+          "like_count": 41360,
+          "listed_count": 9,
+          "media_count": 1252,
+          "tweet_count": 20328
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T22:50:50.000Z",
+        "description": "arknights/明日方舟/アークナイツ  mathematics/philosophy/linguistics/ languages: 🇬🇧🇨🇳🇪🇸🇫🇷🇷🇺",
+        "id": "2036213859044958209",
+        "location": "Boston, MA",
+        "name": "Tsumune_Fritz",
+        "pinned_tweet_id": "2052722209815437710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052270250088157184/-Kb3Bb1B_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 162,
+          "like_count": 1896,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 229
+        },
+        "username": "Tsumune_Fritz",
+        "verified": false
+      }
+    ]
+  }
+}

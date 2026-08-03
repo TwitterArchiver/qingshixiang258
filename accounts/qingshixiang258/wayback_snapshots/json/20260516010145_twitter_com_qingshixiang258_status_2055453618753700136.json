@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055453609148698624"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055453618753700136",
+    "created_at": "2026-05-16T01:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055453618753700136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/spR5Tl4LRj",
+          "end": 35,
+          "expanded_url": "https://x.com/qingshixiang258/status/2055453618753700136/photo/1",
+          "media_key": "3_2055453609148698624",
+          "start": 12,
+          "url": "https://t.co/spR5Tl4LRj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055453618753700136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事已至此，先____吧 https://t.co/spR5Tl4LRj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055453609148698624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZwKtGaUAAVTAU.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055453609148698624"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055453618753700136",
+        "created_at": "2026-05-16T01:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055453618753700136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spR5Tl4LRj",
+              "end": 35,
+              "expanded_url": "https://x.com/qingshixiang258/status/2055453618753700136/photo/1",
+              "media_key": "3_2055453609148698624",
+              "start": 12,
+              "url": "https://t.co/spR5Tl4LRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055453618753700136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事已至此，先____吧 https://t.co/spR5Tl4LRj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 1689,
+          "like_count": 40969,
+          "listed_count": 9,
+          "media_count": 1242,
+          "tweet_count": 20168
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

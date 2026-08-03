@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1918216049268249031",
+    "created_at": "2025-05-02T08:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T09:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918218576286433346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808093317894492160",
+          "start": 0,
+          "username": "angdai8964"
+        },
+        {
+          "end": 21,
+          "id": "1594302945218158593",
+          "start": 12,
+          "username": "svaghglm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918218576286433346",
+    "in_reply_to_user_id": "1808093317894492160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918218057216098677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angdai8964 @svaghglm 没有什么是比什么高尚的，就像是大家都在吃水果，突然有人说一句豆腐脑只有咸的好吃，吃甜的的都是二货一样。无厘头的让人发笑。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918218057216098677].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1918218057216098677",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1918218057216098677"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1918216049268249031",
+        "created_at": "2025-05-02T08:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918218576286433346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808093317894492160",
+              "start": 0,
+              "username": "angdai8964"
+            },
+            {
+              "end": 21,
+              "id": "1594302945218158593",
+              "start": 12,
+              "username": "svaghglm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918218576286433346",
+        "in_reply_to_user_id": "1808093317894492160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918218057216098677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angdai8964 @svaghglm 没有什么是比什么高尚的，就像是大家都在吃水果，突然有人说一句豆腐脑只有咸的好吃，吃甜的的都是二货一样。无厘头的让人发笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "GREENFANS🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916284947746459648/Fmz_BBPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 875,
+          "like_count": 18496,
+          "listed_count": 5,
+          "media_count": 313,
+          "tweet_count": 8167
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T11:00:32.000Z",
+        "description": "02，可以称呼我为疯子、戴或黑斯（Tibus Heth）,热爱政治、经济和学术，最厌恶的是数学，极度偏科人士，尽量今年拿到韩签回归母国，右倾人士，有时候说话不经脑子（可能有时候说话会得罪你，建议也无妨），略微嗜血，是习大统领和尹大统领的坚定支持者。（互fo可私信）",
+        "id": "1808093317894492160",
+        "location": "中华第二帝国支黑省刃支市8964区",
+        "name": "庆尚道兔脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899823035391016960/ooPuPWAE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 1231,
+          "like_count": 41405,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 5994
+        },
+        "username": "angdai8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T12:13:48.000Z",
+        "description": "再键政即司马/09物化政/INTP/心眼不宽/99%支黑过敏请滚/偶像：@GoodsanJeff/同学技术宅：@tonyhaozhe /Kranke：@NationalPureVF3/\n反极端/战地重度依赖/轻度精神分裂/求真务实/尽力互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "GoodsanJeff"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "tonyhaozhe"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "NationalPureVF3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sanitf1",
+                "end": 23,
+                "expanded_url": "http://t.me/sanitf1",
+                "start": 0,
+                "url": "https://t.co/SGFNeyjSHN"
+              }
+            ]
+          }
+        },
+        "id": "1594302945218158593",
+        "location": "法烏克斯要塞B點廢棄炮塔后||中华人民共和国PRC",
+        "name": "中推圈第一庸醫 有針筒但是不會救人就會苟在法烏克斯要塞D點薩尼鐵塔🇨🇳🇵🇸🥘（退政）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916448773007716352/Ew8n4LGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 1520,
+          "like_count": 19704,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2386
+        },
+        "url": "https://t.co/SGFNeyjSHN",
+        "username": "svaghglm",
+        "verified": false
+      }
+    ]
+  }
+}

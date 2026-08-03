@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1929782539549278303",
+    "created_at": "2025-06-03T10:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T11:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929850591918133428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581575678637486081",
+          "start": 0,
+          "username": "Brannon888888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929850591918133428",
+    "in_reply_to_user_id": "1581575678637486081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929782539549278303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brannon888888 这个是真想吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25565,
+        "height": 1080,
+        "media_key": "13_1929780494616743936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929780494616743936/img/onz6_ljaLPMTPNRn.jpg",
+        "public_metrics": {
+          "view_count": 174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929780494616743936/vid/avc1/424x270/tLtHeMYEz2wtahSn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929780494616743936/vid/avc1/566x360/nZcutgXxxSXqiFpB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929780494616743936/vid/avc1/1132x720/2l47v1lrvjjqJQjY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929780494616743936/pl/rcUnj4K1gal3Ir_e.m3u8?tag=14"
+          }
+        ],
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1929782539549278303",
+        "created_at": "2025-06-03T10:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T11:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929850591918133428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581575678637486081",
+              "start": 0,
+              "username": "Brannon888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929850591918133428",
+        "in_reply_to_user_id": "1581575678637486081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929782539549278303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brannon888888 这个是真想吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929780494616743936"
+          ]
+        },
+        "author_id": "1581575678637486081",
+        "conversation_id": "1929782539549278303",
+        "created_at": "2025-06-03T06:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T07:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929782539549278303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "山东"
+            },
+            {
+              "end": 74,
+              "start": 65,
+              "tag": "Shandong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pW0ke1mhEu",
+              "end": 98,
+              "expanded_url": "https://x.com/Brannon888888/status/1929782539549278303/video/1",
+              "media_key": "13_1929780494616743936",
+              "start": 75,
+              "url": "https://t.co/pW0ke1mhEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929782539549278303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 407,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候放学回家，桌子上经常是一大碗香喷喷的猪肉白菜炖粉条，配上热腾腾的大白馒头或者米饭，在山东人的记忆里，这就是家的味道\n#山东 #Shandong https://t.co/pW0ke1mhEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1929183338176147686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1039,
+          "like_count": 22957,
+          "listed_count": 6,
+          "media_count": 572,
+          "tweet_count": 10003
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T09:20:14.000Z",
+        "description": "Be myself\n互fo",
+        "id": "1581575678637486081",
+        "name": "Brannon",
+        "pinned_tweet_id": "1919922338419663308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623904805440684032/_ae0wjY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14436,
+          "following_count": 9698,
+          "like_count": 56569,
+          "listed_count": 31,
+          "media_count": 5347,
+          "tweet_count": 48569
+        },
+        "username": "Brannon888888",
+        "verified": false
+      }
+    ]
+  }
+}

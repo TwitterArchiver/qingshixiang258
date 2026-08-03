@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925852138229415937",
+        "3_1925852138241978369",
+        "3_1925852138233581569"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925563763157344598",
+    "created_at": "2025-05-23T09:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T10:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925852155816116607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857471601454768128",
+          "start": 0,
+          "username": "ScreamButSilent"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ajv8b24W0C",
+          "end": 40,
+          "expanded_url": "https://x.com/qingshixiang258/status/1925852155816116607/photo/1",
+          "media_key": "3_1925852138229415937",
+          "start": 17,
+          "url": "https://t.co/ajv8b24W0C"
+        },
+        {
+          "display_url": "pic.x.com/ajv8b24W0C",
+          "end": 40,
+          "expanded_url": "https://x.com/qingshixiang258/status/1925852155816116607/photo/1",
+          "media_key": "3_1925852138241978369",
+          "start": 17,
+          "url": "https://t.co/ajv8b24W0C"
+        },
+        {
+          "display_url": "pic.x.com/ajv8b24W0C",
+          "end": 40,
+          "expanded_url": "https://x.com/qingshixiang258/status/1925852155816116607/photo/1",
+          "media_key": "3_1925852138233581569",
+          "start": 17,
+          "url": "https://t.co/ajv8b24W0C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925852155816116607",
+    "in_reply_to_user_id": "1857471601454768128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925776685607121084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScreamButSilent https://t.co/ajv8b24W0C"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925852155816116607].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925852155816116607",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925852155816116607"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_1925852138229415937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GroAUO0XQAEjDxM.jpg",
+        "width": 1169
+      },
+      {
+        "height": 397,
+        "media_key": "3_1925852138241978369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GroAUO3W8AEYJZg.jpg",
+        "width": 397
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925852138233581569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GroAUO1W0AEl3eV.jpg",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857471601454768128",
+        "conversation_id": "1925563763157344598",
+        "created_at": "2025-05-23T04:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925776685607121084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925776685607121084",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925563763157344598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 467!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 986,
+          "like_count": 21330,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 9336
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T17:12:16.000Z",
+        "description": "死后务必魂分魄散｜我是小㐾（yuàn）随意fo,看成分回 发的都是碎碎念 感到幸福的时候会停笔｜匿名在https://t.co/wyXYrNrSqh｜欢迎找我聊天 但不要随意打听我，除非你打钱了｜不聊骚不搞黄不线下，打钱可以加v看我萌萌朋友圈😗",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakuragi96935",
+                "end": 74,
+                "expanded_url": "https://ngl.link/sakuragi96935",
+                "start": 51,
+                "url": "https://t.co/wyXYrNrSqh"
+              }
+            ]
+          }
+        },
+        "id": "1857471601454768128",
+        "name": "梨从",
+        "pinned_tweet_id": "1905469723506344244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922803860826976256/O_dGukT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 300,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1899
+        },
+        "username": "ScreamButSilent",
+        "verified": false
+      }
+    ]
+  }
+}

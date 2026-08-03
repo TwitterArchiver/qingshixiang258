@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1995473581690556709",
+    "created_at": "2025-12-01T13:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T14:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995491400482508800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "985073553123852289",
+          "start": 0,
+          "username": "geeseartist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995491400482508800",
+    "in_reply_to_user_id": "985073553123852289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995487250415788494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geeseartist 我要给吃鸭脖！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "16_1995487240005582848",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7FlEn5bgAA_Ps9.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7FlEn5bgAA_Ps9.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1995473581690556709",
+        "created_at": "2025-12-01T13:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995491400482508800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "985073553123852289",
+              "start": 0,
+              "username": "geeseartist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995491400482508800",
+        "in_reply_to_user_id": "985073553123852289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995487250415788494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geeseartist 我要给吃鸭脖！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1995487240005582848"
+          ]
+        },
+        "author_id": "985073553123852289",
+        "conversation_id": "1995473581690556709",
+        "created_at": "2025-12-01T13:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995487250415788494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQ0gCb5jDZ",
+              "end": 40,
+              "expanded_url": "https://x.com/geeseartist/status/1995487250415788494/photo/1",
+              "media_key": "16_1995487240005582848",
+              "start": 17,
+              "url": "https://t.co/AQ0gCb5jDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995487250415788494",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995486491020251271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 https://t.co/AQ0gCb5jDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 1457,
+          "like_count": 34986,
+          "listed_count": 8,
+          "media_count": 953,
+          "tweet_count": 15640
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-14T08:33:31.000Z",
+        "description": "需要你 我是一只鹅 田里的菜叶 是你的冷笑话和黄段子 备用号 @geeseengineer 저는한국인은아니지만 이나라를사랑합니다.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "geeseengineer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gooseartist.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://gooseartist.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/C3WRuvdgPs"
+              }
+            ]
+          }
+        },
+        "id": "985073553123852289",
+        "name": "鹅鹅艺术家🖤🐘🤍💜거위아티스트",
+        "pinned_tweet_id": "1993969686590243245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994223822783041536/rLHM1hn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 65,
+          "like_count": 10443,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 2205
+        },
+        "url": "https://t.co/C3WRuvdgPs",
+        "username": "geeseartist",
+        "verified": false
+      }
+    ]
+  }
+}

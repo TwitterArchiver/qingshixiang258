@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2064550525509701757",
+    "created_at": "2026-06-10T17:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064755590543577096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        },
+        {
+          "end": 22,
+          "id": "1779022924743106560",
+          "start": 14,
+          "username": "Fe_ions"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064755590543577096",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064550525509701757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay @Fe_ions 羨慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12806,
+        "height": 1280,
+        "media_key": "13_2064550412674539520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064550412674539520/img/i9CHLmZ-K52xmlf5.jpg",
+        "public_metrics": {
+          "view_count": 422
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064550412674539520/vid/avc1/320x568/xMGTE8hRG8vrOGod.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064550412674539520/vid/avc1/480x852/DVknY5Ik1FDSVmM6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064550412674539520/vid/avc1/720x1280/SjPKLAEhMEJL1q2a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064550412674539520/pl/wXgVwAwS5IDR4YL4.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11360,
+        "height": 720,
+        "media_key": "13_2064550412670349312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064550412670349312/img/Suhzwkkn2SbgbzJa.jpg",
+        "public_metrics": {
+          "view_count": 50
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064550412670349312/vid/avc1/480x270/PgpcVcJJCkZVO_Xo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064550412670349312/vid/avc1/640x360/z_Iet1g3biO3TBPk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064550412670349312/vid/avc1/1280x720/uss2XV3Z7xlnD99_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064550412670349312/pl/VKVehUju2e9dwKL5.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064550412716539905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbBqXLbAAERqZZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064550412808749056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbBqXhaAAAnCx_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2064550525509701757",
+        "created_at": "2026-06-10T17:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064755590543577096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            },
+            {
+              "end": 22,
+              "id": "1779022924743106560",
+              "start": 14,
+              "username": "Fe_ions"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064755590543577096",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064550525509701757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay @Fe_ions 羨慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064550412674539520",
+            "13_2064550412670349312",
+            "3_2064550412716539905",
+            "3_2064550412808749056"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2064550525509701757",
+        "created_at": "2026-06-10T03:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064550525509701757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1779022924743106560",
+              "start": 9,
+              "username": "Fe_ions"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozRTyaOFhJ",
+              "end": 67,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2064550525509701757/video/1",
+              "media_key": "13_2064550412674539520",
+              "start": 44,
+              "url": "https://t.co/ozRTyaOFhJ"
+            },
+            {
+              "display_url": "pic.x.com/ozRTyaOFhJ",
+              "end": 67,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2064550525509701757/video/1",
+              "media_key": "13_2064550412670349312",
+              "start": 44,
+              "url": "https://t.co/ozRTyaOFhJ"
+            },
+            {
+              "display_url": "pic.x.com/ozRTyaOFhJ",
+              "end": 67,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2064550525509701757/video/1",
+              "media_key": "3_2064550412716539905",
+              "start": 44,
+              "url": "https://t.co/ozRTyaOFhJ"
+            },
+            {
+              "display_url": "pic.x.com/ozRTyaOFhJ",
+              "end": 67,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2064550525509701757/video/1",
+              "media_key": "3_2064550412808749056",
+              "start": 44,
+              "url": "https://t.co/ozRTyaOFhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064550525509701757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1366,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽！爽！爽 ！\n和@Fe_ions 一起泡澡蒸桑拿 在柬埔寨金边\n太爽了！！😭😭😭😭😭 https://t.co/ozRTyaOFhJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 1687,
+          "like_count": 43013,
+          "listed_count": 10,
+          "media_count": 1292,
+          "tweet_count": 20934
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗醜釹｜疑似鍵政｜痛苦大學生｜Baptist U｜准健全逼｜失敗合約交易員｜🇹🇼🇭🇰🇨🇳｜歡迎私訊聊天｜同類互fo｜前世@franciswwwww｜寵物@Fe_ions ｜小玩具@wwwAlce4｜寶寶窩@PaulDrizzyvlni @Suimikax @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 90,
+                "start": 82,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "wwwAlce4"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Suimikax"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "秦城监狱",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2064008531217686815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1810,
+          "like_count": 9737,
+          "listed_count": 4,
+          "media_count": 460,
+          "tweet_count": 5926
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T05:45:03.000Z",
+        "description": "谢谢你愿意了解我 🥰 私信包回随便骚扰 | 社恐系少女 | 不稳定段子手 |🍤🍛🥭🍡🍼🍥| 主包对所有人友善 所有立场包容 | 想交好多朋友 快来私信互fo/聊天♪( ´▽｀) | 07 珠海刷新 | 面面 @AsdQWD358224 | 舍友 @HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HappyHejsDay"
+              }
+            ]
+          }
+        },
+        "id": "1779022924743106560",
+        "location": "透明小锥形瓶",
+        "name": "Fe²⁺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961105166293446656/DV-Z612f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 476,
+          "like_count": 8968,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 1450
+        },
+        "username": "Fe_ions",
+        "verified": false
+      }
+    ]
+  }
+}

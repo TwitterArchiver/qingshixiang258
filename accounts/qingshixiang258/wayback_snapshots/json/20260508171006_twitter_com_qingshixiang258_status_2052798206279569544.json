@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2052419814715703369",
+    "created_at": "2026-05-08T17:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052798206279569544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559067344604786688",
+          "start": 0,
+          "username": "smwwwe5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052798206279569544",
+    "in_reply_to_user_id": "1559067344604786688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052611940204339503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smwwwe5 开着玩的，意思是模仿别人的账号，之前传闻可以减少封号概率"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2052419814715703369",
+        "created_at": "2026-05-08T17:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052798206279569544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559067344604786688",
+              "start": 0,
+              "username": "smwwwe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052798206279569544",
+        "in_reply_to_user_id": "1559067344604786688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052611940204339503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smwwwe5 开着玩的，意思是模仿别人的账号，之前传闻可以减少封号概率"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559067344604786688",
+        "conversation_id": "2052419814715703369",
+        "created_at": "2026-05-08T04:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052611940204339503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052611940204339503",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052419814715703369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 戏仿账号又是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 1687,
+          "like_count": 40489,
+          "listed_count": 9,
+          "media_count": 1233,
+          "tweet_count": 20002
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T06:40:04.000Z",
+        "description": "",
+        "id": "1559067344604786688",
+        "name": "苏铭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862193370094764033/bwpSN1Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "smwwwe5",
+        "verified": false
+      }
+    ]
+  }
+}

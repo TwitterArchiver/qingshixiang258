@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1977534582871453850",
+    "created_at": "2025-10-13T02:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T03:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977560507549962689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977560507549962689",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977534582871453850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 isla指派性别到底是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1977534582871453850",
+        "created_at": "2025-10-13T02:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T03:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977560507549962689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977560507549962689",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977534582871453850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 isla指派性别到底是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1977534582871453850",
+        "created_at": "2025-10-13T00:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T01:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977534582871453850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977534582871453850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个挺有趣的事情：\n某些游戏会用一些词条比如“勇敢”“努力”“邪恶”……去形容一个小宠物或者人来代表它的特质，如果这个东西可见的话，在97或者98年的时候我身上就多了一个灰色的“？？？”词条，这个词条每隔几年就要亮一下，在那呆了将近30年，直到今年这个词条终于打开了，我一看原来是“跨性别”😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1369,
+          "like_count": 31804,
+          "listed_count": 7,
+          "media_count": 853,
+          "tweet_count": 14297
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。/有🚪谢谢",
+        "id": "1739391734491086848",
+        "location": "辽宁",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 3913,
+          "like_count": 30066,
+          "listed_count": 9,
+          "media_count": 2228,
+          "tweet_count": 30068
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

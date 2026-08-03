@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2080233015511585150",
+    "created_at": "2026-07-23T13:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080286234258329844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080286234258329844",
+    "in_reply_to_user_id": "193648759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080233015511585150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 还有日本版，我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2080233010058981377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN545q6bcAEp0iG.jpg",
+        "width": 1535
+      },
+      {
+        "height": 833,
+        "media_key": "3_2080233010058899456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN545q6aMAA2WFF.jpg",
+        "width": 1482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2080233015511585150",
+        "created_at": "2026-07-23T13:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080286234258329844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080286234258329844",
+        "in_reply_to_user_id": "193648759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080233015511585150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 还有日本版，我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080233010058981377",
+            "3_2080233010058899456"
+          ]
+        },
+        "author_id": "193648759",
+        "conversation_id": "2080233015511585150",
+        "created_at": "2026-07-23T10:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080233015511585150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJhRD6f4vc",
+              "end": 27,
+              "expanded_url": "https://x.com/ripo0079/status/2080233015511585150/photo/1",
+              "media_key": "3_2080233010058981377",
+              "start": 4,
+              "url": "https://t.co/AJhRD6f4vc"
+            },
+            {
+              "display_url": "pic.x.com/AJhRD6f4vc",
+              "end": 27,
+              "expanded_url": "https://x.com/ripo0079/status/2080233015511585150/photo/1",
+              "media_key": "3_2080233010058899456",
+              "start": 4,
+              "url": "https://t.co/AJhRD6f4vc"
+            },
+            {
+              "display_url": "x.com/47news_officia…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/47news_official/status/2080136080016511383",
+              "start": 28,
+              "url": "https://t.co/lcOJHPTZVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080233015511585150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 17705,
+          "like_count": 418,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080136080016511383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今これ https://t.co/AJhRD6f4vc https://t.co/lcOJHPTZVW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1683,
+          "like_count": 44767,
+          "listed_count": 9,
+          "media_count": 1362,
+          "tweet_count": 21480
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12770,
+          "following_count": 1439,
+          "like_count": 75517,
+          "listed_count": 140,
+          "media_count": 4555,
+          "tweet_count": 55404
+        },
+        "url": "",
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

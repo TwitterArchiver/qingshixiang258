@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2012860522606063626",
+    "created_at": "2026-01-18T12:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T13:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012860522606063626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1282832893304242178",
+          "start": 3,
+          "username": "baihui_Ke"
+        },
+        {
+          "end": 22,
+          "id": "1926313840557355008",
+          "start": 15,
+          "username": "yepa41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012860522606063626",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012858625954623626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baihui_Ke: @yepa41 公园露出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2012860522606063626",
+        "created_at": "2026-01-18T12:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012860522606063626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1282832893304242178",
+              "start": 3,
+              "username": "baihui_Ke"
+            },
+            {
+              "end": 22,
+              "id": "1926313840557355008",
+              "start": 15,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012860522606063626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012858625954623626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baihui_Ke: @yepa41 公园露出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282832893304242178",
+        "conversation_id": "2012839687551926558",
+        "created_at": "2026-01-18T12:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012858625954623626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012858625954623626",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012839687551926558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 公园露出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 1394,
+          "like_count": 36160,
+          "listed_count": 9,
+          "media_count": 1020,
+          "tweet_count": 16869
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "",
+        "id": "1282832893304242178",
+        "location": "距离你1.2km",
+        "name": "白灰",
+        "pinned_tweet_id": "1890054887813296135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010598382117740544/nyOfuwN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 330,
+          "like_count": 32317,
+          "listed_count": 1,
+          "media_count": 1337,
+          "tweet_count": 13707
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "さよならだ人類、みんな吹き飛んじまえ，",
+        "id": "1926313840557355008",
+        "location": "百味轩",
+        "name": "斯德哥尔摩第二吉他手",
+        "pinned_tweet_id": "1990480589112422835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998174458197245952/_6TPH7JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 789,
+          "like_count": 81888,
+          "listed_count": 4,
+          "media_count": 782,
+          "tweet_count": 5227
+        },
+        "username": "yepa41",
+        "verified": false
+      }
+    ]
+  }
+}

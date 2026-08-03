@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925928135574347776",
+        "3_1925928135641501697"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925563763157344598",
+    "created_at": "2025-05-23T14:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T15:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925928148115271851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1754423307192209408",
+          "start": 0,
+          "username": "kkk556622879289"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FdLSvUowEC",
+          "end": 40,
+          "expanded_url": "https://x.com/qingshixiang258/status/1925928148115271851/photo/1",
+          "media_key": "3_1925928135574347776",
+          "start": 17,
+          "url": "https://t.co/FdLSvUowEC"
+        },
+        {
+          "display_url": "pic.x.com/FdLSvUowEC",
+          "end": 40,
+          "expanded_url": "https://x.com/qingshixiang258/status/1925928148115271851/photo/1",
+          "media_key": "3_1925928135641501697",
+          "start": 17,
+          "url": "https://t.co/FdLSvUowEC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925928148115271851",
+    "in_reply_to_user_id": "1754423307192209408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925850857637117988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkk556622879289 https://t.co/FdLSvUowEC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925928148115271851].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925928148115271851",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925928148115271851"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_1925928135574347776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpFb2_W4AAgYAf.jpg",
+        "width": 1170
+      },
+      {
+        "height": 680,
+        "media_key": "3_1925928135641501697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpFb3PXkAEkEhN.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754423307192209408",
+        "conversation_id": "1925563763157344598",
+        "created_at": "2025-05-23T09:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T10:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925850857637117988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925850857637117988",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925563763157344598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 986,
+          "like_count": 21349,
+          "listed_count": 5,
+          "media_count": 479,
+          "tweet_count": 9355
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T08:34:57.000Z",
+        "description": "",
+        "id": "1754423307192209408",
+        "name": "雪豹丁真",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754423761137491968/ZtnINoQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "kkk556622879289",
+        "verified": false
+      }
+    ]
+  }
+}

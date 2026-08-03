@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2058456020029157620",
+    "created_at": "2026-05-24T13:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058548233404899486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953528457339834368",
+          "start": 0,
+          "username": "redraft2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058548233404899486",
+    "in_reply_to_user_id": "1953528457339834368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058456020029157620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redraft2000 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058456003788914688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEa1EubwAAhqhG.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2058456020029157620",
+        "created_at": "2026-05-24T13:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058548233404899486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058548233404899486",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058456020029157620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058456003788914688"
+          ]
+        },
+        "author_id": "1953528457339834368",
+        "conversation_id": "2058456020029157620",
+        "created_at": "2026-05-24T07:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058456020029157620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILTXrrJ9wF",
+              "end": 40,
+              "expanded_url": "https://x.com/redraft2000/status/2058456020029157620/photo/1",
+              "media_key": "3_2058456003788914688",
+              "start": 17,
+              "url": "https://t.co/ILTXrrJ9wF"
+            },
+            {
+              "display_url": "x.com/saonanaa/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/saonanaa/status/2058438055925870822",
+              "start": 41,
+              "url": "https://t.co/O4sc1ZLbRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058456020029157620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2059,
+          "like_count": 23,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058438055925870822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是，除了水猫外你又在乎了谁呢？ https://t.co/ILTXrrJ9wF https://t.co/O4sc1ZLbRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 1689,
+          "like_count": 41521,
+          "listed_count": 10,
+          "media_count": 1257,
+          "tweet_count": 20409
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 107,
+          "like_count": 5259,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2145
+        },
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

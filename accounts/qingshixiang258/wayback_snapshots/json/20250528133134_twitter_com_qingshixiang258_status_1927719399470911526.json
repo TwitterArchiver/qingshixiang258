@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1927712442924011667",
+    "created_at": "2025-05-28T13:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T14:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927719399470911526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1396852906020667395",
+          "start": 0,
+          "username": "acdhmbhhg7788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927719399470911526",
+    "in_reply_to_user_id": "1396852906020667395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927719159833448929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acdhmbhhg7788 荡来荡去！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1927712442924011667",
+        "created_at": "2025-05-28T13:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T14:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927719399470911526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1396852906020667395",
+              "start": 0,
+              "username": "acdhmbhhg7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927719399470911526",
+        "in_reply_to_user_id": "1396852906020667395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927719159833448929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acdhmbhhg7788 荡来荡去！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396852906020667395",
+        "conversation_id": "1927712442924011667",
+        "created_at": "2025-05-28T13:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T14:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927719159833448929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927719159833448929",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927712442924011667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 去山里当母猴子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1027,
+          "like_count": 22256,
+          "listed_count": 5,
+          "media_count": 559,
+          "tweet_count": 9758
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-24T15:38:08.000Z",
+        "description": "",
+        "id": "1396852906020667395",
+        "name": "暂无姓名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922584862286127104/kFNj11hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 35,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "username": "acdhmbhhg7788",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1950060599695544384",
+    "created_at": "2025-08-03T15:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952030519283339722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677383468660191232",
+          "start": 0,
+          "username": "mtfmtx138248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952030519283339722",
+    "in_reply_to_user_id": "1677383468660191232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950060599695544384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtfmtx138248 啊，好严重啊，早日康复🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950060534294028288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxABuV0aoAAPlko.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950060532448579584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxABuO8bUAAbzYI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950060534004666370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxABuUvbUAIHH3R.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 16579,
+        "height": 1280,
+        "media_key": "7_1950060533065142272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1950060533065142272/pu/img/wVyS34fH9tvDewFa.jpg",
+        "public_metrics": {
+          "view_count": 10212
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950060533065142272/pu/vid/avc1/320x568/Qf36-ac8J9j1NTAM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950060533065142272/pu/vid/avc1/480x852/ZWWBck58ZE466XT_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1950060533065142272/pu/vid/avc1/720x1280/7jVZmELpfJGuNtNy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1950060533065142272/pu/pl/817fJFby370y2HXh.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1950060599695544384",
+        "created_at": "2025-08-03T15:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952030519283339722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677383468660191232",
+              "start": 0,
+              "username": "mtfmtx138248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952030519283339722",
+        "in_reply_to_user_id": "1677383468660191232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950060599695544384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtfmtx138248 啊，好严重啊，早日康复🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950060534294028288",
+            "3_1950060532448579584",
+            "3_1950060534004666370",
+            "7_1950060533065142272"
+          ]
+        },
+        "author_id": "1677383468660191232",
+        "conversation_id": "1950060599695544384",
+        "created_at": "2025-07-29T05:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950060599695544384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXxUDsBTwd",
+              "end": 135,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1950060599695544384/video/1",
+              "media_key": "3_1950060534294028288",
+              "start": 112,
+              "url": "https://t.co/hXxUDsBTwd"
+            },
+            {
+              "display_url": "pic.x.com/hXxUDsBTwd",
+              "end": 135,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1950060599695544384/video/1",
+              "media_key": "3_1950060532448579584",
+              "start": 112,
+              "url": "https://t.co/hXxUDsBTwd"
+            },
+            {
+              "display_url": "pic.x.com/hXxUDsBTwd",
+              "end": 135,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1950060599695544384/video/1",
+              "media_key": "3_1950060534004666370",
+              "start": 112,
+              "url": "https://t.co/hXxUDsBTwd"
+            },
+            {
+              "display_url": "pic.x.com/hXxUDsBTwd",
+              "end": 135,
+              "expanded_url": "https://x.com/mtfmtx138248/status/1950060599695544384/video/1",
+              "media_key": "7_1950060533065142272",
+              "start": 112,
+              "url": "https://t.co/hXxUDsBTwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950060599695544384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 34441,
+          "like_count": 168,
+          "quote_count": 20,
+          "reply_count": 84,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "这就是水门做的烂批，外形肿胀难看还坏死了，虽然说坏死是手术风险之一，但水门连坏死都不管任我自生自灭，这就是水门srs，千万不要来水门，就算是切蛋也不要来，总是要srs的切了蛋等于是多挨一刀，想要来水门srs的好好看看这烂批 https://t.co/hXxUDsBTwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952030735017414656/RzsjlbpJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1264,
+          "like_count": 27209,
+          "listed_count": 7,
+          "media_count": 689,
+          "tweet_count": 11954
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T18:26:31.000Z",
+        "description": "我有易性症",
+        "id": "1677383468660191232",
+        "name": "神楽坂美緒",
+        "pinned_tweet_id": "1950060599695544384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763562734128607232/FH7wy4u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 350,
+          "like_count": 110544,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 1620
+        },
+        "username": "mtfmtx138248",
+        "verified": false
+      }
+    ]
+  }
+}

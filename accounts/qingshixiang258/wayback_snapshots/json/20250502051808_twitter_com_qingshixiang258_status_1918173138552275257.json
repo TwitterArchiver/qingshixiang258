@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1918169249551651193",
+    "created_at": "2025-05-02T05:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T06:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918173138552275257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802674143030374400",
+          "start": 0,
+          "username": "Mikhail_712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918173138552275257",
+    "in_reply_to_user_id": "1802674143030374400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918172234751066231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikhail_712 最喜欢啦mua～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1918172234751066231].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1918172234751066231",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1918172234751066231"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1918169249551651193",
+        "created_at": "2025-05-02T05:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T06:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918173138552275257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802674143030374400",
+              "start": 0,
+              "username": "Mikhail_712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918173138552275257",
+        "in_reply_to_user_id": "1802674143030374400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918172234751066231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikhail_712 最喜欢啦mua～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "GREENFANS🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916284947746459648/Fmz_BBPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 874,
+          "like_count": 18394,
+          "listed_count": 5,
+          "media_count": 311,
+          "tweet_count": 8122
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T12:06:44.000Z",
+        "description": "米沙好，世界坏！\n@misa2333qwq|可以叫「米沙」的啦～\n中文|日本語|拒极端壬\n欢迎好友友——！qwq\n性奴@baojiangdilei @enosima_asahi可爱主人@qHanTinp|互fo联系我！\n可爱|详见置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "misa2333qwq"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "baojiangdilei"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "enosima_asahi"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "qHanTinp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikhail_7121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikhail_7121",
+                "start": 0,
+                "url": "https://t.co/VW9vsBPqMf"
+              }
+            ]
+          }
+        },
+        "id": "1802674143030374400",
+        "location": "米哈伊尔无限逃避责任很有限公司",
+        "name": "【半退推】Mikhailのパイプオルガン🎏🏳️",
+        "pinned_tweet_id": "1901260705141334286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912879585081139201/2Nly1bpT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 973,
+          "like_count": 8464,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 2717
+        },
+        "url": "https://t.co/VW9vsBPqMf",
+        "username": "Mikhail_712",
+        "verified": false
+      }
+    ]
+  }
+}

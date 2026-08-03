@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2005638769182175719",
+    "created_at": "2025-12-29T17:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005696356455960602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "tanbara_ririka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005696356455960602",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005638769182175719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanbara_ririka 轰击大地"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005638769182175719].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005638769182175719",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005638769182175719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2005638769182175719",
+        "created_at": "2025-12-29T17:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005696356455960602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "tanbara_ririka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005696356455960602",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005638769182175719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanbara_ririka 轰击大地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2005092093090546046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005305326652854273/P0IXE9nk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1488,
+          "like_count": 35404,
+          "listed_count": 9,
+          "media_count": 976,
+          "tweet_count": 16208
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "𝙞 𝙟𝙪𝙨𝙩 𝙬𝙖𝙣𝙣𝙖 𝙗𝙧𝙚𝙖𝙠 𝙮𝙤𝙪 𝙙𝙤𝙬𝙣 𝙨𝙤 𝙗𝙖𝙖𝙖𝙖𝙙𝙡𝙮💕 | 🐖－＞ @citric_baizhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "citric_baizhou"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "💤",
+        "pinned_tweet_id": "1985598440475361778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004394532914548736/ZH1zsqFd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 606,
+          "like_count": 28797,
+          "listed_count": 1,
+          "media_count": 1103,
+          "tweet_count": 10351
+        },
+        "username": "tanbara_ririka",
+        "verified": false
+      }
+    ]
+  }
+}

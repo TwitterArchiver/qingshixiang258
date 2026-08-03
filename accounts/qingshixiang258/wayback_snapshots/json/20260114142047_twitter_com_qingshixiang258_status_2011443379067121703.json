@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2011440803575746917",
+    "created_at": "2026-01-14T14:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T15:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011443379067121703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009765103236009984",
+          "start": 0,
+          "username": "rudo_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011443379067121703",
+    "in_reply_to_user_id": "2009765103236009984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011440803575746917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rudo_u 要创造奇迹了嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2011440803575746917",
+        "created_at": "2026-01-14T14:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011443379067121703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009765103236009984",
+              "start": 0,
+              "username": "rudo_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011443379067121703",
+        "in_reply_to_user_id": "2009765103236009984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011440803575746917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rudo_u 要创造奇迹了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009765103236009984",
+        "conversation_id": "2011440803575746917",
+        "created_at": "2026-01-14T14:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011440803575746917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011440803575746917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是艰难的一夜（通宵复习"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 1393,
+          "like_count": 36032,
+          "listed_count": 9,
+          "media_count": 1009,
+          "tweet_count": 16775
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:12:20.000Z",
+        "description": "",
+        "id": "2009765103236009984",
+        "name": "urudo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009767733488168960/JWeXbFKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 34,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "rudo_u",
+        "verified": false
+      }
+    ]
+  }
+}

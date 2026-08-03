@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051628014132436992"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2051628034491556234",
+    "created_at": "2026-05-05T11:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051628034491556234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QAHVUz5Cyh",
+          "end": 40,
+          "expanded_url": "https://x.com/qingshixiang258/status/2051628034491556234/photo/1",
+          "media_key": "3_2051628014132436992",
+          "start": 17,
+          "url": "https://t.co/QAHVUz5Cyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051628034491556234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学校专门给小猫圈了地，还有人照顾 https://t.co/QAHVUz5Cyh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051628034491556234].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051628034491556234",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051628034491556234"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2051628014132436992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjYzxGaoAAO31t.jpg",
+        "width": 768
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1677,
+          "like_count": 40447,
+          "listed_count": 9,
+          "media_count": 1225,
+          "tweet_count": 19853
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

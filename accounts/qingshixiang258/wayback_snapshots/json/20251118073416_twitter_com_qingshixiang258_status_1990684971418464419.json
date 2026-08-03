@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1990666792944230423",
+    "created_at": "2025-11-18T07:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990684971418464419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966445060872093696",
+          "start": 0,
+          "username": "woshiamio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990684971418464419",
+    "in_reply_to_user_id": "1966445060872093696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990666792944230423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiamio 你距离我2.8km，面！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1990666792944230423",
+        "created_at": "2025-11-18T07:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990684971418464419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966445060872093696",
+              "start": 0,
+              "username": "woshiamio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990684971418464419",
+        "in_reply_to_user_id": "1966445060872093696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990666792944230423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiamio 你距离我2.8km，面！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966445060872093696",
+        "conversation_id": "1990666792944230423",
+        "created_at": "2025-11-18T06:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990666792944230423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zz3322608/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/zz3322608/status/1990599498293485943",
+              "start": 5,
+              "url": "https://t.co/hLkAasqIaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990666792944230423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990599498293485943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的对的 https://t.co/hLkAasqIaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988869444798672896/nYIrKlCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1421,
+          "like_count": 34326,
+          "listed_count": 8,
+          "media_count": 934,
+          "tweet_count": 15214
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T10:13:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/40ZHppBx24"
+              }
+            ]
+          }
+        },
+        "id": "1966445060872093696",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985502914472001541/yi5MLv0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 389,
+          "like_count": 12903,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/40ZHppBx24",
+        "username": "woshiamio",
+        "verified": false
+      }
+    ]
+  }
+}

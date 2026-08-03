@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1933559002144850132",
+    "created_at": "2025-06-14T10:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T11:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933841729213616570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888548200807874560",
+          "start": 0,
+          "username": "Zcr1544739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933841729213616570",
+    "in_reply_to_user_id": "1888548200807874560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933559091563278558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zcr1544739 午好哦❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1933559002144850132",
+        "created_at": "2025-06-14T10:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T11:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933841729213616570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888548200807874560",
+              "start": 0,
+              "username": "Zcr1544739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933841729213616570",
+        "in_reply_to_user_id": "1888548200807874560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933559091563278558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zcr1544739 午好哦❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888548200807874560",
+        "conversation_id": "1933559002144850132",
+        "created_at": "2025-06-13T16:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933559091563278558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933559091563278558",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933559002144850132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1931748709324517749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1114,
+          "like_count": 24296,
+          "listed_count": 6,
+          "media_count": 621,
+          "tweet_count": 10637
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T11:19:29.000Z",
+        "description": "一个普通的初二学生罢了｜日常而已｜intp｜微量二次元（真的很少）｜小号@Observer0627",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Observer0627"
+              }
+            ]
+          }
+        },
+        "id": "1888548200807874560",
+        "location": "欧利蒂斯庄园  ",
+        "name": "最初日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915060496673488896/LdGra6yO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 110,
+          "like_count": 3409,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 885
+        },
+        "username": "Zcr1544739",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2077763133456990272",
+    "created_at": "2026-07-17T07:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078014151184830724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1318819823758069760",
+          "start": 0,
+          "username": "Enorez2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078014151184830724",
+    "in_reply_to_user_id": "1318819823758069760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077765470388924611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enorez2 薛定谔的好女孩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "16_2077765455868264448",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNW0rHObAAA6Zo8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNW0rHObAAA6Zo8.mp4"
+          }
+        ],
+        "width": 376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2077763133456990272",
+        "created_at": "2026-07-17T07:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078014151184830724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318819823758069760",
+              "start": 0,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078014151184830724",
+        "in_reply_to_user_id": "1318819823758069760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077765470388924611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enorez2 薛定谔的好女孩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2077765455868264448"
+          ]
+        },
+        "author_id": "1318819823758069760",
+        "conversation_id": "2077763133456990272",
+        "created_at": "2026-07-16T14:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077765470388924611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2mfiwU4yJ",
+              "end": 45,
+              "expanded_url": "https://x.com/Enorez2/status/2077765470388924611/photo/1",
+              "media_key": "16_2077765455868264448",
+              "start": 22,
+              "url": "https://t.co/q2mfiwU4yJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077765470388924611",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 100,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077763133456990272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 必须是的 https://t.co/q2mfiwU4yJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 1684,
+          "like_count": 44707,
+          "listed_count": 10,
+          "media_count": 1357,
+          "tweet_count": 21434
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "I play Arknights/Endfiled/Limbus Company. I love Hatsune Miku very much. I love Sui siblings, and I love Shu best. I like ACGN culture.",
+        "id": "1318819823758069760",
+        "location": "鴻園",
+        "name": "Rei_LingYi🌖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075561183965597696/YAK4daw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 706,
+          "like_count": 49376,
+          "listed_count": 0,
+          "media_count": 1146,
+          "tweet_count": 8568
+        },
+        "url": "",
+        "username": "Enorez2",
+        "verified": false
+      }
+    ]
+  }
+}

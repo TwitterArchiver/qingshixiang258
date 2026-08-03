@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1939731123141238840",
+    "created_at": "2025-06-30T17:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T18:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939733643494310394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812515586603409408",
+          "start": 0,
+          "username": "hhk1546562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939733643494310394",
+    "in_reply_to_user_id": "1812515586603409408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939732359785656767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhk1546562 37😿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939732359785656767].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939732359785656767",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939732359785656767"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1939731123141238840",
+        "created_at": "2025-06-30T17:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T18:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939733643494310394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812515586603409408",
+              "start": 0,
+              "username": "hhk1546562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939733643494310394",
+        "in_reply_to_user_id": "1812515586603409408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939732359785656767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhk1546562 37😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932839203664244742/C3gB-9Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1180,
+          "like_count": 25273,
+          "listed_count": 5,
+          "media_count": 642,
+          "tweet_count": 11069
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T15:52:55.000Z",
+        "description": "回家的感觉真好（37的负面推，这里已经没有轩尘了）说实话也没多少东西，脸熟就给过",
+        "id": "1812515586603409408",
+        "location": "璃月港",
+        "name": "七七想喝椰奶",
+        "pinned_tweet_id": "1923086410027860156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898305820884131840/zHgo3eY-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 136,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 124
+        },
+        "username": "hhk1546562",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1958391247934210463",
+    "created_at": "2025-08-21T12:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T13:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958500659583672614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853401698628448256",
+          "start": 0,
+          "username": "SchneeSchmit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958500659583672614",
+    "in_reply_to_user_id": "1853401698628448256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958391247934210463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SchneeSchmit 草草雪花❄️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958391247934210463].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958391247934210463",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958391247934210463"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1958391247934210463",
+        "created_at": "2025-08-21T12:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958500659583672614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853401698628448256",
+              "start": 0,
+              "username": "SchneeSchmit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958500659583672614",
+        "in_reply_to_user_id": "1853401698628448256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958391247934210463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SchneeSchmit 草草雪花❄️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 1299,
+          "like_count": 28044,
+          "listed_count": 7,
+          "media_count": 737,
+          "tweet_count": 12541
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T11:39:39.000Z",
+        "description": "前世 @SchneeSchmitt\n再強的外表, 也藏不住真實的自己...\n這裡是雪花貓的貓窩, 藏了深為不知人的事\n限熟悉推友(通常被此帳追蹤)可以申請訪問\n🍥27/12/2024斷續含糖小量od自殘+自閉症+不穩定抑鬱(求抱抱), 深櫃被斷糧半家暴黨 🩵MtX/F🩷, 泛性戀, INFP-T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "SchneeSchmitt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/zh-hk/%E6%A9%9…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/zh-hk/%E6%A9%98%E8%B2%93",
+                "start": 0,
+                "url": "https://t.co/8nGl8KfVHM"
+              }
+            ]
+          }
+        },
+        "id": "1853401698628448256",
+        "location": "🔤: 粵/中/客家/EN/Old EN/ES/IT/LAT",
+        "name": "雪花 (日常區) 🩷🏳️‍⚧️🍥🕊️",
+        "pinned_tweet_id": "1931393901090521574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929542651344523264/tG7dTJuH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 465,
+          "like_count": 29750,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/8nGl8KfVHM",
+        "username": "SchneeSchmit",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056031681384243340",
+    "created_at": "2026-05-17T15:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056032085744480310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832834649493762048",
+          "start": 0,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056032085744480310",
+    "in_reply_to_user_id": "1832834649493762048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056031681384243340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1n_fhtagn 尝吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056031681384243340",
+        "created_at": "2026-05-17T15:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056032085744480310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056032085744480310",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056031681384243340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 尝吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832834649493762048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2056031681384243340",
+        "created_at": "2026-05-17T15:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056031681384243340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/2056022037500776743",
+              "start": 20,
+              "url": "https://t.co/wHRRZGQmDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056031681384243340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056022037500776743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鼻吸冰是算在闻里面的还是算在尝里面的🤔 https://t.co/wHRRZGQmDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1689,
+          "like_count": 41069,
+          "listed_count": 9,
+          "media_count": 1246,
+          "tweet_count": 20214
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "",
+        "id": "1832834649493762048",
+        "name": "雪山葵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043230735642013696/yF-skjSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 1261,
+          "like_count": 30039,
+          "listed_count": 9,
+          "media_count": 4237,
+          "tweet_count": 18603
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

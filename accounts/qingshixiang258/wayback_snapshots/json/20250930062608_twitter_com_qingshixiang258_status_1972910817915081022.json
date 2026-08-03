@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1972818117136130559",
+    "created_at": "2025-09-30T06:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T07:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972910817915081022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 16,
+          "id": "1833730895750283264",
+          "start": 9,
+          "username": "32_aug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972910817915081022",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972909243364962413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @32_aug 一日之鸡在于晨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1972818117136130559",
+        "created_at": "2025-09-30T06:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972910817915081022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 16,
+              "id": "1833730895750283264",
+              "start": 9,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972910817915081022",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972909243364962413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @32_aug 一日之鸡在于晨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "1972818117136130559",
+        "created_at": "2025-09-30T06:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972909243364962413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972909243364962413",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972818117136130559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 为什么要大早起\n在厕所\n打胶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971970959755067392/F4mVIfsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1316,
+          "like_count": 30634,
+          "listed_count": 7,
+          "media_count": 828,
+          "tweet_count": 13862
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n最爱的伴侣@LixdH5jzYx99195\n顺男",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1932518713498222834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925247331391479808/c3pLQLxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 3638,
+          "like_count": 79274,
+          "listed_count": 6,
+          "media_count": 970,
+          "tweet_count": 30701
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "はちです！中国人です！希望跟大家交朋友！｜フィルム｜ContaxG2お使います｜ポーラロイド｜ヨルシカ｜跑步训练｜箱根駅伝｜日常｜リズと青い鳥 ｜No politics 🚫 互fo查成分！日本語勉強しています！無言フォロー失礼します🙇 写真はこちら@ynmori136992",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "ynmori136992"
+              }
+            ]
+          }
+        },
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "Hachii",
+        "pinned_tweet_id": "1962008654842073413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966719354432876546/Evj5714N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 617,
+          "like_count": 69802,
+          "listed_count": 3,
+          "media_count": 2084,
+          "tweet_count": 20131
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

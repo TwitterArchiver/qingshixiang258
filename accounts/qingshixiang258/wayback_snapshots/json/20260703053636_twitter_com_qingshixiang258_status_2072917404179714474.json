@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2072861998279454932",
+    "created_at": "2026-07-03T05:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072917404179714474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1514956074549448712",
+          "start": 0,
+          "username": "GlunekiKCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072917404179714474",
+    "in_reply_to_user_id": "1514956074549448712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072861998279454932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlunekiKCA -1夜宵我吃不到😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2072861992017387520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRI_86a4AASR20.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2072861998279454932",
+        "created_at": "2026-07-03T05:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072917404179714474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1514956074549448712",
+              "start": 0,
+              "username": "GlunekiKCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072917404179714474",
+        "in_reply_to_user_id": "1514956074549448712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072861998279454932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlunekiKCA -1夜宵我吃不到😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072861992017387520"
+          ]
+        },
+        "author_id": "1514956074549448712",
+        "conversation_id": "2072861998279454932",
+        "created_at": "2026-07-03T01:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072861998279454932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/frUxNPmd7C",
+              "end": 44,
+              "expanded_url": "https://x.com/GlunekiKCA/status/2072861998279454932/photo/1",
+              "media_key": "3_2072861992017387520",
+              "start": 21,
+              "url": "https://t.co/frUxNPmd7C"
+            },
+            {
+              "display_url": "x.com/LastTrouvaille…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/LastTrouvaille/status/2072728376226541893",
+              "start": 45,
+              "url": "https://t.co/YwOkgzhOil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072861998279454932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072728376226541893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "申请查看各位对我的好感度desu（举手） https://t.co/frUxNPmd7C https://t.co/YwOkgzhOil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071265514597519361/MXKHALWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 1689,
+          "like_count": 44261,
+          "listed_count": 10,
+          "media_count": 1327,
+          "tweet_count": 21263
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:41.000Z",
+        "description": "你好，远道而来的朋友～这里是江朝,是无情的发图机器/大学牲在读ing/乐子人ing/对大部分人保持包容心态，大家都是朋友嘛/偶尔碎碎念注意⚠️   老登@KiminTW_Offical | 小账@sumeng_kelami |绿咪@lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "KiminTW_Offical"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "sumeng_kelami"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1514956074549448712",
+        "location": "永夏之梦",
+        "name": "江朝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063618248851456/VdnNmWC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6212,
+          "following_count": 1541,
+          "like_count": 95003,
+          "listed_count": 29,
+          "media_count": 4820,
+          "tweet_count": 41171
+        },
+        "url": "",
+        "username": "GlunekiKCA",
+        "verified": false
+      }
+    ]
+  }
+}

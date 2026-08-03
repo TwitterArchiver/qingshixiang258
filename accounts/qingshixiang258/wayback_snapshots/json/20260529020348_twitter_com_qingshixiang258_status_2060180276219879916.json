@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2059672864022843394"
+      ],
+      "media_source_tweet_id": [
+        "2059672890824417575"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2060180276219879916",
+    "created_at": "2026-05-29T02:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060180276219879916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1061028349752107009",
+          "start": 3,
+          "username": "itimaliasof"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2HbtLjQczi",
+          "end": 120,
+          "expanded_url": "https://x.com/itimaliasof/status/2059672890824417575/video/1",
+          "media_key": "7_2059672864022843394",
+          "start": 97,
+          "url": "https://t.co/2HbtLjQczi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060180276219879916",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6797
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059672890824417575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itimaliasof: Pra caso você nunca tenha visto os dentinhos que acabaram de nascer num filhote https://t.co/2HbtLjQczi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20945,
+        "height": 720,
+        "media_key": "7_2059672864022843394",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059672864022843394/pu/img/_b5QnKSod29K6kci.jpg",
+        "public_metrics": {
+          "view_count": 389124
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059672864022843394/pu/vid/avc1/480x270/IydzLUYccLJZr7kF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059672864022843394/pu/vid/avc1/640x360/kwLG8m6BP4ELn5I3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059672864022843394/pu/vid/avc1/1280x720/zkMAuaVs_zKaoJMn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059672864022843394/pu/pl/MhlBClI1tv3fuE8p.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059672864022843394"
+          ],
+          "media_source_tweet_id": [
+            "2059672890824417575"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2060180276219879916",
+        "created_at": "2026-05-29T02:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060180276219879916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1061028349752107009",
+              "start": 3,
+              "username": "itimaliasof"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HbtLjQczi",
+              "end": 120,
+              "expanded_url": "https://x.com/itimaliasof/status/2059672890824417575/video/1",
+              "media_key": "7_2059672864022843394",
+              "start": 97,
+              "url": "https://t.co/2HbtLjQczi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060180276219879916",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6797
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059672890824417575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itimaliasof: Pra caso você nunca tenha visto os dentinhos que acabaram de nascer num filhote https://t.co/2HbtLjQczi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059672864022843394"
+          ]
+        },
+        "author_id": "1061028349752107009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          }
+        ],
+        "conversation_id": "2059672890824417575",
+        "created_at": "2026-05-27T16:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059672890824417575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HbtLjQczi",
+              "end": 103,
+              "expanded_url": "https://x.com/itimaliasof/status/2059672890824417575/video/1",
+              "media_key": "7_2059672864022843394",
+              "start": 80,
+              "url": "https://t.co/2HbtLjQczi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059672890824417575",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3064,
+          "impression_count": 924213,
+          "like_count": 51731,
+          "quote_count": 332,
+          "reply_count": 83,
+          "retweet_count": 6797
+        },
+        "reply_settings": "everyone",
+        "text": "Pra caso você nunca tenha visto os dentinhos que acabaram de nascer num filhote https://t.co/2HbtLjQczi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1688,
+          "like_count": 41811,
+          "listed_count": 10,
+          "media_count": 1267,
+          "tweet_count": 20533
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-09T22:50:46.000Z",
+        "description": "videos, photos and memes of cute animals daily 🥰❤️\n\nvídeos,fotos e memes de bichinhos fofos diariamente 🥰❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/itimaliascomeb…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/itimaliascomeback?igshid=YTQwZjQ0NmI0OA==",
+                "start": 0,
+                "url": "https://t.co/RAhcC6DOQ3"
+              }
+            ]
+          }
+        },
+        "id": "1061028349752107009",
+        "location": "Brazil",
+        "name": "iti malias",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025791061956698113/-YP52Ksw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439550,
+          "following_count": 468,
+          "like_count": 58090,
+          "listed_count": 1418,
+          "media_count": 12834,
+          "tweet_count": 20951
+        },
+        "url": "https://t.co/RAhcC6DOQ3",
+        "username": "itimaliasof",
+        "verified": true
+      }
+    ]
+  }
+}

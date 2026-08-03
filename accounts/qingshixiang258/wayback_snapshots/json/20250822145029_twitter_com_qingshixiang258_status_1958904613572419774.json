@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1958536534384328781",
+    "created_at": "2025-08-22T14:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T15:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958904613572419774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878681729407356928",
+          "start": 0,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958904613572419774",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958899455719018753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HYuusui1999 我不认为我有什么攻击性"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958899455719018753].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958899455719018753",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958899455719018753"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1958536534384328781",
+        "created_at": "2025-08-22T14:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958904613572419774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958904613572419774",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958899455719018753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 我不认为我有什么攻击性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1350,
+          "like_count": 28295,
+          "listed_count": 7,
+          "media_count": 743,
+          "tweet_count": 12826
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。【我的tg频道 https://t.co/YW3LMuplZ2】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/watashitachino…",
+                "end": 53,
+                "expanded_url": "https://t.me/watashitachinorisou",
+                "start": 30,
+                "url": "https://t.co/YW3LMuplZ2"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1594,
+          "like_count": 29229,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 7410
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

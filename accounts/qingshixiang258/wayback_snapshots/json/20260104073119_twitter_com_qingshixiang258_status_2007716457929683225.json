@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2007613652573290791",
+    "created_at": "2026-01-04T07:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007716457929683225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1167765353415487488",
+          "start": 0,
+          "username": "miren_41319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007716457929683225",
+    "in_reply_to_user_id": "1167765353415487488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007613652573290791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miren_41319 sb，你工资都领不好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27072,
+        "height": 1052,
+        "media_key": "7_2007613613025136640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007613613025136640/pu/img/Jo3rd_bZYHVKvqlo.jpg",
+        "public_metrics": {
+          "view_count": 9563
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007613613025136640/pu/vid/avc1/320x466/V-Ic7bOqm95ADlLs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007613613025136640/pu/vid/avc1/480x700/xqAiHBzJY624yWkw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007613613025136640/pu/vid/avc1/720x1052/9Q6JdNG9mrUsXTto.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007613613025136640/pu/pl/yjHiJMlryqdx9Gac.m3u8?tag=12&v=8e4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2007613652573290791",
+        "created_at": "2026-01-04T07:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007716457929683225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1167765353415487488",
+              "start": 0,
+              "username": "miren_41319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007716457929683225",
+        "in_reply_to_user_id": "1167765353415487488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007613652573290791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miren_41319 sb，你工资都领不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007613613025136640"
+          ]
+        },
+        "author_id": "1167765353415487488",
+        "conversation_id": "2007613652573290791",
+        "created_at": "2026-01-04T00:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T01:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007613652573290791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I85hFt7nG5",
+              "end": 43,
+              "expanded_url": "https://x.com/miren_41319/status/2007613652573290791/video/1",
+              "media_key": "7_2007613613025136640",
+              "start": 20,
+              "url": "https://t.co/I85hFt7nG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007613652573290791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11410,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "上海\n中国人不是穷得茶叶蛋都吃不起吗？ https://t.co/I85hFt7nG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1365,
+          "like_count": 35608,
+          "listed_count": 9,
+          "media_count": 983,
+          "tweet_count": 16384
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T11:45:52.000Z",
+        "description": "119",
+        "id": "1167765353415487488",
+        "location": "北京市",
+        "name": "迷人的小红",
+        "pinned_tweet_id": "2007405732988367014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396714942443655170/UO8JduEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219294,
+          "following_count": 6314,
+          "like_count": 200322,
+          "listed_count": 402,
+          "media_count": 13978,
+          "tweet_count": 147988
+        },
+        "username": "miren_41319",
+        "verified": false
+      }
+    ]
+  }
+}

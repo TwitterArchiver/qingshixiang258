@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1924868666585129389",
+    "created_at": "2025-05-21T04:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T05:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925046573295403055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "840410233897807872",
+          "start": 0,
+          "username": "SydManfred"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925046573295403055",
+    "in_reply_to_user_id": "840410233897807872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925043856447570052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SydManfred 你让她给别人花钱，大抵是不太可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1924868666585129389",
+        "created_at": "2025-05-21T04:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925046573295403055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "840410233897807872",
+              "start": 0,
+              "username": "SydManfred"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925046573295403055",
+        "in_reply_to_user_id": "840410233897807872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925043856447570052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SydManfred 你让她给别人花钱，大抵是不太可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840410233897807872",
+        "conversation_id": "1924868666585129389",
+        "created_at": "2025-05-21T04:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925043856447570052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925043856447570052",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924868666585129389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 我最简单的判断标准就是双方互换，如果还没什么问题，那就大概平等了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 976,
+          "like_count": 20906,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 9115
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-11T03:53:08.000Z",
+        "description": "路过的毛粉，不懂经书所以不自称毛左。\n习惯以朴素价值观判断事物性质。\n间歇性发癫，欢迎不同立场的人来交流。\n讨厌反智、双标和不断诡辩转进的复读机。",
+        "id": "840410233897807872",
+        "name": "Syd-红莲3型卡米纳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773177238823022593/73RvnUDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 77,
+          "like_count": 841,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 3523
+        },
+        "username": "SydManfred",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1971919181819138083",
+    "created_at": "2025-09-27T12:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T13:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971919181819138083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuruto/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/wuruto/status/1971917580458975258",
+          "start": 18,
+          "url": "https://t.co/nkPRCoR7X7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971919181819138083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971917580458975258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的不是不想理你，只是不知道说🥺 https://t.co/nkPRCoR7X7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1971919181819138083",
+        "created_at": "2025-09-27T12:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971919181819138083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuruto/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/wuruto/status/1971917580458975258",
+              "start": 18,
+              "url": "https://t.co/nkPRCoR7X7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971919181819138083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971917580458975258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的不是不想理你，只是不知道说🥺 https://t.co/nkPRCoR7X7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901165386709823490",
+        "conversation_id": "1971917580458975258",
+        "created_at": "2025-09-27T12:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971917580458975258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/1…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hgds0/status/1971811583560139217",
+              "start": 20,
+              "url": "https://t.co/iivTPOBfvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971917580458975258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971811583560139217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭我真的不是不想理你，只是不知道说什么 https://t.co/iivTPOBfvH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968343101979897856/T41BJaco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1425,
+          "like_count": 30569,
+          "listed_count": 7,
+          "media_count": 819,
+          "tweet_count": 13760
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T06:55:39.000Z",
+        "description": "字里行间谈离散",
+        "id": "1901165386709823490",
+        "name": "wuruto",
+        "pinned_tweet_id": "1944656352191840572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910395468691226624/jWfQLWQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 317,
+          "like_count": 24616,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 10161
+        },
+        "username": "wuruto",
+        "verified": false
+      }
+    ]
+  }
+}

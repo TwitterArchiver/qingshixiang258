@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1980933149850042782",
+    "created_at": "2025-10-22T13:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980984708919128349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924061587062571008",
+          "start": 0,
+          "username": "XushanjiangNO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980984708919128349",
+    "in_reply_to_user_id": "1924061587062571008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980933149850042782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XushanjiangNO2 每个人都有自己的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1980933149850042782",
+        "created_at": "2025-10-22T13:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980984708919128349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924061587062571008",
+              "start": 0,
+              "username": "XushanjiangNO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980984708919128349",
+        "in_reply_to_user_id": "1924061587062571008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980933149850042782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XushanjiangNO2 每个人都有自己的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924061587062571008",
+        "conversation_id": "1980933149850042782",
+        "created_at": "2025-10-22T09:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980933149850042782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980933149850042782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说你们难道不好奇我为什么很少用推特吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1378,
+          "like_count": 32340,
+          "listed_count": 7,
+          "media_count": 865,
+          "tweet_count": 14429
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T11:17:00.000Z",
+        "description": "大号@Xushanjiang   被冻结了 2014年出生～\n不确定自己是不是mtf，就先挂个跨旗吧🏳‍⚧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "Xushanjiang"
+              }
+            ]
+          }
+        },
+        "id": "1924061587062571008",
+        "name": "绪山酱",
+        "pinned_tweet_id": "1940236565764350219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939947886302609408/iJDEM_a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 99,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 146
+        },
+        "username": "XushanjiangNO2",
+        "verified": false
+      }
+    ]
+  }
+}

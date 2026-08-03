@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2083919087332434301",
+    "created_at": "2026-08-02T16:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083950049986560265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705630684117610498",
+          "start": 0,
+          "username": "LemonTreeandSea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083950049986560265",
+    "in_reply_to_user_id": "1705630684117610498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083945378634682778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonTreeandSea 主动被咬开启丧尸的摆烂模式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2083919087332434301",
+        "created_at": "2026-08-02T16:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083950049986560265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705630684117610498",
+              "start": 0,
+              "username": "LemonTreeandSea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083950049986560265",
+        "in_reply_to_user_id": "1705630684117610498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083945378634682778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonTreeandSea 主动被咬开启丧尸的摆烂模式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705630684117610498",
+        "conversation_id": "2083919087332434301",
+        "created_at": "2026-08-02T15:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083945378634682778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083945378634682778",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083919087332434301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 青石巷姐姐对抗僵尸的技能是什么呢😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1675,
+          "like_count": 44970,
+          "listed_count": 9,
+          "media_count": 1381,
+          "tweet_count": 21621
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T17:10:27.000Z",
+        "description": "是学生♥️一个向往幸福生活的孩子😋在爱尔兰上学，希望能在世界上交到更多的朋友～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ban-gfw.com",
+                "end": 23,
+                "expanded_url": "https://ban-gfw.com/",
+                "start": 0,
+                "url": "https://t.co/VORKWLZa19"
+              }
+            ]
+          }
+        },
+        "id": "1705630684117610498",
+        "location": "Dublin City, Ireland",
+        "name": "派大星派小萌～🇮🇪",
+        "pinned_tweet_id": "2070832450620572159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873912756128153600/b7Q3bgbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 1182,
+          "like_count": 35046,
+          "listed_count": 32,
+          "media_count": 614,
+          "tweet_count": 17088
+        },
+        "url": "https://t.co/VORKWLZa19",
+        "username": "LemonTreeandSea",
+        "verified": true
+      }
+    ]
+  }
+}

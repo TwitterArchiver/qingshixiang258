@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2026241667087630782",
+    "created_at": "2026-02-24T14:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026302295508660462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026302295508660462",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026241667087630782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 这？有参考文献么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2026241667087630782",
+        "created_at": "2026-02-24T14:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026302295508660462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026302295508660462",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026241667087630782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 这？有参考文献么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2026241667087630782",
+        "created_at": "2026-02-24T10:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026241667087630782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n552aan552aa/s…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/n552aan552aa/status/2025886023688049023",
+              "start": 117,
+              "url": "https://t.co/XBmypcB9Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026241667087630782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8339,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025886023688049023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你了解N55的过去，你就会知道N55不是一个喜欢暴力和违法的人，N55彬彬有礼，有颗金子般的心，经常能让别人开怀大笑，N55是个好药娘，好精神病人，好小姑娘，我无法想象会发生这种事，N55只是被吓坏了，这一切本不该如此，后面忘了 https://t.co/XBmypcB9Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1468,
+          "like_count": 37204,
+          "listed_count": 8,
+          "media_count": 1083,
+          "tweet_count": 17813
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "💌 @hobartr6 | 🐱 @_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "hobartr6"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 23,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 0,
+                "url": "https://t.co/mRz7zqinvM"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "成都",
+        "name": "猫卷 @CatRoll.OHP",
+        "pinned_tweet_id": "2025485352354640337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3341,
+          "following_count": 838,
+          "like_count": 2494,
+          "listed_count": 7,
+          "media_count": 30,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/mRz7zqinvM",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

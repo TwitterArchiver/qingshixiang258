@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056593248395899250",
+    "created_at": "2026-05-19T07:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056639654326403581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1739811571449434112",
+          "start": 0,
+          "username": "101101y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056639654326403581",
+    "in_reply_to_user_id": "1739811571449434112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056593248395899250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@101101y 不是老大你怎么这么大，有点颠覆我印象了qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2733,
+        "height": 720,
+        "media_key": "13_2056593160466554880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056593160466554880/img/pWLpUZRfMksCMDZn.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056593160466554880/vid/avc1/480x270/DMOgtKTdXSb-UV7G.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056593160466554880/vid/avc1/640x360/BVUQZuZNpPyx8sNS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056593160466554880/vid/avc1/1280x720/ScFgm9K0_kCO-Xa3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056593160466554880/pl/auQUUQ-Ub7kq8QTl.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056593248395899250",
+        "created_at": "2026-05-19T07:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056639654326403581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1739811571449434112",
+              "start": 0,
+              "username": "101101y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056639654326403581",
+        "in_reply_to_user_id": "1739811571449434112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056593248395899250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@101101y 不是老大你怎么这么大，有点颠覆我印象了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056593160466554880"
+          ]
+        },
+        "author_id": "1739811571449434112",
+        "conversation_id": "2056593248395899250",
+        "created_at": "2026-05-19T04:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056593248395899250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c5ggbgkM4K",
+              "end": 28,
+              "expanded_url": "https://x.com/101101y/status/2056593248395899250/video/1",
+              "media_key": "13_2056593160466554880",
+              "start": 5,
+              "url": "https://t.co/c5ggbgkM4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056593248395899250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晃来晃去 https://t.co/c5ggbgkM4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1686,
+          "like_count": 41245,
+          "listed_count": 9,
+          "media_count": 1249,
+          "tweet_count": 20284
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T00:53:15.000Z",
+        "description": "ENTP-A/欢迎找我哦， 这边是无聊路过的理学人类，会比较高频发推，直接私信就好，最后我不月抛、我不键政，我不混字母圈，不搞4i，我是直的，我没有宗教信仰，我不互看，旁边是ngl可以随便问 … 小号@meow1101111011（只过眼熟互关别乱发申请了🙏）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "meow1101111011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%87%9D%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%87%9D%E5%87%9D",
+                "start": 0,
+                "url": "https://t.co/vDa6VJQYiF"
+              }
+            ]
+          }
+        },
+        "id": "1739811571449434112",
+        "location": "奶龙大学耄耋学部大一在读🚪114514",
+        "name": "猪猪侠｜姐姐同城超人强免费",
+        "pinned_tweet_id": "1955607707052073000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029928777707663360/WV9xbIAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 1178,
+          "like_count": 31946,
+          "listed_count": 7,
+          "media_count": 1483,
+          "tweet_count": 9092
+        },
+        "url": "https://t.co/vDa6VJQYiF",
+        "username": "101101y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056985367635750912",
+        "3_2056985367652573184",
+        "3_2056985367652478976",
+        "3_2056985367660941312"
+      ],
+      "media_source_tweet_id": [
+        "2056985382642917656",
+        "2056985382642917656",
+        "2056985382642917656",
+        "2056985382642917656"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056994714243731640",
+    "created_at": "2026-05-20T07:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056994714243731640"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "あのそよ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1952337104262004736",
+          "start": 3,
+          "username": "k47nq8rPtw33146"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOsmydeCWH",
+          "end": 50,
+          "expanded_url": "https://x.com/k47nq8rPtw33146/status/2056985382642917656/photo/1",
+          "media_key": "3_2056985367635750912",
+          "start": 27,
+          "url": "https://t.co/LOsmydeCWH"
+        },
+        {
+          "display_url": "pic.x.com/LOsmydeCWH",
+          "end": 50,
+          "expanded_url": "https://x.com/k47nq8rPtw33146/status/2056985382642917656/photo/1",
+          "media_key": "3_2056985367652573184",
+          "start": 27,
+          "url": "https://t.co/LOsmydeCWH"
+        },
+        {
+          "display_url": "pic.x.com/LOsmydeCWH",
+          "end": 50,
+          "expanded_url": "https://x.com/k47nq8rPtw33146/status/2056985382642917656/photo/1",
+          "media_key": "3_2056985367652478976",
+          "start": 27,
+          "url": "https://t.co/LOsmydeCWH"
+        },
+        {
+          "display_url": "pic.x.com/LOsmydeCWH",
+          "end": 50,
+          "expanded_url": "https://x.com/k47nq8rPtw33146/status/2056985382642917656/photo/1",
+          "media_key": "3_2056985367660941312",
+          "start": 27,
+          "url": "https://t.co/LOsmydeCWH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056994714243731640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056985382642917656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k47nq8rPtw33146: #あのそよ https://t.co/LOsmydeCWH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056994714243731640].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056994714243731640",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056994714243731640"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2056985367635750912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvhSyIa8AAYyhD.jpg",
+        "width": 749
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2056985367652573184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvhSyMboAAOqK7.jpg",
+        "width": 575
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2056985367652478976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvhSyMaMAAQp52.jpg",
+        "width": 623
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2056985367660941312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvhSyObUAASDkn.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056985367635750912",
+            "3_2056985367652573184",
+            "3_2056985367652478976",
+            "3_2056985367660941312"
+          ]
+        },
+        "author_id": "1952337104262004736",
+        "conversation_id": "2056985382642917656",
+        "created_at": "2026-05-20T06:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056985382642917656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "あのそよ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOsmydeCWH",
+              "end": 29,
+              "expanded_url": "https://x.com/k47nq8rPtw33146/status/2056985382642917656/photo/1",
+              "media_key": "3_2056985367635750912",
+              "start": 6,
+              "url": "https://t.co/LOsmydeCWH"
+            },
+            {
+              "display_url": "pic.x.com/LOsmydeCWH",
+              "end": 29,
+              "expanded_url": "https://x.com/k47nq8rPtw33146/status/2056985382642917656/photo/1",
+              "media_key": "3_2056985367652573184",
+              "start": 6,
+              "url": "https://t.co/LOsmydeCWH"
+            },
+            {
+              "display_url": "pic.x.com/LOsmydeCWH",
+              "end": 29,
+              "expanded_url": "https://x.com/k47nq8rPtw33146/status/2056985382642917656/photo/1",
+              "media_key": "3_2056985367652478976",
+              "start": 6,
+              "url": "https://t.co/LOsmydeCWH"
+            },
+            {
+              "display_url": "pic.x.com/LOsmydeCWH",
+              "end": 29,
+              "expanded_url": "https://x.com/k47nq8rPtw33146/status/2056985382642917656/photo/1",
+              "media_key": "3_2056985367660941312",
+              "start": 6,
+              "url": "https://t.co/LOsmydeCWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056985382642917656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 122,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#あのそよ https://t.co/LOsmydeCWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是\n你知道的我最喜欢 @hhngki7292924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "hhngki7292924"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1685,
+          "like_count": 41344,
+          "listed_count": 9,
+          "media_count": 1249,
+          "tweet_count": 20316
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T11:53:51.000Z",
+        "description": "19＋/あのそよ only🥰🥰🥰/🚫ai/🚫commercial use",
+        "id": "1952337104262004736",
+        "name": "焦糖布丁",
+        "pinned_tweet_id": "2030995038441001042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962804063701213184/ITnmEhhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 137,
+          "like_count": 1092,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 1092
+        },
+        "username": "k47nq8rPtw33146",
+        "verified": false
+      }
+    ]
+  }
+}

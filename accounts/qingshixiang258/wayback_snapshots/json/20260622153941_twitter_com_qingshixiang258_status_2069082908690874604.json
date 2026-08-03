@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2069082850704633856"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2068918578037039416",
+    "created_at": "2026-06-22T15:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069082908690874604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VgLBdb8DUN",
+          "end": 37,
+          "expanded_url": "https://x.com/qingshixiang258/status/2069082908690874604/photo/1",
+          "media_key": "16_2069082850704633856",
+          "start": 14,
+          "url": "https://t.co/VgLBdb8DUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069082908690874604",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068918578037039416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 https://t.co/VgLBdb8DUN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2069082850704633856",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLbb4-caMAA-S_n.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLbb4-caMAA-S_n.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2069082850704633856"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2068918578037039416",
+        "created_at": "2026-06-22T15:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069082908690874604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VgLBdb8DUN",
+              "end": 37,
+              "expanded_url": "https://x.com/qingshixiang258/status/2069082908690874604/photo/1",
+              "media_key": "16_2069082850704633856",
+              "start": 14,
+              "url": "https://t.co/VgLBdb8DUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069082908690874604",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068918578037039416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 https://t.co/VgLBdb8DUN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2068918578037039416",
+        "created_at": "2026-06-22T04:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068918578037039416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AraBh_channels…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/AraBh_channels/status/2068659530087748014",
+              "start": 58,
+              "url": "https://t.co/EZ9tO3Vabd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068918578037039416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3131,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068659530087748014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以人家在现实里付出代价把女同性恋从扭转机构救助出来结果被反咬一口赔钱、忍不住发牢骚时，你在空调房里拿手机拍屏幕？ https://t.co/EZ9tO3Vabd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 1690,
+          "like_count": 43814,
+          "listed_count": 10,
+          "media_count": 1321,
+          "tweet_count": 21153
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex\n@LinkingMadoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "LinkingMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 3295,
+          "like_count": 7295,
+          "listed_count": 10,
+          "media_count": 641,
+          "tweet_count": 5402
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

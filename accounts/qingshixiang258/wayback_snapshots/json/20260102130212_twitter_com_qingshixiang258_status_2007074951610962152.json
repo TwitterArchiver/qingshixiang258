@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2007074951610962152",
+    "created_at": "2026-01-02T13:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007074951610962152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baozhefanqie/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/baozhefanqie/status/2007046494575345890",
+          "start": 28,
+          "url": "https://t.co/PjMyActbOS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007074951610962152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007046494575345890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这要是真的国内早炸了，二次元被带白尖帽批斗到死都算轻的 https://t.co/PjMyActbOS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2007074951610962152",
+        "created_at": "2026-01-02T13:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007074951610962152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baozhefanqie/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/baozhefanqie/status/2007046494575345890",
+              "start": 28,
+              "url": "https://t.co/PjMyActbOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007074951610962152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007046494575345890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这要是真的国内早炸了，二次元被带白尖帽批斗到死都算轻的 https://t.co/PjMyActbOS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "2007046494575345890",
+        "created_at": "2026-01-02T11:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T12:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007046494575345890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TopGyaru/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/TopGyaru/status/2006684875135611062",
+              "start": 34,
+              "url": "https://t.co/IVdHh280c4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007046494575345890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16578,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006684875135611062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱就是说这种东西主办方也不管一下就任凭他摆吗😅，都丢脸到英文区去了 https://t.co/IVdHh280c4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 1377,
+          "like_count": 35531,
+          "listed_count": 9,
+          "media_count": 982,
+          "tweet_count": 16338
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄生活推🍅\n丨以记录生活发梗图为主，图源全部来自墙内\n丨愿世界和平，希望大家能多多关注🙏\n丨如果有需要提问的也可以直接私信或者问题下 at 我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuzVJI"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "name": "包着🍅籽的🍅",
+        "pinned_tweet_id": "2003661446446813210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998730140923346944/O5gaNMZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3973,
+          "following_count": 2934,
+          "like_count": 1553,
+          "listed_count": 6,
+          "media_count": 942,
+          "tweet_count": 8663
+        },
+        "url": "https://t.co/R2tlnuzVJI",
+        "username": "BaoZheFanQie",
+        "verified": true
+      }
+    ]
+  }
+}

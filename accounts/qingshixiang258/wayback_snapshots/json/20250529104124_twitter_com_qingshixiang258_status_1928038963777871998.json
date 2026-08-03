@@ -1,0 +1,809 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041898941",
+          "name": "少女たちは荒野を目指す"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Knives Out (荒野行動)",
+          "id": "997120510898012160",
+          "name": "Knives Out"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Knives Out (荒野行動)",
+          "id": "997120510898012160",
+          "name": "Knives Out"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899973419499548",
+          "name": "Battle royale games"
+        }
+      }
+    ],
+    "conversation_id": "1928038963777871998",
+    "created_at": "2025-05-29T10:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T11:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928038963777871998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/game_knives_ou…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/game_knives_out/status/1927560471474851872",
+          "start": 58,
+          "url": "https://t.co/UDZmu9MLdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928038963777871998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927560471474851872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还记得初中那会，刺激战场没出来的时候，最喜欢和朋友一起打荒野行动，那么多年没见，已经能看见辛美尔枪决芙莉莲了（挠头 https://t.co/UDZmu9MLdP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21950,
+        "height": 360,
+        "media_key": "13_1927336881781374976",
+        "preview_image_url": "https://pbs.twimg.com/media/Gr9HsYoWgAA3VrT.jpg",
+        "public_metrics": {
+          "view_count": 43577
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927336881781374976/vid/avc1/1920x1080/jtWMy5bVL5XpyvFQ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927336881781374976/vid/avc1/640x360/dfpe_vwLQsUBNzj1.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927336881781374976/vid/avc1/1280x720/xrX4IDBhx_gVvr-8.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927336881781374976/pl/I9qOq502YqiXeOip.m3u8?tag=16&v=962"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927336881781374976/vid/avc1/480x270/7mk4pxb4pOLUjhRR.mp4?tag=16"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041898941",
+              "name": "少女たちは荒野を目指す"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Knives Out (荒野行動)",
+              "id": "997120510898012160",
+              "name": "Knives Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Knives Out (荒野行動)",
+              "id": "997120510898012160",
+              "name": "Knives Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899973419499548",
+              "name": "Battle royale games"
+            }
+          }
+        ],
+        "conversation_id": "1928038963777871998",
+        "created_at": "2025-05-29T10:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T11:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928038963777871998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/game_knives_ou…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/game_knives_out/status/1927560471474851872",
+              "start": 58,
+              "url": "https://t.co/UDZmu9MLdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928038963777871998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927560471474851872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还记得初中那会，刺激战场没出来的时候，最喜欢和朋友一起打荒野行动，那么多年没见，已经能看见辛美尔枪决芙莉莲了（挠头 https://t.co/UDZmu9MLdP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927336881781374976"
+          ]
+        },
+        "author_id": "811765148595535872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041898941",
+              "name": "少女たちは荒野を目指す"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Knives Out (荒野行動)",
+              "id": "997120510898012160",
+              "name": "Knives Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Knives Out (荒野行動)",
+              "id": "997120510898012160",
+              "name": "Knives Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899973419499548",
+              "name": "Battle royale games"
+            }
+          }
+        ],
+        "conversation_id": "1927560471474851872",
+        "created_at": "2025-05-28T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927560471474851872"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "#葬送のフリーレン",
+              "probability": 0.5431,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 86,
+              "normalized_text": "勇者の剣",
+              "probability": 0.4343,
+              "start": 83,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 1,
+              "tag": "荒野行動"
+            },
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "葬送のフリーレン"
+            },
+            {
+              "end": 104,
+              "start": 93,
+              "tag": "荒野フリーレンコラボ"
+            },
+            {
+              "end": 111,
+              "start": 105,
+              "tag": "フリーレン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3b1jh9toQu",
+              "end": 135,
+              "expanded_url": "https://x.com/GAME_KNIVES_OUT/status/1927560471474851872/video/1",
+              "media_key": "13_1927336881781374976",
+              "start": 112,
+              "url": "https://t.co/3b1jh9toQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927560471474851872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 213944,
+          "like_count": 1260,
+          "quote_count": 34,
+          "reply_count": 11,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "✨#荒野行動 × アニメ『#葬送のフリーレン』\nコラボ5月31日0時開催！✨\n\n勇者ヒンメルが荒野に登場⚔️\nヒンメルをモチーフにした\nM16A4:ヒンメルと「大剣:勇者の剣」解禁🔝\n\n#荒野フリーレンコラボ #フリーレン https://t.co/3b1jh9toQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1031,
+          "like_count": 22380,
+          "listed_count": 5,
+          "media_count": 562,
+          "tweet_count": 9796
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-22T02:47:48.000Z",
+        "description": "ゲーム『荒野行動』の公式アカウント\n荒野をダウンロード/起動する:https://t.co/DYRw87REMt\nお問い合せ:knivesout.jp@global.netease.com\n\nチャージセンターでは特典開催中🉐\n最大25%分金券オマケ:https://t.co/RUpNaI8Fr9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/4274iuH",
+                "end": 56,
+                "expanded_url": "http://bit.ly/4274iuH",
+                "start": 33,
+                "url": "https://t.co/DYRw87REMt"
+              },
+              {
+                "display_url": "charge.knivesout.jp/?c=m.3",
+                "end": 148,
+                "expanded_url": "https://charge.knivesout.jp/?c=m.3",
+                "start": 125,
+                "url": "https://t.co/RUpNaI8Fr9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "knivesout.jp",
+                "end": 23,
+                "expanded_url": "https://www.knivesout.jp/",
+                "start": 0,
+                "url": "https://t.co/pFyXDZ9sBN"
+              }
+            ]
+          }
+        },
+        "id": "811765148595535872",
+        "location": "香港",
+        "name": "荒野行動-『KNIVES OUT』公式",
+        "pinned_tweet_id": "1926473303776198805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774738488765849600/wb8ioTqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864530,
+          "following_count": 41,
+          "like_count": 182,
+          "listed_count": 1423,
+          "media_count": 3939,
+          "tweet_count": 5302
+        },
+        "url": "https://t.co/pFyXDZ9sBN",
+        "username": "GAME_KNIVES_OUT",
+        "verified": true
+      }
+    ]
+  }
+}

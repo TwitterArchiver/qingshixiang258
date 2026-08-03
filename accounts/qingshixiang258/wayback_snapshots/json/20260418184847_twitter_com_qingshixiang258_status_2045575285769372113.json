@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2045548342726521196",
+    "created_at": "2026-04-18T18:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T19:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045575285769372113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580121151359320065",
+          "start": 0,
+          "username": "Kuronekoqwq2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045575285769372113",
+    "in_reply_to_user_id": "1580121151359320065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045573502808322272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuronekoqwq2 高中如果很厉害那确实会有归属感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2045548342726521196",
+        "created_at": "2026-04-18T18:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045575285769372113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580121151359320065",
+              "start": 0,
+              "username": "Kuronekoqwq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045575285769372113",
+        "in_reply_to_user_id": "1580121151359320065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045573502808322272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuronekoqwq2 高中如果很厉害那确实会有归属感了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580121151359320065",
+        "conversation_id": "2045548342726521196",
+        "created_at": "2026-04-18T18:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045573502808322272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045573502808322272",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045548342726521196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 有啊 我北京四中室友天天提"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 1592,
+          "like_count": 39103,
+          "listed_count": 8,
+          "media_count": 1171,
+          "tweet_count": 19359
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T09:00:23.000Z",
+        "description": "我现在已经没有了梦想，但还活在人世上；因此风尘三侠逃出了洛阳城，故事还远没有结束。",
+        "id": "1580121151359320065",
+        "location": "Neverland",
+        "name": "廖雨时",
+        "pinned_tweet_id": "1809031319168635024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772987094090358784/Q_cROAQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 344,
+          "like_count": 8647,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2218
+        },
+        "username": "Kuronekoqwq2",
+        "verified": false
+      }
+    ]
+  }
+}

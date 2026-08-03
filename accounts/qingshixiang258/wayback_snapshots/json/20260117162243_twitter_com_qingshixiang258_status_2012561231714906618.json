@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2012402866716295245",
+    "created_at": "2026-01-17T16:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012561231714906618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009765103236009984",
+          "start": 0,
+          "username": "rudo_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012561231714906618",
+    "in_reply_to_user_id": "2009765103236009984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012402866716295245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rudo_u 原来是那个来了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2012402866716295245",
+        "created_at": "2026-01-17T16:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012561231714906618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009765103236009984",
+              "start": 0,
+              "username": "rudo_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012561231714906618",
+        "in_reply_to_user_id": "2009765103236009984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012402866716295245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rudo_u 原来是那个来了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009765103236009984",
+        "conversation_id": "2012402866716295245",
+        "created_at": "2026-01-17T05:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012402866716295245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rudo_u/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/rudo_u/status/2012339468007514392",
+              "start": 19,
+              "url": "https://t.co/TWHQPN0fLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012402866716295245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 549,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012339468007514392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久没喝过热的东西了，我要喝黑糖珍奶 https://t.co/TWHQPN0fLl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 1394,
+          "like_count": 36101,
+          "listed_count": 9,
+          "media_count": 1017,
+          "tweet_count": 16838
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:12:20.000Z",
+        "description": "",
+        "id": "2009765103236009984",
+        "name": "urudo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009767733488168960/JWeXbFKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 52,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 55
+        },
+        "username": "rudo_u",
+        "verified": false
+      }
+    ]
+  }
+}

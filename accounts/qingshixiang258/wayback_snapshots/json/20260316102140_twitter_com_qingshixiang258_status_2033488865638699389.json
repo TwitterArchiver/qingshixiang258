@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2033160516970131807",
+    "created_at": "2026-03-16T10:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T11:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033488865638699389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1716635503984783360",
+          "start": 0,
+          "username": "aiopr115480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033488865638699389",
+    "in_reply_to_user_id": "1716635503984783360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033480551580196864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiopr115480 傻逼🐳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2033160516970131807",
+        "created_at": "2026-03-16T10:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033488865638699389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1716635503984783360",
+              "start": 0,
+              "username": "aiopr115480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033488865638699389",
+        "in_reply_to_user_id": "1716635503984783360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033480551580196864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiopr115480 傻逼🐳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716635503984783360",
+        "conversation_id": "2033160516970131807",
+        "created_at": "2026-03-16T09:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033480551580196864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 27,
+              "id": "1887889935874871297",
+              "start": 17,
+              "username": "01asuka02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033480551580196864",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033216002708873348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 @01asuka02 wiki那件事你怎么看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032748197412745218/sWTxgGEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1547,
+          "like_count": 38436,
+          "listed_count": 8,
+          "media_count": 1129,
+          "tweet_count": 18820
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T01:59:48.000Z",
+        "description": "",
+        "id": "1716635503984783360",
+        "name": "aiopr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824739617918406656/pba-bXtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 165,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "aiopr115480",
+        "verified": false
+      }
+    ]
+  }
+}

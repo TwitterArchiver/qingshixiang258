@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1958763532641837448",
+    "created_at": "2025-08-22T05:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T06:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958765752091386330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "zhu6hua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958765752091386330",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958765559438614847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu6hua ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1958763532641837448",
+        "created_at": "2025-08-22T05:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958765752091386330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "zhu6hua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958765752091386330",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958765559438614847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu6hua ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894285195651813378",
+        "conversation_id": "1958763532641837448",
+        "created_at": "2025-08-22T05:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958765559438614847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958765559438614847",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958763532641837448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 这么快分了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 1322,
+          "like_count": 28217,
+          "listed_count": 7,
+          "media_count": 743,
+          "tweet_count": 12753
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔萌萌类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "要坂下一切害人虫，全六花！",
+        "pinned_tweet_id": "1895423372273819659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642262855462912/SNlo-KZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 1094,
+          "like_count": 11340,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 7384
+        },
+        "username": "zhu6hua",
+        "verified": false
+      }
+    ]
+  }
+}

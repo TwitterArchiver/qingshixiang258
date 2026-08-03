@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2064004645635367280",
+    "created_at": "2026-06-10T10:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064659245707186292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2009765103236009984",
+          "start": 0,
+          "username": "rudo_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064659245707186292",
+    "in_reply_to_user_id": "2009765103236009984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064658645372317835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rudo_u 我沒考過"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2064004645635367280",
+        "created_at": "2026-06-10T10:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064659245707186292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2009765103236009984",
+              "start": 0,
+              "username": "rudo_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064659245707186292",
+        "in_reply_to_user_id": "2009765103236009984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064658645372317835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rudo_u 我沒考過"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009765103236009984",
+        "conversation_id": "2064004645635367280",
+        "created_at": "2026-06-10T10:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064658645372317835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064658645372317835",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064004645635367280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 英语不是一直要提前进去听力试音吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 1687,
+          "like_count": 42965,
+          "listed_count": 10,
+          "media_count": 1291,
+          "tweet_count": 20924
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T23:12:20.000Z",
+        "description": "",
+        "id": "2009765103236009984",
+        "name": "urudo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061093445046095872/SIRoD08W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 117,
+          "like_count": 2455,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1028
+        },
+        "username": "rudo_u",
+        "verified": false
+      }
+    ]
+  }
+}

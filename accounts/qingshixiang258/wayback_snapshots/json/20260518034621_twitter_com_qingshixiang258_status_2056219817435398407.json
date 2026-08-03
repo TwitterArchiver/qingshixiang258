@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2056022037500776743",
+    "created_at": "2026-05-18T03:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056219817435398407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1875906425517662208",
+          "start": 0,
+          "username": "Asuka080s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056219817435398407",
+    "in_reply_to_user_id": "1875906425517662208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056051846897430913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka080s 淡淡的味道最好闻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2056022037500776743",
+        "created_at": "2026-05-18T03:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056219817435398407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1875906425517662208",
+              "start": 0,
+              "username": "Asuka080s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056219817435398407",
+        "in_reply_to_user_id": "1875906425517662208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056051846897430913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka080s 淡淡的味道最好闻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875906425517662208",
+        "conversation_id": "2056022037500776743",
+        "created_at": "2026-05-17T16:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056051846897430913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056051846897430913",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056022037500776743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 喜欢柑橘清香，也很喜欢梅花香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1688,
+          "like_count": 41132,
+          "listed_count": 9,
+          "media_count": 1247,
+          "tweet_count": 20261
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T14:05:30.000Z",
+        "description": "我们都要努力好好吃饭，好好睡觉，，",
+        "id": "1875906425517662208",
+        "location": "猫家",
+        "name": "我的猫很爱我.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055626501794787329/5bON0rRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 44,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 537
+        },
+        "username": "Asuka080s",
+        "verified": false
+      }
+    ]
+  }
+}

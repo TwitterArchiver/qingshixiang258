@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025706155142479872"
+      ],
+      "media_source_tweet_id": [
+        "2025706160360235213"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "2026427681412362493",
+    "created_at": "2026-02-24T22:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T23:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026427681412362493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277282234815393792",
+          "start": 3,
+          "username": "Adam65207241"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfe5LKJRGF",
+          "end": 57,
+          "expanded_url": "https://x.com/Adam65207241/status/2025706160360235213/photo/1",
+          "media_key": "3_2025706155142479872",
+          "start": 34,
+          "url": "https://t.co/pfe5LKJRGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026427681412362493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025706160360235213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Adam65207241: 宋徽宗写的舞字，尽显舞者神韵。 https://t.co/pfe5LKJRGF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2025706155142479872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzBA_SXAAAC4N7.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025706155142479872"
+          ],
+          "media_source_tweet_id": [
+            "2025706160360235213"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "conversation_id": "2026427681412362493",
+        "created_at": "2026-02-24T22:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T23:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026427681412362493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277282234815393792",
+              "start": 3,
+              "username": "Adam65207241"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfe5LKJRGF",
+              "end": 57,
+              "expanded_url": "https://x.com/Adam65207241/status/2025706160360235213/photo/1",
+              "media_key": "3_2025706155142479872",
+              "start": 34,
+              "url": "https://t.co/pfe5LKJRGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026427681412362493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 486
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025706160360235213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Adam65207241: 宋徽宗写的舞字，尽显舞者神韵。 https://t.co/pfe5LKJRGF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025706155142479872"
+          ]
+        },
+        "author_id": "1277282234815393792",
+        "conversation_id": "2025706160360235213",
+        "created_at": "2026-02-22T22:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T23:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025706160360235213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfe5LKJRGF",
+              "end": 39,
+              "expanded_url": "https://x.com/Adam65207241/status/2025706160360235213/photo/1",
+              "media_key": "3_2025706155142479872",
+              "start": 16,
+              "url": "https://t.co/pfe5LKJRGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025706160360235213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 641,
+          "impression_count": 602862,
+          "like_count": 6232,
+          "quote_count": 70,
+          "reply_count": 156,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "宋徽宗写的舞字，尽显舞者神韵。 https://t.co/pfe5LKJRGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025247438672723969/kMW7ESao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 1477,
+          "like_count": 37264,
+          "listed_count": 8,
+          "media_count": 1086,
+          "tweet_count": 17911
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T16:47:35.000Z",
+        "description": "Life is like a dream, everything is empty, Only love forever. Be a warm person .浮生若梦，万物皆空，唯爱永存.做一个温暖的人。",
+        "id": "1277282234815393792",
+        "name": "Adam 🇬🇧🇺🇦",
+        "pinned_tweet_id": "2020949607950496098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582695940074491904/AFVgWXAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8922,
+          "following_count": 3945,
+          "like_count": 15186,
+          "listed_count": 33,
+          "media_count": 2125,
+          "tweet_count": 4515
+        },
+        "username": "Adam65207241",
+        "verified": true
+      }
+    ]
+  }
+}

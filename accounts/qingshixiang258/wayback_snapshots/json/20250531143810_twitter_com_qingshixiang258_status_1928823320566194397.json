@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1928822548910731584",
+    "created_at": "2025-05-31T14:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T15:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928823320566194397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791348768690089984",
+          "start": 0,
+          "username": "owl8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928823320566194397",
+    "in_reply_to_user_id": "1791348768690089984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928823266442981838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owl8964cat 谢谢🫶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1928823266442981838].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1928823266442981838",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1928823266442981838"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1928822548910731584",
+        "created_at": "2025-05-31T14:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928823320566194397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791348768690089984",
+              "start": 0,
+              "username": "owl8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928823320566194397",
+        "in_reply_to_user_id": "1791348768690089984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928823266442981838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owl8964cat 谢谢🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 1029,
+          "like_count": 22586,
+          "listed_count": 5,
+          "media_count": 566,
+          "tweet_count": 9869
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "福建|美少女ゲーム|液态性别貓貓：@SakuraCatMoe @Romanorum_ @LycoReco_neneko @niukecat铁道友@kiming568416 茉莉姐：@shirasu8964228喵派主天:@honxine8964 p宝:@M600_spitfire 麦:@2SJ7ntKBdEtTKr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "SakuraCatMoe"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 59,
+                "start": 43,
+                "username": "LycoReco_neneko"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "niukecat"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "kiming568416"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "shirasu8964228"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "honxine8964"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "2SJ7ntKBdEtTKr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "10.191.5.5.com",
+                "end": 23,
+                "expanded_url": "http://10.191.5.5.com",
+                "start": 0,
+                "url": "https://t.co/4NBOGQpPae"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "北京市东城区新开路胡同71号",
+        "name": "魔法使いねこ",
+        "pinned_tweet_id": "1928444137163964667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812771583234068481/3J6UZdqY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 947,
+          "like_count": 65593,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 20192
+        },
+        "url": "https://t.co/4NBOGQpPae",
+        "username": "owl8964cat",
+        "verified": false
+      }
+    ]
+  }
+}

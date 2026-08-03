@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2067174730218770826",
+    "created_at": "2026-06-17T14:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067250950604230784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516381974327300099",
+          "start": 0,
+          "username": "jiejier2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067250950604230784",
+    "in_reply_to_user_id": "1516381974327300099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067245406841626750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejier2 谢谢💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2067174730218770826",
+        "created_at": "2026-06-17T14:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067250950604230784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516381974327300099",
+              "start": 0,
+              "username": "jiejier2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067250950604230784",
+        "in_reply_to_user_id": "1516381974327300099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067245406841626750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejier2 谢谢💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516381974327300099",
+        "conversation_id": "2067174730218770826",
+        "created_at": "2026-06-17T13:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067245406841626750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067245406841626750",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067174730218770826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066691718301519872/3VQUpaTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 1692,
+          "like_count": 43607,
+          "listed_count": 10,
+          "media_count": 1318,
+          "tweet_count": 21106
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T11:43:52.000Z",
+        "description": "英国诺丁汉塑料（树脂）受害者，微缩模型爱好者，低阶法师。",
+        "id": "1516381974327300099",
+        "name": "天行健",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063980544158027776/4FeEjUaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 361
+        },
+        "username": "jiejier2",
+        "verified": false
+      }
+    ]
+  }
+}

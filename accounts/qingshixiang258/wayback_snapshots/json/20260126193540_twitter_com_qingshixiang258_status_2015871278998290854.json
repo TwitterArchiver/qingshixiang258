@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2015871278998290854",
+    "created_at": "2026-01-26T19:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T20:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015871278998290854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qingshixiang25…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/qingshixiang258/status/2015500737518924094",
+          "start": 19,
+          "url": "https://t.co/VUe94vqAOs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015871278998290854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015500737518924094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抗雄吃了好不好双低啊，要不补点别的？ https://t.co/VUe94vqAOs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2015871278998290854",
+        "created_at": "2026-01-26T19:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015871278998290854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingshixiang25…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/qingshixiang258/status/2015500737518924094",
+              "start": 19,
+              "url": "https://t.co/VUe94vqAOs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015871278998290854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015500737518924094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抗雄吃了好不好双低啊，要不补点别的？ https://t.co/VUe94vqAOs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2015500737518924094",
+        "created_at": "2026-01-25T19:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T20:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015500737518924094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015500737518924094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我或许该吃点抗雄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011345994722553856/uPh7pNuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 1408,
+          "like_count": 36447,
+          "listed_count": 8,
+          "media_count": 1041,
+          "tweet_count": 17107
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      }
+    ]
+  }
+}

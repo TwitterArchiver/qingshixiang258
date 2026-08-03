@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1996921097594589332",
+    "created_at": "2025-12-05T17:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T18:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996988787092758996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1298114295520047104",
+          "start": 0,
+          "username": "mtg59517275"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996988787092758996",
+    "in_reply_to_user_id": "1298114295520047104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996921097594589332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtg59517275 きれい～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1453,
+        "media_key": "3_1996921093849047041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Z9J5tbYAE2uJa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1996921097594589332",
+        "created_at": "2025-12-05T17:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T18:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996988787092758996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1298114295520047104",
+              "start": 0,
+              "username": "mtg59517275"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996988787092758996",
+        "in_reply_to_user_id": "1298114295520047104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996921097594589332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtg59517275 きれい～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996921093849047041"
+          ]
+        },
+        "author_id": "1298114295520047104",
+        "conversation_id": "1996921097594589332",
+        "created_at": "2025-12-05T12:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996921097594589332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxYku1KKXT",
+              "end": 44,
+              "expanded_url": "https://x.com/mtg59517275/status/1996921097594589332/photo/1",
+              "media_key": "3_1996921093849047041",
+              "start": 21,
+              "url": "https://t.co/CxYku1KKXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996921097594589332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "このまま置いときたいぐらい箱が良いですな https://t.co/CxYku1KKXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995401012534980608/sczNcBfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 1479,
+          "like_count": 35053,
+          "listed_count": 8,
+          "media_count": 957,
+          "tweet_count": 15750
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-25T04:25:49.000Z",
+        "description": "ウォーハンマーは\n40k:サウザンドサン👁️(～2000pt)\nカストーデス🥇（～1500pt）\n対戦は10版から始めた初心者です。キルチームも新版から始めようと練習中です\nAOS:シルヴァネス🌳(～1000pt)\n現在MTGはAP収集のみです🖼️\nよろしくお願いします🙏",
+        "id": "1298114295520047104",
+        "location": "日本 大阪",
+        "name": "taijyu warhammer40k",
+        "pinned_tweet_id": "1837104372943294652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932306215134240769/8RE3JvF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1601,
+          "like_count": 82973,
+          "listed_count": 16,
+          "media_count": 1676,
+          "tweet_count": 8363
+        },
+        "username": "mtg59517275",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2083230444477440013",
+    "created_at": "2026-08-01T00:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083349363104034853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083349363104034853",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083347723642933414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 oh，青石巷是保护建筑，施工要申请～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2083230444477440013",
+        "created_at": "2026-08-01T00:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083349363104034853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083349363104034853",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083347723642933414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 oh，青石巷是保护建筑，施工要申请～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681902931564703744",
+        "conversation_id": "2083230444477440013",
+        "created_at": "2026-08-01T00:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083347723642933414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083347723642933414",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083256957721559248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 用砖头铺地（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073803758740680704/YZVdSnpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1677,
+          "like_count": 44956,
+          "listed_count": 9,
+          "media_count": 1379,
+          "tweet_count": 21608
+        },
+        "url": "",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068274115031756800/njv_e1RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 2549,
+          "like_count": 178400,
+          "listed_count": 18,
+          "media_count": 2717,
+          "tweet_count": 57107
+        },
+        "url": "",
+        "username": "aim20371231",
+        "verified": false
+      }
+    ]
+  }
+}

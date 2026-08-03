@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2051602494682550426",
+    "created_at": "2026-05-06T07:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051926031007994186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862391641492819968",
+          "start": 0,
+          "username": "sandman8143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051926031007994186",
+    "in_reply_to_user_id": "1862391641492819968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051889044876067046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandman8143 可怜在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2051602494682550426",
+        "created_at": "2026-05-06T07:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T08:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051926031007994186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862391641492819968",
+              "start": 0,
+              "username": "sandman8143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051926031007994186",
+        "in_reply_to_user_id": "1862391641492819968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051889044876067046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandman8143 可怜在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862391641492819968",
+        "conversation_id": "2051602494682550426",
+        "created_at": "2026-05-06T04:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051889044876067046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051889044876067046",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051602494682550426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 可怜😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050980018881515520/PFvtrjjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 1678,
+          "like_count": 40553,
+          "listed_count": 9,
+          "media_count": 1227,
+          "tweet_count": 19887
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T07:02:43.000Z",
+        "description": "07/想的太多但是本质精神十分空虚，所以很无聊，看到回复会开心/空心病拒绝标签",
+        "id": "1862391641492819968",
+        "location": "中国河南省郑州市金水区龙子湖智慧岛",
+        "name": "sakizz|･ω･🍥～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050581415188914177/RKlqGI3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1947,
+          "like_count": 287,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 294
+        },
+        "username": "sandman8143",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925930272178028545"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "conversation_id": "1925563763157344598",
+    "created_at": "2025-05-23T15:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T16:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925930282181345679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900123741272887296",
+          "start": 0,
+          "username": "linxiaoshu25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rp0YsCP9QC",
+          "end": 37,
+          "expanded_url": "https://x.com/qingshixiang258/status/1925930282181345679/photo/1",
+          "media_key": "3_1925930272178028545",
+          "start": 14,
+          "url": "https://t.co/rp0YsCP9QC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925930282181345679",
+    "in_reply_to_user_id": "1900123741272887296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925767002347520196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linxiaoshu25 https://t.co/rp0YsCP9QC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925930282181345679].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925930282181345679",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925930282181345679"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_1925930272178028545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpHYOdXwAEHGic.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900123741272887296",
+        "conversation_id": "1925563763157344598",
+        "created_at": "2025-05-23T04:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925767002347520196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925767002347520196",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925563763157344598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 77777"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 986,
+          "like_count": 21356,
+          "listed_count": 5,
+          "media_count": 490,
+          "tweet_count": 9368
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T09:56:48.000Z",
+        "description": "11 old years little girl,like video and game",
+        "id": "1900123741272887296",
+        "name": "F&M🐾",
+        "pinned_tweet_id": "1924681418501980502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920074468476833792/q5r4tQeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 301,
+          "like_count": 6820,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 1722
+        },
+        "username": "linxiaoshu25",
+        "verified": false
+      }
+    ]
+  }
+}

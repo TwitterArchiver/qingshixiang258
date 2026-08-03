@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1949984187361976740",
+    "created_at": "2025-07-29T09:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950122961286975787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/alickscraft/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/alickscraft/status/1937393862546444621",
+          "start": 21,
+          "url": "https://t.co/s0zdbRsD4A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950122961286975787",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937393862546444621",
+        "type": "quoted"
+      },
+      {
+        "id": "1950062104930611542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain doro咪 https://t.co/s0zdbRsD4A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 152,
+        "media_key": "16_1937393853285466112",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GuMBcd8bAAARh5M.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GuMBcd8bAAARh5M.mp4"
+          }
+        ],
+        "width": 154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1949984187361976740",
+        "created_at": "2025-07-29T09:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950122961286975787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/alickscraft/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/alickscraft/status/1937393862546444621",
+              "start": 21,
+              "url": "https://t.co/s0zdbRsD4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950122961286975787",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937393862546444621",
+            "type": "quoted"
+          },
+          {
+            "id": "1950062104930611542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain doro咪 https://t.co/s0zdbRsD4A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1937393853285466112"
+          ]
+        },
+        "author_id": "4874069820",
+        "conversation_id": "1937391631080276152",
+        "created_at": "2025-06-24T06:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T07:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937393862546444621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1741660022046638080",
+              "start": 0,
+              "username": "BaI4006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/glh953rNvz",
+              "end": 78,
+              "expanded_url": "https://x.com/AlicksCraft/status/1937393862546444621/photo/1",
+              "media_key": "16_1937393853285466112",
+              "start": 55,
+              "url": "https://t.co/glh953rNvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937393862546444621",
+        "in_reply_to_user_id": "1741660022046638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7697,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937392766918754713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaI4006 刷得到的，我以前有一个帖子就在里面发也会推给社群外的人，不过不知道有没有影响推流强度就是了 https://t.co/glh953rNvz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "1949984187361976740",
+        "created_at": "2025-07-29T05:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T06:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950062104930611542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950062104930611542",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949984187361976740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945527931863764992/Sqh9P2du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 1264,
+          "like_count": 27081,
+          "listed_count": 7,
+          "media_count": 687,
+          "tweet_count": 11871
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "来推特发癫｜偶尔抽象｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜赤石英雄搬石英雄\n｜我不会再回复每个人的消息了，我是个小气鬼捏",
+        "id": "1862933126466666496",
+        "name": "窥梦",
+        "pinned_tweet_id": "1936740643755421859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 852,
+          "like_count": 53831,
+          "listed_count": 4,
+          "media_count": 803,
+          "tweet_count": 22590
+        },
+        "username": "moremoreagain",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-07T15:03:31.000Z",
+        "description": "Ciao~( • ̀ω•́ )✧I'm painting. Thanks for following🥰 Pixiv: https://t.co/jCVNM1aT4K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19241330",
+                "end": 82,
+                "expanded_url": "https://www.pixiv.net/users/19241330",
+                "start": 59,
+                "url": "https://t.co/jCVNM1aT4K"
+              }
+            ]
+          }
+        },
+        "id": "4874069820",
+        "location": "Earth",
+        "name": "Alicks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898527121443807232/5kWDGPad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 293,
+          "like_count": 1481,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 59
+        },
+        "username": "AlicksCraft",
+        "verified": false
+      }
+    ]
+  }
+}

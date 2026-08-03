@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1958867800552087918",
+    "created_at": "2025-08-23T13:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T14:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959247627595231494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1328922423438303234",
+          "start": 0,
+          "username": "SeiunSky8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959247627595231494",
+    "in_reply_to_user_id": "1328922423438303234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958882580276945097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeiunSky8964 可以的可以的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958882580276945097].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958882580276945097",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958882580276945097"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1958867800552087918",
+        "created_at": "2025-08-23T13:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T14:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959247627595231494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1328922423438303234",
+              "start": 0,
+              "username": "SeiunSky8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959247627595231494",
+        "in_reply_to_user_id": "1328922423438303234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958882580276945097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeiunSky8964 可以的可以的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，我欢迎所有人|喜欢被叫姐姐和妈妈❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag，超想ro的老师@BoredFish_XY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_akitayura"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "BoredFish_XY"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1958532727793504322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957403851721752576/SpL4ALn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1373,
+          "like_count": 28327,
+          "listed_count": 7,
+          "media_count": 744,
+          "tweet_count": 12875
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-18T04:46:19.000Z",
+        "description": "可以随便称呼我哦/友跨🏳️‍⚧️/普瑞赛斯单推人/欢迎来找我聊天/哪来的笨蛋@pamnc2024██████████████（此信息已被保密涂抹）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "pamnc2024"
+              }
+            ]
+          }
+        },
+        "id": "1328922423438303234",
+        "location": "距你1.2km",
+        "name": "𝓜𝓮𝓳𝓲𝓻𝓸 𝓐𝓻𝓭𝓪𝓷",
+        "pinned_tweet_id": "1786280436278435906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959149163356332035/JRrJB8BN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 269,
+          "like_count": 1535,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 2424
+        },
+        "username": "SeiunSky8964",
+        "verified": false
+      }
+    ]
+  }
+}

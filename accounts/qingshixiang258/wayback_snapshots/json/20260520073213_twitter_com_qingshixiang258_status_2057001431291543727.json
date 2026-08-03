@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056636339903508480",
+        "3_2056636339907690496",
+        "3_2056636339903410176",
+        "3_2056636339907596288"
+      ],
+      "media_source_tweet_id": [
+        "2056636354411581509",
+        "2056636354411581509",
+        "2056636354411581509",
+        "2056636354411581509"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2057001431291543727",
+    "created_at": "2026-05-20T07:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057001431291543727"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1424518950923030529",
+          "start": 3,
+          "username": "nor_ni_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Phag9YwSrO",
+          "end": 60,
+          "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+          "media_key": "3_2056636339903508480",
+          "start": 37,
+          "url": "https://t.co/Phag9YwSrO"
+        },
+        {
+          "display_url": "pic.x.com/Phag9YwSrO",
+          "end": 60,
+          "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+          "media_key": "3_2056636339907690496",
+          "start": 37,
+          "url": "https://t.co/Phag9YwSrO"
+        },
+        {
+          "display_url": "pic.x.com/Phag9YwSrO",
+          "end": 60,
+          "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+          "media_key": "3_2056636339903410176",
+          "start": 37,
+          "url": "https://t.co/Phag9YwSrO"
+        },
+        {
+          "display_url": "pic.x.com/Phag9YwSrO",
+          "end": 60,
+          "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+          "media_key": "3_2056636339907596288",
+          "start": 37,
+          "url": "https://t.co/Phag9YwSrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057001431291543727",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056636354411581509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nor_ni_: 幻想的な世界はお好きですか？🌙\n\n #イラスト https://t.co/Phag9YwSrO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1374,
+        "media_key": "3_2056636339903508480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqj2sgbsAAczTJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1299,
+        "media_key": "3_2056636339907690496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqj2shbgAArMok.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056636339903410176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqj2sgaMAAKG2t.jpg",
+        "width": 1685
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056636339907596288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqj2shaEAAKw09.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056636339903508480",
+            "3_2056636339907690496",
+            "3_2056636339903410176",
+            "3_2056636339907596288"
+          ],
+          "media_source_tweet_id": [
+            "2056636354411581509",
+            "2056636354411581509",
+            "2056636354411581509",
+            "2056636354411581509"
+          ]
+        },
+        "author_id": "1700935161301655552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2057001431291543727",
+        "created_at": "2026-05-20T07:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057001431291543727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1424518950923030529",
+              "start": 3,
+              "username": "nor_ni_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Phag9YwSrO",
+              "end": 60,
+              "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+              "media_key": "3_2056636339903508480",
+              "start": 37,
+              "url": "https://t.co/Phag9YwSrO"
+            },
+            {
+              "display_url": "pic.x.com/Phag9YwSrO",
+              "end": 60,
+              "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+              "media_key": "3_2056636339907690496",
+              "start": 37,
+              "url": "https://t.co/Phag9YwSrO"
+            },
+            {
+              "display_url": "pic.x.com/Phag9YwSrO",
+              "end": 60,
+              "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+              "media_key": "3_2056636339903410176",
+              "start": 37,
+              "url": "https://t.co/Phag9YwSrO"
+            },
+            {
+              "display_url": "pic.x.com/Phag9YwSrO",
+              "end": 60,
+              "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+              "media_key": "3_2056636339907596288",
+              "start": 37,
+              "url": "https://t.co/Phag9YwSrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057001431291543727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056636354411581509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nor_ni_: 幻想的な世界はお好きですか？🌙\n\n #イラスト https://t.co/Phag9YwSrO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056636339903508480",
+            "3_2056636339907690496",
+            "3_2056636339903410176",
+            "3_2056636339907596288"
+          ]
+        },
+        "author_id": "1424518950923030529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2056636354411581509",
+        "created_at": "2026-05-19T07:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056636354411581509"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Phag9YwSrO",
+              "end": 47,
+              "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+              "media_key": "3_2056636339903508480",
+              "start": 24,
+              "url": "https://t.co/Phag9YwSrO"
+            },
+            {
+              "display_url": "pic.x.com/Phag9YwSrO",
+              "end": 47,
+              "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+              "media_key": "3_2056636339907690496",
+              "start": 24,
+              "url": "https://t.co/Phag9YwSrO"
+            },
+            {
+              "display_url": "pic.x.com/Phag9YwSrO",
+              "end": 47,
+              "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+              "media_key": "3_2056636339903410176",
+              "start": 24,
+              "url": "https://t.co/Phag9YwSrO"
+            },
+            {
+              "display_url": "pic.x.com/Phag9YwSrO",
+              "end": 47,
+              "expanded_url": "https://x.com/nor_ni_/status/2056636354411581509/photo/1",
+              "media_key": "3_2056636339907596288",
+              "start": 24,
+              "url": "https://t.co/Phag9YwSrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056636354411581509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 6475,
+          "like_count": 333,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "幻想的な世界はお好きですか？🌙\n\n #イラスト https://t.co/Phag9YwSrO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我做什么都是对的，现在是，未来是，过去也是\n你知道的我最喜欢 @hhngki7292924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "hhngki7292924"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "pinned_tweet_id": "2050947622861717796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056072352795099138/_7pcRkTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1685,
+          "like_count": 41353,
+          "listed_count": 9,
+          "media_count": 1251,
+          "tweet_count": 20320
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T23:52:50.000Z",
+        "description": "幻想的な景色を描きます。ご依頼はskebのみ。\n( skebに関して、個人鑑賞の用途を超えてイラストを利用する場合は、リクエストの本文に予め記載の程よろしくお願い致します ) https://t.co/D82s1Ty3Da",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nor_ni_",
+                "end": 111,
+                "expanded_url": "https://skeb.jp/@nor_ni_",
+                "start": 88,
+                "url": "https://t.co/D82s1Ty3Da"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/72708749",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/72708749",
+                "start": 0,
+                "url": "https://t.co/t9kOIOb5Xu"
+              }
+            ]
+          }
+        },
+        "id": "1424518950923030529",
+        "location": "AIは一切使用していません/ No AI",
+        "name": "榧/kaya",
+        "pinned_tweet_id": "2028408289961419181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993606120687251456/H1ORyXSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 195,
+          "like_count": 6900,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/t9kOIOb5Xu",
+        "username": "nor_ni_",
+        "verified": false
+      }
+    ]
+  }
+}

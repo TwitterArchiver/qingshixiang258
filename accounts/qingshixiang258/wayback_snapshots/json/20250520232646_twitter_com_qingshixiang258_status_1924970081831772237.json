@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1924890796047691949",
+    "created_at": "2025-05-20T23:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T00:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924970081831772237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1511877963406782467",
+          "start": 0,
+          "username": "hea_da_che"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924970081831772237",
+    "in_reply_to_user_id": "1511877963406782467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924890796047691949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hea_da_che 摸摸🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1924890796047691949].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924890796047691949",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1924890796047691949"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1924890796047691949",
+        "created_at": "2025-05-20T23:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T00:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924970081831772237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1511877963406782467",
+              "start": 0,
+              "username": "hea_da_che"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924970081831772237",
+        "in_reply_to_user_id": "1511877963406782467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924890796047691949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hea_da_che 摸摸🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 974,
+          "like_count": 20820,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 9081
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T01:26:18.000Z",
+        "description": "不喜欢看就该unfo了 祝你幸福",
+        "id": "1511877963406782467",
+        "name": "nor",
+        "pinned_tweet_id": "1924494389595787281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910377038201925633/1jCQqIjJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 311,
+          "like_count": 2783,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 680
+        },
+        "username": "hea_da_che",
+        "verified": true
+      }
+    ]
+  }
+}

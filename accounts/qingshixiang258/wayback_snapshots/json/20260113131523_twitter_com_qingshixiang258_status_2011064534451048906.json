@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2011064534451048906",
+    "created_at": "2026-01-13T13:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T14:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011064534451048906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1799917064427323392",
+          "start": 3,
+          "username": "YoDYj0xinC45348"
+        },
+        {
+          "end": 31,
+          "id": "1301736487285858304",
+          "start": 21,
+          "username": "GanchengW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011064534451048906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011055700798292055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YoDYj0xinC45348: @GanchengW 因为这是根据结果不看任何历史因素而提出的sb问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2011064534451048906",
+        "created_at": "2026-01-13T13:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T14:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011064534451048906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1799917064427323392",
+              "start": 3,
+              "username": "YoDYj0xinC45348"
+            },
+            {
+              "end": 31,
+              "id": "1301736487285858304",
+              "start": 21,
+              "username": "GanchengW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011064534451048906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011055700798292055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YoDYj0xinC45348: @GanchengW 因为这是根据结果不看任何历史因素而提出的sb问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799917064427323392",
+        "conversation_id": "2010894589625045418",
+        "created_at": "2026-01-13T12:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T13:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011055700798292055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1301736487285858304",
+              "start": 0,
+              "username": "GanchengW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011055700798292055",
+        "in_reply_to_user_id": "1301736487285858304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010894589625045418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GanchengW 因为这是根据结果不看任何历史因素而提出的sb问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "2006407148000174305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006013096004050947/KRBtp5d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1388,
+          "like_count": 35930,
+          "listed_count": 9,
+          "media_count": 1005,
+          "tweet_count": 16730
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T21:30:54.000Z",
+        "description": "呜呜呜",
+        "id": "1799917064427323392",
+        "location": "中国湖南长沙",
+        "name": "王某人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824332019305943040/Pm9BNt0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 99,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "YoDYj0xinC45348",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-04T04:19:24.000Z",
+        "description": "文化研究、实事观察、福音传播",
+        "id": "1301736487285858304",
+        "name": "Gancheng Wang",
+        "pinned_tweet_id": "1936287010378895771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962015279728246784/ZtgCCE6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73039,
+          "following_count": 390,
+          "like_count": 3954,
+          "listed_count": 268,
+          "media_count": 7435,
+          "tweet_count": 20884
+        },
+        "username": "GanchengW",
+        "verified": true
+      }
+    ]
+  }
+}

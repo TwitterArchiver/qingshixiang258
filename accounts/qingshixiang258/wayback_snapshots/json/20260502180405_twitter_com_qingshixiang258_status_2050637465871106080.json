@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "2050635033011269785",
+    "created_at": "2026-05-02T18:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050637465871106080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1710018308286877696",
+          "start": 0,
+          "username": "choliko_office"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050637465871106080",
+    "in_reply_to_user_id": "1710018308286877696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050637159665905673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choliko_office 给阿幸闻～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "2050635033011269785",
+        "created_at": "2026-05-02T18:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050637465871106080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1710018308286877696",
+              "start": 0,
+              "username": "choliko_office"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050637465871106080",
+        "in_reply_to_user_id": "1710018308286877696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050637159665905673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choliko_office 给阿幸闻～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710018308286877696",
+        "conversation_id": "2050635033011269785",
+        "created_at": "2026-05-02T18:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050637159665905673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050637159665905673",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050635033011269785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 给我闻闻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045148911426588672/7sXWhdND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1955,
+          "following_count": 1668,
+          "like_count": 40196,
+          "listed_count": 9,
+          "media_count": 1217,
+          "tweet_count": 19758
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T19:45:28.000Z",
+        "description": "是男孩子，喜欢漂亮的衣服！",
+        "id": "1710018308286877696",
+        "location": "38万公里月面漫步",
+        "name": "可见宇宙倒数第一神秘炫彩天使🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049762806506147840/L3nWFcO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 553,
+          "like_count": 2343,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 741
+        },
+        "username": "choliko_office",
+        "verified": false
+      }
+    ]
+  }
+}

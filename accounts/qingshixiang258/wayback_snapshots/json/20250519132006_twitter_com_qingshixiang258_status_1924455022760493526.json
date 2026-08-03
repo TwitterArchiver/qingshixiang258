@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1924454435985768530",
+    "created_at": "2025-05-19T13:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T14:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924455022760493526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834552309419855872",
+          "start": 0,
+          "username": "xiangcai1323621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924455022760493526",
+    "in_reply_to_user_id": "1834552309419855872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924454713946202553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai1323621 也就是说我转本考试考上了，哪怕这个工作交过了社保，也是有身份的是嘛？谢谢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1924454435985768530",
+        "created_at": "2025-05-19T13:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924455022760493526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834552309419855872",
+              "start": 0,
+              "username": "xiangcai1323621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924455022760493526",
+        "in_reply_to_user_id": "1834552309419855872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924454713946202553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai1323621 也就是说我转本考试考上了，哪怕这个工作交过了社保，也是有身份的是嘛？谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834552309419855872",
+        "conversation_id": "1924454435985768530",
+        "created_at": "2025-05-19T13:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924454713946202553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924454713946202553",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924454435985768530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 还是哦，应届生身份是看你毕业时间，和交不交社保没关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923782731843923968/-97dXFEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 960,
+          "like_count": 20337,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 8912
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T11:19:00.000Z",
+        "description": "infj 又或者intj",
+        "id": "1834552309419855872",
+        "name": "赫尔墨斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917724915782070272/tjsGgZJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 72,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 295
+        },
+        "username": "xiangcai1323621",
+        "verified": false
+      }
+    ]
+  }
+}

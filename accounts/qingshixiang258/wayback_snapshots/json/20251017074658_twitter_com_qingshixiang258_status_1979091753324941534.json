@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1978633382864294241",
+    "created_at": "2025-10-17T07:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T08:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979091753324941534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1854319404885884954",
+          "start": 0,
+          "username": "HHHOX22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979091753324941534",
+    "in_reply_to_user_id": "1854319404885884954",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978985419061526954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HHHOX22 (*´ڡ`●)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1978633382864294241",
+        "created_at": "2025-10-17T07:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979091753324941534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1854319404885884954",
+              "start": 0,
+              "username": "HHHOX22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979091753324941534",
+        "in_reply_to_user_id": "1854319404885884954",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978985419061526954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HHHOX22 (*´ڡ`●)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854319404885884954",
+        "conversation_id": "1978633382864294241",
+        "created_at": "2025-10-17T00:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T01:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978985419061526954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700935161301655552",
+              "start": 0,
+              "username": "qingshixiang258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978985419061526954",
+        "in_reply_to_user_id": "1700935161301655552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978633382864294241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingshixiang258 哞哞哞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1374,
+          "like_count": 32039,
+          "listed_count": 7,
+          "media_count": 859,
+          "tweet_count": 14373
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T00:26:21.000Z",
+        "description": "",
+        "id": "1854319404885884954",
+        "location": "Ontario, Canada",
+        "name": "HHHOX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854319601057705991/dAbSEjKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "HHHOX22",
+        "verified": false
+      }
+    ]
+  }
+}

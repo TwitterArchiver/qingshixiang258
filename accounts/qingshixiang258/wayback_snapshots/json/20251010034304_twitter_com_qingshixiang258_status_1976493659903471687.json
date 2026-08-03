@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1700935161301655552",
+    "conversation_id": "1976087700714439079",
+    "created_at": "2025-10-10T03:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T04:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976493659903471687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "901299158669180931",
+          "start": 0,
+          "username": "ShoBeiYong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976493659903471687",
+    "in_reply_to_user_id": "901299158669180931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976447435464732756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShoBeiYong 把这玩意推我主页上不给我磕几个道歉还有完了？😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700935161301655552",
+        "conversation_id": "1976087700714439079",
+        "created_at": "2025-10-10T03:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976493659903471687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "901299158669180931",
+              "start": 0,
+              "username": "ShoBeiYong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976493659903471687",
+        "in_reply_to_user_id": "901299158669180931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976447435464732756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShoBeiYong 把这玩意推我主页上不给我磕几个道歉还有完了？😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901299158669180931",
+        "conversation_id": "1976087700714439079",
+        "created_at": "2025-10-10T00:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T01:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976447435464732756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1917745219841449985",
+              "start": 0,
+              "username": "wd6xxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976447435464732756",
+        "in_reply_to_user_id": "1917745219841449985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976087700714439079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wd6xxj 经典鞑子文案，槽点多到我不知道从哪开始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介",
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1962159439479296091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975277047888105472/8e_lcpBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1360,
+          "like_count": 31696,
+          "listed_count": 7,
+          "media_count": 852,
+          "tweet_count": 14250
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "如果你无法控制思想，那便叫思想把你控制吧。淡推中。",
+        "id": "901299158669180931",
+        "location": "神圣兽国 游尾郡 窝窝乡",
+        "name": "魈✟ ❂☭ 我当咕咕嘎嘎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 313,
+          "like_count": 11363,
+          "listed_count": 12,
+          "media_count": 710,
+          "tweet_count": 6895
+        },
+        "username": "ShoBeiYong",
+        "verified": false
+      }
+    ]
+  }
+}

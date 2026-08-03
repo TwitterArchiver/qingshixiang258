@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025179374874742784"
+      ],
+      "media_source_tweet_id": [
+        "2025181639660405207"
+      ]
+    },
+    "author_id": "1700935161301655552",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Milk",
+          "id": "850419241790472192",
+          "name": "Milk"
+        }
+      }
+    ],
+    "conversation_id": "2025226831977480387",
+    "created_at": "2026-02-21T15:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025226831977480387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849790041343856640",
+          "start": 3,
+          "username": "TEN_GOKU_Ga"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wVoeI5xIvG",
+          "end": 72,
+          "expanded_url": "https://x.com/TEN_GOKU_Ga/status/2025181639660405207/photo/1",
+          "media_key": "3_2025179374874742784",
+          "start": 49,
+          "url": "https://t.co/wVoeI5xIvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025226831977480387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025181639660405207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TEN_GOKU_Ga: お客様に美味しいふたなりミルク🥛を飲んで欲しい♀スタッフちゃん https://t.co/wVoeI5xIvG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025226831977480387].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025226831977480387",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025226831977480387"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2025179374874742784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrh6V3bUAA01_W.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025179374874742784"
+          ]
+        },
+        "author_id": "1849790041343856640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "2025181639660405207",
+        "created_at": "2026-02-21T12:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:08:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025180795791704361",
+          "2025181639660405207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVoeI5xIvG",
+              "end": 55,
+              "expanded_url": "https://x.com/TEN_GOKU_Ga/status/2025181639660405207/photo/1",
+              "media_key": "3_2025179374874742784",
+              "start": 32,
+              "url": "https://t.co/wVoeI5xIvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025181639660405207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 12692,
+          "like_count": 1189,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "お客様に美味しいふたなりミルク🥛を飲んで欲しい♀スタッフちゃん https://t.co/wVoeI5xIvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "我还在写，不只是简介 里推@yulian0617",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "yulian0617"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "风起地",
+        "name": "青石巷🍀🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024845169053638656/NxxlK5fh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1457,
+          "like_count": 37065,
+          "listed_count": 8,
+          "media_count": 1075,
+          "tweet_count": 17651
+        },
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-25T12:28:18.000Z",
+        "description": "Fanbox https://t.co/zJLKKDeefN　\nPixiv https://t.co/X9Ffe1joVX　\nTime-Laps https://t.co/ZnuN7vZRON\nLinks https://t.co/lYIWWD2XTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ten-goku.fanbox.cc",
+                "end": 30,
+                "expanded_url": "https://ten-goku.fanbox.cc/",
+                "start": 7,
+                "url": "https://t.co/zJLKKDeefN"
+              },
+              {
+                "display_url": "pixiv.net/users/100864908",
+                "end": 61,
+                "expanded_url": "https://www.pixiv.net/users/100864908",
+                "start": 38,
+                "url": "https://t.co/X9Ffe1joVX"
+              },
+              {
+                "display_url": "x.com/TEN_GOKU_Sculp…",
+                "end": 96,
+                "expanded_url": "https://x.com/TEN_GOKU_Sculpt/media",
+                "start": 73,
+                "url": "https://t.co/ZnuN7vZRON"
+              },
+              {
+                "display_url": "lit.link/TENGOKU",
+                "end": 126,
+                "expanded_url": "https://lit.link/TENGOKU",
+                "start": 103,
+                "url": "https://t.co/lYIWWD2XTk"
+              }
+            ]
+          }
+        },
+        "id": "1849790041343856640",
+        "name": "天 獄 画",
+        "pinned_tweet_id": "2025181639660405207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967247414395535360/uMoAIndw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31840,
+          "following_count": 3439,
+          "like_count": 1296,
+          "listed_count": 201,
+          "media_count": 18,
+          "tweet_count": 2905
+        },
+        "username": "TEN_GOKU_Ga",
+        "verified": true
+      }
+    ]
+  }
+}
